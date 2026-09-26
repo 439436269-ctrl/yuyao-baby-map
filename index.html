@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>余姚周边 · 带娃出行</title>
+  <meta name="theme-color" content="#f4efe6">
+  <style>
+    :root { --paper: #f4efe6; --ink: #2a2620; --line: #d8cfbf; --red: #c2402f; --sub: #7a7264; }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0; min-height: 100vh; display: flex; flex-direction: column;
+      align-items: center; justify-content: center; gap: 10px;
+      background: var(--paper); color: var(--ink);
+      font-family: 'PingFang SC', 'Microsoft YaHei', sans-serif;
+      padding: 24px;
+    }
+    h1 { margin: 0; font: 600 30px Georgia, 'Songti SC', 'SimSun', serif; letter-spacing: 2px; }
+    .sub { color: var(--sub); font-size: 13px; margin-bottom: 18px; }
+    .cards { display: flex; gap: 18px; flex-wrap: wrap; justify-content: center; }
+    a.card {
+      display: flex; flex-direction: column; align-items: center; gap: 8px;
+      width: 220px; padding: 28px 20px; text-decoration: none; color: var(--ink);
+      background: #fdfaf3; border: 1px solid var(--line); border-radius: 16px;
+      transition: box-shadow .15s, transform .15s;
+    }
+    a.card:hover { box-shadow: 0 6px 20px rgba(42,38,32,.14); transform: translateY(-2px); }
+    a.card .ico { font-size: 34px; }
+    a.card .t { font: 600 17px Georgia, 'Songti SC', serif; }
+    a.card .d { font-size: 12px; color: var(--sub); line-height: 1.6; }
+    a.card .t em { color: var(--red); font-style: normal; }
+    .tip { margin-top: 20px; font-size: 11.5px; color: #b0a691; }
+  </style>
+</head>
+<body>
+  <h1>余姚周边 · 带娃出行</h1>
+  <div class="sub">9 个月宝宝版 · 中秋国庆档 · 8 个方案 + 41 候选点 + 家人共建</div>
+  <div class="cards">
+    <a class="card" href="./map.html">
+      <span class="ico">🗺️</span>
+      <span class="t">出行<em>图</em></span>
+      <span class="d">真实地图 · 方案动线 · 车程圈<br>搜索定位 · 3D 地形</span>
+    </a>
+    <a class="card" href="./guide.html">
+      <span class="ico">📖</span>
+      <span class="t">带娃<em>图鉴</em></span>
+      <span class="d">56+ 点位卡片 · 推车指数<br>打卡进度 · 提议与合并</span>
+    </a>
+  </div>
+  <div class="tip">打卡与共建数据存在各设备浏览器中，互不影响 · 建议浏览器打开后「添加到主屏幕」</div>
+</body>
+</html>
