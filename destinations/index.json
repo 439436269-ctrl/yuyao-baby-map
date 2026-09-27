@@ -1,1697 +1,2024 @@
 [
  {
-  "id": "yuyao",
-  "name": "余姚 · 周边（精选）",
-  "ready": true
- },
- {
-  "id": "ningbo",
-  "name": "宁波 · 景区草稿（OSM）",
-  "ready": true
- },
- {
   "id": "beijing",
   "name": "北京",
-  "ready": false
+  "province": "北京",
+  "ready": true
  },
  {
   "id": "tianjin",
   "name": "天津",
-  "ready": false
+  "province": "天津",
+  "ready": true
  },
  {
   "id": "shanghai",
   "name": "上海",
-  "ready": false
+  "province": "上海",
+  "ready": true
  },
  {
   "id": "chongqing",
   "name": "重庆",
-  "ready": false
+  "province": "重庆",
+  "ready": true
  },
  {
   "id": "shijiazhuang",
   "name": "石家庄",
-  "ready": false
+  "province": "河北",
+  "ready": true
  },
  {
   "id": "tangshan",
   "name": "唐山",
-  "ready": false
+  "province": "河北",
+  "ready": true
  },
  {
   "id": "qinhuangdao",
   "name": "秦皇岛",
-  "ready": false
+  "province": "河北",
+  "ready": true
  },
  {
   "id": "handan",
   "name": "邯郸",
-  "ready": false
+  "province": "河北",
+  "ready": true
  },
  {
   "id": "xingtai",
   "name": "邢台",
-  "ready": false
+  "province": "河北",
+  "ready": true
  },
  {
   "id": "baoding",
   "name": "保定",
-  "ready": false
+  "province": "河北",
+  "ready": true
  },
  {
   "id": "zhangjiakou",
   "name": "张家口",
-  "ready": false
+  "province": "河北",
+  "ready": true
  },
  {
   "id": "chengde",
   "name": "承德",
-  "ready": false
+  "province": "河北",
+  "ready": true
  },
  {
   "id": "cangzhou",
   "name": "沧州",
-  "ready": false
+  "province": "河北",
+  "ready": true
  },
  {
   "id": "langfang",
   "name": "廊坊",
-  "ready": false
+  "province": "河北",
+  "ready": true
  },
  {
   "id": "hengshui",
   "name": "衡水",
+  "province": "河北",
   "ready": false
  },
  {
   "id": "taiyuan",
   "name": "太原",
-  "ready": false
+  "province": "山西",
+  "ready": true
  },
  {
   "id": "datong",
   "name": "大同",
-  "ready": false
+  "province": "山西",
+  "ready": true
  },
  {
   "id": "yangquan",
   "name": "阳泉",
-  "ready": false
+  "province": "山西",
+  "ready": true
  },
  {
   "id": "changzhi",
   "name": "长治",
-  "ready": false
+  "province": "山西",
+  "ready": true
  },
  {
   "id": "jincheng",
   "name": "晋城",
-  "ready": false
+  "province": "山西",
+  "ready": true
  },
  {
   "id": "shuozhou",
   "name": "朔州",
-  "ready": false
+  "province": "山西",
+  "ready": true
  },
  {
   "id": "jinzhong",
   "name": "晋中",
-  "ready": false
+  "province": "山西",
+  "ready": true
  },
  {
   "id": "yuncheng",
   "name": "运城",
-  "ready": false
+  "province": "山西",
+  "ready": true
  },
  {
   "id": "xinzhou",
   "name": "忻州",
-  "ready": false
+  "province": "山西",
+  "ready": true
  },
  {
   "id": "linfen",
   "name": "临汾",
-  "ready": false
+  "province": "山西",
+  "ready": true
  },
  {
   "id": "lliang",
   "name": "吕梁",
-  "ready": false
+  "province": "山西",
+  "ready": true
  },
  {
   "id": "huhehaote",
   "name": "呼和浩特",
-  "ready": false
+  "province": "内蒙古自治区",
+  "ready": true
  },
  {
   "id": "baotou",
   "name": "包头",
+  "province": "内蒙古自治区",
   "ready": false
  },
  {
   "id": "wuhai",
   "name": "乌海",
+  "province": "内蒙古自治区",
   "ready": false
  },
  {
   "id": "chifeng",
   "name": "赤峰",
+  "province": "内蒙古自治区",
   "ready": false
  },
  {
   "id": "tongliao",
   "name": "通辽",
+  "province": "内蒙古自治区",
   "ready": false
  },
  {
   "id": "eerduosi",
   "name": "鄂尔多斯",
-  "ready": false
+  "province": "内蒙古自治区",
+  "ready": true
  },
  {
   "id": "hulunbeier",
   "name": "呼伦贝尔",
+  "province": "内蒙古自治区",
   "ready": false
  },
  {
   "id": "bayannaoer",
   "name": "巴彦淖尔",
+  "province": "内蒙古自治区",
   "ready": false
  },
  {
   "id": "wulanchabu",
   "name": "乌兰察布",
+  "province": "内蒙古自治区",
   "ready": false
  },
  {
   "id": "xinganmeng",
   "name": "兴安盟",
+  "province": "内蒙古自治区",
   "ready": false
  },
  {
   "id": "xilinguolemeng",
   "name": "锡林郭勒盟",
+  "province": "内蒙古自治区",
   "ready": false
  },
  {
   "id": "alashanmeng",
   "name": "阿拉善盟",
+  "province": "内蒙古自治区",
   "ready": false
  },
  {
   "id": "shenyang",
   "name": "沈阳",
-  "ready": false
+  "province": "辽宁",
+  "ready": true
  },
  {
   "id": "dalian",
   "name": "大连",
-  "ready": false
+  "province": "辽宁",
+  "ready": true
  },
  {
   "id": "anshan",
   "name": "鞍山",
-  "ready": false
+  "province": "辽宁",
+  "ready": true
  },
  {
   "id": "fushun",
   "name": "抚顺",
-  "ready": false
+  "province": "辽宁",
+  "ready": true
  },
  {
   "id": "benxi",
   "name": "本溪",
-  "ready": false
+  "province": "辽宁",
+  "ready": true
  },
  {
   "id": "dandong",
   "name": "丹东",
-  "ready": false
+  "province": "辽宁",
+  "ready": true
  },
  {
   "id": "jinzhou",
   "name": "锦州",
-  "ready": false
+  "province": "辽宁",
+  "ready": true
  },
  {
   "id": "yingkou",
   "name": "营口",
-  "ready": false
+  "province": "辽宁",
+  "ready": true
  },
  {
   "id": "fuxin",
   "name": "阜新",
-  "ready": false
+  "province": "辽宁",
+  "ready": true
  },
  {
   "id": "liaoyang",
   "name": "辽阳",
-  "ready": false
+  "province": "辽宁",
+  "ready": true
  },
  {
   "id": "panjin",
   "name": "盘锦",
-  "ready": false
+  "province": "辽宁",
+  "ready": true
  },
  {
   "id": "tieling",
   "name": "铁岭",
-  "ready": false
+  "province": "辽宁",
+  "ready": true
  },
  {
   "id": "chaoyang",
   "name": "朝阳",
-  "ready": false
+  "province": "辽宁",
+  "ready": true
  },
  {
   "id": "huludao",
   "name": "葫芦岛",
-  "ready": false
+  "province": "辽宁",
+  "ready": true
  },
  {
   "id": "changchun",
   "name": "长春",
-  "ready": false
+  "province": "吉林",
+  "ready": true
  },
  {
   "id": "jilin",
   "name": "吉林",
-  "ready": false
+  "province": "吉林",
+  "ready": true
  },
  {
   "id": "siping",
   "name": "四平",
-  "ready": false
+  "province": "吉林",
+  "ready": true
  },
  {
   "id": "liaoyuan",
   "name": "辽源",
+  "province": "吉林",
   "ready": false
  },
  {
   "id": "tonghua",
   "name": "通化",
-  "ready": false
+  "province": "吉林",
+  "ready": true
  },
  {
   "id": "baishan",
   "name": "白山",
-  "ready": false
+  "province": "吉林",
+  "ready": true
  },
  {
   "id": "songyuan",
   "name": "松原",
-  "ready": false
+  "province": "吉林",
+  "ready": true
  },
  {
   "id": "baicheng",
   "name": "白城",
-  "ready": false
+  "province": "吉林",
+  "ready": true
  },
  {
   "id": "yanbianchaoxianzuzizhizhou",
   "name": "延边朝鲜族自治州",
+  "province": "吉林",
   "ready": false
  },
  {
   "id": "haerbin",
   "name": "哈尔滨",
-  "ready": false
+  "province": "黑龙江",
+  "ready": true
  },
  {
   "id": "qiqihaer",
   "name": "齐齐哈尔",
-  "ready": false
+  "province": "黑龙江",
+  "ready": true
  },
  {
   "id": "jixi",
   "name": "鸡西",
-  "ready": false
+  "province": "黑龙江",
+  "ready": true
  },
  {
   "id": "hegang",
   "name": "鹤岗",
+  "province": "黑龙江",
   "ready": false
  },
  {
   "id": "shuangyashan",
   "name": "双鸭山",
-  "ready": false
+  "province": "黑龙江",
+  "ready": true
  },
  {
   "id": "daqing",
   "name": "大庆",
-  "ready": false
+  "province": "黑龙江",
+  "ready": true
  },
  {
   "id": "yichun",
   "name": "伊春",
-  "ready": false
+  "province": "黑龙江",
+  "ready": true
  },
  {
   "id": "jiamusi",
   "name": "佳木斯",
-  "ready": false
+  "province": "黑龙江",
+  "ready": true
  },
  {
   "id": "qitaihe",
   "name": "七台河",
+  "province": "黑龙江",
   "ready": false
  },
  {
   "id": "mudanjiang",
   "name": "牡丹江",
-  "ready": false
+  "province": "黑龙江",
+  "ready": true
  },
  {
   "id": "heihe",
   "name": "黑河",
-  "ready": false
+  "province": "黑龙江",
+  "ready": true
  },
  {
   "id": "suihua",
   "name": "绥化",
+  "province": "黑龙江",
   "ready": false
  },
  {
   "id": "daxinganlingdiqu",
   "name": "大兴安岭地区",
-  "ready": false
+  "province": "黑龙江",
+  "ready": true
  },
  {
   "id": "nanjing",
   "name": "南京",
-  "ready": false
+  "province": "江苏",
+  "ready": true
  },
  {
   "id": "wuxi",
   "name": "无锡",
-  "ready": false
+  "province": "江苏",
+  "ready": true
  },
  {
   "id": "xuzhou",
   "name": "徐州",
-  "ready": false
+  "province": "江苏",
+  "ready": true
  },
  {
   "id": "changzhou",
   "name": "常州",
-  "ready": false
+  "province": "江苏",
+  "ready": true
  },
  {
   "id": "suzhou",
   "name": "苏州",
-  "ready": false
+  "province": "江苏",
+  "ready": true
  },
  {
   "id": "nantong",
   "name": "南通",
-  "ready": false
+  "province": "江苏",
+  "ready": true
  },
  {
   "id": "lianyungang",
   "name": "连云港",
-  "ready": false
+  "province": "江苏",
+  "ready": true
  },
  {
   "id": "huaian",
   "name": "淮安",
-  "ready": false
+  "province": "江苏",
+  "ready": true
  },
  {
   "id": "yancheng",
   "name": "盐城",
-  "ready": false
+  "province": "江苏",
+  "ready": true
  },
  {
   "id": "yangzhou",
   "name": "扬州",
-  "ready": false
+  "province": "江苏",
+  "ready": true
  },
  {
   "id": "zhenjiang",
   "name": "镇江",
-  "ready": false
+  "province": "江苏",
+  "ready": true
  },
  {
   "id": "taizhou",
   "name": "泰州",
-  "ready": false
+  "province": "江苏",
+  "ready": true
  },
  {
   "id": "suqian",
   "name": "宿迁",
-  "ready": false
+  "province": "江苏",
+  "ready": true
  },
  {
   "id": "hangzhou",
   "name": "杭州",
-  "ready": false
+  "province": "浙江",
+  "ready": true
  },
  {
-  "id": "ningbo-3302",
+  "id": "ningbo",
   "name": "宁波",
-  "ready": false
+  "province": "浙江",
+  "ready": true
  },
  {
   "id": "wenzhou",
   "name": "温州",
-  "ready": false
+  "province": "浙江",
+  "ready": true
  },
  {
   "id": "jiaxing",
   "name": "嘉兴",
-  "ready": false
+  "province": "浙江",
+  "ready": true
  },
  {
   "id": "huzhou",
   "name": "湖州",
-  "ready": false
+  "province": "浙江",
+  "ready": true
  },
  {
   "id": "shaoxing",
   "name": "绍兴",
-  "ready": false
+  "province": "浙江",
+  "ready": true
  },
  {
   "id": "jinhua",
   "name": "金华",
-  "ready": false
+  "province": "浙江",
+  "ready": true
  },
  {
   "id": "quzhou",
   "name": "衢州",
-  "ready": false
+  "province": "浙江",
+  "ready": true
  },
  {
   "id": "zhoushan",
   "name": "舟山",
-  "ready": false
+  "province": "浙江",
+  "ready": true
  },
  {
   "id": "taizhou-3310",
   "name": "台州",
-  "ready": false
+  "province": "浙江",
+  "ready": true
  },
  {
   "id": "lishui",
   "name": "丽水",
-  "ready": false
+  "province": "浙江",
+  "ready": true
  },
  {
   "id": "hefei",
   "name": "合肥",
-  "ready": false
+  "province": "安徽",
+  "ready": true
  },
  {
   "id": "wuhu",
   "name": "芜湖",
+  "province": "安徽",
   "ready": false
  },
  {
   "id": "bengbu",
   "name": "蚌埠",
-  "ready": false
+  "province": "安徽",
+  "ready": true
  },
  {
   "id": "huainan",
   "name": "淮南",
-  "ready": false
+  "province": "安徽",
+  "ready": true
  },
  {
   "id": "maanshan",
   "name": "马鞍山",
-  "ready": false
+  "province": "安徽",
+  "ready": true
  },
  {
   "id": "huaibei",
   "name": "淮北",
-  "ready": false
+  "province": "安徽",
+  "ready": true
  },
  {
   "id": "tongling",
   "name": "铜陵",
+  "province": "安徽",
   "ready": false
  },
  {
   "id": "anqing",
   "name": "安庆",
-  "ready": false
+  "province": "安徽",
+  "ready": true
  },
  {
   "id": "huangshan",
   "name": "黄山",
-  "ready": false
+  "province": "安徽",
+  "ready": true
  },
  {
   "id": "chuzhou",
   "name": "滁州",
-  "ready": false
+  "province": "安徽",
+  "ready": true
  },
  {
   "id": "fuyang",
   "name": "阜阳",
-  "ready": false
+  "province": "安徽",
+  "ready": true
  },
  {
   "id": "suzhou-3413",
   "name": "宿州",
-  "ready": false
+  "province": "安徽",
+  "ready": true
  },
  {
   "id": "luan",
   "name": "六安",
-  "ready": false
+  "province": "安徽",
+  "ready": true
  },
  {
   "id": "bozhou",
   "name": "亳州",
-  "ready": false
+  "province": "安徽",
+  "ready": true
  },
  {
   "id": "chizhou",
   "name": "池州",
-  "ready": false
+  "province": "安徽",
+  "ready": true
  },
  {
   "id": "xuancheng",
   "name": "宣城",
-  "ready": false
+  "province": "安徽",
+  "ready": true
  },
  {
   "id": "fuzhou",
   "name": "福州",
-  "ready": false
+  "province": "福建",
+  "ready": true
  },
  {
   "id": "xiamen",
   "name": "厦门",
-  "ready": false
+  "province": "福建",
+  "ready": true
  },
  {
   "id": "putian",
   "name": "莆田",
-  "ready": false
+  "province": "福建",
+  "ready": true
  },
  {
   "id": "sanming",
   "name": "三明",
-  "ready": false
+  "province": "福建",
+  "ready": true
  },
  {
   "id": "quanzhou",
   "name": "泉州",
-  "ready": false
+  "province": "福建",
+  "ready": true
  },
  {
   "id": "zhangzhou",
   "name": "漳州",
-  "ready": false
+  "province": "福建",
+  "ready": true
  },
  {
   "id": "nanping",
   "name": "南平",
-  "ready": false
+  "province": "福建",
+  "ready": true
  },
  {
   "id": "longyan",
   "name": "龙岩",
-  "ready": false
+  "province": "福建",
+  "ready": true
  },
  {
   "id": "ningde",
   "name": "宁德",
-  "ready": false
+  "province": "福建",
+  "ready": true
  },
  {
   "id": "nanchang",
   "name": "南昌",
-  "ready": false
+  "province": "江西",
+  "ready": true
  },
  {
   "id": "jingdezhen",
   "name": "景德镇",
-  "ready": false
+  "province": "江西",
+  "ready": true
  },
  {
   "id": "pingxiang",
   "name": "萍乡",
-  "ready": false
+  "province": "江西",
+  "ready": true
  },
  {
   "id": "jiujiang",
   "name": "九江",
-  "ready": false
+  "province": "江西",
+  "ready": true
  },
  {
   "id": "xinyu",
   "name": "新余",
-  "ready": false
+  "province": "江西",
+  "ready": true
  },
  {
   "id": "yingtan",
   "name": "鹰潭",
-  "ready": false
+  "province": "江西",
+  "ready": true
  },
  {
   "id": "ganzhou",
   "name": "赣州",
-  "ready": false
+  "province": "江西",
+  "ready": true
  },
  {
   "id": "jian",
   "name": "吉安",
-  "ready": false
+  "province": "江西",
+  "ready": true
  },
  {
   "id": "yichun-3609",
   "name": "宜春",
-  "ready": false
+  "province": "江西",
+  "ready": true
  },
  {
   "id": "fuzhou-3610",
   "name": "抚州",
-  "ready": false
+  "province": "江西",
+  "ready": true
  },
  {
   "id": "shangrao",
   "name": "上饶",
-  "ready": false
+  "province": "江西",
+  "ready": true
  },
  {
   "id": "jinan",
   "name": "济南",
-  "ready": false
+  "province": "山东",
+  "ready": true
  },
  {
   "id": "qingdao",
   "name": "青岛",
-  "ready": false
+  "province": "山东",
+  "ready": true
  },
  {
   "id": "zibo",
   "name": "淄博",
-  "ready": false
+  "province": "山东",
+  "ready": true
  },
  {
   "id": "zaozhuang",
   "name": "枣庄",
-  "ready": false
+  "province": "山东",
+  "ready": true
  },
  {
   "id": "dongying",
   "name": "东营",
-  "ready": false
+  "province": "山东",
+  "ready": true
  },
  {
   "id": "yantai",
   "name": "烟台",
-  "ready": false
+  "province": "山东",
+  "ready": true
  },
  {
   "id": "weifang",
   "name": "潍坊",
-  "ready": false
+  "province": "山东",
+  "ready": true
  },
  {
   "id": "jining",
   "name": "济宁",
-  "ready": false
+  "province": "山东",
+  "ready": true
  },
  {
   "id": "taian",
   "name": "泰安",
-  "ready": false
+  "province": "山东",
+  "ready": true
  },
  {
   "id": "weihai",
   "name": "威海",
-  "ready": false
+  "province": "山东",
+  "ready": true
  },
  {
   "id": "rizhao",
   "name": "日照",
-  "ready": false
+  "province": "山东",
+  "ready": true
  },
  {
   "id": "linyi",
   "name": "临沂",
-  "ready": false
+  "province": "山东",
+  "ready": true
  },
  {
   "id": "dezhou",
   "name": "德州",
-  "ready": false
+  "province": "山东",
+  "ready": true
  },
  {
   "id": "liaocheng",
   "name": "聊城",
-  "ready": false
+  "province": "山东",
+  "ready": true
  },
  {
   "id": "binzhou",
   "name": "滨州",
-  "ready": false
+  "province": "山东",
+  "ready": true
  },
  {
   "id": "heze",
   "name": "菏泽",
-  "ready": false
+  "province": "山东",
+  "ready": true
  },
  {
   "id": "zhengzhou",
   "name": "郑州",
-  "ready": false
+  "province": "河南",
+  "ready": true
  },
  {
   "id": "kaifeng",
   "name": "开封",
-  "ready": false
+  "province": "河南",
+  "ready": true
  },
  {
   "id": "luoyang",
   "name": "洛阳",
-  "ready": false
+  "province": "河南",
+  "ready": true
  },
  {
   "id": "pingdingshan",
   "name": "平顶山",
-  "ready": false
+  "province": "河南",
+  "ready": true
  },
  {
   "id": "anyang",
   "name": "安阳",
-  "ready": false
+  "province": "河南",
+  "ready": true
  },
  {
   "id": "hebi",
   "name": "鹤壁",
-  "ready": false
+  "province": "河南",
+  "ready": true
  },
  {
   "id": "xinxiang",
   "name": "新乡",
-  "ready": false
+  "province": "河南",
+  "ready": true
  },
  {
   "id": "jiaozuo",
   "name": "焦作",
-  "ready": false
+  "province": "河南",
+  "ready": true
  },
  {
   "id": "puyang",
   "name": "濮阳",
-  "ready": false
+  "province": "河南",
+  "ready": true
  },
  {
   "id": "xuchang",
   "name": "许昌",
-  "ready": false
+  "province": "河南",
+  "ready": true
  },
  {
   "id": "luohe",
   "name": "漯河",
-  "ready": false
+  "province": "河南",
+  "ready": true
  },
  {
   "id": "sanmenxia",
   "name": "三门峡",
-  "ready": false
+  "province": "河南",
+  "ready": true
  },
  {
   "id": "nanyang",
   "name": "南阳",
-  "ready": false
+  "province": "河南",
+  "ready": true
  },
  {
   "id": "shangqiu",
   "name": "商丘",
-  "ready": false
+  "province": "河南",
+  "ready": true
  },
  {
   "id": "xinyang",
   "name": "信阳",
-  "ready": false
+  "province": "河南",
+  "ready": true
  },
  {
   "id": "zhoukou",
   "name": "周口",
-  "ready": false
+  "province": "河南",
+  "ready": true
  },
  {
   "id": "zhumadian",
   "name": "驻马店",
-  "ready": false
+  "province": "河南",
+  "ready": true
  },
  {
   "id": "wuhan",
   "name": "武汉",
-  "ready": false
+  "province": "湖北",
+  "ready": true
  },
  {
   "id": "huangshi",
   "name": "黄石",
-  "ready": false
+  "province": "湖北",
+  "ready": true
  },
  {
   "id": "shiyan",
   "name": "十堰",
-  "ready": false
+  "province": "湖北",
+  "ready": true
  },
  {
   "id": "yichang",
   "name": "宜昌",
-  "ready": false
+  "province": "湖北",
+  "ready": true
  },
  {
   "id": "xiangyang",
   "name": "襄阳",
-  "ready": false
+  "province": "湖北",
+  "ready": true
  },
  {
   "id": "ezhou",
   "name": "鄂州",
-  "ready": false
+  "province": "湖北",
+  "ready": true
  },
  {
   "id": "jingmen",
   "name": "荆门",
-  "ready": false
+  "province": "湖北",
+  "ready": true
  },
  {
   "id": "xiaogan",
   "name": "孝感",
+  "province": "湖北",
   "ready": false
  },
  {
   "id": "jingzhou",
   "name": "荆州",
-  "ready": false
+  "province": "湖北",
+  "ready": true
  },
  {
   "id": "huanggang",
   "name": "黄冈",
-  "ready": false
+  "province": "湖北",
+  "ready": true
  },
  {
   "id": "xianning",
   "name": "咸宁",
-  "ready": false
+  "province": "湖北",
+  "ready": true
  },
  {
   "id": "suizhou",
   "name": "随州",
-  "ready": false
+  "province": "湖北",
+  "ready": true
  },
  {
   "id": "enshitujiazumiaozuzizhizhou",
   "name": "恩施土家族苗族自治州",
-  "ready": false
+  "province": "湖北",
+  "ready": true
  },
  {
   "id": "changsha",
   "name": "长沙",
-  "ready": false
+  "province": "湖南",
+  "ready": true
  },
  {
   "id": "zhuzhou",
   "name": "株洲",
+  "province": "湖南",
   "ready": false
  },
  {
   "id": "xiangtan",
   "name": "湘潭",
-  "ready": false
+  "province": "湖南",
+  "ready": true
  },
  {
   "id": "hengyang",
   "name": "衡阳",
-  "ready": false
+  "province": "湖南",
+  "ready": true
  },
  {
   "id": "shaoyang",
   "name": "邵阳",
-  "ready": false
+  "province": "湖南",
+  "ready": true
  },
  {
   "id": "yueyang",
   "name": "岳阳",
-  "ready": false
+  "province": "湖南",
+  "ready": true
  },
  {
   "id": "changde",
   "name": "常德",
-  "ready": false
+  "province": "湖南",
+  "ready": true
  },
  {
   "id": "zhangjiajie",
   "name": "张家界",
-  "ready": false
+  "province": "湖南",
+  "ready": true
  },
  {
   "id": "yiyang",
   "name": "益阳",
+  "province": "湖南",
   "ready": false
  },
  {
   "id": "chenzhou",
   "name": "郴州",
-  "ready": false
+  "province": "湖南",
+  "ready": true
  },
  {
   "id": "yongzhou",
   "name": "永州",
-  "ready": false
+  "province": "湖南",
+  "ready": true
  },
  {
   "id": "huaihua",
   "name": "怀化",
-  "ready": false
+  "province": "湖南",
+  "ready": true
  },
  {
   "id": "loudi",
   "name": "娄底",
-  "ready": false
+  "province": "湖南",
+  "ready": true
  },
  {
   "id": "xiangxitujiazumiaozuzizhizhou",
   "name": "湘西土家族苗族自治州",
-  "ready": false
+  "province": "湖南",
+  "ready": true
  },
  {
   "id": "guangzhou",
   "name": "广州",
-  "ready": false
+  "province": "广东",
+  "ready": true
  },
  {
   "id": "shaoguan",
   "name": "韶关",
-  "ready": false
+  "province": "广东",
+  "ready": true
  },
  {
   "id": "shenzhen",
   "name": "深圳",
-  "ready": false
+  "province": "广东",
+  "ready": true
  },
  {
   "id": "zhuhai",
   "name": "珠海",
-  "ready": false
+  "province": "广东",
+  "ready": true
  },
  {
   "id": "shantou",
   "name": "汕头",
-  "ready": false
+  "province": "广东",
+  "ready": true
  },
  {
   "id": "foshan",
   "name": "佛山",
-  "ready": false
+  "province": "广东",
+  "ready": true
  },
  {
   "id": "jiangmen",
   "name": "江门",
-  "ready": false
+  "province": "广东",
+  "ready": true
  },
  {
   "id": "zhanjiang",
   "name": "湛江",
-  "ready": false
+  "province": "广东",
+  "ready": true
  },
  {
   "id": "maoming",
   "name": "茂名",
-  "ready": false
+  "province": "广东",
+  "ready": true
  },
  {
   "id": "zhaoqing",
   "name": "肇庆",
-  "ready": false
+  "province": "广东",
+  "ready": true
  },
  {
   "id": "huizhou",
   "name": "惠州",
-  "ready": false
+  "province": "广东",
+  "ready": true
  },
  {
   "id": "meizhou",
   "name": "梅州",
-  "ready": false
+  "province": "广东",
+  "ready": true
  },
  {
   "id": "shanwei",
   "name": "汕尾",
-  "ready": false
+  "province": "广东",
+  "ready": true
  },
  {
   "id": "heyuan",
   "name": "河源",
-  "ready": false
+  "province": "广东",
+  "ready": true
  },
  {
   "id": "yangjiang",
   "name": "阳江",
-  "ready": false
+  "province": "广东",
+  "ready": true
  },
  {
   "id": "qingyuan",
   "name": "清远",
-  "ready": false
+  "province": "广东",
+  "ready": true
  },
  {
   "id": "dongguan",
   "name": "东莞",
-  "ready": false
+  "province": "广东",
+  "ready": true
  },
  {
   "id": "zhongshan",
   "name": "中山",
-  "ready": false
+  "province": "广东",
+  "ready": true
  },
  {
   "id": "chaozhou",
   "name": "潮州",
-  "ready": false
+  "province": "广东",
+  "ready": true
  },
  {
   "id": "jieyang",
   "name": "揭阳",
-  "ready": false
+  "province": "广东",
+  "ready": true
  },
  {
   "id": "yunfu",
   "name": "云浮",
-  "ready": false
+  "province": "广东",
+  "ready": true
  },
  {
   "id": "nanning",
   "name": "南宁",
-  "ready": false
+  "province": "广西壮族自治区",
+  "ready": true
  },
  {
   "id": "liuzhou",
   "name": "柳州",
-  "ready": false
+  "province": "广西壮族自治区",
+  "ready": true
  },
  {
   "id": "guilin",
   "name": "桂林",
-  "ready": false
+  "province": "广西壮族自治区",
+  "ready": true
  },
  {
   "id": "wuzhou",
   "name": "梧州",
-  "ready": false
+  "province": "广西壮族自治区",
+  "ready": true
  },
  {
   "id": "beihai",
   "name": "北海",
-  "ready": false
+  "province": "广西壮族自治区",
+  "ready": true
  },
  {
   "id": "fangchenggang",
   "name": "防城港",
-  "ready": false
+  "province": "广西壮族自治区",
+  "ready": true
  },
  {
   "id": "qinzhou",
   "name": "钦州",
-  "ready": false
+  "province": "广西壮族自治区",
+  "ready": true
  },
  {
   "id": "guigang",
   "name": "贵港",
-  "ready": false
+  "province": "广西壮族自治区",
+  "ready": true
  },
  {
   "id": "yulin",
   "name": "玉林",
-  "ready": false
+  "province": "广西壮族自治区",
+  "ready": true
  },
  {
   "id": "baise",
   "name": "百色",
-  "ready": false
+  "province": "广西壮族自治区",
+  "ready": true
  },
  {
   "id": "hezhou",
   "name": "贺州",
-  "ready": false
+  "province": "广西壮族自治区",
+  "ready": true
  },
  {
   "id": "hechi",
   "name": "河池",
-  "ready": false
+  "province": "广西壮族自治区",
+  "ready": true
  },
  {
   "id": "laibin",
   "name": "来宾",
-  "ready": false
+  "province": "广西壮族自治区",
+  "ready": true
  },
  {
   "id": "chongzuo",
   "name": "崇左",
-  "ready": false
+  "province": "广西壮族自治区",
+  "ready": true
  },
  {
   "id": "haikou",
   "name": "海口",
-  "ready": false
+  "province": "海南",
+  "ready": true
  },
  {
   "id": "sanya",
   "name": "三亚",
-  "ready": false
+  "province": "海南",
+  "ready": true
  },
  {
   "id": "sansha",
   "name": "三沙",
-  "ready": false
+  "province": "海南",
+  "ready": true
  },
  {
   "id": "danzhou",
   "name": "儋州",
-  "ready": false
+  "province": "海南",
+  "ready": true
  },
  {
   "id": "chengdu",
   "name": "成都",
-  "ready": false
+  "province": "四川",
+  "ready": true
  },
  {
   "id": "zigong",
   "name": "自贡",
-  "ready": false
+  "province": "四川",
+  "ready": true
  },
  {
   "id": "panzhihua",
   "name": "攀枝花",
-  "ready": false
+  "province": "四川",
+  "ready": true
  },
  {
   "id": "luzhou",
   "name": "泸州",
-  "ready": false
+  "province": "四川",
+  "ready": true
  },
  {
   "id": "deyang",
   "name": "德阳",
-  "ready": false
+  "province": "四川",
+  "ready": true
  },
  {
   "id": "mianyang",
   "name": "绵阳",
-  "ready": false
+  "province": "四川",
+  "ready": true
  },
  {
   "id": "guangyuan",
   "name": "广元",
-  "ready": false
+  "province": "四川",
+  "ready": true
  },
  {
   "id": "suining",
   "name": "遂宁",
-  "ready": false
+  "province": "四川",
+  "ready": true
  },
  {
   "id": "neijiang",
   "name": "内江",
-  "ready": false
+  "province": "四川",
+  "ready": true
  },
  {
   "id": "leshan",
   "name": "乐山",
-  "ready": false
+  "province": "四川",
+  "ready": true
  },
  {
   "id": "nanchong",
   "name": "南充",
-  "ready": false
+  "province": "四川",
+  "ready": true
  },
  {
   "id": "meishan",
   "name": "眉山",
-  "ready": false
+  "province": "四川",
+  "ready": true
  },
  {
   "id": "yibin",
   "name": "宜宾",
-  "ready": false
+  "province": "四川",
+  "ready": true
  },
  {
   "id": "guangan",
   "name": "广安",
-  "ready": false
+  "province": "四川",
+  "ready": true
  },
  {
   "id": "dazhou",
   "name": "达州",
-  "ready": false
+  "province": "四川",
+  "ready": true
  },
  {
   "id": "yaan",
   "name": "雅安",
-  "ready": false
+  "province": "四川",
+  "ready": true
  },
  {
   "id": "bazhong",
   "name": "巴中",
-  "ready": false
+  "province": "四川",
+  "ready": true
  },
  {
   "id": "ziyang",
   "name": "资阳",
-  "ready": false
+  "province": "四川",
+  "ready": true
  },
  {
   "id": "abazangzuqiangzuzizhizhou",
   "name": "阿坝藏族羌族自治州",
+  "province": "四川",
   "ready": false
  },
  {
   "id": "ganzizangzuzizhizhou",
   "name": "甘孜藏族自治州",
+  "province": "四川",
   "ready": false
  },
  {
   "id": "liangshanyizuzizhizhou",
   "name": "凉山彝族自治州",
+  "province": "四川",
   "ready": false
  },
  {
   "id": "guiyang",
   "name": "贵阳",
-  "ready": false
+  "province": "贵州",
+  "ready": true
  },
  {
   "id": "liupanshui",
   "name": "六盘水",
-  "ready": false
+  "province": "贵州",
+  "ready": true
  },
  {
   "id": "zunyi",
   "name": "遵义",
-  "ready": false
+  "province": "贵州",
+  "ready": true
  },
  {
   "id": "anshun",
   "name": "安顺",
-  "ready": false
+  "province": "贵州",
+  "ready": true
  },
  {
   "id": "bijie",
   "name": "毕节",
-  "ready": false
+  "province": "贵州",
+  "ready": true
  },
  {
   "id": "tongren",
   "name": "铜仁",
-  "ready": false
+  "province": "贵州",
+  "ready": true
  },
  {
   "id": "qianxinanbuyizumiaozuzizhizhou",
   "name": "黔西南布依族苗族自治州",
-  "ready": false
+  "province": "贵州",
+  "ready": true
  },
  {
   "id": "qiandongnanmiaozudongzuzizhizhou",
   "name": "黔东南苗族侗族自治州",
-  "ready": false
+  "province": "贵州",
+  "ready": true
  },
  {
   "id": "qiannanbuyizumiaozuzizhizhou",
   "name": "黔南布依族苗族自治州",
-  "ready": false
+  "province": "贵州",
+  "ready": true
  },
  {
   "id": "kunming",
   "name": "昆明",
-  "ready": false
+  "province": "云南",
+  "ready": true
  },
  {
   "id": "qujing",
   "name": "曲靖",
-  "ready": false
+  "province": "云南",
+  "ready": true
  },
  {
   "id": "yuxi",
   "name": "玉溪",
-  "ready": false
+  "province": "云南",
+  "ready": true
  },
  {
   "id": "baoshan",
   "name": "保山",
-  "ready": false
+  "province": "云南",
+  "ready": true
  },
  {
   "id": "zhaotong",
   "name": "昭通",
-  "ready": false
+  "province": "云南",
+  "ready": true
  },
  {
   "id": "lijiang",
   "name": "丽江",
-  "ready": false
+  "province": "云南",
+  "ready": true
  },
  {
   "id": "puer",
   "name": "普洱",
-  "ready": false
+  "province": "云南",
+  "ready": true
  },
  {
   "id": "lincang",
   "name": "临沧",
-  "ready": false
+  "province": "云南",
+  "ready": true
  },
  {
   "id": "chuxiongyizuzizhizhou",
   "name": "楚雄彝族自治州",
-  "ready": false
+  "province": "云南",
+  "ready": true
  },
  {
   "id": "honghehanizuyizuzizhizhou",
   "name": "红河哈尼族彝族自治州",
-  "ready": false
+  "province": "云南",
+  "ready": true
  },
  {
   "id": "wenshanzhuangzumiaozuzizhizhou",
   "name": "文山壮族苗族自治州",
-  "ready": false
+  "province": "云南",
+  "ready": true
  },
  {
   "id": "xishuangbannadaizuzizhizhou",
   "name": "西双版纳傣族自治州",
-  "ready": false
+  "province": "云南",
+  "ready": true
  },
  {
   "id": "dalibaizuzizhizhou",
   "name": "大理白族自治州",
-  "ready": false
+  "province": "云南",
+  "ready": true
  },
  {
   "id": "dehongdaizujingpozuzizhizhou",
   "name": "德宏傣族景颇族自治州",
-  "ready": false
+  "province": "云南",
+  "ready": true
  },
  {
   "id": "nujianglisuzuzizhizhou",
   "name": "怒江傈僳族自治州",
+  "province": "云南",
   "ready": false
  },
  {
   "id": "diqingzangzuzizhizhou",
   "name": "迪庆藏族自治州",
+  "province": "云南",
   "ready": false
  },
  {
   "id": "lasa",
   "name": "拉萨",
+  "province": "西藏自治区",
   "ready": false
  },
  {
   "id": "rikaze",
   "name": "日喀则",
+  "province": "西藏自治区",
   "ready": false
  },
  {
   "id": "changdou",
   "name": "昌都",
+  "province": "西藏自治区",
   "ready": false
  },
  {
   "id": "linzhi",
   "name": "林芝",
+  "province": "西藏自治区",
   "ready": false
  },
  {
   "id": "shannan",
   "name": "山南",
+  "province": "西藏自治区",
   "ready": false
  },
  {
   "id": "naqu",
   "name": "那曲",
+  "province": "西藏自治区",
   "ready": false
  },
  {
   "id": "alidiqu",
   "name": "阿里地区",
+  "province": "西藏自治区",
   "ready": false
  },
  {
   "id": "xian",
   "name": "西安",
-  "ready": false
+  "province": "陕西",
+  "ready": true
  },
  {
   "id": "tongchuan",
   "name": "铜川",
-  "ready": false
+  "province": "陕西",
+  "ready": true
  },
  {
   "id": "baoji",
   "name": "宝鸡",
-  "ready": false
+  "province": "陕西",
+  "ready": true
  },
  {
   "id": "xianyang",
   "name": "咸阳",
-  "ready": false
+  "province": "陕西",
+  "ready": true
  },
  {
   "id": "weinan",
   "name": "渭南",
-  "ready": false
+  "province": "陕西",
+  "ready": true
  },
  {
   "id": "yanan",
   "name": "延安",
-  "ready": false
+  "province": "陕西",
+  "ready": true
  },
  {
   "id": "hanzhong",
   "name": "汉中",
-  "ready": false
+  "province": "陕西",
+  "ready": true
  },
  {
   "id": "yulin-6108",
   "name": "榆林",
-  "ready": false
+  "province": "陕西",
+  "ready": true
  },
  {
   "id": "ankang",
   "name": "安康",
-  "ready": false
+  "province": "陕西",
+  "ready": true
  },
  {
   "id": "shangluo",
   "name": "商洛",
-  "ready": false
+  "province": "陕西",
+  "ready": true
  },
  {
   "id": "lanzhou",
   "name": "兰州",
-  "ready": false
+  "province": "甘肃",
+  "ready": true
  },
  {
   "id": "jiayuguan",
   "name": "嘉峪关",
-  "ready": false
+  "province": "甘肃",
+  "ready": true
  },
  {
   "id": "jinchang",
   "name": "金昌",
-  "ready": false
+  "province": "甘肃",
+  "ready": true
  },
  {
   "id": "baiyin",
   "name": "白银",
-  "ready": false
+  "province": "甘肃",
+  "ready": true
  },
  {
   "id": "tianshui",
   "name": "天水",
-  "ready": false
+  "province": "甘肃",
+  "ready": true
  },
  {
   "id": "wuwei",
   "name": "武威",
-  "ready": false
+  "province": "甘肃",
+  "ready": true
  },
  {
   "id": "zhangye",
   "name": "张掖",
-  "ready": false
+  "province": "甘肃",
+  "ready": true
  },
  {
   "id": "pingliang",
   "name": "平凉",
-  "ready": false
+  "province": "甘肃",
+  "ready": true
  },
  {
   "id": "jiuquan",
   "name": "酒泉",
-  "ready": false
+  "province": "甘肃",
+  "ready": true
  },
  {
   "id": "qingyang",
   "name": "庆阳",
-  "ready": false
+  "province": "甘肃",
+  "ready": true
  },
  {
   "id": "dingxi",
   "name": "定西",
-  "ready": false
+  "province": "甘肃",
+  "ready": true
  },
  {
   "id": "longnan",
   "name": "陇南",
-  "ready": false
+  "province": "甘肃",
+  "ready": true
  },
  {
   "id": "linxiahuizuzizhizhou",
   "name": "临夏回族自治州",
-  "ready": false
+  "province": "甘肃",
+  "ready": true
  },
  {
   "id": "gannanzangzuzizhizhou",
   "name": "甘南藏族自治州",
+  "province": "甘肃",
   "ready": false
  },
  {
   "id": "xining",
   "name": "西宁",
-  "ready": false
+  "province": "青海",
+  "ready": true
  },
  {
   "id": "haidong",
   "name": "海东",
-  "ready": false
+  "province": "青海",
+  "ready": true
  },
  {
   "id": "haibeizangzuzizhizhou",
   "name": "海北藏族自治州",
+  "province": "青海",
   "ready": false
  },
  {
   "id": "huangnanzangzuzizhizhou",
   "name": "黄南藏族自治州",
+  "province": "青海",
   "ready": false
  },
  {
   "id": "hainanzangzuzizhizhou",
   "name": "海南藏族自治州",
+  "province": "青海",
   "ready": false
  },
  {
   "id": "guoluozangzuzizhizhou",
   "name": "果洛藏族自治州",
+  "province": "青海",
   "ready": false
  },
  {
   "id": "yushuzangzuzizhizhou",
   "name": "玉树藏族自治州",
+  "province": "青海",
   "ready": false
  },
  {
   "id": "haiximengguzuzangzuzizhizhou",
   "name": "海西蒙古族藏族自治州",
+  "province": "青海",
   "ready": false
  },
  {
   "id": "yinchuan",
   "name": "银川",
-  "ready": false
+  "province": "宁夏回族自治区",
+  "ready": true
  },
  {
   "id": "shizuishan",
   "name": "石嘴山",
-  "ready": false
+  "province": "宁夏回族自治区",
+  "ready": true
  },
  {
   "id": "wuzhong",
   "name": "吴忠",
-  "ready": false
+  "province": "宁夏回族自治区",
+  "ready": true
  },
  {
   "id": "guyuan",
   "name": "固原",
-  "ready": false
+  "province": "宁夏回族自治区",
+  "ready": true
  },
  {
   "id": "zhongwei",
   "name": "中卫",
-  "ready": false
+  "province": "宁夏回族自治区",
+  "ready": true
  },
  {
   "id": "wulumuqi",
   "name": "乌鲁木齐",
+  "province": "新疆维吾尔自治区",
   "ready": false
  },
  {
   "id": "kelamayi",
   "name": "克拉玛依",
+  "province": "新疆维吾尔自治区",
   "ready": false
  },
  {
   "id": "tulufan",
   "name": "吐鲁番",
+  "province": "新疆维吾尔自治区",
   "ready": false
  },
  {
   "id": "hami",
   "name": "哈密",
+  "province": "新疆维吾尔自治区",
   "ready": false
  },
  {
   "id": "changjihuizuzizhizhou",
   "name": "昌吉回族自治州",
+  "province": "新疆维吾尔自治区",
   "ready": false
  },
  {
   "id": "boertalamengguzizhizhou",
   "name": "博尔塔拉蒙古自治州",
+  "province": "新疆维吾尔自治区",
   "ready": false
  },
  {
   "id": "bayinguolengmengguzizhizhou",
   "name": "巴音郭楞蒙古自治州",
+  "province": "新疆维吾尔自治区",
   "ready": false
  },
  {
   "id": "akesudiqu",
   "name": "阿克苏地区",
+  "province": "新疆维吾尔自治区",
   "ready": false
  },
  {
   "id": "kezilesukeerkezizizhizhou",
   "name": "克孜勒苏柯尔克孜自治州",
+  "province": "新疆维吾尔自治区",
   "ready": false
  },
  {
   "id": "kashendiqu",
   "name": "喀什地区",
+  "province": "新疆维吾尔自治区",
   "ready": false
  },
  {
   "id": "hetiandiqu",
   "name": "和田地区",
+  "province": "新疆维吾尔自治区",
   "ready": false
  },
  {
   "id": "yilihasakezizhizhou",
   "name": "伊犁哈萨克自治州",
-  "ready": false
+  "province": "新疆维吾尔自治区",
+  "ready": true
  },
  {
   "id": "tachengdiqu",
   "name": "塔城地区",
+  "province": "新疆维吾尔自治区",
   "ready": false
  },
  {
   "id": "aletaidiqu",
   "name": "阿勒泰地区",
-  "ready": false
+  "province": "新疆维吾尔自治区",
+  "ready": true
  }
 ]
