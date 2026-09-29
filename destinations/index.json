@@ -165,7 +165,7 @@
   "id": "baotou",
   "name": "包头",
   "province": "内蒙古自治区",
-  "ready": false
+  "ready": true
  },
  {
   "id": "wuhai",
@@ -597,7 +597,7 @@
   "id": "wuhu",
   "name": "芜湖",
   "province": "安徽",
-  "ready": false
+  "ready": true
  },
  {
   "id": "bengbu",
@@ -1089,7 +1089,7 @@
   "id": "zhuzhou",
   "name": "株洲",
   "province": "湖南",
-  "ready": false
+  "ready": true
  },
  {
   "id": "xiangtan",
@@ -1677,7 +1677,7 @@
   "id": "lasa",
   "name": "拉萨",
   "province": "西藏自治区",
-  "ready": false
+  "ready": true
  },
  {
   "id": "rikaze",
@@ -1941,7 +1941,7 @@
   "id": "wulumuqi",
   "name": "乌鲁木齐",
   "province": "新疆维吾尔自治区",
-  "ready": false
+  "ready": true
  },
  {
   "id": "kelamayi",

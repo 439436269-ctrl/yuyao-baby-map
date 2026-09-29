@@ -1,0 +1,48 @@
+{
+ "_updated": "2026-09-28",
+ "_note": "待发布城市官方网站谱系：officialSite=城市政府官网（市文旅局栏目未在搜索中直达时以政府网为入口）；景区名单=官方点名(标注于note)+A级景区评级体系；坐标=OSM/Photon 核验，锚定/待核均在 note 透明标注。",
+ "huhehaote": {
+  "city": "呼和浩特",
+  "officialSite": "http://www.huhhot.gov.cn/",
+  "evidence": "市政府网首页\"武川县哈达门景区国庆活动\"",
+  "pending": []
+ },
+ "baotou": {
+  "city": "包头",
+  "officialSite": "https://www.baotou.gov.cn/",
+  "evidence": "市政府网入口",
+  "pending": []
+ },
+ "zhuzhou": {
+  "city": "株洲",
+  "officialSite": "https://www.zhuzhou.gov.cn/",
+  "evidence": "市政府网入口",
+  "pending": [
+   "云阳山（茶陵）坐标待核"
+  ]
+ },
+ "wuhu": {
+  "city": "芜湖",
+  "officialSite": "https://www.wuhu.gov.cn/",
+  "evidence": "市政府网\"松鼠小镇等旅游景区\"\"芜湖概况\"正文",
+  "pending": [
+   "鸠兹古镇",
+   "马仁奇峰（繁昌）",
+   "丫山花海石林（南陵）坐标待核"
+  ]
+ },
+ "wulumuqi": {
+  "city": "乌鲁木齐",
+  "officialSite": "https://www.wlmq.gov.cn/",
+  "evidence": "市政府网入口",
+  "pending": []
+ },
+ "lhasa": {
+  "city": "拉萨",
+  "officialSite": "https://www.lasa.gov.cn/",
+  "evidence": "市政府网入口",
+  "pending": [
+   "纳木错（当雄，距市区250km，未入库）"
+  ]
+ }
+}
