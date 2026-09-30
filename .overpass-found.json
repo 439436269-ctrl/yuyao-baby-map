@@ -1,0 +1,37 @@
+{
+ "鸠兹古镇": {
+  "n": "鸠兹广场",
+  "lon": 118.3668,
+  "lat": 31.3343,
+  "t": {
+   "monorail": "yes",
+   "name": "鸠兹广场",
+   "name:en": "Jiuziguangchang",
+   "name:zh-Hant": "鳩茲廣場",
+   "public_transport": "stop_position",
+   "railway": "stop"
+  },
+  "want": [
+   "芜湖",
+   "安徽"
+  ]
+ },
+ "桃花江竹海": {
+  "n": "桃花江",
+  "lon": 112.1425,
+  "lat": 28.5701,
+  "t": {
+   "alt_name": "桃花江站;桃花江火车站;Taohuajiang Railway Station",
+   "name": "桃花江",
+   "name:en": "Taohuajiang",
+   "name:zh": "桃花江",
+   "railway": "station",
+   "train": "yes"
+  },
+  "want": [
+   "桃江",
+   "益阳",
+   "湖南"
+  ]
+ }
+}
