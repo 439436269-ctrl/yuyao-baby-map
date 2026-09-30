@@ -87,7 +87,7 @@
   "id": "hengshui",
   "name": "衡水",
   "province": "河北",
-  "ready": false
+  "ready": true
  },
  {
   "id": "taiyuan",
@@ -171,19 +171,19 @@
   "id": "wuhai",
   "name": "乌海",
   "province": "内蒙古自治区",
-  "ready": false
+  "ready": true
  },
  {
   "id": "chifeng",
   "name": "赤峰",
   "province": "内蒙古自治区",
-  "ready": false
+  "ready": true
  },
  {
   "id": "tongliao",
   "name": "通辽",
   "province": "内蒙古自治区",
-  "ready": false
+  "ready": true
  },
  {
   "id": "eerduosi",
@@ -195,37 +195,37 @@
   "id": "hulunbeier",
   "name": "呼伦贝尔",
   "province": "内蒙古自治区",
-  "ready": false
+  "ready": true
  },
  {
   "id": "bayannaoer",
   "name": "巴彦淖尔",
   "province": "内蒙古自治区",
-  "ready": false
+  "ready": true
  },
  {
   "id": "wulanchabu",
   "name": "乌兰察布",
   "province": "内蒙古自治区",
-  "ready": false
+  "ready": true
  },
  {
   "id": "xinganmeng",
   "name": "兴安盟",
   "province": "内蒙古自治区",
-  "ready": false
+  "ready": true
  },
  {
   "id": "xilinguolemeng",
   "name": "锡林郭勒盟",
   "province": "内蒙古自治区",
-  "ready": false
+  "ready": true
  },
  {
   "id": "alashanmeng",
   "name": "阿拉善盟",
   "province": "内蒙古自治区",
-  "ready": false
+  "ready": true
  },
  {
   "id": "shenyang",
@@ -333,7 +333,7 @@
   "id": "liaoyuan",
   "name": "辽源",
   "province": "吉林",
-  "ready": false
+  "ready": true
  },
  {
   "id": "tonghua",
@@ -363,7 +363,7 @@
   "id": "yanbianchaoxianzuzizhizhou",
   "name": "延边朝鲜族自治州",
   "province": "吉林",
-  "ready": false
+  "ready": true
  },
  {
   "id": "haerbin",
@@ -387,7 +387,7 @@
   "id": "hegang",
   "name": "鹤岗",
   "province": "黑龙江",
-  "ready": false
+  "ready": true
  },
  {
   "id": "shuangyashan",
@@ -435,7 +435,7 @@
   "id": "suihua",
   "name": "绥化",
   "province": "黑龙江",
-  "ready": false
+  "ready": true
  },
  {
   "id": "daxinganlingdiqu",
@@ -627,7 +627,7 @@
   "id": "tongling",
   "name": "铜陵",
   "province": "安徽",
-  "ready": false
+  "ready": true
  },
  {
   "id": "anqing",
@@ -1047,7 +1047,7 @@
   "id": "xiaogan",
   "name": "孝感",
   "province": "湖北",
-  "ready": false
+  "ready": true
  },
  {
   "id": "jingzhou",
@@ -1509,19 +1509,19 @@
   "id": "abazangzuqiangzuzizhizhou",
   "name": "阿坝藏族羌族自治州",
   "province": "四川",
-  "ready": false
+  "ready": true
  },
  {
   "id": "ganzizangzuzizhizhou",
   "name": "甘孜藏族自治州",
   "province": "四川",
-  "ready": false
+  "ready": true
  },
  {
   "id": "liangshanyizuzizhizhou",
   "name": "凉山彝族自治州",
   "province": "四川",
-  "ready": false
+  "ready": true
  },
  {
   "id": "guiyang",
@@ -1665,13 +1665,13 @@
   "id": "nujianglisuzuzizhizhou",
   "name": "怒江傈僳族自治州",
   "province": "云南",
-  "ready": false
+  "ready": true
  },
  {
   "id": "diqingzangzuzizhizhou",
   "name": "迪庆藏族自治州",
   "province": "云南",
-  "ready": false
+  "ready": true
  },
  {
   "id": "lasa",
@@ -1683,37 +1683,37 @@
   "id": "rikaze",
   "name": "日喀则",
   "province": "西藏自治区",
-  "ready": false
+  "ready": true
  },
  {
   "id": "changdou",
   "name": "昌都",
   "province": "西藏自治区",
-  "ready": false
+  "ready": true
  },
  {
   "id": "linzhi",
   "name": "林芝",
   "province": "西藏自治区",
-  "ready": false
+  "ready": true
  },
  {
   "id": "shannan",
   "name": "山南",
   "province": "西藏自治区",
-  "ready": false
+  "ready": true
  },
  {
   "id": "naqu",
   "name": "那曲",
   "province": "西藏自治区",
-  "ready": false
+  "ready": true
  },
  {
   "id": "alidiqu",
   "name": "阿里地区",
   "province": "西藏自治区",
-  "ready": false
+  "ready": true
  },
  {
   "id": "xian",
@@ -1857,7 +1857,7 @@
   "id": "gannanzangzuzizhizhou",
   "name": "甘南藏族自治州",
   "province": "甘肃",
-  "ready": false
+  "ready": true
  },
  {
   "id": "xining",
@@ -1875,37 +1875,37 @@
   "id": "haibeizangzuzizhizhou",
   "name": "海北藏族自治州",
   "province": "青海",
-  "ready": false
+  "ready": true
  },
  {
   "id": "huangnanzangzuzizhizhou",
   "name": "黄南藏族自治州",
   "province": "青海",
-  "ready": false
+  "ready": true
  },
  {
   "id": "hainanzangzuzizhizhou",
   "name": "海南藏族自治州",
   "province": "青海",
-  "ready": false
+  "ready": true
  },
  {
   "id": "guoluozangzuzizhizhou",
   "name": "果洛藏族自治州",
   "province": "青海",
-  "ready": false
+  "ready": true
  },
  {
   "id": "yushuzangzuzizhizhou",
   "name": "玉树藏族自治州",
   "province": "青海",
-  "ready": false
+  "ready": true
  },
  {
   "id": "haiximengguzuzangzuzizhizhou",
   "name": "海西蒙古族藏族自治州",
   "province": "青海",
-  "ready": false
+  "ready": true
  },
  {
   "id": "yinchuan",
@@ -1947,61 +1947,61 @@
   "id": "kelamayi",
   "name": "克拉玛依",
   "province": "新疆维吾尔自治区",
-  "ready": false
+  "ready": true
  },
  {
   "id": "tulufan",
   "name": "吐鲁番",
   "province": "新疆维吾尔自治区",
-  "ready": false
+  "ready": true
  },
  {
   "id": "hami",
   "name": "哈密",
   "province": "新疆维吾尔自治区",
-  "ready": false
+  "ready": true
  },
  {
   "id": "changjihuizuzizhizhou",
   "name": "昌吉回族自治州",
   "province": "新疆维吾尔自治区",
-  "ready": false
+  "ready": true
  },
  {
   "id": "boertalamengguzizhizhou",
   "name": "博尔塔拉蒙古自治州",
   "province": "新疆维吾尔自治区",
-  "ready": false
+  "ready": true
  },
  {
   "id": "bayinguolengmengguzizhizhou",
   "name": "巴音郭楞蒙古自治州",
   "province": "新疆维吾尔自治区",
-  "ready": false
+  "ready": true
  },
  {
   "id": "akesudiqu",
   "name": "阿克苏地区",
   "province": "新疆维吾尔自治区",
-  "ready": false
+  "ready": true
  },
  {
   "id": "kezilesukeerkezizizhizhou",
   "name": "克孜勒苏柯尔克孜自治州",
   "province": "新疆维吾尔自治区",
-  "ready": false
+  "ready": true
  },
  {
   "id": "kashendiqu",
   "name": "喀什地区",
   "province": "新疆维吾尔自治区",
-  "ready": false
+  "ready": true
  },
  {
   "id": "hetiandiqu",
   "name": "和田地区",
   "province": "新疆维吾尔自治区",
-  "ready": false
+  "ready": true
  },
  {
   "id": "yilihasakezizhizhou",
@@ -2013,7 +2013,7 @@
   "id": "tachengdiqu",
   "name": "塔城地区",
   "province": "新疆维吾尔自治区",
-  "ready": false
+  "ready": true
  },
  {
   "id": "aletaidiqu",
