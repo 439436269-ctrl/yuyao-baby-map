@@ -16,7 +16,17 @@
    "lat": 37.98849,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/37.98849/120.68597"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yantai.gov.cn/"
+    }
+   ]
   },
   {
    "n": "庙岛",
@@ -24,7 +34,17 @@
    "lat": 37.94161,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/37.94161/120.68199"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yantai.gov.cn/"
+    }
+   ]
   },
   {
    "n": "黄渤海地理交界",
@@ -32,7 +52,17 @@
    "lat": 37.89725,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/37.89725/120.75632"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yantai.gov.cn/"
+    }
+   ]
   },
   {
    "n": "仙境园",
@@ -40,7 +70,17 @@
    "lat": 37.93546,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/37.93546/120.7469"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yantai.gov.cn/"
+    }
+   ]
   },
   {
    "n": "黄渤海交汇处",
@@ -48,7 +88,17 @@
    "lat": 37.89234,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/37.89234/120.75651"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yantai.gov.cn/"
+    }
+   ]
   },
   {
    "n": "望夫礁",
@@ -56,7 +106,17 @@
    "lat": 37.95251,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/37.95251/120.73462"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yantai.gov.cn/"
+    }
+   ]
   },
   {
    "n": "月牙湾",
@@ -64,7 +124,17 @@
    "lat": 37.9858,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/37.9858/120.71083"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yantai.gov.cn/"
+    }
+   ]
   },
   {
    "n": "刘家沟镇",
@@ -72,7 +142,17 @@
    "lat": 37.78991,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/37.78991/120.88031"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yantai.gov.cn/"
+    }
+   ]
   },
   {
    "n": "栈桥",
@@ -80,7 +160,17 @@
    "lat": 37.53055,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/37.53055/121.43523"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yantai.gov.cn/"
+    }
+   ]
   },
   {
    "n": "黄海明珠",
@@ -88,7 +178,17 @@
    "lat": 37.49066,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/37.49066/121.45179"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yantai.gov.cn/"
+    }
+   ]
   },
   {
    "n": "三和塔",
@@ -96,7 +196,17 @@
    "lat": 37.50292,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/37.50292/121.39054"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yantai.gov.cn/"
+    }
+   ]
   },
   {
    "n": "鹤山后文化大院",
@@ -104,7 +214,17 @@
    "lat": 37.02452,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/37.02452/120.75469"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yantai.gov.cn/"
+    }
+   ]
   },
   {
    "n": "珍珠门遗址",
@@ -112,7 +232,17 @@
    "lat": 37.98882,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/37.98882/120.68244"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yantai.gov.cn/"
+    }
+   ]
   },
   {
    "n": "罗山黄金生态旅游区",
@@ -120,7 +250,17 @@
    "lat": 37.43485,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/37.43485/120.47695"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yantai.gov.cn/"
+    }
+   ]
   },
   {
    "n": "莱州黄金海岸",
@@ -128,7 +268,17 @@
    "lat": 37.38325,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/37.38325/119.92553"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yantai.gov.cn/"
+    }
+   ]
   },
   {
    "n": "海上长城",
@@ -136,7 +286,17 @@
    "lat": 37.15803,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/37.15803/119.77529"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yantai.gov.cn/"
+    }
+   ]
   },
   {
    "n": "戚继光故里",
@@ -144,7 +304,17 @@
    "lat": 37.80976,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/37.80976/120.74754"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yantai.gov.cn/"
+    }
+   ]
   },
   {
    "n": "地雷战旅游景区",
@@ -152,7 +322,17 @@
    "lat": 36.88729,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.88729/121.11812"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yantai.gov.cn/"
+    }
+   ]
   },
   {
    "n": "仙境源",
@@ -160,7 +340,17 @@
    "lat": 37.93762,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/37.93762/120.74713"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yantai.gov.cn/"
+    }
+   ]
   },
   {
    "n": "长山尾",
@@ -168,7 +358,17 @@
    "lat": 37.891,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/37.891/120.75513"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yantai.gov.cn/"
+    }
+   ]
   },
   {
    "n": "林海",
@@ -176,7 +376,17 @@
    "lat": 37.8984,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/37.8984/120.75523"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yantai.gov.cn/"
+    }
+   ]
   },
   {
    "n": "奇石滩",
@@ -184,7 +394,17 @@
    "lat": 37.98392,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/37.98392/120.7215"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yantai.gov.cn/"
+    }
+   ]
   },
   {
    "n": "五彩岩",
@@ -192,7 +412,17 @@
    "lat": 37.99336,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/37.99336/120.69544"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yantai.gov.cn/"
+    }
+   ]
   },
   {
    "n": "烟台山景区",
@@ -200,7 +430,17 @@
    "lat": 37.54709,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/37.54709/121.39736"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yantai.gov.cn/"
+    }
+   ]
   },
   {
    "n": "东炮台海滨风景区",
@@ -208,7 +448,17 @@
    "lat": 37.53405,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/37.53405/121.43044"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yantai.gov.cn/"
+    }
+   ]
   },
   {
    "n": "观海坪",
@@ -216,7 +466,17 @@
    "lat": 37.54872,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/37.54872/121.39938"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yantai.gov.cn/"
+    }
+   ]
   },
   {
    "n": "云峰山石刻",
@@ -224,7 +484,17 @@
    "lat": 37.12412,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/37.12412/119.96382"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yantai.gov.cn/"
+    }
+   ]
   },
   {
    "n": "马家庄四维景区",
@@ -232,7 +502,17 @@
    "lat": 37.19384,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/37.19384/120.06212"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yantai.gov.cn/"
+    }
+   ]
   },
   {
    "n": "蓬莱阁",
@@ -242,7 +522,21 @@
    "drive": "",
    "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
    "rating": "5A",
-   "ratingSrc": "国家5A名录(2025.3·358家)"
+   "ratingSrc": "国家5A名录(2025.3·358家)",
+   "sources": [
+    {
+     "n": "5A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B65A%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/37.82626/120.74886"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yantai.gov.cn/"
+    }
+   ]
   },
   {
    "n": "蓬莱海防遗址",
@@ -250,7 +544,17 @@
    "lat": 37.76733,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/37.76733/120.62605"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yantai.gov.cn/"
+    }
+   ]
   },
   {
    "n": "烽台胜境景区",
@@ -258,7 +562,17 @@
    "lat": 37.76544,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/37.76544/120.62577"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yantai.gov.cn/"
+    }
+   ]
   },
   {
    "n": "淘金小镇",
@@ -266,7 +580,17 @@
    "lat": 37.44687,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/37.44687/120.47405"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yantai.gov.cn/"
+    }
+   ]
   },
   {
    "n": "太虚宫景区",
@@ -274,7 +598,17 @@
    "lat": 37.34094,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/37.34094/120.83097"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yantai.gov.cn/"
+    }
+   ]
   },
   {
    "n": "烟台塔山风景区",
@@ -282,7 +616,17 @@
    "lat": 37.50749,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/37.50749/121.39465"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yantai.gov.cn/"
+    }
+   ]
   },
   {
    "n": "九龙池景区",
@@ -290,7 +634,17 @@
    "lat": 37.2966,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/37.2966/121.69201"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yantai.gov.cn/"
+    }
+   ]
   },
   {
    "n": "三仙山风景区",
@@ -300,7 +654,21 @@
    "drive": "",
    "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
    "rating": "5A",
-   "ratingSrc": "国家5A名录(2025.3·358家)"
+   "ratingSrc": "国家5A名录(2025.3·358家)",
+   "sources": [
+    {
+     "n": "5A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B65A%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/37.82054/120.7788"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yantai.gov.cn/"
+    }
+   ]
   },
   {
    "n": "烟台海昌渔人码头",
@@ -308,7 +676,17 @@
    "lat": 37.51831,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/37.51831/121.44636"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yantai.gov.cn/"
+    }
+   ]
   },
   {
    "n": "牟平区养马岛山海不夜城（烟威旅游集散中心）",
@@ -316,7 +694,17 @@
    "lat": 37.43741,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/37.43741/121.61101"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yantai.gov.cn/"
+    }
+   ]
   },
   {
    "n": "东炮台海豹湾",
@@ -324,7 +712,17 @@
    "lat": 37.53176,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/37.53176/121.43169"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yantai.gov.cn/"
+    }
+   ]
   }
  ],
  "rings": [

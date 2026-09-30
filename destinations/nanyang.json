@@ -16,7 +16,17 @@
    "lat": 33.25387,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/33.25387/110.98842"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "石佛寺镇",
@@ -24,7 +34,17 @@
    "lat": 33.06189,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/33.06189/112.16279"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "神仙洞",
@@ -32,7 +52,17 @@
    "lat": 33.40712,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/33.40712/112.98112"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "仲景坐堂",
@@ -40,7 +70,17 @@
    "lat": 32.99003,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.99003/112.54486"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "南陽府衙",
@@ -48,7 +88,17 @@
    "lat": 32.99536,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.99536/112.53175"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "醫聖祠",
@@ -56,7 +106,17 @@
    "lat": 33.00019,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/33.00019/112.54814"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "漢冶鐵遺址遊園",
@@ -64,7 +124,17 @@
    "lat": 33.01401,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/33.01401/112.53996"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "膳馆",
@@ -72,7 +142,17 @@
    "lat": 33.04966,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/33.04966/111.84338"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "寅宾馆(楹联文化展)",
@@ -80,7 +160,17 @@
    "lat": 33.04986,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/33.04986/111.84384"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "监狱",
@@ -88,7 +178,17 @@
    "lat": 33.04995,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/33.04995/111.84318"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "主簿衙",
@@ -96,7 +196,17 @@
    "lat": 33.05059,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/33.05059/111.84282"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "县丞衙",
@@ -104,7 +214,17 @@
    "lat": 33.05077,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/33.05077/111.84321"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "刑钱夫子院",
@@ -112,7 +232,17 @@
    "lat": 33.05091,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/33.05091/111.84287"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "银局",
@@ -120,7 +250,17 @@
    "lat": 33.05101,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/33.05101/111.84307"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "税库",
@@ -128,7 +268,17 @@
    "lat": 33.05083,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/33.05083/111.84267"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "典史衙",
@@ -136,7 +286,17 @@
    "lat": 33.05043,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/33.05043/111.84352"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "三班院",
@@ -144,7 +304,17 @@
    "lat": 33.05016,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/33.05016/111.84369"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "卧龙岗",
@@ -152,7 +322,17 @@
    "lat": 32.97756,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.97756/112.49929"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "银杏参天",
@@ -160,7 +340,17 @@
    "lat": 33.00443,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/33.00443/112.53226"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "百鸟园",
@@ -168,7 +358,17 @@
    "lat": 33.00381,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/33.00381/112.53231"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "怡苑",
@@ -176,7 +376,17 @@
    "lat": 33.00488,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/33.00488/112.53341"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "明月榭",
@@ -184,7 +394,17 @@
    "lat": 33.00364,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/33.00364/112.53183"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "王府山",
@@ -192,7 +412,17 @@
    "lat": 33.00183,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/33.00183/112.53535"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "興水閣",
@@ -200,7 +430,17 @@
    "lat": 32.99077,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.99077/112.54167"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "太白邀月台",
@@ -208,7 +448,17 @@
    "lat": 33.00759,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/33.00759/112.5841"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "社旗山陕会馆",
@@ -216,7 +466,17 @@
    "lat": 33.05762,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/33.05762/112.93991"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "十八罗汉展",
@@ -224,7 +484,17 @@
    "lat": 32.98036,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.98036/112.5008"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "卧龙书院",
@@ -232,7 +502,17 @@
    "lat": 32.98076,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.98076/112.5036"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "读书台",
@@ -240,7 +520,17 @@
    "lat": 32.98067,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.98067/112.50278"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "張仲景墓",
@@ -248,7 +538,17 @@
    "lat": 33.00055,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/33.00055/112.54828"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "廣濟館",
@@ -256,7 +556,17 @@
    "lat": 33.00043,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/33.00043/112.54847"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "尚聖館",
@@ -264,7 +574,17 @@
    "lat": 33.00052,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/33.00052/112.5485"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "仁術館",
@@ -272,7 +592,17 @@
    "lat": 33.00033,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/33.00033/112.54845"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "智圓齋",
@@ -280,7 +610,17 @@
    "lat": 33.0004,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/33.0004/112.54805"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "行方齋",
@@ -288,7 +628,17 @@
    "lat": 33.00049,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/33.00049/112.54807"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "弘聖齋",
@@ -296,7 +646,17 @@
    "lat": 33.00059,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/33.00059/112.54809"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "秋風閣",
@@ -304,7 +664,17 @@
    "lat": 33.00028,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/33.00028/112.54801"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "春臺亭",
@@ -312,7 +682,17 @@
    "lat": 33.00021,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/33.00021/112.54842"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "广泉谷",
@@ -320,7 +700,17 @@
    "lat": 33.13753,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/33.13753/112.2008"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "内乡文庙",
@@ -328,7 +718,17 @@
    "lat": 33.04758,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/33.04758/111.84583"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "名人题字碑廊",
@@ -336,7 +736,17 @@
    "lat": 33.05096,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/33.05096/111.84333"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanyang.gov.cn/"
+    }
+   ]
   }
  ],
  "rings": [

@@ -16,7 +16,17 @@
    "lat": 32.48401,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.48401/119.9224"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.taizhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "桃园",
@@ -24,7 +34,17 @@
    "lat": 32.48315,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.48315/119.9255"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.taizhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "麋鹿家园",
@@ -32,7 +52,17 @@
    "lat": 32.61414,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.61414/120.10542"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.taizhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "溱湖国家湿地公园野生动植物保护中心",
@@ -40,7 +70,17 @@
    "lat": 32.61636,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.61636/120.10346"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.taizhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "溱湖药用植物园",
@@ -48,7 +88,17 @@
    "lat": 32.62222,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.62222/120.09775"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.taizhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "独木桥",
@@ -56,7 +106,17 @@
    "lat": 32.62657,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.62657/120.10007"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.taizhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "湿地水禽园",
@@ -64,7 +124,17 @@
    "lat": 32.62456,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.62456/120.09641"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.taizhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "Changcheng 274",
@@ -72,7 +142,17 @@
    "lat": 32.24593,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.24593/119.89177"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.taizhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "881洪泽湖号补给舰",
@@ -80,7 +160,17 @@
    "lat": 32.24539,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.24539/119.89201"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.taizhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "515厦门号导弹护卫舰",
@@ -88,7 +178,17 @@
    "lat": 32.2451,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.2451/119.89114"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.taizhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "108西宁号导弹驱逐舰",
@@ -96,7 +196,17 @@
    "lat": 32.24478,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.24478/119.89194"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.taizhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "佛足印",
@@ -104,7 +214,17 @@
    "lat": 32.62486,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.62486/120.07522"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.taizhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "湿地体验园",
@@ -112,7 +232,17 @@
    "lat": 32.62725,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.62725/120.10074"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.taizhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "湿地迷宫",
@@ -120,7 +250,17 @@
    "lat": 32.62492,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.62492/120.10081"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.taizhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "观鹊桥",
@@ -128,7 +268,17 @@
    "lat": 32.62468,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.62468/120.10371"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.taizhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "鹊仙桥",
@@ -136,7 +286,17 @@
    "lat": 32.62266,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.62266/120.10242"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.taizhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "碧波桥",
@@ -144,7 +304,17 @@
    "lat": 32.6216,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.6216/120.10155"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.taizhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "糜鹿观赏园",
@@ -152,7 +322,17 @@
    "lat": 32.62131,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.62131/120.10211"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.taizhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "秋芦桥",
@@ -160,7 +340,17 @@
    "lat": 32.62071,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.62071/120.10164"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.taizhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "春莺桥",
@@ -168,7 +358,17 @@
    "lat": 32.62035,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.62035/120.10133"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.taizhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "花影桥",
@@ -176,7 +376,17 @@
    "lat": 32.62011,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.62011/120.1016"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.taizhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "渔事文化体验园",
@@ -184,7 +394,17 @@
    "lat": 32.61882,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.61882/120.10144"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.taizhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "采菱桥",
@@ -192,7 +412,17 @@
    "lat": 32.61792,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.61792/120.10237"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.taizhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "花谷营地",
@@ -200,7 +430,17 @@
    "lat": 32.61643,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.61643/120.10313"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.taizhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "锁波桥",
@@ -208,7 +448,17 @@
    "lat": 32.61598,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.61598/120.10256"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.taizhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "摸鱼",
@@ -216,7 +466,17 @@
    "lat": 32.61757,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.61757/120.10176"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.taizhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "芒间栈道",
@@ -224,7 +484,17 @@
    "lat": 32.61752,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.61752/120.10105"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.taizhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "溱洧桥",
@@ -232,7 +502,17 @@
    "lat": 32.62604,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.62604/120.09448"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.taizhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "水育生态长廊",
@@ -240,7 +520,17 @@
    "lat": 32.62696,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.62696/120.09434"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.taizhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "神农居",
@@ -248,7 +538,17 @@
    "lat": 32.62264,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.62264/120.09688"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.taizhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "麋鹿雕像",
@@ -256,7 +556,17 @@
    "lat": 32.50702,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.50702/120.14229"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.taizhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "梅园",
@@ -264,7 +574,17 @@
    "lat": 32.48803,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.48803/119.9253"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.taizhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "溱潼古镇旅游景区",
@@ -272,7 +592,17 @@
    "lat": 32.65191,
    "tag": "古镇",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.65191/120.09261"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.taizhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "望海楼景区",
@@ -280,7 +610,17 @@
    "lat": 32.48446,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.48446/119.921"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.taizhou.gov.cn/"
+    }
+   ]
   }
  ],
  "rings": [

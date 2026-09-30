@@ -18,7 +18,21 @@
    "drive": "",
    "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
    "rating": "4A",
-   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)"
+   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)",
+   "sources": [
+    {
+     "n": "4A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6AAAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/41.70226/124.85908"
+    },
+    {
+     "n": "市官网",
+     "u": "https://fushun.gov.cn/"
+    }
+   ]
   }
  ],
  "rings": [

@@ -18,7 +18,21 @@
    "ratingSrc": "国家5A名录(2025.3)",
    "tag": "景点",
    "drive": "约 1 小时",
-   "note": "[5A·前缀归属·坐标photon] 博尔塔拉蒙古自治州赛里木湖景区"
+   "note": "[5A·前缀归属·坐标photon] 博尔塔拉蒙古自治州赛里木湖景区",
+   "sources": [
+    {
+     "n": "5A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B65A%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/44.6945/81.0724"
+    },
+    {
+     "n": "Photon·查询",
+     "u": "https://photon.komoot.io/?q=%E8%B5%9B%E9%87%8C%E6%9C%A8%E6%B9%96%E6%99%AF%E5%8C%BA"
+    }
+   ]
   }
  ],
  "rings": [

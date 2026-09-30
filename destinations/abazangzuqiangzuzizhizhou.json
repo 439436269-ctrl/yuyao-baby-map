@@ -18,7 +18,21 @@
    "ratingSrc": "国家5A名录(2025.3)",
    "tag": "景点",
    "drive": "约 1 小时",
-   "note": "[5A·前缀归属·坐标photon] 阿坝藏族羌族自治州九寨沟景区"
+   "note": "[5A·前缀归属·坐标photon] 阿坝藏族羌族自治州九寨沟景区",
+   "sources": [
+    {
+     "n": "5A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B65A%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/33.269/103.9168"
+    },
+    {
+     "n": "Photon·查询",
+     "u": "https://photon.komoot.io/?q=%E4%B9%9D%E5%AF%A8%E6%B2%9F%E6%99%AF%E5%8C%BA"
+    }
+   ]
   },
   {
    "n": "黄龙风景名胜区",
@@ -28,7 +42,21 @@
    "ratingSrc": "国家5A名录(2025.3)",
    "tag": "景点",
    "drive": "约 1 小时",
-   "note": "[5A·前缀归属·坐标photon] 阿坝藏族羌族自治州黄龙风景名胜区"
+   "note": "[5A·前缀归属·坐标photon] 阿坝藏族羌族自治州黄龙风景名胜区",
+   "sources": [
+    {
+     "n": "5A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B65A%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.7806/103.9282"
+    },
+    {
+     "n": "Photon·查询",
+     "u": "https://photon.komoot.io/?q=%E9%BB%84%E9%BE%99%E9%A3%8E%E6%99%AF%E5%90%8D%E8%83%9C%E5%8C%BA"
+    }
+   ]
   },
   {
    "n": "四姑娘山景区",
@@ -38,7 +66,21 @@
    "ratingSrc": "国家5A名录(2025.3)",
    "tag": "景点",
    "drive": "约 1 小时",
-   "note": "[5A·前缀归属·坐标photon] 阿坝藏族羌族自治州四姑娘山景区"
+   "note": "[5A·前缀归属·坐标photon] 阿坝藏族羌族自治州四姑娘山景区",
+   "sources": [
+    {
+     "n": "5A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B65A%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.9956/102.8309"
+    },
+    {
+     "n": "Photon·查询",
+     "u": "https://photon.komoot.io/?q=%E5%9B%9B%E5%A7%91%E5%A8%98%E5%B1%B1%E6%99%AF%E5%8C%BA"
+    }
+   ]
   }
  ],
  "rings": [

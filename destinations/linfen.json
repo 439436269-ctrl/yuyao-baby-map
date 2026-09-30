@@ -18,7 +18,21 @@
    "drive": "",
    "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
    "rating": "5A",
-   "ratingSrc": "国家5A名录(2025.3·358家)"
+   "ratingSrc": "国家5A名录(2025.3·358家)",
+   "sources": [
+    {
+     "n": "5A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B65A%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.1487/110.44392"
+    },
+    {
+     "n": "市官网",
+     "u": "http://linfen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "老君洞",
@@ -26,7 +40,17 @@
    "lat": 35.95353,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/35.95353/111.7997"
+    },
+    {
+     "n": "市官网",
+     "u": "http://linfen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "牡丹景区",
@@ -34,7 +58,17 @@
    "lat": 36.21047,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.21047/111.94045"
+    },
+    {
+     "n": "市官网",
+     "u": "http://linfen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "红叶岭风景区",
@@ -42,7 +76,17 @@
    "lat": 36.25312,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.25312/112.14635"
+    },
+    {
+     "n": "市官网",
+     "u": "http://linfen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "云丘山冰洞群",
@@ -50,7 +94,17 @@
    "lat": 35.74986,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/35.74986/111.00196"
+    },
+    {
+     "n": "市官网",
+     "u": "http://linfen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "移民浮雕图",
@@ -58,7 +112,17 @@
    "lat": 36.26966,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.26966/111.67048"
+    },
+    {
+     "n": "市官网",
+     "u": "http://linfen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "二、三代槐树",
@@ -66,7 +130,17 @@
    "lat": 36.27023,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.27023/111.67095"
+    },
+    {
+     "n": "市官网",
+     "u": "http://linfen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "一代槐树（仿）",
@@ -74,7 +148,17 @@
    "lat": 36.27046,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.27046/111.67073"
+    },
+    {
+     "n": "市官网",
+     "u": "http://linfen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "翼城县历山旅游风景区",
@@ -82,7 +166,17 @@
    "lat": 35.45364,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/35.45364/111.93061"
+    },
+    {
+     "n": "市官网",
+     "u": "http://linfen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "挂甲山摩崖造像",
@@ -90,7 +184,17 @@
    "lat": 36.09005,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.09005/110.67016"
+    },
+    {
+     "n": "市官网",
+     "u": "http://linfen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "临汾姑射山",
@@ -98,7 +202,17 @@
    "lat": 36.14072,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.14072/111.35685"
+    },
+    {
+     "n": "市官网",
+     "u": "http://linfen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "云雾寺",
@@ -106,7 +220,17 @@
    "lat": 36.14627,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.14627/111.35808"
+    },
+    {
+     "n": "市官网",
+     "u": "http://linfen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "丁村",
@@ -114,7 +238,17 @@
    "lat": 35.8408,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/35.8408/111.41536"
+    },
+    {
+     "n": "市官网",
+     "u": "http://linfen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "M1",
@@ -122,7 +256,17 @@
    "lat": 35.70012,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/35.70012/111.58257"
+    },
+    {
+     "n": "市官网",
+     "u": "http://linfen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "M2",
@@ -130,7 +274,17 @@
    "lat": 35.7001,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/35.7001/111.58245"
+    },
+    {
+     "n": "市官网",
+     "u": "http://linfen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "车马坑",
@@ -138,7 +292,17 @@
    "lat": 35.70016,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/35.70016/111.5828"
+    },
+    {
+     "n": "市官网",
+     "u": "http://linfen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "马头关",
@@ -146,7 +310,17 @@
    "lat": 36.51088,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.51088/110.4991"
+    },
+    {
+     "n": "市官网",
+     "u": "http://linfen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "尧帝陵",
@@ -154,7 +328,17 @@
    "lat": 36.06745,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.06745/111.78403"
+    },
+    {
+     "n": "市官网",
+     "u": "http://linfen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "观音寺",
@@ -162,7 +346,17 @@
    "lat": 36.70104,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.70104/110.92847"
+    },
+    {
+     "n": "市官网",
+     "u": "http://linfen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "鼓楼",
@@ -170,7 +364,17 @@
    "lat": 36.08291,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.08291/111.50713"
+    },
+    {
+     "n": "市官网",
+     "u": "http://linfen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "寥天洞",
@@ -178,7 +382,17 @@
    "lat": 36.31577,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.31577/111.57135"
+    },
+    {
+     "n": "市官网",
+     "u": "http://linfen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "陶寺国家考古遗址公园",
@@ -186,7 +400,17 @@
    "lat": 35.88958,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/35.88958/111.49392"
+    },
+    {
+     "n": "市官网",
+     "u": "http://linfen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "关帝庙",
@@ -196,7 +420,21 @@
    "drive": "",
    "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
    "rating": "4A",
-   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)"
+   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)",
+   "sources": [
+    {
+     "n": "4A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6AAAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.25665/111.66672"
+    },
+    {
+     "n": "市官网",
+     "u": "http://linfen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "玉皇庙",
@@ -204,7 +442,17 @@
    "lat": 36.29195,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.29195/111.62978"
+    },
+    {
+     "n": "市官网",
+     "u": "http://linfen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "商山庙",
@@ -212,7 +460,17 @@
    "lat": 36.36406,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.36406/111.68523"
+    },
+    {
+     "n": "市官网",
+     "u": "http://linfen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "净石宫",
@@ -220,7 +478,17 @@
    "lat": 36.46462,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.46462/111.67259"
+    },
+    {
+     "n": "市官网",
+     "u": "http://linfen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "千佛庵",
@@ -228,7 +496,17 @@
    "lat": 36.70189,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.70189/110.92618"
+    },
+    {
+     "n": "市官网",
+     "u": "http://linfen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "千佛洞",
@@ -236,7 +514,17 @@
    "lat": 36.7583,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.7583/110.96543"
+    },
+    {
+     "n": "市官网",
+     "u": "http://linfen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "普净寺",
@@ -244,7 +532,17 @@
    "lat": 35.69167,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/35.69167/111.26296"
+    },
+    {
+     "n": "市官网",
+     "u": "http://linfen.gov.cn/"
+    }
+   ]
   }
  ],
  "rings": [

@@ -16,7 +16,17 @@
    "lat": 39.93253,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.93253/116.38575"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "北京古观象台",
@@ -24,7 +34,17 @@
    "lat": 39.90618,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.90618/116.42835"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "团城",
@@ -32,7 +52,17 @@
    "lat": 39.92161,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.92161/116.38285"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "长廊",
@@ -40,7 +70,17 @@
    "lat": 39.92542,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.92542/116.38266"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "铜牛",
@@ -48,7 +88,17 @@
    "lat": 39.98942,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.98942/116.27342"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "大水法",
@@ -56,7 +106,17 @@
    "lat": 40.01212,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.01212/116.30664"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "九龙壁",
@@ -64,7 +124,17 @@
    "lat": 39.9171,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.9171/116.39419"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "泽兰堂",
@@ -72,7 +142,17 @@
    "lat": 40.011,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.011/116.30642"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "圆明园盛时全景",
@@ -82,7 +162,21 @@
    "drive": "",
    "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
    "rating": "5A",
-   "ratingSrc": "国家5A名录(2025.3·358家)"
+   "ratingSrc": "国家5A名录(2025.3·358家)",
+   "sources": [
+    {
+     "n": "5A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B65A%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.00977/116.30957"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "李大钊故居",
@@ -90,7 +184,17 @@
    "lat": 39.90334,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.90334/116.35988"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "燃灯古佛塔",
@@ -98,7 +202,17 @@
    "lat": 39.97594,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.97594/116.14998"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "水源头",
@@ -106,7 +220,17 @@
    "lat": 40.01113,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.01113/116.19317"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "百泉山风景区",
@@ -114,7 +238,17 @@
    "lat": 40.4934,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.4934/116.65584"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "老龙头石",
@@ -122,7 +256,17 @@
    "lat": 40.0326,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.0326/116.25625"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "残虹桥",
@@ -130,7 +274,17 @@
    "lat": 40.01157,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.01157/116.3102"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "谐奇趣",
@@ -138,7 +292,17 @@
    "lat": 40.0116,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.0116/116.30237"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "残拱桥",
@@ -146,7 +310,17 @@
    "lat": 40.01189,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.01189/116.31051"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "观水法",
@@ -154,7 +328,17 @@
    "lat": 40.01184,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.01184/116.30668"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "线法山",
@@ -162,7 +346,17 @@
    "lat": 40.01211,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.01211/116.30824"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "蓄水楼",
@@ -170,7 +364,17 @@
    "lat": 40.0119,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.0119/116.30551"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "天然图画",
@@ -178,7 +382,17 @@
    "lat": 40.00507,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.00507/116.29202"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "碧桐书院",
@@ -186,7 +400,17 @@
    "lat": 40.00623,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.00623/116.29143"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "海岳开襟",
@@ -194,7 +418,17 @@
    "lat": 40.009,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.009/116.3043"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "珍妃井",
@@ -202,7 +436,17 @@
    "lat": 39.92053,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.92053/116.3938"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "神龟出山",
@@ -210,7 +454,17 @@
    "lat": 39.61459,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.61459/115.77917"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "银晶石阶",
@@ -218,7 +472,17 @@
    "lat": 39.6176,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.6176/115.77794"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "八大处索道站",
@@ -228,7 +492,21 @@
    "drive": "",
    "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
    "rating": "4A",
-   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)"
+   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)",
+   "sources": [
+    {
+     "n": "4A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6AAAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.96373/116.17146"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "Yunlong Natural Scenic Spot",
@@ -236,7 +514,17 @@
    "lat": 40.48584,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.48584/116.78605"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "灵溪风景区",
@@ -244,7 +532,17 @@
    "lat": 40.01822,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.01822/115.97077"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "Tianmenshan Scenic Spot",
@@ -252,7 +550,17 @@
    "lat": 40.5917,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.5917/116.78042"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "黑龙潭自然风景区",
@@ -262,7 +570,21 @@
    "drive": "",
    "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
    "rating": "4A",
-   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)"
+   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)",
+   "sources": [
+    {
+     "n": "4A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6AAAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.56179/116.79515"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "爨底下村",
@@ -270,7 +592,17 @@
    "lat": 39.99686,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.99686/115.63814"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "宛平城",
@@ -278,7 +610,17 @@
    "lat": 39.84984,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.84984/116.22013"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "Waterfall",
@@ -286,7 +628,17 @@
    "lat": 40.52789,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.52789/115.82194"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "日晷",
@@ -294,7 +646,17 @@
    "lat": 40.00078,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.00078/116.31842"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "二校门",
@@ -302,7 +664,17 @@
    "lat": 39.99971,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.99971/116.31829"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "黄花城敞车女",
@@ -310,7 +682,17 @@
    "lat": 40.41636,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.41636/116.33856"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "荷塘月色",
@@ -318,7 +700,17 @@
    "lat": 40.00212,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.00212/116.31677"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "詹天佑先生之墓",
@@ -326,7 +718,17 @@
    "lat": 40.35089,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.35089/116.01965"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "古石阵",
@@ -334,7 +736,17 @@
    "lat": 40.06136,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.06136/116.09126"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "枫树岭景点",
@@ -342,7 +754,17 @@
    "lat": 40.06074,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.06074/116.08602"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "棺材石",
@@ -350,7 +772,17 @@
    "lat": 40.05995,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.05995/116.08066"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "红叶谷",
@@ -358,7 +790,17 @@
    "lat": 40.05951,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.05951/116.08179"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "石景山古井",
@@ -366,7 +808,17 @@
    "lat": 39.91713,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.91713/116.14323"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "石景山古建群",
@@ -374,7 +826,17 @@
    "lat": 39.91689,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.91689/116.14308"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "蒸汽机车",
@@ -382,7 +844,17 @@
    "lat": 39.9182,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.9182/116.14553"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "鹫峰山庄",
@@ -390,7 +862,17 @@
    "lat": 40.06132,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.06132/116.08761"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "云岫亭",
@@ -398,7 +880,17 @@
    "lat": 40.05944,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.05944/116.08946"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "避雨石",
@@ -406,7 +898,17 @@
    "lat": 40.06015,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.06015/116.08825"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "松眼林",
@@ -414,7 +916,17 @@
    "lat": 40.06121,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.06121/116.07117"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "丹霞岭",
@@ -422,7 +934,17 @@
    "lat": 40.04934,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.04934/116.07758"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "九九盘道",
@@ -430,7 +952,17 @@
    "lat": 40.05296,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.05296/116.06746"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "众香朝拜",
@@ -438,7 +970,17 @@
    "lat": 40.05287,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.05287/116.07215"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "回心石",
@@ -446,7 +988,17 @@
    "lat": 40.05219,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.05219/116.06883"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "堇兰坡",
@@ -454,7 +1006,17 @@
    "lat": 40.0542,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.0542/116.06789"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "妙峰古道牌坊",
@@ -462,7 +1024,17 @@
    "lat": 40.05046,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.05046/116.07976"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "寨儿峪泉",
@@ -470,7 +1042,17 @@
    "lat": 40.05098,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.05098/116.07953"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "寿星石",
@@ -478,7 +1060,17 @@
    "lat": 40.05274,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.05274/116.06515"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "杏林早春",
@@ -486,7 +1078,17 @@
    "lat": 40.05126,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.05126/116.07941"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "秋红坡",
@@ -494,7 +1096,17 @@
    "lat": 40.0511,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.0511/116.07878"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "翠谷远眺",
@@ -502,7 +1114,17 @@
    "lat": 40.0524,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.0524/116.0663"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "汲水路",
@@ -510,7 +1132,17 @@
    "lat": 40.5322,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.5322/116.79415"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "抗日烈士赵登禹将军之墓",
@@ -518,7 +1150,17 @@
    "lat": 39.85393,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.85393/116.23161"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "乌龙峡谷",
@@ -526,7 +1168,17 @@
    "lat": 40.69632,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.69632/116.45272"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "瓜打石",
@@ -534,7 +1186,17 @@
    "lat": 40.06916,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.06916/116.07164"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "昊天塔",
@@ -542,7 +1204,17 @@
    "lat": 39.73339,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.73339/116.14804"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "玉兔石",
@@ -550,7 +1222,17 @@
    "lat": 40.11382,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.11382/116.08225"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "月季园",
@@ -558,7 +1240,17 @@
    "lat": 39.99392,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.99392/116.20677"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "水木清华",
@@ -566,7 +1258,17 @@
    "lat": 40.00193,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.00193/116.31687"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "Abu Simbel Temples",
@@ -574,7 +1276,17 @@
    "lat": 39.80743,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.80743/116.28093"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "Arc de Triomphe",
@@ -582,7 +1294,17 @@
    "lat": 39.80948,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.80948/116.28148"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "Coliseum",
@@ -590,7 +1312,17 @@
    "lat": 39.80848,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.80848/116.28159"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "Egyptian pyramids",
@@ -598,7 +1330,17 @@
    "lat": 39.80741,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.80741/116.28161"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "Eiffel Tower",
@@ -606,7 +1348,17 @@
    "lat": 39.80924,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.80924/116.28044"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "El Tajin",
@@ -614,7 +1366,17 @@
    "lat": 39.8077,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.8077/116.27791"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "Great Wall of China",
@@ -622,7 +1384,17 @@
    "lat": 39.80936,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.80936/116.2824"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "Hagia Sophia",
@@ -630,7 +1402,17 @@
    "lat": 39.80859,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.80859/116.28225"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "Karnak Temple",
@@ -638,7 +1420,17 @@
    "lat": 39.80773,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.80773/116.281"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "Leaning Tower of Pisa",
@@ -646,7 +1438,17 @@
    "lat": 39.80877,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.80877/116.28137"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "Lighthouse of Alexandria",
@@ -654,7 +1456,17 @@
    "lat": 39.80785,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.80785/116.28225"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "Lincoln Memorial",
@@ -662,7 +1474,17 @@
    "lat": 39.80845,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.80845/116.27836"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "Manhattan Island",
@@ -670,7 +1492,17 @@
    "lat": 39.80953,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.80953/116.27889"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "Neuschwanstein Castle",
@@ -678,7 +1510,17 @@
    "lat": 39.81025,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.81025/116.2806"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "Notre Dame de Paris",
@@ -686,7 +1528,17 @@
    "lat": 39.80878,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.80878/116.28027"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "Parthenon",
@@ -694,7 +1546,17 @@
    "lat": 39.8084,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.8084/116.28198"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "Phra Thinang Chakri Maha Prasat",
@@ -702,7 +1564,17 @@
    "lat": 39.80842,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.80842/116.28457"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "Red Square",
@@ -710,7 +1582,17 @@
    "lat": 39.81127,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.81127/116.28269"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "St. Peter's Basilica",
@@ -718,7 +1600,17 @@
    "lat": 39.80859,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.80859/116.28107"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "圣德望主教座堂",
@@ -726,7 +1618,17 @@
    "lat": 39.81043,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.81043/116.28152"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "Stonehenge",
@@ -734,7 +1636,17 @@
    "lat": 39.80972,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.80972/116.28009"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "Sydney Opera House",
@@ -742,7 +1654,17 @@
    "lat": 39.80783,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.80783/116.28445"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "Taj Mahal",
@@ -750,7 +1672,17 @@
    "lat": 39.80895,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.80895/116.28364"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "Totem Poles of Mexico",
@@ -758,7 +1690,17 @@
    "lat": 39.80762,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.80762/116.27873"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "US Capitol",
@@ -766,7 +1708,17 @@
    "lat": 39.80889,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.80889/116.27785"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "White House",
@@ -774,7 +1726,17 @@
    "lat": 39.8085,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.8085/116.27783"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "摩崖造像群",
@@ -782,7 +1744,17 @@
    "lat": 39.87065,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.87065/116.09061"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "大金佛",
@@ -790,7 +1762,17 @@
    "lat": 39.86528,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.86528/116.06381"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "极乐洞",
@@ -798,7 +1780,17 @@
    "lat": 39.86585,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.86585/116.06402"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "方塔佛像",
@@ -806,7 +1798,17 @@
    "lat": 39.85615,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.85615/116.0731"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "凤摆尾",
@@ -814,7 +1816,17 @@
    "lat": 39.85338,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.85338/115.61323"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "“善来金阶”石刻",
@@ -822,7 +1834,17 @@
    "lat": 40.06771,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.06771/116.08021"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "“瞻云妙”石刻",
@@ -830,7 +1852,17 @@
    "lat": 40.0671,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.0671/116.07734"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "龙回头",
@@ -838,7 +1870,17 @@
    "lat": 39.85467,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.85467/115.61675"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "灵水村",
@@ -846,7 +1888,17 @@
    "lat": 40.00254,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.00254/115.72946"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "登天石",
@@ -854,7 +1906,17 @@
    "lat": 40.11691,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.11691/116.0761"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "陵园台阶入口",
@@ -862,7 +1924,17 @@
    "lat": 39.63798,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.63798/115.58144"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "平西抗战纪念馆入口",
@@ -870,7 +1942,17 @@
    "lat": 39.63796,
    "tag": "室内",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.63796/115.58277"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "东湖港景区",
@@ -878,7 +1960,17 @@
    "lat": 39.6675,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.6675/115.51735"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "凉亭",
@@ -886,7 +1978,17 @@
    "lat": 40.68808,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.68808/116.47254"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "Mirador",
@@ -894,7 +1996,17 @@
    "lat": 40.24033,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.24033/117.25197"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "南锣鼓巷",
@@ -902,7 +2014,17 @@
    "lat": 39.93215,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.93215/116.39683"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "火箭发动机",
@@ -910,7 +2032,17 @@
    "lat": 40.15258,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.15258/116.26735"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "丝绸之路",
@@ -918,7 +2050,17 @@
    "lat": 39.90692,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.90692/116.40478"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "于成龙雕塑",
@@ -926,7 +2068,17 @@
    "lat": 39.88344,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.88344/116.73928"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "运河清风",
@@ -934,7 +2086,17 @@
    "lat": 39.88356,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.88356/116.73884"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "荣宝斋",
@@ -942,7 +2104,17 @@
    "lat": 39.89411,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.89411/116.37688"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "大栅栏",
@@ -950,7 +2122,17 @@
    "lat": 39.8945,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.8945/116.39017"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "苏州街",
@@ -958,7 +2140,17 @@
    "lat": 40.00066,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.00066/116.26858"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "圣泉寺",
@@ -966,7 +2158,17 @@
    "lat": 40.36269,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.36269/116.57238"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "雁栖湖",
@@ -976,7 +2178,21 @@
    "drive": "",
    "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
    "rating": "4A",
-   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)"
+   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)",
+   "sources": [
+    {
+     "n": "4A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6AAAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.39658/116.6797"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "北京地下城",
@@ -984,7 +2200,17 @@
    "lat": 39.89589,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.89589/116.40136"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "天泰山佛头",
@@ -992,7 +2218,17 @@
    "lat": 39.97684,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.97684/116.15125"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "北京奥林匹克公园",
@@ -1002,7 +2238,21 @@
    "drive": "",
    "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
    "rating": "5A",
-   "ratingSrc": "国家5A名录(2025.3·358家)"
+   "ratingSrc": "国家5A名录(2025.3·358家)",
+   "sources": [
+    {
+     "n": "5A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B65A%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.99304/116.38755"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "一线天",
@@ -1010,7 +2260,17 @@
    "lat": 40.00278,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.00278/115.62841"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "颐和园",
@@ -1020,7 +2280,21 @@
    "drive": "",
    "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
    "rating": "5A",
-   "ratingSrc": "国家5A名录(2025.3·358家)"
+   "ratingSrc": "国家5A名录(2025.3·358家)",
+   "sources": [
+    {
+     "n": "5A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B65A%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.99672/116.2758"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "簋街雕像",
@@ -1028,7 +2302,17 @@
    "lat": 39.93979,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.93979/116.4264"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "Tang Contemporary Art",
@@ -1036,7 +2320,17 @@
    "lat": 39.98508,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.98508/116.48808"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "Pace Beijing",
@@ -1044,7 +2338,17 @@
    "lat": 39.98562,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.98562/116.48939"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "Chess Park",
@@ -1052,7 +2356,17 @@
    "lat": 40.02844,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.02844/116.40112"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "Ghost Street Food",
@@ -1060,7 +2374,17 @@
    "lat": 39.93986,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.93986/116.42654"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "京东大峡谷",
@@ -1070,7 +2394,21 @@
    "drive": "",
    "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
    "rating": "4A",
-   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)"
+   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)",
+   "sources": [
+    {
+     "n": "4A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6AAAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.24593/117.15108"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "龙庆峡",
@@ -1080,7 +2418,21 @@
    "drive": "",
    "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
    "rating": "4A",
-   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)"
+   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)",
+   "sources": [
+    {
+     "n": "4A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6AAAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.53643/116.01004"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "蕨菜台",
@@ -1088,7 +2440,17 @@
    "lat": 39.97925,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.97925/115.8882"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "北大壶",
@@ -1096,7 +2458,17 @@
    "lat": 40.05617,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.05617/115.94875"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "八达岭古长城登城口",
@@ -1104,7 +2476,17 @@
    "lat": 40.33295,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.33295/115.9766"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "景明楼",
@@ -1112,7 +2494,17 @@
    "lat": 39.98497,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.98497/116.26775"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "野猪窝",
@@ -1120,7 +2512,17 @@
    "lat": 40.05351,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.05351/116.06342"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "前门历史大街",
@@ -1128,7 +2530,17 @@
    "lat": 39.89338,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.89338/116.39193"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "照壁",
@@ -1136,7 +2548,17 @@
    "lat": 39.94367,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.94367/116.41105"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "湖南会馆",
@@ -1144,7 +2566,17 @@
    "lat": 39.88432,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.88432/116.36585"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "三里屯",
@@ -1152,7 +2584,17 @@
    "lat": 39.9352,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.9352/116.44923"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "周口店坡峰岭风景区",
@@ -1160,7 +2602,17 @@
    "lat": 39.69494,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.69494/115.8387"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "正大光明",
@@ -1168,7 +2620,17 @@
    "lat": 40.00189,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.00189/116.29052"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "九洲清晏",
@@ -1176,7 +2638,17 @@
    "lat": 40.00288,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.00288/116.29054"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "坦坦荡荡",
@@ -1184,7 +2656,17 @@
    "lat": 40.00415,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.00415/116.28828"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "杏花春馆",
@@ -1192,7 +2674,17 @@
    "lat": 40.0047,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.0047/116.28823"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "上下天光",
@@ -1200,7 +2692,17 @@
    "lat": 40.00547,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.00547/116.28946"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "慈云普护",
@@ -1208,7 +2710,17 @@
    "lat": 40.00576,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.00576/116.29043"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "勤政亲贤",
@@ -1216,7 +2728,17 @@
    "lat": 40.00255,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.00255/116.29242"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "洞天深处",
@@ -1224,7 +2746,17 @@
    "lat": 40.00277,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.00277/116.29492"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "曲院风荷",
@@ -1232,7 +2764,17 @@
    "lat": 40.0048,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.0048/116.29387"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "镂月开云",
@@ -1240,7 +2782,17 @@
    "lat": 40.00378,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.00378/116.29193"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "别有洞天",
@@ -1248,7 +2800,17 @@
    "lat": 40.00568,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.00568/116.30124"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "夹镜鸣琴",
@@ -1256,7 +2818,17 @@
    "lat": 40.00578,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.00578/116.30039"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "山高水长",
@@ -1264,7 +2836,17 @@
    "lat": 40.00331,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.00331/116.2864"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "万方安和",
@@ -1272,7 +2854,17 @@
    "lat": 40.00557,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.00557/116.28669"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "武陵春色",
@@ -1280,7 +2872,17 @@
    "lat": 40.00632,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.00632/116.28738"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "日光琳宇",
@@ -1288,7 +2890,17 @@
    "lat": 40.00851,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.00851/116.28557"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "鸿慈永祜",
@@ -1296,7 +2908,17 @@
    "lat": 40.00875,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.00875/116.28369"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "月地云居",
@@ -1304,7 +2926,17 @@
    "lat": 40.00606,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.00606/116.2841"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "濂溪乐处",
@@ -1312,7 +2944,17 @@
    "lat": 40.00944,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.00944/116.28765"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "水流云在",
@@ -1320,7 +2962,17 @@
    "lat": 40.00911,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.00911/116.29019"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "坐石临流",
@@ -1328,7 +2980,17 @@
    "lat": 40.0082,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.0082/116.29214"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "汇芳书院",
@@ -1336,7 +2998,17 @@
    "lat": 40.01026,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.01026/116.28564"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "多稼如云",
@@ -1344,7 +3016,17 @@
    "lat": 40.0108,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.0108/116.28946"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "北远山村",
@@ -1352,7 +3034,17 @@
    "lat": 40.01154,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.01154/116.28836"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "廓然大公",
@@ -1360,7 +3052,17 @@
    "lat": 40.01019,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.01019/116.29416"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "蓬岛瑶台",
@@ -1368,7 +3070,17 @@
    "lat": 40.00813,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.00813/116.29827"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "天梯",
@@ -1376,7 +3088,17 @@
    "lat": 40.11476,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.11476/116.08105"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "十八槐",
@@ -1384,7 +3106,17 @@
    "lat": 39.91433,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.91433/116.38924"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "明思宗殉国处",
@@ -1392,7 +3124,17 @@
    "lat": 39.92324,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.92324/116.39275"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "京东大溶洞",
@@ -1402,7 +3144,21 @@
    "drive": "",
    "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
    "rating": "4A",
-   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)"
+   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)",
+   "sources": [
+    {
+     "n": "4A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6AAAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.21212/117.25071"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "德和园",
@@ -1410,7 +3166,17 @@
    "lat": 39.99703,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.99703/116.27381"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "淡泊宁静",
@@ -1418,7 +3184,17 @@
    "lat": 40.00779,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.00779/116.29032"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "平湖秋月",
@@ -1426,7 +3202,17 @@
    "lat": 40.01044,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.01044/116.29582"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "方壶胜境",
@@ -1434,7 +3220,17 @@
    "lat": 40.01175,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.01175/116.30043"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "线法画",
@@ -1442,7 +3238,17 @@
    "lat": 40.01218,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.01218/116.30911"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "方外观",
@@ -1450,7 +3256,17 @@
    "lat": 40.0119,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.0119/116.30374"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "远瀛观",
@@ -1458,7 +3274,17 @@
    "lat": 40.01239,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.01239/116.30658"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "养雀笼",
@@ -1466,7 +3292,17 @@
    "lat": 40.01154,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.01154/116.30196"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "花园门",
@@ -1474,7 +3310,17 @@
    "lat": 40.01164,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.01164/116.3028"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "Stone",
@@ -1482,7 +3328,17 @@
    "lat": 40.01106,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.01106/116.29216"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "Former Bridge",
@@ -1490,7 +3346,17 @@
    "lat": 40.00888,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.00888/116.30315"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "文昌阁",
@@ -1498,7 +3364,17 @@
    "lat": 39.99541,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.99541/116.27447"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "翰林院遗址",
@@ -1506,7 +3382,17 @@
    "lat": 39.90386,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.90386/116.39987"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "龙潭谷",
@@ -1514,7 +3400,17 @@
    "lat": 40.07362,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.07362/116.07575"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "总理各国事务衙门建筑遗存",
@@ -1522,7 +3418,17 @@
    "lat": 39.91285,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.91285/116.4153"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "慕田峪长城",
@@ -1532,7 +3438,21 @@
    "drive": "",
    "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
    "rating": "5A",
-   "ratingSrc": "国家5A名录(2025.3·358家)"
+   "ratingSrc": "国家5A名录(2025.3·358家)",
+   "sources": [
+    {
+     "n": "5A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B65A%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.43114/116.55776"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "玻璃栈道",
@@ -1540,7 +3460,17 @@
    "lat": 40.43629,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.43629/116.56199"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "石花洞",
@@ -1548,7 +3478,17 @@
    "lat": 39.79468,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.79468/115.94047"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "银狐洞",
@@ -1556,7 +3496,17 @@
    "lat": 39.8012,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.8012/115.88985"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "将军坨风景区入口",
@@ -1564,7 +3514,17 @@
    "lat": 39.83726,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.83726/115.95944"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "漂流滑道",
@@ -1572,7 +3532,17 @@
    "lat": 39.79577,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.79577/115.94688"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "月亮山风景区",
@@ -1580,7 +3550,17 @@
    "lat": 39.79707,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.79707/115.94818"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "羡鱼潭",
@@ -1588,7 +3568,17 @@
    "lat": 39.85086,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.85086/115.56368"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "盘龙松风景区",
@@ -1596,7 +3586,17 @@
    "lat": 40.37521,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.37521/116.32013"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "亚洲第一桥观光入口",
@@ -1604,7 +3604,17 @@
    "lat": 40.09166,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.09166/115.75003"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "实山上人塔",
@@ -1612,7 +3622,17 @@
    "lat": 39.86561,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.86561/116.06434"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "映水兰香",
@@ -1620,7 +3640,17 @@
    "lat": 40.0071,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.0071/116.28922"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "澡身浴德",
@@ -1628,7 +3658,17 @@
    "lat": 40.00904,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.00904/116.29484"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "涵虚朗鉴",
@@ -1636,7 +3676,17 @@
    "lat": 40.00994,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.00994/116.30104"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "四宜书屋",
@@ -1644,7 +3694,17 @@
    "lat": 40.01208,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.01208/116.29657"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "接秀山房",
@@ -1652,7 +3712,17 @@
    "lat": 40.00713,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.00713/116.30156"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "茹古涵今",
@@ -1660,7 +3730,17 @@
    "lat": 40.00323,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.00323/116.28849"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "帽儿胡同",
@@ -1668,7 +3748,17 @@
    "lat": 39.93511,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.93511/116.3926"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "循郡王府",
@@ -1676,7 +3766,17 @@
    "lat": 39.94272,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.94272/116.4083"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "齐白石故居",
@@ -1684,7 +3784,17 @@
    "lat": 39.93432,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.93432/116.39526"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "黑石窟",
@@ -1692,7 +3802,17 @@
    "lat": 40.95382,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.95382/116.44722"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "Houhai Lake Hutong Alley",
@@ -1700,7 +3820,17 @@
    "lat": 39.94398,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.94398/116.37462"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "佛香阁",
@@ -1708,7 +3838,17 @@
    "lat": 39.99806,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.99806/116.26794"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "法国邮政局旧址",
@@ -1716,7 +3856,17 @@
    "lat": 39.90128,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.90128/116.40309"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "精灵谷",
@@ -1724,7 +3874,17 @@
    "lat": 40.59597,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.59597/116.78046"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "隔云钟",
@@ -1732,7 +3892,17 @@
    "lat": 39.99117,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.99117/116.1847"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "大梅字石刻",
@@ -1740,7 +3910,17 @@
    "lat": 39.9887,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.9887/116.17337"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "五龙亭",
@@ -1748,7 +3928,17 @@
    "lat": 39.92845,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.92845/116.37981"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "药师洞",
@@ -1756,7 +3946,17 @@
    "lat": 39.86639,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.86639/116.06479"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "关公洞",
@@ -1764,7 +3964,17 @@
    "lat": 39.86645,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.86645/116.06607"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "道孚塔",
@@ -1772,7 +3982,17 @@
    "lat": 39.86644,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.86644/116.06492"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "金灯洞",
@@ -1780,7 +4000,17 @@
    "lat": 39.86752,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.86752/116.06659"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "文殊庵",
@@ -1788,7 +4018,17 @@
    "lat": 39.86734,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.86734/116.06719"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "护国宝塔",
@@ -1796,7 +4036,17 @@
    "lat": 39.86787,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.86787/116.06866"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "观音洞",
@@ -1804,7 +4054,17 @@
    "lat": 39.86788,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.86788/116.06854"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "龙泉",
@@ -1812,7 +4072,17 @@
    "lat": 39.86784,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.86784/116.06847"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "碑记",
@@ -1820,7 +4090,17 @@
    "lat": 39.86732,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.86732/116.06705"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "佛岩垂笑",
@@ -1828,7 +4108,17 @@
    "lat": 39.86568,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.86568/116.06471"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "财神洞",
@@ -1836,7 +4126,17 @@
    "lat": 39.86711,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.86711/116.067"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "送子观音洞",
@@ -1844,7 +4144,17 @@
    "lat": 39.867,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.867/116.06697"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "达摩洞",
@@ -1852,7 +4162,17 @@
    "lat": 39.86642,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.86642/116.06693"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "树屋",
@@ -1860,7 +4180,17 @@
    "lat": 39.89995,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.89995/116.24937"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "Tower 17",
@@ -1868,7 +4198,17 @@
    "lat": 40.44351,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.44351/116.55694"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "昆明湖",
@@ -1876,7 +4216,17 @@
    "lat": 39.98589,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.98589/116.26906"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "马刨泉（断流）",
@@ -1884,7 +4234,17 @@
    "lat": 40.04323,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.04323/116.06775"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "草甸芳华",
@@ -1892,7 +4252,17 @@
    "lat": 40.07832,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.07832/116.4693"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "自清亭",
@@ -1900,7 +4270,17 @@
    "lat": 40.00213,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.00213/116.31731"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "北院",
@@ -1908,7 +4288,17 @@
    "lat": 40.00475,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.00475/116.3196"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "京西古道玉河天梯",
@@ -1916,7 +4306,17 @@
    "lat": 39.92728,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.92728/116.01499"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "马蹄窝",
@@ -1924,7 +4324,17 @@
    "lat": 39.92508,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.92508/115.99855"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "侏罗纪木化石",
@@ -1932,7 +4342,17 @@
    "lat": 39.98914,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.98914/116.20816"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "L2",
@@ -1940,7 +4360,17 @@
    "lat": 40.08393,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.08393/116.5143"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "L1",
@@ -1948,7 +4378,17 @@
    "lat": 40.0825,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.0825/116.51492"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "百里山水画廊",
@@ -1958,7 +4398,21 @@
    "drive": "",
    "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
    "rating": "4A",
-   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)"
+   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)",
+   "sources": [
+    {
+     "n": "4A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6AAAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.65923/116.24411"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "方丈院",
@@ -1966,7 +4420,17 @@
    "lat": 39.86786,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.86786/116.08038"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "鼎",
@@ -1974,7 +4438,17 @@
    "lat": 39.83536,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.83536/115.71452"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "小断崖",
@@ -1982,7 +4456,17 @@
    "lat": 39.97903,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.97903/116.16028"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "鹰嘴岩",
@@ -1990,7 +4474,17 @@
    "lat": 40.06594,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.06594/116.08496"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "龙门口一线天",
@@ -1998,7 +4492,17 @@
    "lat": 40.05774,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.05774/115.66831"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "金鸽台",
@@ -2006,7 +4510,17 @@
    "lat": 40.01049,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.01049/116.18581"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "桃花谷",
@@ -2014,7 +4528,17 @@
    "lat": 39.9669,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.9669/116.02936"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "双桥诗韵",
@@ -2022,7 +4546,17 @@
    "lat": 39.98486,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.98486/116.29252"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "万泉漱玉",
@@ -2030,7 +4564,17 @@
    "lat": 39.98472,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.98472/116.28896"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "丹棱晴波",
@@ -2038,7 +4582,17 @@
    "lat": 39.98553,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.98553/116.28819"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "讨源书声",
@@ -2046,7 +4600,17 @@
    "lat": 39.985,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.985/116.28699"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "御稻流香",
@@ -2054,7 +4618,17 @@
    "lat": 39.98433,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.98433/116.28684"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "古亭观稼",
@@ -2062,7 +4636,17 @@
    "lat": 39.98407,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.98407/116.28636"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "挂壁小道",
@@ -2070,7 +4654,17 @@
    "lat": 39.71619,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.71619/115.81358"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "2008 Summer Olympics",
@@ -2078,7 +4672,17 @@
    "lat": 40.2606,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.2606/117.10723"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "海棠谷",
@@ -2086,7 +4690,17 @@
    "lat": 39.88402,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.88402/116.1802"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "鳄鱼石",
@@ -2094,7 +4708,17 @@
    "lat": 39.67201,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.67201/115.78168"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "窝棚",
@@ -2102,7 +4726,17 @@
    "lat": 40.07817,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.07817/116.06337"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "上方寺遗址",
@@ -2110,7 +4744,17 @@
    "lat": 40.11276,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.11276/116.0715"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "宫保石寨",
@@ -2118,7 +4762,17 @@
    "lat": 40.11648,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.11648/116.07798"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "通天入海",
@@ -2126,7 +4780,17 @@
    "lat": 40.118,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.118/116.08101"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "望天吼",
@@ -2134,7 +4798,17 @@
    "lat": 40.12048,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.12048/116.08241"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "鲸鱼背",
@@ -2142,7 +4816,17 @@
    "lat": 40.11384,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.11384/116.08006"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "依度崖",
@@ -2150,7 +4834,17 @@
    "lat": 40.11201,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.11201/116.07503"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "凤凰岭云梯",
@@ -2158,7 +4852,17 @@
    "lat": 40.1054,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.1054/116.08164"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "熬狱沟断崖",
@@ -2166,7 +4870,17 @@
    "lat": 40.10454,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.10454/116.07784"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "不死葫芦套",
@@ -2174,7 +4888,17 @@
    "lat": 40.1215,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.1215/116.0793"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "乘凉石",
@@ -2182,7 +4906,17 @@
    "lat": 40.11366,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.11366/116.08321"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "宝云寺遗址",
@@ -2190,7 +4924,17 @@
    "lat": 40.13644,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.13644/116.08956"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "石云寺遗址",
@@ -2198,7 +4942,17 @@
    "lat": 40.13276,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.13276/116.08262"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "花海香风",
@@ -2206,7 +4960,17 @@
    "lat": 39.90062,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.90062/116.14672"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "石蹬春晓",
@@ -2214,7 +4978,17 @@
    "lat": 39.90476,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.90476/116.14747"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "儿童活动空间",
@@ -2222,7 +4996,17 @@
    "lat": 39.9145,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.9145/116.13904"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "莲湖秋月",
@@ -2230,7 +5014,17 @@
    "lat": 39.90944,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.90944/116.1404"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "凤凰岭石刻",
@@ -2238,7 +5032,17 @@
    "lat": 40.1102,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.1102/116.08641"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "杏花村",
@@ -2246,7 +5050,17 @@
    "lat": 40.10419,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.10419/116.08888"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "北交北下关测速器",
@@ -2254,7 +5068,17 @@
    "lat": 39.94714,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.94714/116.3403"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "奇幻光影森林",
@@ -2262,7 +5086,17 @@
    "lat": 40.44698,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.44698/115.9511"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "百松云屏",
@@ -2270,7 +5104,17 @@
    "lat": 40.43619,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.43619/115.94412"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "九洲花境",
@@ -2278,7 +5122,17 @@
    "lat": 40.44224,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.44224/115.94312"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "并秀台",
@@ -2286,7 +5140,17 @@
    "lat": 40.44163,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.44163/115.94818"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "世艺花舞",
@@ -2294,7 +5158,17 @@
    "lat": 40.44005,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.44005/115.95314"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "大缸",
@@ -2302,7 +5176,17 @@
    "lat": 39.94288,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.94288/115.93095"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "灌溉记忆",
@@ -2310,7 +5194,17 @@
    "lat": 40.44508,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.44508/115.95071"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "雨水花园",
@@ -2318,7 +5212,17 @@
    "lat": 40.44609,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.44609/115.95393"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "林木花坡",
@@ -2326,7 +5230,17 @@
    "lat": 40.44683,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.44683/115.95433"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "柳叶织荫",
@@ -2334,7 +5248,17 @@
    "lat": 40.44684,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.44684/115.95596"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "壶穴",
@@ -2342,7 +5266,17 @@
    "lat": 39.86857,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.86857/115.89973"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "张良洞",
@@ -2350,7 +5284,17 @@
    "lat": 39.8725,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.8725/115.9208"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "极速飞车",
@@ -2358,7 +5302,17 @@
    "lat": 39.86506,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.86506/116.48898"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "喷泉光影秀",
@@ -2366,7 +5320,17 @@
    "lat": 39.86518,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.86518/116.49055"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "玛雅天灾",
@@ -2374,7 +5338,17 @@
    "lat": 39.86827,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.86827/116.48877"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "欢乐世界",
@@ -2384,7 +5358,21 @@
    "drive": "",
    "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
    "rating": "4A",
-   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)"
+   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)",
+   "sources": [
+    {
+     "n": "4A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6AAAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.86821/116.48979"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "奇幻东方",
@@ -2392,7 +5380,17 @@
    "lat": 39.86819,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.86819/116.49093"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "奇幻海洋馆",
@@ -2400,7 +5398,17 @@
    "lat": 39.86698,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.86698/116.4921"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "华侨城大剧院",
@@ -2408,7 +5416,17 @@
    "lat": 39.86606,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.86606/116.49258"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "太阳神车",
@@ -2416,7 +5434,17 @@
    "lat": 39.86692,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.86692/116.48787"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "雪域金翅过山车",
@@ -2424,7 +5452,17 @@
    "lat": 39.86521,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.86521/116.48462"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "丛林飞车",
@@ -2432,7 +5470,17 @@
    "lat": 39.8681,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.8681/116.48736"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "燕子李三实景剧场",
@@ -2440,7 +5488,17 @@
    "lat": 39.86743,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.86743/116.48597"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "异域魔窟",
@@ -2448,7 +5506,17 @@
    "lat": 39.86663,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.86663/116.48482"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "X战车",
@@ -2456,7 +5524,17 @@
    "lat": 39.86477,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.86477/116.48868"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "家庭过山车",
@@ -2464,7 +5542,17 @@
    "lat": 39.86548,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.86548/116.48676"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "旋转木马",
@@ -2472,7 +5560,17 @@
    "lat": 39.86515,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.86515/116.48787"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "飞跃牛奶河",
@@ -2480,7 +5578,17 @@
    "lat": 39.86525,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.86525/116.48704"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "天使之翼",
@@ -2488,7 +5596,17 @@
    "lat": 39.8648,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.8648/116.49044"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "聚能飞船",
@@ -2496,7 +5614,17 @@
    "lat": 39.86615,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.86615/116.49001"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "水晶神翼",
@@ -2504,7 +5632,17 @@
    "lat": 39.86629,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.86629/116.48814"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "特洛伊木马",
@@ -2512,7 +5650,17 @@
    "lat": 39.86685,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.86685/116.49092"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "异域风情街",
@@ -2520,7 +5668,17 @@
    "lat": 39.86775,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.86775/116.49202"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "蹦床馆",
@@ -2528,7 +5686,17 @@
    "lat": 39.86606,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.86606/116.49153"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "水晶圣城",
@@ -2536,7 +5704,17 @@
    "lat": 39.86593,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.86593/116.48872"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "能量风暴",
@@ -2544,7 +5722,17 @@
    "lat": 39.86664,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.86664/116.48955"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "天地双雄",
@@ -2552,7 +5740,17 @@
    "lat": 39.866,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.866/116.48429"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "大漂流",
@@ -2560,7 +5758,17 @@
    "lat": 39.86586,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.86586/116.48541"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "欢乐广场",
@@ -2568,7 +5776,17 @@
    "lat": 39.86488,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.86488/116.48931"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "游览观光车",
@@ -2576,7 +5794,17 @@
    "lat": 39.86537,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.86537/116.49106"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "出口",
@@ -2584,7 +5812,17 @@
    "lat": 39.86539,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.86539/116.49206"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "入口",
@@ -2592,7 +5830,17 @@
    "lat": 39.86505,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.86505/116.49193"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "花样滑稽情景跳水",
@@ -2600,7 +5848,17 @@
    "lat": 39.86604,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.86604/116.4893"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "丛林驿站",
@@ -2608,7 +5866,17 @@
    "lat": 39.86744,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.86744/116.48706"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "大草帽",
@@ -2616,7 +5884,17 @@
    "lat": 39.86756,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.86756/116.48938"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "鬼关岭断崖",
@@ -2624,7 +5902,17 @@
    "lat": 39.77497,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.77497/115.9166"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "Washington Monument",
@@ -2632,7 +5920,17 @@
    "lat": 39.80864,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.80864/116.27813"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "旸台山清水院藏经记碑",
@@ -2640,7 +5938,17 @@
    "lat": 40.0515,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.0515/116.09879"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "古银杏树",
@@ -2648,7 +5956,17 @@
    "lat": 40.05118,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.05118/116.09909"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "龙凤树",
@@ -2656,7 +5974,17 @@
    "lat": 40.05173,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.05173/116.10027"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "香山岩",
@@ -2664,7 +5992,17 @@
    "lat": 40.01079,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.01079/116.18581"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "狮王岩",
@@ -2672,7 +6010,17 @@
    "lat": 39.98556,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.98556/116.15575"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "朱雀迎宾",
@@ -2680,7 +6028,17 @@
    "lat": 39.76805,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.76805/116.46608"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "银杏听涛",
@@ -2688,7 +6046,17 @@
    "lat": 39.76861,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.76861/116.46078"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "坡塘眼影",
@@ -2696,7 +6064,17 @@
    "lat": 39.7722,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.7722/116.45683"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "四空洞",
@@ -2704,7 +6082,17 @@
    "lat": 40.05699,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.05699/115.87636"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "清华园",
@@ -2712,7 +6100,17 @@
    "lat": 40.00103,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.00103/116.31693"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "柳暗花明",
@@ -2720,7 +6118,17 @@
    "lat": 40.1084,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.1084/116.07574"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "撒旦谷",
@@ -2728,7 +6136,17 @@
    "lat": 40.10866,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.10866/116.07557"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "牛角沟",
@@ -2736,7 +6154,17 @@
    "lat": 40.10949,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.10949/116.0726"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "杏花村南坡",
@@ -2744,7 +6172,17 @@
    "lat": 40.10582,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.10582/116.08378"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "所罗门断崖",
@@ -2752,7 +6190,17 @@
    "lat": 40.10515,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.10515/116.07739"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "天门沟",
@@ -2760,7 +6208,17 @@
    "lat": 40.11224,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.11224/116.0816"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "仙人足迹",
@@ -2768,7 +6226,17 @@
    "lat": 40.11334,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.11334/116.08442"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "鹞子翻身",
@@ -2776,7 +6244,17 @@
    "lat": 40.10303,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.10303/116.07955"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "天锅",
@@ -2784,7 +6262,17 @@
    "lat": 40.10262,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.10262/116.07995"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "北极熊",
@@ -2792,7 +6280,17 @@
    "lat": 40.1052,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.1052/116.07455"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "斑羚崖",
@@ -2800,7 +6298,17 @@
    "lat": 40.10779,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.10779/116.07178"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "龙脊",
@@ -2808,7 +6316,17 @@
    "lat": 40.1054,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.1054/116.07386"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "狼神岭",
@@ -2816,7 +6334,17 @@
    "lat": 40.10415,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.10415/116.07177"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "猴子观日",
@@ -2824,7 +6352,17 @@
    "lat": 40.1033,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.1033/116.06946"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "九女缸",
@@ -2832,7 +6370,17 @@
    "lat": 40.09911,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.09911/116.07613"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "恐龙骨架",
@@ -2840,7 +6388,17 @@
    "lat": 40.11432,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.11432/116.08215"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "龙种",
@@ -2848,7 +6406,17 @@
    "lat": 40.11516,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.11516/116.07859"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "龙骨沟",
@@ -2856,7 +6424,17 @@
    "lat": 40.11747,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.11747/116.08832"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "仰石",
@@ -2864,7 +6442,17 @@
    "lat": 40.11667,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.11667/116.0782"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "雪龙坡",
@@ -2872,7 +6460,17 @@
    "lat": 40.11653,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.11653/116.08411"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "蛟龙坡",
@@ -2880,7 +6478,17 @@
    "lat": 40.11605,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.11605/116.08272"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "獾乐谷",
@@ -2888,7 +6496,17 @@
    "lat": 40.11592,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.11592/116.0807"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "千米大陡坡",
@@ -2896,7 +6514,17 @@
    "lat": 40.10608,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.10608/116.084"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "雄狮坡",
@@ -2904,7 +6532,17 @@
    "lat": 40.10491,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.10491/116.08329"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "旺财石",
@@ -2912,7 +6550,17 @@
    "lat": 40.11128,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.11128/116.08605"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "天王石",
@@ -2920,7 +6568,17 @@
    "lat": 40.10975,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.10975/116.08554"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "大屋顶",
@@ -2928,7 +6586,17 @@
    "lat": 40.11239,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.11239/116.07773"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "冲天缝",
@@ -2936,7 +6604,17 @@
    "lat": 40.10289,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.10289/116.06959"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "禅石",
@@ -2944,7 +6622,17 @@
    "lat": 40.10312,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.10312/116.07347"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "炮弹沟",
@@ -2952,7 +6640,17 @@
    "lat": 40.1081,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.1081/116.07163"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "神蛙石",
@@ -2960,7 +6658,17 @@
    "lat": 40.06971,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.06971/116.0669"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "迎客松",
@@ -2968,7 +6676,17 @@
    "lat": 40.05226,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.05226/116.01752"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "马背岭",
@@ -2976,7 +6694,17 @@
    "lat": 40.10508,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.10508/116.07021"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "天狼二号崖",
@@ -2984,7 +6712,17 @@
    "lat": 40.10665,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.10665/116.07653"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "三通石缝",
@@ -2992,7 +6730,17 @@
    "lat": 40.11519,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.11519/116.07709"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "天狼石缝",
@@ -3000,7 +6748,17 @@
    "lat": 40.1142,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.1142/116.07923"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "蜥蜴石",
@@ -3008,7 +6766,17 @@
    "lat": 40.11229,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.11229/116.07783"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "绝望谷",
@@ -3016,7 +6784,17 @@
    "lat": 40.1124,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.1124/116.07863"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "水断崖",
@@ -3024,7 +6802,17 @@
    "lat": 40.11303,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.11303/116.07902"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "景行断崖",
@@ -3032,7 +6820,17 @@
    "lat": 40.11511,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.11511/116.07893"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "铁矿崖",
@@ -3040,7 +6838,17 @@
    "lat": 40.12991,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.12991/116.08682"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "狮子头石缝",
@@ -3048,7 +6856,17 @@
    "lat": 40.11423,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.11423/116.08498"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "青龙西沟断崖",
@@ -3056,7 +6874,17 @@
    "lat": 40.1173,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.1173/116.08616"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "峰恋石",
@@ -3064,7 +6892,17 @@
    "lat": 40.11508,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.11508/116.08446"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "捣衣庵摩崖石塔",
@@ -3072,7 +6910,17 @@
    "lat": 40.1124,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.1124/116.08376"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "企鹅石",
@@ -3080,7 +6928,17 @@
    "lat": 40.10279,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.10279/116.07932"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "天狼一号崖/所罗门断崖B",
@@ -3088,7 +6946,17 @@
    "lat": 40.1059,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.1059/116.07695"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "天狼三号崖",
@@ -3096,7 +6964,17 @@
    "lat": 40.10707,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.10707/116.07641"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "大黄蜂",
@@ -3104,7 +6982,17 @@
    "lat": 40.10448,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.10448/116.07689"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "勾股崖",
@@ -3112,7 +7000,17 @@
    "lat": 40.11909,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.11909/116.0906"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "乌龟石",
@@ -3120,7 +7018,17 @@
    "lat": 40.11977,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.11977/116.08885"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "天书",
@@ -3128,7 +7036,17 @@
    "lat": 40.11879,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.11879/116.0864"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "团河行宫遗址公园",
@@ -3136,7 +7054,17 @@
    "lat": 39.74586,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.74586/116.37461"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "青龙壁",
@@ -3144,7 +7072,17 @@
    "lat": 40.11812,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.11812/116.08776"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "鹰咀石",
@@ -3152,7 +7090,17 @@
    "lat": 40.12713,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.12713/116.06542"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "映日潭",
@@ -3160,7 +7108,17 @@
    "lat": 40.12156,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.12156/116.08004"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "老虎嘴",
@@ -3168,7 +7126,17 @@
    "lat": 40.12143,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.12143/116.08504"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "神龟盖天",
@@ -3176,7 +7144,17 @@
    "lat": 40.12015,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.12015/116.08245"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "断崖",
@@ -3184,7 +7162,17 @@
    "lat": 40.03309,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.03309/116.00978"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "对面乜",
@@ -3192,7 +7180,17 @@
    "lat": 39.97443,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.97443/116.01694"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "张家山大裂缝",
@@ -3200,7 +7198,17 @@
    "lat": 40.05075,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.05075/115.93274"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "南大壶",
@@ -3208,7 +7216,17 @@
    "lat": 40.0481,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.0481/115.94858"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "壁虎崖",
@@ -3216,7 +7234,17 @@
    "lat": 40.0565,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.0565/115.94853"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "聚财石",
@@ -3224,7 +7252,17 @@
    "lat": 40.05378,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.05378/115.95177"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "聚宝盆",
@@ -3232,7 +7270,17 @@
    "lat": 40.05236,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.05236/115.95287"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "大塌",
@@ -3240,7 +7288,17 @@
    "lat": 40.06127,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.06127/115.9527"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "菩萨山景区大门",
@@ -3248,7 +7306,17 @@
    "lat": 40.1002,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.1002/115.97578"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "冰川漂砾",
@@ -3256,7 +7324,17 @@
    "lat": 39.96107,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.96107/116.05625"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "石佛岭古道",
@@ -3264,7 +7342,17 @@
    "lat": 39.97501,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.97501/116.00855"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "花沟二号瀑布",
@@ -3272,7 +7360,17 @@
    "lat": 39.93981,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.93981/115.97525"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "花沟三号瀑布",
@@ -3280,7 +7378,17 @@
    "lat": 39.93832,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.93832/115.97426"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "断崖（可绕）",
@@ -3288,7 +7396,17 @@
    "lat": 39.90236,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.90236/115.93209"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "三连断崖",
@@ -3296,7 +7414,17 @@
    "lat": 39.91115,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.91115/115.9295"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "二缸",
@@ -3304,7 +7432,17 @@
    "lat": 39.94299,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.94299/115.93119"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "三缸",
@@ -3312,7 +7450,17 @@
    "lat": 39.94299,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.94299/115.93153"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "四缸",
@@ -3320,7 +7468,17 @@
    "lat": 39.94278,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.94278/115.93165"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "五缸",
@@ -3328,7 +7486,17 @@
    "lat": 39.94272,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.94272/115.9334"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "废村",
@@ -3336,7 +7504,17 @@
    "lat": 39.90712,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.90712/115.88711"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "宽岩缝",
@@ -3344,7 +7522,17 @@
    "lat": 39.89687,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.89687/115.8562"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "断崖（西绕）",
@@ -3352,7 +7540,17 @@
    "lat": 39.84869,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.84869/115.9358"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "危险断崖",
@@ -3360,7 +7558,17 @@
    "lat": 39.8924,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.8924/115.98049"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "老二胡崖",
@@ -3368,7 +7576,17 @@
    "lat": 39.9809,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.9809/116.18475"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "石穴",
@@ -3376,7 +7594,17 @@
    "lat": 40.09686,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.09686/116.06079"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "”赤藻玉液“摩崖石刻",
@@ -3384,7 +7612,17 @@
    "lat": 40.11302,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.11302/116.07925"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "金水潭",
@@ -3392,7 +7630,17 @@
    "lat": 40.11383,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.11383/116.0799"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "金龟探海",
@@ -3400,7 +7648,17 @@
    "lat": 40.06048,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.06048/116.08892"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "古清泉石",
@@ -3408,7 +7666,17 @@
    "lat": 40.06069,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.06069/116.08959"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "新清凉石",
@@ -3416,7 +7684,17 @@
    "lat": 40.06195,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.06195/116.09432"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "会仙台",
@@ -3424,7 +7702,17 @@
    "lat": 40.06381,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.06381/116.09726"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "骆驼石",
@@ -3432,7 +7720,17 @@
    "lat": 40.06801,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.06801/116.08598"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "状元石",
@@ -3440,7 +7738,17 @@
    "lat": 40.06973,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.06973/116.06788"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "修仙椅",
@@ -3448,7 +7756,17 @@
    "lat": 40.10415,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.10415/116.08571"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "龙潭谷大断崖",
@@ -3456,7 +7774,17 @@
    "lat": 40.07207,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.07207/116.06754"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "龙潭谷小断崖",
@@ -3464,7 +7792,17 @@
    "lat": 40.07316,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.07316/116.0736"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "山楂林",
@@ -3472,7 +7810,17 @@
    "lat": 40.07866,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.07866/116.05713"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "拴马桩",
@@ -3480,7 +7828,17 @@
    "lat": 39.87448,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.87448/115.92479"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "灰石峡",
@@ -3488,7 +7846,17 @@
    "lat": 39.91271,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.91271/115.95665"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "佛头发髻",
@@ -3496,7 +7864,17 @@
    "lat": 39.8907,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.8907/115.93427"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "象鼻山",
@@ -3504,7 +7882,17 @@
    "lat": 39.8328,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.8328/115.88915"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "石缝断崖",
@@ -3512,7 +7900,17 @@
    "lat": 39.87691,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.87691/115.90954"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "小壶",
@@ -3520,7 +7918,17 @@
    "lat": 39.87705,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.87705/115.91109"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "情人坡",
@@ -3528,7 +7936,17 @@
    "lat": 40.00438,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.00438/116.31936"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "夫妻树",
@@ -3536,7 +7954,17 @@
    "lat": 39.8874,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.8874/115.82701"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "金蟾抱树",
@@ -3544,7 +7972,17 @@
    "lat": 39.88877,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.88877/115.83041"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "相亲崖",
@@ -3552,7 +7990,17 @@
    "lat": 39.88643,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.88643/115.82644"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "辟谷坡",
@@ -3560,7 +8008,17 @@
    "lat": 39.87253,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.87253/115.92168"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "青苔断崖",
@@ -3568,7 +8026,17 @@
    "lat": 39.92247,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.92247/116.0166"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "蛤蟆石",
@@ -3576,7 +8044,17 @@
    "lat": 39.90401,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.90401/116.06793"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.beijing.gov.cn/"
+    }
+   ]
   }
  ],
  "rings": [

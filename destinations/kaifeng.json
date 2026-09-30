@@ -16,7 +16,17 @@
    "lat": 34.79574,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.79574/114.33302"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.kaifeng.gov.cn/"
+    }
+   ]
   },
   {
    "n": "曹门（东门）",
@@ -24,7 +34,17 @@
    "lat": 34.80072,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.80072/114.3661"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.kaifeng.gov.cn/"
+    }
+   ]
   },
   {
    "n": "宋门",
@@ -32,7 +52,17 @@
    "lat": 34.78762,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.78762/114.36125"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.kaifeng.gov.cn/"
+    }
+   ]
   },
   {
    "n": "朱雀门（大南门）",
@@ -40,7 +70,17 @@
    "lat": 34.78254,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.78254/114.34396"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.kaifeng.gov.cn/"
+    }
+   ]
   },
   {
    "n": "金水门",
@@ -48,7 +88,17 @@
    "lat": 34.81926,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.81926/114.33976"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.kaifeng.gov.cn/"
+    }
+   ]
   },
   {
    "n": "金明池遗址",
@@ -56,7 +106,17 @@
    "lat": 34.80052,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.80052/114.29285"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.kaifeng.gov.cn/"
+    }
+   ]
   },
   {
    "n": "大宋海船",
@@ -64,7 +124,17 @@
    "lat": 34.82134,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.82134/114.34302"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.kaifeng.gov.cn/"
+    }
+   ]
   },
   {
    "n": "铁塔",
@@ -72,7 +142,17 @@
    "lat": 34.81663,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.81663/114.36487"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.kaifeng.gov.cn/"
+    }
+   ]
   },
   {
    "n": "小西门",
@@ -80,7 +160,17 @@
    "lat": 34.79435,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.79435/114.32777"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.kaifeng.gov.cn/"
+    }
+   ]
   },
   {
    "n": "大梁门",
@@ -88,7 +178,17 @@
    "lat": 34.80152,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.80152/114.32808"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.kaifeng.gov.cn/"
+    }
+   ]
   },
   {
    "n": "新门（小南门）",
@@ -96,7 +196,17 @@
    "lat": 34.78254,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.78254/114.35282"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.kaifeng.gov.cn/"
+    }
+   ]
   },
   {
    "n": "樊楼",
@@ -104,7 +214,17 @@
    "lat": 34.80298,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.80298/114.34533"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.kaifeng.gov.cn/"
+    }
+   ]
   },
   {
    "n": "鼓楼",
@@ -112,7 +232,17 @@
    "lat": 34.79471,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.79471/114.35005"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.kaifeng.gov.cn/"
+    }
+   ]
   },
   {
    "n": "迎宾门",
@@ -120,7 +250,17 @@
    "lat": 34.7852,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.7852/114.33406"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.kaifeng.gov.cn/"
+    }
+   ]
   },
   {
    "n": "朱仙镇启封故园",
@@ -128,7 +268,17 @@
    "lat": 34.62789,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.62789/114.26695"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.kaifeng.gov.cn/"
+    }
+   ]
   }
  ],
  "rings": [

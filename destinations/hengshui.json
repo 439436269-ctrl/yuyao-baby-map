@@ -16,7 +16,21 @@
    "lat": 37.6127,
    "tag": "景点",
    "drive": "约 1 小时",
-   "note": "[KNOWN·坐标photon·衡水市] 衡水湖"
+   "note": "[KNOWN·坐标photon·衡水市] 衡水湖",
+   "sources": [
+    {
+     "n": "坐标定位",
+     "u": "https://www.openstreetmap.org/#map=14/37.6127/115.6048"
+    },
+    {
+     "n": "Photon·查询",
+     "u": "https://photon.komoot.io/?q=%E8%A1%A1%E6%B0%B4%E6%B9%96"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.hengshui.gov.cn/"
+    }
+   ]
   }
  ],
  "rings": [

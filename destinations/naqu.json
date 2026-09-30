@@ -16,7 +16,21 @@
    "lat": 31.061,
    "tag": "景点",
    "drive": "约 1 小时",
-   "note": "[KNOWN·坐标photon] 当惹雍措"
+   "note": "[KNOWN·坐标photon] 当惹雍措",
+   "sources": [
+    {
+     "n": "坐标定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.061/86.576"
+    },
+    {
+     "n": "Photon·查询",
+     "u": "https://photon.komoot.io/?q=%E5%BD%93%E6%83%B9%E9%9B%8D%E6%8E%AA"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.naqu.gov.cn/"
+    }
+   ]
   }
  ],
  "rings": [

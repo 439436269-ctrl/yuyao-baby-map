@@ -16,7 +16,17 @@
    "lat": 22.82141,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.82141/114.32713"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.huizhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "西湖北门码头",
@@ -24,7 +34,17 @@
    "lat": 23.10113,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.10113/114.39538"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.huizhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "鹰嘴岩",
@@ -32,7 +52,17 @@
    "lat": 23.27319,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.27319/114.04032"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.huizhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "星宿广场",
@@ -40,7 +70,17 @@
    "lat": 23.26626,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.26626/114.05905"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.huizhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "坡仙旧址",
@@ -48,7 +88,17 @@
    "lat": 23.26662,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.26662/114.05813"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.huizhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "天赐白金堤",
@@ -56,7 +106,17 @@
    "lat": 22.69187,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.69187/114.7503"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.huizhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "榕树角",
@@ -64,7 +124,17 @@
    "lat": 22.74243,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.74243/114.7431"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.huizhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "美女照镜",
@@ -72,7 +142,17 @@
    "lat": 22.73118,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.73118/114.73955"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.huizhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "朝真石",
@@ -80,7 +160,17 @@
    "lat": 23.27434,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.27434/114.03853"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.huizhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "连心谷（爱心潭）",
@@ -88,7 +178,17 @@
    "lat": 23.02985,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.02985/115.0739"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.huizhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "云峰岩",
@@ -96,7 +196,17 @@
    "lat": 23.279,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.279/114.03007"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.huizhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "燕子岩",
@@ -104,7 +214,17 @@
    "lat": 23.27681,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.27681/114.03589"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.huizhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "陳炯明墓",
@@ -112,7 +232,17 @@
    "lat": 23.09844,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.09844/114.38289"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.huizhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "九龙峰谭公祖庙",
@@ -120,7 +250,17 @@
    "lat": 22.95924,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.95924/114.80101"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.huizhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "沙坑角交通情报站旧址",
@@ -128,7 +268,17 @@
    "lat": 22.94628,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.94628/114.28272"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.huizhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "平海古城",
@@ -136,7 +286,17 @@
    "lat": 22.61425,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.61425/114.8712"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.huizhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "半島漁村",
@@ -144,7 +304,17 @@
    "lat": 22.65352,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.65352/114.79914"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.huizhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "惠州市植物园",
@@ -152,7 +322,17 @@
    "lat": 23.09647,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.09647/114.37609"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.huizhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "田坑村古建筑群",
@@ -160,7 +340,17 @@
    "lat": 22.97793,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.97793/114.83449"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.huizhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "水东街",
@@ -168,7 +358,17 @@
    "lat": 23.09389,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.09389/114.40483"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.huizhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "华家班汽车特技表演",
@@ -176,7 +376,17 @@
    "lat": 22.68987,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.68987/114.75469"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.huizhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "崇林世居",
@@ -184,7 +394,17 @@
    "lat": 22.93674,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.93674/114.29781"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.huizhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "盘古宫",
@@ -192,7 +412,17 @@
    "lat": 22.87712,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.87712/114.25339"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.huizhou.gov.cn/"
+    }
+   ]
   }
  ],
  "rings": [

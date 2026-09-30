@@ -16,7 +16,17 @@
    "lat": 27.68215,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/27.68215/117.96597"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.np.gov.cn/cms/html/npszf/index.html/"
+    }
+   ]
   },
   {
    "n": "老君岩",
@@ -24,7 +34,17 @@
    "lat": 27.65836,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/27.65836/117.94408"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.np.gov.cn/cms/html/npszf/index.html/"
+    }
+   ]
   },
   {
    "n": "水云寨遗址",
@@ -32,7 +52,17 @@
    "lat": 27.65183,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/27.65183/117.94516"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.np.gov.cn/cms/html/npszf/index.html/"
+    }
+   ]
   },
   {
    "n": "龙渡",
@@ -40,7 +70,17 @@
    "lat": 27.72712,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/27.72712/117.70409"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.np.gov.cn/cms/html/npszf/index.html/"
+    }
+   ]
   },
   {
    "n": "十八寨风景区",
@@ -48,7 +88,17 @@
    "lat": 27.68491,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/27.68491/117.77229"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.np.gov.cn/cms/html/npszf/index.html/"
+    }
+   ]
   },
   {
    "n": "龙川大峡谷",
@@ -56,7 +106,17 @@
    "lat": 27.67111,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/27.67111/117.79387"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.np.gov.cn/cms/html/npszf/index.html/"
+    }
+   ]
   },
   {
    "n": "武夷源凤凰瀑布",
@@ -64,7 +124,17 @@
    "lat": 27.60081,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/27.60081/117.73089"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.np.gov.cn/cms/html/npszf/index.html/"
+    }
+   ]
   },
   {
    "n": "武夷源林场",
@@ -72,7 +142,17 @@
    "lat": 27.60401,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/27.60401/117.73722"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.np.gov.cn/cms/html/npszf/index.html/"
+    }
+   ]
   },
   {
    "n": "武夷源生态旅游区",
@@ -80,7 +160,17 @@
    "lat": 27.62146,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/27.62146/117.79148"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.np.gov.cn/cms/html/npszf/index.html/"
+    }
+   ]
   },
   {
    "n": "玉龙谷",
@@ -88,7 +178,17 @@
    "lat": 27.63078,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/27.63078/117.80038"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.np.gov.cn/cms/html/npszf/index.html/"
+    }
+   ]
   },
   {
    "n": "小九曲",
@@ -96,7 +196,17 @@
    "lat": 27.6473,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/27.6473/117.94619"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.np.gov.cn/cms/html/npszf/index.html/"
+    }
+   ]
   },
   {
    "n": "遇林亭窑址",
@@ -104,7 +214,17 @@
    "lat": 27.68509,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/27.68509/117.93183"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.np.gov.cn/cms/html/npszf/index.html/"
+    }
+   ]
   },
   {
    "n": "碧霄洞",
@@ -112,7 +232,17 @@
    "lat": 27.66688,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/27.66688/117.94188"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.np.gov.cn/cms/html/npszf/index.html/"
+    }
+   ]
   },
   {
    "n": "佛塔",
@@ -120,7 +250,17 @@
    "lat": 27.68968,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/27.68968/117.9361"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.np.gov.cn/cms/html/npszf/index.html/"
+    }
+   ]
   },
   {
    "n": "莲峰叠翠",
@@ -128,7 +268,17 @@
    "lat": 27.69039,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/27.69039/117.93724"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.np.gov.cn/cms/html/npszf/index.html/"
+    }
+   ]
   },
   {
    "n": "朱熹墓",
@@ -136,7 +286,17 @@
    "lat": 27.57035,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/27.57035/117.63791"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.np.gov.cn/cms/html/npszf/index.html/"
+    }
+   ]
   },
   {
    "n": "万木林",
@@ -144,7 +304,17 @@
    "lat": 27.04839,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/27.04839/118.14351"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.np.gov.cn/cms/html/npszf/index.html/"
+    }
+   ]
   },
   {
    "n": "旧市义仓",
@@ -152,7 +322,17 @@
    "lat": 27.1637,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/27.1637/117.29812"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.np.gov.cn/cms/html/npszf/index.html/"
+    }
+   ]
   },
   {
    "n": "岁进士牌坊",
@@ -160,7 +340,17 @@
    "lat": 27.16352,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/27.16352/117.29757"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.np.gov.cn/cms/html/npszf/index.html/"
+    }
+   ]
   },
   {
    "n": "县丞署",
@@ -168,7 +358,17 @@
    "lat": 27.1626,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/27.1626/117.29825"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.np.gov.cn/cms/html/npszf/index.html/"
+    }
+   ]
   },
   {
    "n": "恩魁",
@@ -176,7 +376,17 @@
    "lat": 27.1623,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/27.1623/117.2981"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.np.gov.cn/cms/html/npszf/index.html/"
+    }
+   ]
   },
   {
    "n": "和平书院",
@@ -184,7 +394,17 @@
    "lat": 27.16388,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/27.16388/117.29579"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.np.gov.cn/cms/html/npszf/index.html/"
+    }
+   ]
   },
   {
    "n": "钱庄",
@@ -192,7 +412,17 @@
    "lat": 27.16392,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/27.16392/117.29555"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.np.gov.cn/cms/html/npszf/index.html/"
+    }
+   ]
   },
   {
    "n": "黄氏大夫第",
@@ -200,7 +430,17 @@
    "lat": 27.16407,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/27.16407/117.29621"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.np.gov.cn/cms/html/npszf/index.html/"
+    }
+   ]
   },
   {
    "n": "蛰庐",
@@ -208,7 +448,17 @@
    "lat": 27.16183,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/27.16183/117.2968"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.np.gov.cn/cms/html/npszf/index.html/"
+    }
+   ]
   },
   {
    "n": "黄氏宗祠",
@@ -216,7 +466,17 @@
    "lat": 27.16162,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/27.16162/117.29702"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.np.gov.cn/cms/html/npszf/index.html/"
+    }
+   ]
   },
   {
    "n": "华中第一漂",
@@ -224,7 +484,17 @@
    "lat": 27.67509,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/27.67509/117.76996"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.np.gov.cn/cms/html/npszf/index.html/"
+    }
+   ]
   },
   {
    "n": "九里阁",
@@ -232,7 +502,17 @@
    "lat": 27.54048,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/27.54048/117.34386"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.np.gov.cn/cms/html/npszf/index.html/"
+    }
+   ]
   },
   {
    "n": "大红袍",
@@ -240,7 +520,17 @@
    "lat": 27.67137,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/27.67137/117.95526"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.np.gov.cn/cms/html/npszf/index.html/"
+    }
+   ]
   },
   {
    "n": "大安源生态旅游景区",
@@ -248,7 +538,17 @@
    "lat": 27.8696,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/27.8696/117.85019"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.np.gov.cn/cms/html/npszf/index.html/"
+    }
+   ]
   },
   {
    "n": "鸳鸯溪景区",
@@ -256,7 +556,17 @@
    "lat": 27.0559,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/27.0559/119.11001"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.np.gov.cn/cms/html/npszf/index.html/"
+    }
+   ]
   },
   {
    "n": "一线天",
@@ -264,7 +574,17 @@
    "lat": 27.62982,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/27.62982/117.94116"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.np.gov.cn/cms/html/npszf/index.html/"
+    }
+   ]
   },
   {
    "n": "和平古镇",
@@ -272,7 +592,17 @@
    "lat": 27.16302,
    "tag": "古镇",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/27.16302/117.29599"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.np.gov.cn/cms/html/npszf/index.html/"
+    }
+   ]
   },
   {
    "n": "高老庄影视基地",
@@ -280,7 +610,17 @@
    "lat": 26.89829,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/26.89829/117.66368"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.np.gov.cn/cms/html/npszf/index.html/"
+    }
+   ]
   }
  ],
  "rings": [

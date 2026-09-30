@@ -18,7 +18,21 @@
    "ratingSrc": "国家5A名录(2025.3)",
    "tag": "景点",
    "drive": "约 1 小时",
-   "note": "[5A·前缀归属·坐标photon] 巴音郭楞蒙古自治州博斯腾湖景区"
+   "note": "[5A·前缀归属·坐标photon] 巴音郭楞蒙古自治州博斯腾湖景区",
+   "sources": [
+    {
+     "n": "5A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B65A%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/41.9681/87.0609"
+    },
+    {
+     "n": "Photon·查询",
+     "u": "https://photon.komoot.io/?q=%E5%8D%9A%E6%96%AF%E8%85%BE%E6%B9%96%E6%99%AF%E5%8C%BA"
+    }
+   ]
   },
   {
    "n": "巴音布鲁克景区",
@@ -28,7 +42,21 @@
    "ratingSrc": "国家5A名录(2025.3)",
    "tag": "景点",
    "drive": "约 1 小时",
-   "note": "[5A·前缀归属·坐标photon] 巴音郭楞蒙古自治州巴音布鲁克景区"
+   "note": "[5A·前缀归属·坐标photon] 巴音郭楞蒙古自治州巴音布鲁克景区",
+   "sources": [
+    {
+     "n": "5A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B65A%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/42.8285/83.7213"
+    },
+    {
+     "n": "Photon·查询",
+     "u": "https://photon.komoot.io/?q=%E5%B7%B4%E9%9F%B3%E5%B8%83%E9%B2%81%E5%85%8B%E6%99%AF%E5%8C%BA"
+    }
+   ]
   }
  ],
  "rings": [

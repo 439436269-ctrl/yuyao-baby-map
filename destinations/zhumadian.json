@@ -16,7 +16,17 @@
    "lat": 32.75843,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.75843/113.33094"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhumadian.gov.cn/"
+    }
+   ]
   },
   {
    "n": "嵖岈山东门",
@@ -24,7 +34,17 @@
    "lat": 33.12961,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/33.12961/113.73227"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhumadian.gov.cn/"
+    }
+   ]
   },
   {
    "n": "嵖岈山北门",
@@ -32,7 +52,17 @@
    "lat": 33.14605,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/33.14605/113.73183"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhumadian.gov.cn/"
+    }
+   ]
   },
   {
    "n": "嵖岈山南门",
@@ -40,7 +70,17 @@
    "lat": 33.12158,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/33.12158/113.73113"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhumadian.gov.cn/"
+    }
+   ]
   },
   {
    "n": "九头崖凤凰谷景区",
@@ -48,7 +88,17 @@
    "lat": 33.16733,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/33.16733/113.63046"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhumadian.gov.cn/"
+    }
+   ]
   },
   {
    "n": "棠溪源国家森林公园",
@@ -56,7 +106,17 @@
    "lat": 33.1926,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/33.1926/113.62493"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhumadian.gov.cn/"
+    }
+   ]
   },
   {
    "n": "棠溪峡风景区",
@@ -64,7 +124,17 @@
    "lat": 33.20391,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/33.20391/113.63046"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhumadian.gov.cn/"
+    }
+   ]
   },
   {
    "n": "龙天沟",
@@ -72,7 +142,17 @@
    "lat": 33.2073,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/33.2073/113.66109"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhumadian.gov.cn/"
+    }
+   ]
   },
   {
    "n": "南海禅寺",
@@ -80,7 +160,17 @@
    "lat": 32.99477,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.99477/114.36128"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhumadian.gov.cn/"
+    }
+   ]
   },
   {
    "n": "小金顶",
@@ -88,7 +178,17 @@
    "lat": 32.84649,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.84649/113.82333"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhumadian.gov.cn/"
+    }
+   ]
   },
   {
    "n": "大金顶",
@@ -96,7 +196,17 @@
    "lat": 32.84424,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.84424/113.82963"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhumadian.gov.cn/"
+    }
+   ]
   },
   {
    "n": "白云山",
@@ -106,7 +216,21 @@
    "drive": "",
    "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
    "rating": "5A",
-   "ratingSrc": "国家5A名录(2025.3·358家)"
+   "ratingSrc": "国家5A名录(2025.3·358家)",
+   "sources": [
+    {
+     "n": "5A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B65A%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.91/113.55589"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhumadian.gov.cn/"
+    }
+   ]
   },
   {
    "n": "同心圆",
@@ -114,7 +238,17 @@
    "lat": 32.83532,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.83532/113.90034"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhumadian.gov.cn/"
+    }
+   ]
   },
   {
    "n": "花海迷宫",
@@ -122,7 +256,17 @@
    "lat": 32.83646,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.83646/113.90104"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhumadian.gov.cn/"
+    }
+   ]
   },
   {
    "n": "步步生莲",
@@ -130,7 +274,17 @@
    "lat": 32.83799,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.83799/113.90135"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhumadian.gov.cn/"
+    }
+   ]
   },
   {
    "n": "泌阳五峰山象河谷景区",
@@ -138,7 +292,17 @@
    "lat": 33.1348,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/33.1348/113.53958"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhumadian.gov.cn/"
+    }
+   ]
   },
   {
    "n": "夫妻树",
@@ -146,7 +310,17 @@
    "lat": 32.88131,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.88131/113.59972"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhumadian.gov.cn/"
+    }
+   ]
   },
   {
    "n": "白云山风景区",
@@ -156,7 +330,21 @@
    "drive": "",
    "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
    "rating": "5A",
-   "ratingSrc": "国家5A名录(2025.3·358家)"
+   "ratingSrc": "国家5A名录(2025.3·358家)",
+   "sources": [
+    {
+     "n": "5A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B65A%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.85581/113.55559"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhumadian.gov.cn/"
+    }
+   ]
   },
   {
    "n": "天中山文化园",
@@ -164,7 +352,17 @@
    "lat": 33.01903,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/33.01903/114.34026"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhumadian.gov.cn/"
+    }
+   ]
   },
   {
    "n": "上河城",
@@ -172,7 +370,17 @@
    "lat": 32.96397,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.96397/114.61134"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhumadian.gov.cn/"
+    }
+   ]
   },
   {
    "n": "宝严寺",
@@ -180,7 +388,17 @@
    "lat": 33.38956,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/33.38956/114.0226"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhumadian.gov.cn/"
+    }
+   ]
   }
  ],
  "rings": [

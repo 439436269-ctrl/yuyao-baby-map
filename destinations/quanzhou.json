@@ -16,7 +16,17 @@
    "lat": 24.82049,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/24.82049/118.57414"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.quanzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "领Show天地",
@@ -24,7 +34,17 @@
    "lat": 24.8881,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/24.8881/118.6021"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.quanzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "石筍",
@@ -32,7 +52,17 @@
    "lat": 24.91697,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/24.91697/118.56638"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.quanzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "陈氏宗祠",
@@ -40,7 +70,17 @@
    "lat": 25.27854,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.27854/118.25189"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.quanzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "明德堂",
@@ -48,7 +88,17 @@
    "lat": 25.28339,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.28339/118.24975"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.quanzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "殿溪堂",
@@ -56,7 +106,17 @@
    "lat": 25.28146,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.28146/118.25011"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.quanzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "墩福堂",
@@ -64,7 +124,17 @@
    "lat": 25.28355,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.28355/118.25232"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.quanzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "泰德宫",
@@ -72,7 +142,17 @@
    "lat": 25.2825,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.2825/118.24543"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.quanzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "顶云美堂",
@@ -80,7 +160,17 @@
    "lat": 25.28213,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.28213/118.24543"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.quanzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "仰奎堂",
@@ -88,7 +178,17 @@
    "lat": 25.28297,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.28297/118.24589"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.quanzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "西陵宫",
@@ -96,7 +196,17 @@
    "lat": 25.28243,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.28243/118.24191"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.quanzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "荔枝巷",
@@ -104,7 +214,17 @@
    "lat": 25.28528,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.28528/118.25185"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.quanzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "贻赞堂",
@@ -112,7 +232,17 @@
    "lat": 25.28699,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.28699/118.24926"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.quanzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "龙庆堂",
@@ -120,7 +250,17 @@
    "lat": 25.28666,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.28666/118.25066"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.quanzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "和禛堂",
@@ -128,7 +268,17 @@
    "lat": 25.28605,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.28605/118.2513"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.quanzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "福茂寨",
@@ -136,7 +286,17 @@
    "lat": 25.28676,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.28676/118.25169"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.quanzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "朱庆堂",
@@ -144,7 +304,17 @@
    "lat": 25.28664,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.28664/118.25534"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.quanzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "宋代瓦窑",
@@ -152,7 +322,17 @@
    "lat": 25.28889,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.28889/118.25837"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.quanzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "裕德堂",
@@ -160,7 +340,17 @@
    "lat": 25.28981,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.28981/118.26357"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.quanzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "虎井堂",
@@ -168,7 +358,17 @@
    "lat": 25.28953,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.28953/118.26645"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.quanzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "福星楼",
@@ -176,7 +376,17 @@
    "lat": 25.28328,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.28328/118.25002"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.quanzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "石书房",
@@ -184,7 +394,17 @@
    "lat": 25.26631,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.26631/118.25348"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.quanzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "放生池",
@@ -192,7 +412,17 @@
    "lat": 25.26679,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.26679/118.25178"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.quanzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "八仙过海",
@@ -202,7 +432,21 @@
    "drive": "",
    "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
    "rating": "5A",
-   "ratingSrc": "国家5A名录(2025.3·358家)"
+   "ratingSrc": "国家5A名录(2025.3·358家)",
+   "sources": [
+    {
+     "n": "5A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B65A%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.28204/118.25211"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.quanzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "宝盖山石窟",
@@ -210,7 +454,17 @@
    "lat": 24.71749,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/24.71749/118.67583"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.quanzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "五里古街",
@@ -218,7 +472,17 @@
    "lat": 25.33682,
    "tag": "古镇",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.33682/118.26618"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.quanzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "Lingxiao Beacon",
@@ -226,7 +490,17 @@
    "lat": 24.89693,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/24.89693/118.50431"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.quanzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "泉州观音山风景区",
@@ -234,7 +508,17 @@
    "lat": 24.68117,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/24.68117/118.71334"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.quanzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "天开观音洞",
@@ -242,7 +526,17 @@
    "lat": 25.18186,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.18186/118.7812"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.quanzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "蟳埔渔人码头",
@@ -250,7 +544,17 @@
    "lat": 24.86862,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/24.86862/118.64061"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.quanzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "洛阳桥",
@@ -258,7 +562,17 @@
    "lat": 24.95537,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/24.95537/118.67681"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.quanzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "凤山公园",
@@ -266,7 +580,17 @@
    "lat": 25.0755,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.0755/118.18583"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.quanzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "安溪青阳下草埔冶铁遗址",
@@ -274,7 +598,17 @@
    "lat": 25.18614,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.18614/117.95463"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.quanzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "八卦街传统古街",
@@ -282,7 +616,17 @@
    "lat": 24.74087,
    "tag": "古镇",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/24.74087/118.62928"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.quanzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "红星生态园",
@@ -290,7 +634,17 @@
    "lat": 25.17229,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.17229/118.80946"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.quanzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "清水岩寺",
@@ -298,7 +652,17 @@
    "lat": 25.12712,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.12712/118.11385"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.quanzhou.gov.cn/"
+    }
+   ]
   }
  ],
  "rings": [

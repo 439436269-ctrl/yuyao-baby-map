@@ -16,7 +16,17 @@
    "lat": 36.18523,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.18523/120.38308"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "Night Market",
@@ -24,7 +34,17 @@
    "lat": 36.15691,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.15691/120.41898"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "离门",
@@ -32,7 +52,17 @@
    "lat": 36.17156,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.17156/120.62473"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "巽门",
@@ -40,7 +70,17 @@
    "lat": 36.17289,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.17289/120.6265"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "摘星亭",
@@ -48,7 +88,17 @@
    "lat": 36.17218,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.17218/120.62605"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "春和楼",
@@ -56,7 +106,17 @@
    "lat": 36.07061,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.07061/120.31352"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "台东夜市",
@@ -64,7 +124,17 @@
    "lat": 36.08349,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.08349/120.35039"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "劈柴院江宁会馆",
@@ -72,7 +142,17 @@
    "lat": 36.07128,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.07128/120.31311"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "会前村遗址",
@@ -80,7 +160,17 @@
    "lat": 36.06319,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.06319/120.34481"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "青岛小鱼山文化名人街区",
@@ -88,7 +178,17 @@
    "lat": 36.06349,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.06349/120.3289"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "福山路文化名人街区",
@@ -96,7 +196,17 @@
    "lat": 36.06073,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.06073/120.33498"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "马濠运河遗址",
@@ -104,7 +214,17 @@
    "lat": 35.96265,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/35.96265/120.18202"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "中华人民共和国水准零点",
@@ -112,7 +232,17 @@
    "lat": 36.05688,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.05688/120.4182"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "大泽山风景名胜区",
@@ -120,7 +250,17 @@
    "lat": 36.98991,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.98991/120.00851"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "青岛奥林匹克帆船中心",
@@ -128,7 +268,17 @@
    "lat": 36.0557,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.0557/120.39114"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "流清河风景区",
@@ -136,7 +286,17 @@
    "lat": 36.13242,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.13242/120.59647"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "崂山风景名胜区太清游览区",
@@ -144,7 +304,17 @@
    "lat": 36.13905,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.13905/120.6681"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "崂山风景名胜区流清游览区",
@@ -152,7 +322,17 @@
    "lat": 36.12278,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.12278/120.60527"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "崂山风景名胜区巨峰游览区",
@@ -160,7 +340,17 @@
    "lat": 36.17311,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.17311/120.62442"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "崂山风景名胜区棋盘石游览区",
@@ -168,7 +358,17 @@
    "lat": 36.20613,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.20613/120.67629"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "崂山风景名胜区仰口游览区",
@@ -176,7 +376,17 @@
    "lat": 36.238,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.238/120.66195"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "海云庵庙会",
@@ -184,7 +394,17 @@
    "lat": 36.11099,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.11099/120.34783"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "清溪庵庙会",
@@ -192,7 +412,17 @@
    "lat": 36.08381,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.08381/120.34091"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "十五大街古玩城",
@@ -200,7 +430,17 @@
    "lat": 36.07572,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.07572/120.34485"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "即墨路小商品市场",
@@ -208,7 +448,17 @@
    "lat": 36.07423,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.07423/120.31878"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "即墨古城",
@@ -216,7 +466,17 @@
    "lat": 36.38849,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.38849/120.46297"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "平湖度假村",
@@ -224,7 +484,17 @@
    "lat": 35.90406,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/35.90406/119.92099"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "小珠山风景名胜区",
@@ -232,7 +502,17 @@
    "lat": 35.98112,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/35.98112/120.05754"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "大珠山风景名胜区",
@@ -240,7 +520,17 @@
    "lat": 35.79733,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/35.79733/119.99916"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "琅琊台风景名胜区",
@@ -248,7 +538,17 @@
    "lat": 35.64695,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/35.64695/119.89683"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "雄崖所故城",
@@ -256,7 +556,17 @@
    "lat": 36.58368,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.58368/120.86437"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "海上回音天坛",
@@ -264,7 +574,17 @@
    "lat": 36.05068,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.05068/120.29991"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "威尼斯水城",
@@ -272,7 +592,17 @@
    "lat": 36.20676,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.20676/120.27729"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "少海湿地公园",
@@ -280,7 +610,17 @@
    "lat": 36.23639,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.23639/120.0778"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "龙山风景区",
@@ -288,7 +628,17 @@
    "lat": 36.38056,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.38056/120.55135"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "融創城",
@@ -296,7 +646,17 @@
    "lat": 35.9044,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/35.9044/120.09388"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "长征一号",
@@ -304,7 +664,17 @@
    "lat": 36.05578,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.05578/120.32135"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "西班牙风情馆",
@@ -312,7 +682,17 @@
    "lat": 36.05197,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.05197/120.34452"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "背来石",
@@ -320,7 +700,17 @@
    "lat": 35.78429,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/35.78429/120.17539"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "石老人",
@@ -328,7 +718,17 @@
    "lat": 36.08844,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.08844/120.4909"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "青山渔村牌坊",
@@ -336,7 +736,17 @@
    "lat": 36.14588,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.14588/120.67893"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "狮子岩",
@@ -344,7 +754,17 @@
    "lat": 36.14627,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.14627/120.67834"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "垭口驿站",
@@ -352,7 +772,17 @@
    "lat": 36.14534,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.14534/120.67799"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "凌海山",
@@ -360,7 +790,17 @@
    "lat": 36.14463,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.14463/120.67761"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "虹桥待月公园",
@@ -368,7 +808,17 @@
    "lat": 35.92151,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/35.92151/120.13344"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "听风",
@@ -376,7 +826,17 @@
    "lat": 36.19553,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.19553/120.44893"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "三界石",
@@ -384,7 +844,17 @@
    "lat": 36.21558,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.21558/120.47952"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "要儿石",
@@ -392,7 +862,17 @@
    "lat": 36.20234,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.20234/120.4474"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "望海猴",
@@ -400,7 +880,17 @@
    "lat": 36.21176,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.21176/120.47524"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "霸王洞",
@@ -408,7 +898,17 @@
    "lat": 36.21407,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.21407/120.46436"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "鹰嘴石",
@@ -416,7 +916,17 @@
    "lat": 36.2378,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.2378/120.47898"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "观星台",
@@ -424,7 +934,17 @@
    "lat": 36.24063,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.24063/120.48192"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "棒槌石",
@@ -432,7 +952,17 @@
    "lat": 36.22412,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.22412/120.48376"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "飞来石",
@@ -440,7 +970,17 @@
    "lat": 36.22569,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.22569/120.48753"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "夹蛋石",
@@ -448,7 +988,17 @@
    "lat": 36.22437,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.22437/120.48518"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "地下长城",
@@ -456,7 +1006,17 @@
    "lat": 36.2194,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.2194/120.48529"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "龙脊背",
@@ -464,7 +1024,17 @@
    "lat": 36.21862,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.21862/120.47094"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "神仙桥",
@@ -472,7 +1042,17 @@
    "lat": 36.23954,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.23954/120.48031"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "鸽子洞",
@@ -480,7 +1060,17 @@
    "lat": 36.2056,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.2056/120.46557"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "阴阳石",
@@ -488,7 +1078,17 @@
    "lat": 36.20574,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.20574/120.46594"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "石马槽",
@@ -496,7 +1096,17 @@
    "lat": 36.20443,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.20443/120.44539"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "观音石",
@@ -504,7 +1114,17 @@
    "lat": 36.22666,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.22666/120.57184"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "青岛网红墙",
@@ -512,7 +1132,17 @@
    "lat": 36.06118,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.06118/120.32649"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "宫崎骏漫画街",
@@ -520,7 +1150,17 @@
    "lat": 36.06306,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.06306/120.32618"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "琴屿路",
@@ -528,7 +1168,17 @@
    "lat": 36.05331,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.05331/120.32492"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "汇泉广场",
@@ -536,7 +1186,17 @@
    "lat": 36.05849,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.05849/120.34033"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "云霄路美食街",
@@ -544,7 +1204,17 @@
    "lat": 36.06684,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.06684/120.38777"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "灵山岛风景区",
@@ -552,7 +1222,17 @@
    "lat": 35.76252,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/35.76252/120.16802"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "盘丝洞",
@@ -560,7 +1240,17 @@
    "lat": 36.19703,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.19703/120.59879"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "三寸金莲",
@@ -568,7 +1258,17 @@
    "lat": 36.1996,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.1996/120.59932"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "白虎",
@@ -576,7 +1276,17 @@
    "lat": 36.20571,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.20571/120.46924"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "青龙",
@@ -584,7 +1294,17 @@
    "lat": 36.20571,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.20571/120.46962"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "南长坂坡",
@@ -592,7 +1312,17 @@
    "lat": 36.1493,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.1493/120.62804"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "一线天",
@@ -600,7 +1330,17 @@
    "lat": 36.14976,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.14976/120.62911"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "羊角石",
@@ -608,7 +1348,17 @@
    "lat": 36.15293,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.15293/120.63283"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "天门池",
@@ -616,7 +1366,17 @@
    "lat": 36.15373,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.15373/120.63301"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "丑石",
@@ -624,7 +1384,17 @@
    "lat": 36.1573,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.1573/120.63312"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "笑池",
@@ -632,7 +1402,17 @@
    "lat": 36.16313,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.16313/120.63605"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "天板石",
@@ -640,7 +1420,17 @@
    "lat": 36.19853,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.19853/120.63135"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "霸王台",
@@ -648,7 +1438,17 @@
    "lat": 36.22264,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.22264/120.44401"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "万年船",
@@ -656,7 +1456,17 @@
    "lat": 36.1572,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.1572/120.65968"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "山神石",
@@ -664,7 +1474,17 @@
    "lat": 36.99008,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.99008/120.01433"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "响石",
@@ -672,7 +1492,17 @@
    "lat": 36.25047,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.25047/120.49947"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "天心池",
@@ -680,7 +1510,17 @@
    "lat": 36.17924,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.17924/120.6576"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "白石头窑",
@@ -688,7 +1528,17 @@
    "lat": 36.16016,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.16016/120.65129"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "东西歧",
@@ -696,7 +1546,17 @@
    "lat": 36.15894,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.15894/120.65082"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "德文石刻",
@@ -704,7 +1564,17 @@
    "lat": 36.18321,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.18321/120.60939"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "坤门",
@@ -712,7 +1582,17 @@
    "lat": 36.17223,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.17223/120.62252"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "兑门",
@@ -720,7 +1600,17 @@
    "lat": 36.17704,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.17704/120.62382"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "乾门",
@@ -728,7 +1618,17 @@
    "lat": 36.18017,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.18017/120.62381"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "五峰仙馆",
@@ -736,7 +1636,17 @@
    "lat": 36.17923,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.17923/120.62439"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "坎门",
@@ -744,7 +1654,17 @@
    "lat": 36.18002,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.18002/120.62868"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "艮门",
@@ -752,7 +1672,17 @@
    "lat": 36.1772,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.1772/120.62897"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "震门",
@@ -760,7 +1690,17 @@
    "lat": 36.17465,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.17465/120.62799"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "崂山之谷",
@@ -768,7 +1708,17 @@
    "lat": 36.17245,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.17245/120.62644"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "乾坤洞",
@@ -776,7 +1726,17 @@
    "lat": 36.17408,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.17408/120.6228"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "云霄洞",
@@ -784,7 +1744,17 @@
    "lat": 36.17515,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.17515/120.6229"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "芝麻石",
@@ -792,7 +1762,17 @@
    "lat": 36.23025,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.23025/120.63947"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "滑溜口",
@@ -800,7 +1780,17 @@
    "lat": 36.20363,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.20363/120.63436"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "清水湾",
@@ -808,7 +1798,17 @@
    "lat": 36.19744,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.19744/120.6454"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "棋盘石",
@@ -816,7 +1816,17 @@
    "lat": 36.19797,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.19797/120.65393"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "孙昙采药刻石",
@@ -824,7 +1834,17 @@
    "lat": 36.20083,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.20083/120.6529"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "望海门",
@@ -832,7 +1852,17 @@
    "lat": 36.20575,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.20575/120.66213"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "飞鹰石",
@@ -840,7 +1870,17 @@
    "lat": 36.16701,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.16701/120.64625"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "滴水洞",
@@ -848,7 +1888,17 @@
    "lat": 36.21133,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.21133/120.46213"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "霸王虞姬（姜老背姜婆）",
@@ -856,7 +1906,17 @@
    "lat": 36.21997,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.21997/120.46074"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "青蛙石",
@@ -864,7 +1924,17 @@
    "lat": 36.21973,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.21973/120.45971"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "双兔石",
@@ -872,7 +1942,17 @@
    "lat": 36.08608,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.08608/120.4284"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "小圣天",
@@ -880,7 +1960,17 @@
    "lat": 36.21933,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.21933/120.46325"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "大象鼻子",
@@ -888,7 +1978,17 @@
    "lat": 36.20046,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.20046/120.45386"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "小天落水",
@@ -896,7 +1996,17 @@
    "lat": 36.22918,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.22918/120.48421"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "天落水",
@@ -904,7 +2014,17 @@
    "lat": 36.23142,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.23142/120.48627"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "迎仙岘",
@@ -912,7 +2032,17 @@
    "lat": 36.23982,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.23982/120.50045"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "水晶洞",
@@ -920,7 +2050,17 @@
    "lat": 36.20767,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.20767/120.47139"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "骷髅石",
@@ -928,7 +2068,17 @@
    "lat": 36.21135,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.21135/120.46425"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "千年之吻",
@@ -936,7 +2086,17 @@
    "lat": 36.19504,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.19504/120.44678"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "一柱香",
@@ -944,7 +2104,17 @@
    "lat": 36.19412,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.19412/120.44743"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "东天门",
@@ -952,7 +2122,17 @@
    "lat": 36.19386,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.19386/120.44748"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "双福",
@@ -960,7 +2140,17 @@
    "lat": 36.18281,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.18281/120.63304"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "葫芦洞",
@@ -968,7 +2158,17 @@
    "lat": 36.16901,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.16901/120.62309"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "帆船石",
@@ -976,7 +2176,17 @@
    "lat": 36.20824,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.20824/120.6599"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "天书",
@@ -984,7 +2194,17 @@
    "lat": 36.16226,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.16226/120.659"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "万年梯",
@@ -992,7 +2212,17 @@
    "lat": 36.16724,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.16724/120.63753"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "寿星石",
@@ -1000,7 +2230,17 @@
    "lat": 36.1684,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.1684/120.62896"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "姊妹洞",
@@ -1008,7 +2248,17 @@
    "lat": 36.19178,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.19178/120.6117"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "济公石",
@@ -1016,7 +2266,17 @@
    "lat": 36.21518,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.21518/120.60736"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "护士石",
@@ -1024,7 +2284,17 @@
    "lat": 36.21446,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.21446/120.62384"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "玉女洞",
@@ -1032,7 +2302,17 @@
    "lat": 36.22199,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.22199/120.63297"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "仙人洞",
@@ -1040,7 +2320,17 @@
    "lat": 36.22501,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.22501/120.63162"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "碧月潭",
@@ -1048,7 +2338,17 @@
    "lat": 36.22863,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.22863/120.63116"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "拇指石",
@@ -1056,7 +2356,17 @@
    "lat": 36.22168,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.22168/120.63372"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "鸭子船",
@@ -1064,7 +2374,17 @@
    "lat": 36.22631,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.22631/120.62689"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "食蚁兽",
@@ -1072,7 +2392,17 @@
    "lat": 36.22739,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.22739/120.62795"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "小鸡石",
@@ -1080,7 +2410,17 @@
    "lat": 36.21703,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.21703/120.61577"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "外星人",
@@ -1088,7 +2428,17 @@
    "lat": 36.22302,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.22302/120.61711"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "如意石",
@@ -1096,7 +2446,17 @@
    "lat": 36.21946,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.21946/120.63566"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "地棺",
@@ -1104,7 +2464,17 @@
    "lat": 36.21788,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.21788/120.63675"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "五子登科",
@@ -1112,7 +2482,17 @@
    "lat": 36.21943,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.21943/120.64015"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "天棺",
@@ -1120,7 +2500,17 @@
    "lat": 36.21878,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.21878/120.63973"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "天柱石",
@@ -1128,7 +2518,17 @@
    "lat": 36.21318,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.21318/120.65484"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "白云洞",
@@ -1138,7 +2538,21 @@
    "drive": "",
    "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
    "rating": "4A",
-   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)"
+   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)",
+   "sources": [
+    {
+     "n": "4A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6AAAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.21863/120.66595"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "借粮台",
@@ -1146,7 +2560,17 @@
    "lat": 36.21997,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.21997/120.66487"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "仙人崮",
@@ -1154,7 +2578,17 @@
    "lat": 36.22445,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.22445/120.6533"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "神掌",
@@ -1162,7 +2596,17 @@
    "lat": 36.22426,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.22426/120.65336"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "老头脸",
@@ -1170,7 +2614,17 @@
    "lat": 36.20394,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.20394/120.62033"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "顶牛石",
@@ -1178,7 +2632,17 @@
    "lat": 36.14014,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.14014/120.64584"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "碧天洞",
@@ -1186,7 +2650,17 @@
    "lat": 36.14039,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.14039/120.64241"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "鲤鱼石",
@@ -1194,7 +2668,17 @@
    "lat": 36.14082,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.14082/120.62177"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "猿人石",
@@ -1202,7 +2686,17 @@
    "lat": 36.14104,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.14104/120.62142"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "飞燕石",
@@ -1210,7 +2704,17 @@
    "lat": 36.13457,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.13457/120.64525"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "日月潭",
@@ -1218,7 +2722,17 @@
    "lat": 36.13364,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.13364/120.65059"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "岳母刺字",
@@ -1226,7 +2740,17 @@
    "lat": 36.2171,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.2171/120.58321"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "仙古洞",
@@ -1234,7 +2758,17 @@
    "lat": 36.21677,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.21677/120.59255"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "三清殿遗迹",
@@ -1242,7 +2776,17 @@
    "lat": 36.21671,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.21671/120.59245"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "和尚石",
@@ -1250,7 +2794,17 @@
    "lat": 36.226,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.226/120.57258"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "躲荒洞",
@@ -1258,7 +2812,17 @@
    "lat": 36.22712,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.22712/120.57129"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "石门开",
@@ -1266,7 +2830,17 @@
    "lat": 36.22722,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.22722/120.5693"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "飞云瀑",
@@ -1274,7 +2848,17 @@
    "lat": 36.21637,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.21637/120.56716"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "睡陈抟",
@@ -1282,7 +2866,17 @@
    "lat": 36.20053,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.20053/120.44789"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "大鹰嘴石",
@@ -1290,7 +2884,17 @@
    "lat": 36.19942,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.19942/120.4496"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "鹦鹉石观赏点",
@@ -1298,7 +2902,17 @@
    "lat": 36.19967,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.19967/120.45222"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "猪头石",
@@ -1306,7 +2920,17 @@
    "lat": 36.21713,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.21713/120.45501"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "猪肝石",
@@ -1314,7 +2938,17 @@
    "lat": 36.21255,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.21255/120.46398"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "孔子讲书（大棒骨）",
@@ -1322,7 +2956,17 @@
    "lat": 36.22164,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.22164/120.46064"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "霸王寨",
@@ -1330,7 +2974,17 @@
    "lat": 36.22024,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.22024/120.45896"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "二界",
@@ -1338,7 +2992,17 @@
    "lat": 36.20446,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.20446/120.4673"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "河马石",
@@ -1346,7 +3010,17 @@
    "lat": 36.20008,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.20008/120.45428"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "石门小屋",
@@ -1354,7 +3028,17 @@
    "lat": 36.22231,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.22231/120.48309"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "海豚石",
@@ -1362,7 +3046,17 @@
    "lat": 36.19988,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.19988/120.45272"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "吉普车",
@@ -1370,7 +3064,17 @@
    "lat": 36.20082,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.20082/120.45792"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "狗头石",
@@ -1378,7 +3082,17 @@
    "lat": 36.19914,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.19914/120.45181"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "兔子石观赏点",
@@ -1386,7 +3100,17 @@
    "lat": 36.23567,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.23567/120.46634"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "大蘑菇石",
@@ -1394,7 +3118,17 @@
    "lat": 36.23509,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.23509/120.4695"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "鲸鱼嘴",
@@ -1402,7 +3136,17 @@
    "lat": 36.20132,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.20132/120.4575"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "太师椅",
@@ -1410,7 +3154,17 @@
    "lat": 36.20032,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.20032/120.45414"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "天生一个仙人洞",
@@ -1418,7 +3172,17 @@
    "lat": 36.20059,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.20059/120.4477"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "鲨鱼嘴",
@@ -1426,7 +3190,17 @@
    "lat": 36.20446,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.20446/120.46775"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "真人洞",
@@ -1434,7 +3208,17 @@
    "lat": 36.27244,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.27244/120.5664"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "货郎鼓石",
@@ -1442,7 +3226,17 @@
    "lat": 36.27513,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.27513/120.55498"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "神仙座",
@@ -1450,7 +3244,17 @@
    "lat": 36.2759,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.2759/120.5554"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "啸天犬",
@@ -1458,7 +3262,17 @@
    "lat": 36.30025,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.30025/120.57265"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "鸳鸯石",
@@ -1466,7 +3280,17 @@
    "lat": 36.30094,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.30094/120.572"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "风动石",
@@ -1476,7 +3300,21 @@
    "drive": "",
    "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
    "rating": "4A",
-   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)"
+   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)",
+   "sources": [
+    {
+     "n": "4A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6AAAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.29943/120.57221"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "聚仙亭",
@@ -1484,7 +3322,17 @@
    "lat": 36.30345,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.30345/120.56518"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "金蟾灵蛇",
@@ -1492,7 +3340,17 @@
    "lat": 36.30645,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.30645/120.56194"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "七涧谷",
@@ -1500,7 +3358,17 @@
    "lat": 36.30891,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.30891/120.56123"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "风琴崮",
@@ -1508,7 +3376,17 @@
    "lat": 36.29658,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.29658/120.57315"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "劈石",
@@ -1516,7 +3394,17 @@
    "lat": 36.28981,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.28981/120.58117"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "登州周鲁石刻",
@@ -1524,7 +3412,17 @@
    "lat": 36.27484,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.27484/120.50012"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "双面兽",
@@ -1532,7 +3430,17 @@
    "lat": 36.27772,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.27772/120.50136"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "黄石洞",
@@ -1540,7 +3448,17 @@
    "lat": 36.26546,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.26546/120.50083"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "慧炬院遗址",
@@ -1548,7 +3466,17 @@
    "lat": 36.26494,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.26494/120.49164"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "黄庭庵遗址",
@@ -1556,7 +3484,17 @@
    "lat": 36.27013,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.27013/120.50443"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "青龙岭石刻",
@@ -1564,7 +3502,17 @@
    "lat": 36.2702,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.2702/120.5048"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "云水洞",
@@ -1572,7 +3520,17 @@
    "lat": 36.27028,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.27028/120.5047"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "金蝉望月",
@@ -1580,7 +3538,17 @@
    "lat": 36.26991,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.26991/120.49618"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "丘处机修炼处",
@@ -1588,7 +3556,17 @@
    "lat": 36.27095,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.27095/120.49563"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "神龙泉",
@@ -1596,7 +3574,17 @@
    "lat": 36.27091,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.27091/120.49586"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "福寿金龟",
@@ -1604,7 +3592,17 @@
    "lat": 36.27168,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.27168/120.4975"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "王炕",
@@ -1612,7 +3610,17 @@
    "lat": 36.20849,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.20849/120.44163"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "石门涧石刻",
@@ -1620,7 +3628,17 @@
    "lat": 36.20301,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.20301/120.44614"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "华阳洞",
@@ -1628,7 +3646,17 @@
    "lat": 36.22892,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.22892/120.49322"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "华阳书院",
@@ -1636,7 +3664,17 @@
    "lat": 36.23461,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.23461/120.50314"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "华阳书院碑记石刻",
@@ -1644,7 +3682,17 @@
    "lat": 36.23363,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.23363/120.50176"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "鸿烈茶驿",
@@ -1652,7 +3700,17 @@
    "lat": 36.23782,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.23782/120.49617"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "南天门",
@@ -1660,7 +3718,17 @@
    "lat": 36.23685,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.23685/120.49801"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "镜岩楼（老庵子）",
@@ -1668,7 +3736,17 @@
    "lat": 36.23247,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.23247/120.48525"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "老师父坟",
@@ -1676,7 +3754,17 @@
    "lat": 36.23844,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.23844/120.49565"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "玉女盆",
@@ -1684,7 +3772,17 @@
    "lat": 36.2386,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.2386/120.49633"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "仙岩石刻",
@@ -1692,7 +3790,17 @@
    "lat": 36.23836,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.23836/120.49687"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "三阳洞",
@@ -1700,7 +3808,17 @@
    "lat": 36.23798,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.23798/120.49714"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "明真洞",
@@ -1708,7 +3826,17 @@
    "lat": 36.23793,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.23793/120.49723"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "重阳洞",
@@ -1716,7 +3844,17 @@
    "lat": 36.23665,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.23665/120.49786"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "石门庵遗址",
@@ -1724,7 +3862,17 @@
    "lat": 36.21889,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.21889/120.48747"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "石门题记",
@@ -1732,7 +3880,17 @@
    "lat": 36.22504,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.22504/120.46363"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "龙泉",
@@ -1740,7 +3898,17 @@
    "lat": 36.22511,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.22511/120.46399"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "鸳鸯戏水",
@@ -1748,7 +3916,17 @@
    "lat": 36.22699,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.22699/120.47374"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "洋和尚",
@@ -1756,7 +3934,17 @@
    "lat": 36.2277,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.2277/120.47818"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "石鼓",
@@ -1764,7 +3952,17 @@
    "lat": 36.22756,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.22756/120.47884"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "蘑菇蛋",
@@ -1772,7 +3970,17 @@
    "lat": 36.22754,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.22754/120.47707"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "月亮船",
@@ -1780,7 +3988,17 @@
    "lat": 36.22748,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.22748/120.47977"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "华楼周鲁孙镗石刻",
@@ -1788,7 +4006,17 @@
    "lat": 36.23891,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.23891/120.49818"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "天液泉",
@@ -1796,7 +4024,17 @@
    "lat": 36.23838,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.23838/120.49685"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "神龟拜寿",
@@ -1804,7 +4042,17 @@
    "lat": 36.21987,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.21987/120.47954"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "大象石",
@@ -1812,7 +4060,17 @@
    "lat": 36.21151,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.21151/120.47444"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "潜艇石",
@@ -1820,7 +4078,17 @@
    "lat": 36.20798,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.20798/120.4714"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "天寿",
@@ -1828,7 +4096,17 @@
    "lat": 36.21749,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.21749/120.46719"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "神仙梯",
@@ -1836,7 +4114,17 @@
    "lat": 36.20536,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.20536/120.47052"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "伊伦娜旅馆",
@@ -1844,7 +4132,17 @@
    "lat": 36.18319,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.18319/120.60969"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "石门涧",
@@ -1852,7 +4150,17 @@
    "lat": 36.17511,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.17511/120.60482"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "茶涧庙",
@@ -1860,7 +4168,17 @@
    "lat": 36.17968,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.17968/120.6052"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "虔女洞",
@@ -1868,7 +4186,17 @@
    "lat": 36.17922,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.17922/120.61601"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "蝴蝶泉",
@@ -1876,7 +4204,17 @@
    "lat": 36.20029,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.20029/120.61084"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "流云亭",
@@ -1884,7 +4222,17 @@
    "lat": 36.20445,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.20445/120.61784"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "三教台",
@@ -1892,7 +4240,17 @@
    "lat": 36.16692,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.16692/120.6178"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "蟹夹石",
@@ -1900,7 +4258,17 @@
    "lat": 36.14931,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.14931/120.60556"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "自然碑",
@@ -1908,7 +4276,17 @@
    "lat": 36.17077,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.17077/120.62401"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "瑶池",
@@ -1916,7 +4294,17 @@
    "lat": 36.14823,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.14823/120.67256"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "戏凤台",
@@ -1924,7 +4312,17 @@
    "lat": 36.15302,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.15302/120.66379"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "醉仙石",
@@ -1932,7 +4330,17 @@
    "lat": 36.15309,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.15309/120.66383"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "鳌首金龟",
@@ -1940,7 +4348,17 @@
    "lat": 36.13611,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.13611/120.66068"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "天梯石刻",
@@ -1948,7 +4366,17 @@
    "lat": 36.13556,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.13556/120.6593"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "寻真门",
@@ -1956,7 +4384,17 @@
    "lat": 36.1363,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.1363/120.66228"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "太清胜境",
@@ -1964,7 +4402,17 @@
    "lat": 36.13785,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.13785/120.66459"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "毛主席石像",
@@ -1972,7 +4420,17 @@
    "lat": 36.07884,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.07884/120.43399"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "抗战八周年-1945",
@@ -1980,7 +4438,17 @@
    "lat": 36.14353,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.14353/120.6717"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "山海重光",
@@ -1988,7 +4456,17 @@
    "lat": 36.14356,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.14356/120.67156"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "一指天",
@@ -1996,7 +4474,17 @@
    "lat": 36.15321,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.15321/120.66397"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "天险",
@@ -2004,7 +4492,17 @@
    "lat": 36.15317,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.15317/120.6637"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "玄真洞",
@@ -2012,7 +4510,17 @@
    "lat": 36.15629,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.15629/120.66144"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "乾坤门",
@@ -2020,7 +4528,17 @@
    "lat": 36.15641,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.15641/120.66147"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "三丰洞",
@@ -2028,7 +4546,17 @@
    "lat": 36.1564,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.1564/120.66161"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "神泉",
@@ -2036,7 +4564,17 @@
    "lat": 36.15772,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.15772/120.66354"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "鱼头石",
@@ -2044,7 +4582,17 @@
    "lat": 36.13904,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.13904/120.66662"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "三清亭",
@@ -2052,7 +4600,17 @@
    "lat": 36.14134,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.14134/120.6692"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "老虎牙",
@@ -2060,7 +4618,17 @@
    "lat": 36.22177,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.22177/120.611"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "老虎洞",
@@ -2068,7 +4636,17 @@
    "lat": 36.22186,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.22186/120.61103"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "碰头石",
@@ -2076,7 +4654,17 @@
    "lat": 36.21456,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.21456/120.617"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "金蟾石",
@@ -2084,7 +4672,17 @@
    "lat": 36.21731,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.21731/120.61082"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "仙人桥",
@@ -2092,7 +4690,17 @@
    "lat": 36.21729,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.21729/120.6098"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "扇子石",
@@ -2100,7 +4708,17 @@
    "lat": 36.21683,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.21683/120.61173"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "原泉(太乙泉)",
@@ -2108,7 +4726,17 @@
    "lat": 36.17931,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.17931/120.62743"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "仰天池",
@@ -2116,7 +4744,17 @@
    "lat": 36.17711,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.17711/120.62804"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "将军台",
@@ -2124,7 +4762,17 @@
    "lat": 36.16866,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.16866/120.6296"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "海龟石",
@@ -2132,7 +4780,17 @@
    "lat": 36.16885,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.16885/120.6304"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "日月池",
@@ -2140,7 +4798,17 @@
    "lat": 36.16998,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.16998/120.63135"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "海象石",
@@ -2148,7 +4816,17 @@
    "lat": 36.16996,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.16996/120.63125"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "哑铃石",
@@ -2156,7 +4834,17 @@
    "lat": 36.17079,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.17079/120.63145"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "天心石",
@@ -2164,7 +4852,17 @@
    "lat": 36.17084,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.17084/120.63155"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "礼泉",
@@ -2172,7 +4870,17 @@
    "lat": 36.17596,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.17596/120.63071"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "八角池",
@@ -2180,7 +4888,17 @@
    "lat": 36.17811,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.17811/120.62994"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "脚丫石",
@@ -2188,7 +4906,17 @@
    "lat": 36.16837,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.16837/120.63555"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "化化浪子",
@@ -2196,7 +4924,17 @@
    "lat": 36.1526,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.1526/120.64328"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "落霞潭",
@@ -2204,7 +4942,17 @@
    "lat": 36.15147,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.15147/120.64389"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "胭脂潭",
@@ -2212,7 +4960,17 @@
    "lat": 36.15086,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.15086/120.64457"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "安静潭",
@@ -2220,7 +4978,17 @@
    "lat": 36.14646,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.14646/120.64865"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "清心潭",
@@ -2228,7 +4996,17 @@
    "lat": 36.14568,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.14568/120.65154"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "白石潭",
@@ -2236,7 +5014,17 @@
    "lat": 36.14515,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.14515/120.65174"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "二平潭",
@@ -2244,7 +5032,17 @@
    "lat": 36.14304,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.14304/120.65462"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "星星潭",
@@ -2252,7 +5050,17 @@
    "lat": 36.14079,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.14079/120.61522"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "玄武洞",
@@ -2260,7 +5068,17 @@
    "lat": 36.13512,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.13512/120.65784"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "登州周鲁胶州赵云凤石刻",
@@ -2268,7 +5086,17 @@
    "lat": 36.15623,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.15623/120.6616"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "伴山居士石刻",
@@ -2276,7 +5104,17 @@
    "lat": 36.15664,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.15664/120.65959"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "云窟",
@@ -2284,7 +5122,17 @@
    "lat": 36.15572,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.15572/120.66257"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "天池晴波",
@@ -2292,7 +5140,17 @@
    "lat": 36.1557,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.1557/120.6627"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "诗苑洞",
@@ -2300,7 +5158,17 @@
    "lat": 36.15688,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.15688/120.66316"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "梨庵子",
@@ -2308,7 +5176,17 @@
    "lat": 36.13581,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.13581/120.6555"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "华楼山门",
@@ -2316,7 +5194,17 @@
    "lat": 36.23846,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.23846/120.49869"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "放生池",
@@ -2324,7 +5212,17 @@
    "lat": 36.23751,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.23751/120.49778"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "玉皇洞",
@@ -2332,7 +5230,17 @@
    "lat": 36.23786,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.23786/120.49631"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "海阔天空石刻",
@@ -2340,7 +5248,17 @@
    "lat": 36.23889,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.23889/120.49668"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "最乐处石刻",
@@ -2348,7 +5266,17 @@
    "lat": 36.23674,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.23674/120.49793"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "道士帽子",
@@ -2356,7 +5284,17 @@
    "lat": 36.20844,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.20844/120.45543"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "天河石刻",
@@ -2364,7 +5302,17 @@
    "lat": 36.20581,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.20581/120.46928"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "洗脸盆",
@@ -2372,7 +5320,17 @@
    "lat": 36.20799,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.20799/120.45353"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "神水泉",
@@ -2380,7 +5338,17 @@
    "lat": 36.2121,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.2121/120.51365"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "仙女盆/洗澡盆",
@@ -2388,7 +5356,17 @@
    "lat": 36.21356,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.21356/120.51873"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "仙女洞",
@@ -2396,7 +5374,17 @@
    "lat": 36.21346,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.21346/120.51867"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "童子洞",
@@ -2404,7 +5392,17 @@
    "lat": 36.21315,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.21315/120.51839"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "金童盆",
@@ -2412,7 +5410,17 @@
    "lat": 36.2156,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.2156/120.47987"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "全真庵遗址",
@@ -2420,7 +5428,17 @@
    "lat": 36.21609,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.21609/120.51949"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "颐善潭",
@@ -2428,7 +5446,17 @@
    "lat": 36.22522,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.22522/120.46395"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "明黄嘉善书院遗址",
@@ -2436,7 +5464,17 @@
    "lat": 36.22505,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.22505/120.46373"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "嘉靖甲辰响石石刻",
@@ -2444,7 +5482,17 @@
    "lat": 36.24896,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.24896/120.49809"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "大崂观遗址",
@@ -2452,7 +5500,17 @@
    "lat": 36.24041,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.24041/120.57204"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "鱼鳞口",
@@ -2460,7 +5518,17 @@
    "lat": 36.20189,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.20189/120.60828"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "玉蕊楼遗址",
@@ -2468,7 +5536,17 @@
    "lat": 36.2995,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.2995/120.54049"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "华楼山摩崖石刻",
@@ -2476,7 +5554,17 @@
    "lat": 36.23848,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.23848/120.49967"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "名山第一石刻",
@@ -2484,7 +5572,17 @@
    "lat": 36.23884,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.23884/120.49832"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "披云石刻",
@@ -2492,7 +5590,17 @@
    "lat": 36.23673,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.23673/120.49786"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "金液泉",
@@ -2500,7 +5608,17 @@
    "lat": 36.23762,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.23762/120.49667"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "八不砂大王令旨石刻",
@@ -2508,7 +5626,17 @@
    "lat": 36.23773,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.23773/120.49678"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "翠屏岩",
@@ -2516,7 +5644,17 @@
    "lat": 36.23782,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.23782/120.49633"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "凭虚石",
@@ -2524,7 +5662,17 @@
    "lat": 36.23837,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.23837/120.49709"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "孔祥熙别墅（法国楼）",
@@ -2532,7 +5680,17 @@
    "lat": 36.05981,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.05981/120.3583"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "美国楼",
@@ -2540,7 +5698,17 @@
    "lat": 36.06142,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.06142/120.35547"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "莲台寺遗址",
@@ -2548,7 +5716,17 @@
    "lat": 36.24969,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.24969/120.48708"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "鲨鱼嘴（仰天吼）",
@@ -2556,7 +5734,17 @@
    "lat": 36.21888,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.21888/120.47045"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "鞋子石",
@@ -2564,7 +5752,17 @@
    "lat": 36.21999,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.21999/120.47038"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "老碾房",
@@ -2572,7 +5770,17 @@
    "lat": 36.22333,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.22333/120.52056"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "百福古井",
@@ -2580,7 +5788,17 @@
    "lat": 36.22332,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.22332/120.52053"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "栓马柱",
@@ -2588,7 +5806,17 @@
    "lat": 36.22309,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.22309/120.52163"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "百年老屋",
@@ -2596,7 +5824,17 @@
    "lat": 36.22309,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.22309/120.52172"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "孔子石（老子石）",
@@ -2604,7 +5842,17 @@
    "lat": 36.18939,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.18939/120.58769"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "母子石",
@@ -2612,7 +5860,17 @@
    "lat": 36.19186,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.19186/120.58809"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "试胆石",
@@ -2620,7 +5878,17 @@
    "lat": 36.18969,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.18969/120.58926"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "官帽石",
@@ -2628,7 +5896,17 @@
    "lat": 36.18854,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.18854/120.56832"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "神龟推球",
@@ -2636,7 +5914,17 @@
    "lat": 36.21158,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.21158/120.6613"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "浴日奇观",
@@ -2644,7 +5932,17 @@
    "lat": 36.20164,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.20164/120.6578"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "天波池",
@@ -2652,7 +5950,17 @@
    "lat": 36.19842,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.19842/120.67168"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "小天池（玄武池）",
@@ -2660,7 +5968,17 @@
    "lat": 36.15893,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.15893/120.65776"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "白龙洞",
@@ -2668,7 +5986,17 @@
    "lat": 36.23626,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.23626/120.65764"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "清雅石刻",
@@ -2676,7 +6004,17 @@
    "lat": 36.23603,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.23603/120.657"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "采药石",
@@ -2684,7 +6022,17 @@
    "lat": 36.22046,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.22046/120.63618"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "关公夜读",
@@ -2692,7 +6040,17 @@
    "lat": 36.2382,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.2382/120.6489"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "大圣故居",
@@ -2700,7 +6058,17 @@
    "lat": 36.23927,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.23927/120.65028"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "龟头石",
@@ -2708,7 +6076,17 @@
    "lat": 36.24627,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.24627/120.48214"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "马鞍石",
@@ -2716,7 +6094,17 @@
    "lat": 36.15509,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.15509/120.60536"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "镜面石",
@@ -2724,7 +6112,17 @@
    "lat": 36.1544,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.1544/120.60673"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "小圣故居",
@@ -2732,7 +6130,17 @@
    "lat": 36.15503,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.15503/120.61293"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "青岛城阳铁陨石",
@@ -2740,7 +6148,17 @@
    "lat": 36.28738,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.28738/120.38539"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "凤凰台",
@@ -2748,7 +6166,17 @@
    "lat": 36.27847,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.27847/120.49057"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "栖云洞",
@@ -2756,7 +6184,17 @@
    "lat": 36.21628,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.21628/120.64821"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "伏龙洞",
@@ -2764,7 +6202,17 @@
    "lat": 36.21641,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.21641/120.64888"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "鱼鼓石（云穴）",
@@ -2772,7 +6220,17 @@
    "lat": 36.20644,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.20644/120.67178"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "猴头石",
@@ -2780,7 +6238,17 @@
    "lat": 36.1949,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.1949/120.44794"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "西山官石刻",
@@ -2788,7 +6256,17 @@
    "lat": 36.20614,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.20614/120.6237"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "通天洞",
@@ -2796,7 +6274,17 @@
    "lat": 36.24995,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.24995/120.60362"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "明棋潭",
@@ -2804,7 +6292,17 @@
    "lat": 36.19646,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.19646/120.65337"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "魔鬼石",
@@ -2812,7 +6310,17 @@
    "lat": 36.20723,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.20723/120.47132"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "沧口公园荷塘",
@@ -2820,7 +6328,17 @@
    "lat": 36.18626,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.18626/120.38365"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "佛趾石",
@@ -2828,7 +6346,17 @@
    "lat": 36.29039,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.29039/120.5756"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "滚龙洞",
@@ -2836,7 +6364,17 @@
    "lat": 36.33948,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.33948/120.63166"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "灵蒲泉",
@@ -2844,7 +6382,17 @@
    "lat": 36.33999,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.33999/120.62943"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "嘉靖碑",
@@ -2852,7 +6400,17 @@
    "lat": 36.33894,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.33894/120.63247"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "蝎蜇崖",
@@ -2860,7 +6418,17 @@
    "lat": 36.14147,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.14147/120.55226"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "300年流苏树",
@@ -2868,7 +6436,17 @@
    "lat": 36.23312,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.23312/120.45793"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "望天吼",
@@ -2876,7 +6454,17 @@
    "lat": 36.23722,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.23722/120.49968"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "金龟望月",
@@ -2884,7 +6472,17 @@
    "lat": 36.23118,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.23118/120.47089"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "天外",
@@ -2892,7 +6490,17 @@
    "lat": 36.23268,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.23268/120.50719"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "屈子行吟",
@@ -2900,7 +6508,17 @@
    "lat": 36.22643,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.22643/120.46525"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "灵峰庵石刻",
@@ -2908,7 +6526,17 @@
    "lat": 36.24523,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.24523/120.50318"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "七真洞",
@@ -2916,7 +6544,17 @@
    "lat": 36.23792,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.23792/120.49723"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "古树",
@@ -2924,7 +6562,17 @@
    "lat": 36.2376,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.2376/120.49674"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "碧落岩",
@@ -2932,7 +6580,17 @@
    "lat": 36.23761,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.23761/120.49669"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "鱼嘴石",
@@ -2940,7 +6598,17 @@
    "lat": 36.23723,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.23723/120.49397"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "贮月潭",
@@ -2948,7 +6616,17 @@
    "lat": 36.14893,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.14893/120.64519"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "吻石",
@@ -2956,7 +6634,17 @@
    "lat": 36.15731,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.15731/120.63513"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "烟袋锅",
@@ -2964,7 +6652,17 @@
    "lat": 36.15799,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.15799/120.63402"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "人脑石",
@@ -2972,7 +6670,17 @@
    "lat": 36.22739,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.22739/120.64314"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "元宝石",
@@ -2980,7 +6688,17 @@
    "lat": 36.2373,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.2373/120.49996"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "人民英雄纪念碑碑心石开采旧址",
@@ -2988,7 +6706,17 @@
    "lat": 36.08043,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.08043/120.43223"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "豚石瞰海",
@@ -2996,7 +6724,17 @@
    "lat": 36.20446,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.20446/120.46709"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "戴家池",
@@ -3004,7 +6742,17 @@
    "lat": 36.21133,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.21133/120.47543"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "聚财池(砚台)",
@@ -3012,7 +6760,17 @@
    "lat": 36.21011,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.21011/120.46263"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "龙头石",
@@ -3020,7 +6778,17 @@
    "lat": 36.20509,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.20509/120.46929"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "洞天第一",
@@ -3028,7 +6796,17 @@
    "lat": 36.20541,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.20541/120.46971"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "隐幽亭",
@@ -3036,7 +6814,17 @@
    "lat": 36.20593,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.20593/120.47585"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "两仪石",
@@ -3044,7 +6832,17 @@
    "lat": 36.20486,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.20486/120.47513"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "太清亭",
@@ -3052,7 +6850,17 @@
    "lat": 36.20523,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.20523/120.47464"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "道义千古",
@@ -3060,7 +6868,17 @@
    "lat": 36.20602,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.20602/120.47386"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "天河水池",
@@ -3068,7 +6886,17 @@
    "lat": 36.20665,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.20665/120.47365"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "金丹早成题刻",
@@ -3076,7 +6904,17 @@
    "lat": 36.20657,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.20657/120.47309"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "紫竹野林",
@@ -3084,7 +6922,17 @@
    "lat": 36.20641,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.20641/120.47302"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "紫气东来",
@@ -3092,7 +6940,17 @@
    "lat": 36.20445,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.20445/120.47532"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "太初门",
@@ -3100,7 +6958,17 @@
    "lat": 36.20445,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.20445/120.47537"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "鬼脸石",
@@ -3108,7 +6976,17 @@
    "lat": 36.2134,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.2134/120.47687"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "蛇头石",
@@ -3116,7 +6994,17 @@
    "lat": 36.21311,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.21311/120.4766"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "石门滚龙洞",
@@ -3124,7 +7012,17 @@
    "lat": 36.21928,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.21928/120.47862"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "猪鼻石",
@@ -3132,7 +7030,17 @@
    "lat": 36.21941,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.21941/120.48319"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "天然碑",
@@ -3140,7 +7048,17 @@
    "lat": 36.22973,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.22973/120.49548"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "骷颅头",
@@ -3148,7 +7066,17 @@
    "lat": 36.20583,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.20583/120.4675"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "登山平安",
@@ -3156,7 +7084,17 @@
    "lat": 36.20097,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.20097/120.44779"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "铁桥涧",
@@ -3164,7 +7102,17 @@
    "lat": 36.20858,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.20858/120.44315"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "梅花园",
@@ -3172,7 +7120,17 @@
    "lat": 36.06259,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.06259/120.34234"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "月季园",
@@ -3180,7 +7138,17 @@
    "lat": 36.0646,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.0646/120.34207"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "花卉园",
@@ -3190,7 +7158,21 @@
    "drive": "",
    "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
    "rating": "4A",
-   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)"
+   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)",
+   "sources": [
+    {
+     "n": "4A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6AAAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.06588/120.34236"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "玉兰园",
@@ -3198,7 +7180,17 @@
    "lat": 36.06609,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.06609/120.34358"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "牡丹园",
@@ -3208,7 +7200,21 @@
    "drive": "",
    "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
    "rating": "4A",
-   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)"
+   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)",
+   "sources": [
+    {
+     "n": "4A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6AAAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.06611/120.34578"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "TEU集装箱部落",
@@ -3216,7 +7222,17 @@
    "lat": 36.08464,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.08464/120.30722"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "海云庵",
@@ -3224,7 +7240,17 @@
    "lat": 36.11129,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.11129/120.34549"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "石屋",
@@ -3232,7 +7258,17 @@
    "lat": 36.22408,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.22408/120.48563"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "仁善亭",
@@ -3240,7 +7276,17 @@
    "lat": 36.2254,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.2254/120.46375"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "仙桃石",
@@ -3248,7 +7294,17 @@
    "lat": 36.20419,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.20419/120.45851"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "恐龙头",
@@ -3256,7 +7312,17 @@
    "lat": 36.204,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.204/120.45848"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "阴阳鱼",
@@ -3264,7 +7330,17 @@
    "lat": 36.20274,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.20274/120.45746"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "抗捻围子",
@@ -3272,7 +7348,17 @@
    "lat": 36.20145,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.20145/120.45727"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "即墨县衙旧址",
@@ -3280,7 +7366,17 @@
    "lat": 36.38903,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.38903/120.46295"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "四方风荷",
@@ -3288,7 +7384,17 @@
    "lat": 36.10949,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.10949/120.34507"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "双星名人塔",
@@ -3296,7 +7402,17 @@
    "lat": 36.34341,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.34341/120.33048"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "莲花石（百合顶）",
@@ -3304,7 +7420,17 @@
    "lat": 36.16351,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.16351/120.65789"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "试剑石",
@@ -3312,7 +7438,17 @@
    "lat": 36.1687,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.1687/120.64506"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "万年池",
@@ -3320,7 +7456,17 @@
    "lat": 36.15674,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.15674/120.65868"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "孔雀石",
@@ -3328,7 +7474,17 @@
    "lat": 36.17263,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.17263/120.63648"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "铁瓦殿",
@@ -3336,7 +7492,17 @@
    "lat": 36.16737,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.16737/120.62452"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "慈光洞",
@@ -3344,7 +7510,17 @@
    "lat": 36.16889,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.16889/120.62394"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "白云庵",
@@ -3352,7 +7528,17 @@
    "lat": 36.16854,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.16854/120.62353"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "玉清宫",
@@ -3360,7 +7546,17 @@
    "lat": 36.1688,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.1688/120.62336"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "风桥险渡",
@@ -3368,7 +7564,17 @@
    "lat": 36.17556,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.17556/120.62266"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "铁佛庵",
@@ -3376,7 +7582,17 @@
    "lat": 36.15964,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.15964/120.62341"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "搁云亭",
@@ -3384,7 +7600,17 @@
    "lat": 36.15476,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.15476/120.61848"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "人字瀑",
@@ -3392,7 +7618,17 @@
    "lat": 36.13138,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.13138/120.65345"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "长崖瀑",
@@ -3400,7 +7636,17 @@
    "lat": 36.13333,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.13333/120.65059"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "天柱",
@@ -3408,7 +7654,17 @@
    "lat": 36.14101,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.14101/120.63881"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "葫芦池",
@@ -3416,7 +7672,17 @@
    "lat": 36.14102,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.14102/120.63866"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "玉女拜山",
@@ -3424,7 +7690,17 @@
    "lat": 36.13661,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.13661/120.64365"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "八仙墩",
@@ -3432,7 +7708,17 @@
    "lat": 36.1347,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.1347/120.71196"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "驱虎庵遗址",
@@ -3440,7 +7726,17 @@
    "lat": 36.13267,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.13267/120.6837"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "小八仙墩",
@@ -3448,7 +7744,17 @@
    "lat": 36.1317,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.1317/120.70039"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "八卦阵",
@@ -3456,7 +7762,17 @@
    "lat": 36.23039,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.23039/120.46734"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "和尚崮子",
@@ -3464,7 +7780,17 @@
    "lat": 36.22843,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.22843/120.46205"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "卧虎藏龙",
@@ -3472,7 +7798,17 @@
    "lat": 36.20063,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.20063/120.61985"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "狮身人面",
@@ -3480,7 +7816,17 @@
    "lat": 36.20221,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.20221/120.62186"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "神龟宝船",
@@ -3488,7 +7834,17 @@
    "lat": 36.21238,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.21238/120.61587"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "剪刀石",
@@ -3496,7 +7852,17 @@
    "lat": 36.21236,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.21236/120.61573"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "手套石",
@@ -3504,7 +7870,17 @@
    "lat": 36.21081,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.21081/120.61569"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "靴子石",
@@ -3512,7 +7888,17 @@
    "lat": 36.21742,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.21742/120.61022"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "金刚崮",
@@ -3520,7 +7906,17 @@
    "lat": 36.21992,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.21992/120.61654"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "猴子攀岩",
@@ -3528,7 +7924,17 @@
    "lat": 36.22027,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.22027/120.61536"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "神龟",
@@ -3536,7 +7942,17 @@
    "lat": 35.78905,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/35.78905/119.96329"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "神马",
@@ -3544,7 +7960,17 @@
    "lat": 35.78585,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/35.78585/119.95724"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "西晋石刻",
@@ -3552,7 +7978,17 @@
    "lat": 36.11551,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.11551/120.51916"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "人头崮石刻",
@@ -3560,7 +7996,17 @@
    "lat": 36.2128,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.2128/120.44692"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "盟旺山古墓",
@@ -3568,7 +8014,17 @@
    "lat": 36.40312,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.40312/120.51217"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "藏军洞",
@@ -3576,7 +8032,17 @@
    "lat": 36.23076,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.23076/120.48717"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "拔剑洞",
@@ -3584,7 +8050,17 @@
    "lat": 36.23846,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.23846/120.49193"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "忘情石",
@@ -3592,7 +8068,17 @@
    "lat": 36.23846,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.23846/120.49174"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "胡氏客厅旧址",
@@ -3600,7 +8086,17 @@
    "lat": 36.19022,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.19022/120.37755"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "海豹石",
@@ -3608,7 +8104,17 @@
    "lat": 36.21827,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.21827/120.45693"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "财贝沟墓群",
@@ -3616,7 +8122,17 @@
    "lat": 36.22763,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.22763/120.43767"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "虎头石",
@@ -3624,7 +8140,17 @@
    "lat": 36.18332,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.18332/120.40903"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "吕家庄夜市",
@@ -3632,7 +8158,17 @@
    "lat": 36.30493,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.30493/120.41189"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "石婆婆",
@@ -3640,7 +8176,17 @@
    "lat": 36.18591,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.18591/120.45264"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "青岛湖滨生态园",
@@ -3648,7 +8194,17 @@
    "lat": 36.93073,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.93073/120.44794"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "跷跷板",
@@ -3656,7 +8212,17 @@
    "lat": 36.19352,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.19352/120.44518"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "小鸟石",
@@ -3664,7 +8230,17 @@
    "lat": 36.19342,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.19342/120.44652"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "玄阳观石刻",
@@ -3672,7 +8248,17 @@
    "lat": 36.20682,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.20682/120.47339"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "道士帽",
@@ -3680,7 +8266,17 @@
    "lat": 36.20722,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.20722/120.46006"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "猪蹄石",
@@ -3688,7 +8284,17 @@
    "lat": 36.2351,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.2351/120.46418"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "一柱擎天",
@@ -3696,7 +8302,17 @@
    "lat": 36.235,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.235/120.46444"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "隐泉",
@@ -3704,7 +8320,17 @@
    "lat": 36.24082,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.24082/120.48212"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "犬牙石",
@@ -3712,7 +8338,17 @@
    "lat": 36.23915,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.23915/120.45385"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "宝龙洞",
@@ -3720,7 +8356,17 @@
    "lat": 36.23494,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.23494/120.4634"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "猪嘴石屋",
@@ -3728,7 +8374,17 @@
    "lat": 36.23933,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.23933/120.45641"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "悟空石",
@@ -3736,7 +8392,17 @@
    "lat": 36.22122,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.22122/120.45972"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "摩云洞（石瓮）",
@@ -3744,7 +8410,17 @@
    "lat": 36.25204,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.25204/120.45996"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "寿字石刻",
@@ -3752,7 +8428,17 @@
    "lat": 36.22401,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.22401/120.46352"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "鸭头石",
@@ -3760,7 +8446,17 @@
    "lat": 36.22013,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.22013/120.47112"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "蘑菇石",
@@ -3768,7 +8464,17 @@
    "lat": 36.22046,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.22046/120.4657"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "小石牛",
@@ -3776,7 +8482,17 @@
    "lat": 36.2465,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.2465/120.50692"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "支脚石",
@@ -3784,7 +8500,17 @@
    "lat": 36.27633,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.27633/120.49349"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "老君洞",
@@ -3792,7 +8518,17 @@
    "lat": 36.27024,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.27024/120.50448"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "青峰围子",
@@ -3800,7 +8536,17 @@
    "lat": 36.2702,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.2702/120.49016"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "毛公石",
@@ -3808,7 +8554,17 @@
    "lat": 36.26993,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.26993/120.49136"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "玉液泉",
@@ -3816,7 +8572,17 @@
    "lat": 36.26553,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.26553/120.50058"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "留侯洞",
@@ -3824,7 +8590,17 @@
    "lat": 36.26588,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.26588/120.50127"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "韩信瓦",
@@ -3832,7 +8608,17 @@
    "lat": 36.255,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.255/120.50315"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "石老妈妈",
@@ -3840,7 +8626,17 @@
    "lat": 36.28443,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.28443/120.50372"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "泼（破）风刀",
@@ -3848,7 +8644,17 @@
    "lat": 36.27782,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.27782/120.53586"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qingdao.gov.cn/"
+    }
+   ]
   }
  ],
  "rings": [

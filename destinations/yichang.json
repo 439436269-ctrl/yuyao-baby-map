@@ -16,7 +16,17 @@
    "lat": 30.83579,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.83579/111.06668"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.yichang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "三游洞摩崖",
@@ -24,7 +34,17 @@
    "lat": 30.76713,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.76713/111.26289"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.yichang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "九畹溪",
@@ -34,7 +54,21 @@
    "drive": "",
    "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
    "rating": "4A",
-   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)"
+   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)",
+   "sources": [
+    {
+     "n": "4A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6AAAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.80499/110.82576"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.yichang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "三峡大瀑布",
@@ -44,7 +78,21 @@
    "drive": "",
    "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
    "rating": "5A",
-   "ratingSrc": "国家5A名录(2025.3·358家)"
+   "ratingSrc": "国家5A名录(2025.3·358家)",
+   "sources": [
+    {
+     "n": "5A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B65A%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.94818/111.31917"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.yichang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "Three gorges longyin valley eco tourism area",
@@ -52,7 +100,17 @@
    "lat": 30.97938,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.97938/111.60297"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.yichang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "屈原故里",
@@ -62,7 +120,21 @@
    "drive": "",
    "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
    "rating": "5A",
-   "ratingSrc": "国家5A名录(2025.3·358家)"
+   "ratingSrc": "国家5A名录(2025.3·358家)",
+   "sources": [
+    {
+     "n": "5A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B65A%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.82828/110.98349"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.yichang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "黄陵庙",
@@ -70,7 +142,17 @@
    "lat": 30.84249,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.84249/111.07609"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.yichang.gov.cn/"
+    }
+   ]
   }
  ],
  "rings": [

@@ -16,7 +16,17 @@
    "lat": 36.1137,
    "tag": "景点",
    "drive": "约 1 小时",
-   "note": "[KNOWN·坐标photon] 坎布拉"
+   "note": "[KNOWN·坐标photon] 坎布拉",
+   "sources": [
+    {
+     "n": "坐标定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.1137/101.8491"
+    },
+    {
+     "n": "Photon·查询",
+     "u": "https://photon.komoot.io/?q=%E5%9D%8E%E5%B8%83%E6%8B%89"
+    }
+   ]
   }
  ],
  "rings": [

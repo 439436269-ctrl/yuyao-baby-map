@@ -16,7 +16,17 @@
    "lat": 30.90139,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.90139/103.56561"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "天师洞",
@@ -24,7 +34,17 @@
    "lat": 30.90456,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.90456/103.55872"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "五洞天",
@@ -32,7 +52,17 @@
    "lat": 30.90442,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.90442/103.55963"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "坐虎针龙",
@@ -40,7 +70,17 @@
    "lat": 30.90141,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.90141/103.56531"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "大熊猫2号别墅",
@@ -48,7 +88,17 @@
    "lat": 30.74097,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.74097/104.13871"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "小熊猫1号活动场",
@@ -56,7 +106,17 @@
    "lat": 30.73851,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.73851/104.13962"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "大熊猫7号别墅",
@@ -64,7 +124,17 @@
    "lat": 30.73729,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.73729/104.14067"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "大熊猫5号别墅",
@@ -72,7 +142,17 @@
    "lat": 30.73859,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.73859/104.14127"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "大熊猫6号别墅",
@@ -80,7 +160,17 @@
    "lat": 30.73922,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.73922/104.14096"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "大熊猫一号别墅",
@@ -88,7 +178,17 @@
    "lat": 30.7397,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.7397/104.13619"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "大熊猫4号别墅",
@@ -96,7 +196,17 @@
    "lat": 30.73913,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.73913/104.14194"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "大熊猫太阳产房",
@@ -104,7 +214,17 @@
    "lat": 30.74001,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.74001/104.14092"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "5号烽火台",
@@ -112,7 +232,17 @@
    "lat": 30.68754,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.68754/104.36362"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "金龙长城",
@@ -120,7 +250,17 @@
    "lat": 30.67898,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.67898/104.36908"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "Dragon Old Streets",
@@ -128,7 +268,17 @@
    "lat": 30.66566,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.66566/104.0504"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "金堂县云顶石城风景区",
@@ -136,7 +286,17 @@
    "lat": 30.73735,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.73735/104.48646"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "黃龙溪古鎮",
@@ -144,7 +304,17 @@
    "lat": 30.31764,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.31764/103.96905"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "芦沟竹海",
@@ -152,7 +322,17 @@
    "lat": 30.35719,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.35719/103.31553"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "成都欢乐谷",
@@ -160,7 +340,17 @@
    "lat": 30.72387,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.72387/104.02995"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "华西坝",
@@ -168,7 +358,17 @@
    "lat": 30.64179,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.64179/104.06662"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "永陵",
@@ -176,7 +376,17 @@
    "lat": 30.67608,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.67608/104.0445"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "相亲角",
@@ -184,7 +394,17 @@
    "lat": 30.66003,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.66003/104.05434"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "洛带金龙长城",
@@ -192,7 +412,17 @@
    "lat": 30.67921,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.67921/104.36939"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "金鱼馆",
@@ -200,7 +430,17 @@
    "lat": 30.71291,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.71291/104.10123"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "百鸟苑",
@@ -208,7 +448,17 @@
    "lat": 30.71183,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.71183/104.10135"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "孔雀",
@@ -216,7 +466,17 @@
    "lat": 30.71098,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.71098/104.10085"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "火烈鸟",
@@ -224,7 +484,17 @@
    "lat": 30.71146,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.71146/104.10084"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "鸟蛋展示区",
@@ -232,7 +502,17 @@
    "lat": 30.71047,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.71047/104.102"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "羊驼",
@@ -240,7 +520,17 @@
    "lat": 30.71016,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.71016/104.10236"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "矮马",
@@ -248,7 +538,17 @@
    "lat": 30.71021,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.71021/104.10254"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "海豹池",
@@ -256,7 +556,17 @@
    "lat": 30.71052,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.71052/104.10229"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "企鹅馆",
@@ -264,7 +574,17 @@
    "lat": 30.71087,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.71087/104.102"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "类人猿馆",
@@ -272,7 +592,17 @@
    "lat": 30.71235,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.71235/104.10232"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "狐猴馆",
@@ -280,7 +610,17 @@
    "lat": 30.71246,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.71246/104.10315"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "狒狒",
@@ -288,7 +628,17 @@
    "lat": 30.71234,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.71234/104.10361"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "山魈馆",
@@ -296,7 +646,17 @@
    "lat": 30.71231,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.71231/104.10391"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "狮虎馆",
@@ -304,7 +664,17 @@
    "lat": 30.71197,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.71197/104.10482"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "大象馆",
@@ -312,7 +682,17 @@
    "lat": 30.7107,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.7107/104.10572"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "长颈鹿馆",
@@ -320,7 +700,17 @@
    "lat": 30.71044,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.71044/104.10495"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "狼·獴",
@@ -328,7 +718,17 @@
    "lat": 30.70981,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.70981/104.1048"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "羚羊",
@@ -336,7 +736,17 @@
    "lat": 30.71262,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.71262/104.10566"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "新都古城墙",
@@ -344,7 +754,17 @@
    "lat": 30.82418,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.82418/104.157"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "中国-欧洲中心",
@@ -352,7 +772,17 @@
    "lat": 30.53926,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.53926/104.06819"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "龟负洛书",
@@ -360,7 +790,17 @@
    "lat": 30.72185,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.72185/104.12983"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "东篱菊园",
@@ -368,7 +808,17 @@
    "lat": 30.57766,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.57766/104.13618"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "古戏台",
@@ -376,7 +826,17 @@
    "lat": 30.81582,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.81582/103.55445"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "字库塔",
@@ -384,7 +844,17 @@
    "lat": 30.81415,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.81415/103.55586"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "鱼嘴",
@@ -392,7 +862,17 @@
    "lat": 31.00922,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.00922/103.60429"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "宝瓶口",
@@ -400,7 +880,17 @@
    "lat": 31.00113,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.00113/103.61056"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "孔明苑",
@@ -408,7 +898,17 @@
    "lat": 30.6489,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.6489/104.0465"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "春夜喜雨园",
@@ -416,7 +916,17 @@
    "lat": 30.66327,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.66327/104.02621"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "南城门",
@@ -424,7 +934,17 @@
    "lat": 30.73705,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.73705/104.48665"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "北城门",
@@ -432,7 +952,17 @@
    "lat": 30.74942,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.74942/104.47358"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "瓮城门",
@@ -440,7 +970,17 @@
    "lat": 30.74926,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.74926/104.47457"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "黄葛树·树包碑",
@@ -448,7 +988,17 @@
    "lat": 30.71089,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.71089/104.10325"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "安顺廊桥",
@@ -456,7 +1006,17 @@
    "lat": 30.64414,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.64414/104.08343"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "成都砖雕老地图",
@@ -464,7 +1024,17 @@
    "lat": 30.67497,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.67497/104.07094"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "离堆",
@@ -472,7 +1042,17 @@
    "lat": 31.00095,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.00095/103.61031"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "韶山1型电力机车SS1-0818",
@@ -480,7 +1060,17 @@
    "lat": 30.76394,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.76394/103.98949"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "东风4型内燃机车DF4-7019",
@@ -488,7 +1078,17 @@
    "lat": 30.76359,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.76359/103.98973"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "宽窄巷子",
@@ -496,7 +1096,17 @@
    "lat": 30.66605,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.66605/104.051"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "环球中心",
@@ -504,7 +1114,17 @@
    "lat": 30.57146,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.57146/104.06308"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "I LOVE XHU",
@@ -512,7 +1132,17 @@
    "lat": 30.78173,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.78173/103.95626"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "红塔子",
@@ -520,7 +1150,17 @@
    "lat": 31.00489,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.00489/103.61712"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "古蜀迷宫",
@@ -528,7 +1168,17 @@
    "lat": 30.63671,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.63671/104.12304"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "交大磁浮CFC-01",
@@ -536,7 +1186,17 @@
    "lat": 30.76453,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.76453/103.98928"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "峨眉山门",
@@ -544,7 +1204,17 @@
    "lat": 30.58237,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.58237/104.27396"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "大椿巷",
@@ -552,7 +1222,17 @@
    "lat": 30.92779,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.92779/103.82186"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "新华日报驻成都办事处旧址",
@@ -560,7 +1240,17 @@
    "lat": 30.65967,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.65967/104.05713"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "四川美术社砖楼",
@@ -568,7 +1258,17 @@
    "lat": 30.65957,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.65957/104.05737"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "原聚兴诚银行祠堂街办事处暨国画家张采芹画室",
@@ -576,7 +1276,17 @@
    "lat": 30.65937,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.65937/104.05762"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "建设型蒸汽机车JS-8328",
@@ -584,7 +1294,17 @@
    "lat": 30.76422,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.76422/103.9891"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "葛仙花谷",
@@ -592,7 +1312,17 @@
    "lat": 31.14269,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.14269/103.95413"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "小熊猫产房",
@@ -600,7 +1330,17 @@
    "lat": 30.73991,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.73991/104.13781"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "大熊猫月亮产房",
@@ -608,7 +1348,17 @@
    "lat": 30.74187,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.74187/104.137"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "大熊猫3号别墅",
@@ -616,7 +1366,17 @@
    "lat": 30.73942,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.73942/104.14283"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "大熊猫星星产房",
@@ -624,7 +1384,17 @@
    "lat": 30.74853,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.74853/104.13599"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "星光馆",
@@ -632,7 +1402,17 @@
    "lat": 30.74878,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.74878/104.13685"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "映日馆",
@@ -640,7 +1420,17 @@
    "lat": 30.74607,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.74607/104.13649"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "旭日馆",
@@ -648,7 +1438,17 @@
    "lat": 30.74516,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.74516/104.13583"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "云日馆",
@@ -656,7 +1456,17 @@
    "lat": 30.74488,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.74488/104.13725"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "胜日馆",
@@ -664,7 +1474,17 @@
    "lat": 30.74409,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.74409/104.13586"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "星云馆",
@@ -672,7 +1492,17 @@
    "lat": 30.74984,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.74984/104.13566"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "星雨馆",
@@ -680,7 +1510,17 @@
    "lat": 30.751,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.751/104.13478"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "密林金丝猴馆",
@@ -688,7 +1528,17 @@
    "lat": 30.74919,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.74919/104.13247"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "星汉馆",
@@ -696,7 +1546,17 @@
    "lat": 30.74762,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.74762/104.13464"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "江月馆",
@@ -704,7 +1564,17 @@
    "lat": 30.74645,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.74645/104.12936"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "明月馆",
@@ -712,7 +1582,17 @@
    "lat": 30.74718,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.74718/104.12981"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "揽月馆",
@@ -720,7 +1600,17 @@
    "lat": 30.74568,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.74568/104.1284"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "云月馆",
@@ -728,7 +1618,17 @@
    "lat": 30.74748,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.74748/104.12849"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "山月馆",
@@ -736,7 +1636,17 @@
    "lat": 30.74741,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.74741/104.12719"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "秋月馆",
@@ -744,7 +1654,17 @@
    "lat": 30.74844,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.74844/104.12758"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "望月馆",
@@ -752,7 +1672,17 @@
    "lat": 30.74868,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.74868/104.12897"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "天府绿道0公里",
@@ -760,7 +1690,17 @@
    "lat": 30.56721,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.56721/104.06615"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "刘氏庄园",
@@ -770,7 +1710,21 @@
    "drive": "",
    "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
    "rating": "4A",
-   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)"
+   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)",
+   "sources": [
+    {
+     "n": "4A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6AAAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.50867/103.62633"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "仰天窝鱼嘴",
@@ -778,7 +1732,17 @@
    "lat": 30.99801,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.99801/103.61853"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "4号烽火台",
@@ -786,7 +1750,17 @@
    "lat": 30.68485,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.68485/104.36574"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "萌宠星球",
@@ -794,7 +1768,17 @@
    "lat": 30.49802,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.49802/104.06994"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "海象馆",
@@ -802,7 +1786,17 @@
    "lat": 30.49673,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.49673/104.07027"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "北海狮馆",
@@ -810,7 +1804,17 @@
    "lat": 30.49642,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.49642/104.07047"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "欢乐剧场",
@@ -818,7 +1822,17 @@
    "lat": 30.49617,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.49617/104.07042"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "4D影院",
@@ -826,7 +1840,17 @@
    "lat": 30.49645,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.49645/104.07085"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "成都原点",
@@ -834,7 +1858,17 @@
    "lat": 30.67207,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.67207/104.07119"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "小熊猫园",
@@ -842,7 +1876,17 @@
    "lat": 30.74356,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.74356/104.13324"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "丁木沟大峡谷",
@@ -850,7 +1894,17 @@
    "lat": 30.69374,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.69374/103.24974"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "石象湖生态风景区",
@@ -858,7 +1912,17 @@
    "lat": 30.19675,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.19675/103.41937"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "海窝子古镇",
@@ -866,7 +1930,17 @@
    "lat": 31.12081,
    "tag": "古镇",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.12081/103.84471"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "掷笔槽",
@@ -874,7 +1948,17 @@
    "lat": 30.90465,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.90465/103.55623"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "天师池",
@@ -882,7 +1966,17 @@
    "lat": 30.91338,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.91338/103.56143"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "Big Panda Screen",
@@ -890,7 +1984,17 @@
    "lat": 30.65504,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.65504/104.07869"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "平乐古镇",
@@ -898,7 +2002,17 @@
    "lat": 30.34801,
    "tag": "古镇",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.34801/103.33723"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "蓝眼泪",
@@ -906,7 +2020,17 @@
    "lat": 30.99825,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.99825/103.61742"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "金堂县立中学牌坊",
@@ -914,7 +2038,17 @@
    "lat": 30.85879,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.85879/104.32033"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "漢宫殘柱",
@@ -922,7 +2056,17 @@
    "lat": 30.64747,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.64747/104.04585"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "联升塔字库",
@@ -930,7 +2074,17 @@
    "lat": 30.22349,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.22349/103.15017"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "何元普故居",
@@ -938,7 +2092,17 @@
    "lat": 30.85754,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.85754/104.3154"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "全真观",
@@ -946,7 +2110,17 @@
    "lat": 30.90458,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.90458/103.5629"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "杜甫草堂",
@@ -956,7 +2130,21 @@
    "drive": "",
    "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
    "rating": "4A",
-   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)"
+   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)",
+   "sources": [
+    {
+     "n": "4A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6AAAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.66277/104.02628"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "都江堰景区",
@@ -966,7 +2154,21 @@
    "drive": "",
    "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
    "rating": "5A",
-   "ratingSrc": "国家5A名录(2025.3·358家)"
+   "ratingSrc": "国家5A名录(2025.3·358家)",
+   "sources": [
+    {
+     "n": "5A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B65A%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.00381/103.60568"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "金沙遗址博物馆",
@@ -976,7 +2178,21 @@
    "drive": "",
    "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
    "rating": "4A",
-   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)"
+   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)",
+   "sources": [
+    {
+     "n": "4A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6AAAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.68432/104.01041"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "青城山(后山)",
@@ -986,7 +2202,21 @@
    "drive": "",
    "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
    "rating": "5A",
-   "ratingSrc": "国家5A名录(2025.3·358家)"
+   "ratingSrc": "国家5A名录(2025.3·358家)",
+   "sources": [
+    {
+     "n": "5A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B65A%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.93458/103.48031"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "秦堰楼",
@@ -994,7 +2224,17 @@
    "lat": 31.00926,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.00926/103.60748"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "唐代遗址",
@@ -1002,7 +2242,17 @@
    "lat": 30.66406,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.66406/104.02588"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "朱熹宗祠",
@@ -1010,7 +2260,17 @@
    "lat": 30.63651,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.63651/104.19498"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "南桥",
@@ -1018,7 +2278,17 @@
    "lat": 30.9991,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.9991/103.61396"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "熊猫广场",
@@ -1026,7 +2296,17 @@
    "lat": 30.66141,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.66141/104.07354"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "静远堂",
@@ -1034,7 +2314,17 @@
    "lat": 30.64841,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.64841/104.04502"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "西蜀廊桥古镇",
@@ -1042,7 +2332,17 @@
    "lat": 30.56108,
    "tag": "古镇",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.56108/104.07061"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "文殊院",
@@ -1050,7 +2350,17 @@
    "lat": 30.67777,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.67777/104.07021"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "三圣花乡",
@@ -1058,7 +2368,17 @@
    "lat": 30.57808,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.57808/104.14776"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "小熊猫2号活动场",
@@ -1066,7 +2386,17 @@
    "lat": 30.73961,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.73961/104.13857"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "锦里",
@@ -1074,7 +2404,17 @@
    "lat": 30.64881,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.64881/104.04695"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "幸福梅林",
@@ -1082,7 +2422,17 @@
    "lat": 30.58562,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.58562/104.13429"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "花乡农居",
@@ -1090,7 +2440,17 @@
    "lat": 30.58697,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.58697/104.15886"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "寿安陈家大院",
@@ -1098,7 +2458,17 @@
    "lat": 30.82393,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.82393/103.73997"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "熊猫塔",
@@ -1106,7 +2476,17 @@
    "lat": 30.74295,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.74295/104.13124"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "街子古镇",
@@ -1114,7 +2494,17 @@
    "lat": 30.81715,
    "tag": "古镇",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.81715/103.55654"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "鲸豚馆",
@@ -1122,7 +2512,17 @@
    "lat": 30.49772,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.49772/104.07024"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "鲨鱼馆",
@@ -1130,7 +2530,17 @@
    "lat": 30.4982,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.4982/104.07185"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "洛带古镇",
@@ -1138,7 +2548,17 @@
    "lat": 30.63944,
    "tag": "古镇",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.63944/104.32553"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "海底世界",
@@ -1148,7 +2568,21 @@
    "drive": "",
    "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
    "rating": "4A",
-   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)"
+   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)",
+   "sources": [
+    {
+     "n": "4A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6AAAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.49789/104.07231"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "360°巨幕影院",
@@ -1156,7 +2590,17 @@
    "lat": 30.49778,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.49778/104.07189"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "萌龟馆",
@@ -1164,7 +2608,17 @@
    "lat": 30.4981,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.4981/104.07118"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "海洋交流广场",
@@ -1172,7 +2626,17 @@
    "lat": 30.49706,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.49706/104.06993"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "梦幻水母馆",
@@ -1180,7 +2644,17 @@
    "lat": 30.49616,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.49616/104.0714"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "北极村",
@@ -1190,7 +2664,21 @@
    "drive": "",
    "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
    "rating": "5A",
-   "ratingSrc": "国家5A名录(2025.3·358家)"
+   "ratingSrc": "国家5A名录(2025.3·358家)",
+   "sources": [
+    {
+     "n": "5A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B65A%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.49608/104.06992"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "北极熊馆",
@@ -1198,7 +2686,17 @@
    "lat": 30.49565,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.49565/104.07005"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "刘氏祖居",
@@ -1206,7 +2704,17 @@
    "lat": 30.50822,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.50822/103.62539"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "刘文渊公馆",
@@ -1214,7 +2722,17 @@
    "lat": 30.50833,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.50833/103.62548"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "刘文成公馆",
@@ -1222,7 +2740,17 @@
    "lat": 30.50859,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.50859/103.62571"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "刘文昭公馆",
@@ -1230,7 +2758,17 @@
    "lat": 30.50885,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.50885/103.62562"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "刘文彩公馆",
@@ -1238,7 +2776,17 @@
    "lat": 30.508,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.508/103.62651"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "天府熊猫塔",
@@ -1246,7 +2794,17 @@
    "lat": 30.66469,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.66469/104.09211"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "相约·岚月里",
@@ -1254,7 +2812,17 @@
    "lat": 30.52593,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.52593/104.30539"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "明城墙",
@@ -1264,7 +2832,21 @@
    "drive": "",
    "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
    "rating": "4A",
-   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)"
+   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)",
+   "sources": [
+    {
+     "n": "4A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6AAAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.00039/103.61311"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "锦门·沉浸式民国景区",
@@ -1272,7 +2854,17 @@
    "lat": 30.78178,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.78178/104.12813"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "毛主席像",
@@ -1280,7 +2872,17 @@
    "lat": 30.66127,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.66127/104.06331"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "反修桥",
@@ -1288,7 +2890,17 @@
    "lat": 30.86756,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.86756/104.32445"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chengdu.gov.cn/"
+    }
+   ]
   }
  ],
  "rings": [

@@ -16,7 +16,17 @@
    "lat": 29.30992,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/29.30992/120.3769"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jinhua.gov.cn/"
+    }
+   ]
   },
   {
    "n": "名人碑廊",
@@ -24,7 +34,17 @@
    "lat": 29.20394,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/29.20394/119.61828"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jinhua.gov.cn/"
+    }
+   ]
   },
   {
    "n": "湖广会馆",
@@ -34,7 +54,21 @@
    "drive": "",
    "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
    "rating": "4A",
-   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)"
+   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)",
+   "sources": [
+    {
+     "n": "4A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6AAAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/29.17599/120.29779"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jinhua.gov.cn/"
+    }
+   ]
   },
   {
    "n": "Hidden Stream",
@@ -42,7 +76,17 @@
    "lat": 29.53471,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/29.53471/120.0067"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jinhua.gov.cn/"
+    }
+   ]
   },
   {
    "n": "大公堂",
@@ -50,7 +94,17 @@
    "lat": 29.25103,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/29.25103/119.29151"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jinhua.gov.cn/"
+    }
+   ]
   },
   {
    "n": "丞相祠堂",
@@ -58,7 +112,17 @@
    "lat": 29.25026,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/29.25026/119.29313"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jinhua.gov.cn/"
+    }
+   ]
   },
   {
    "n": "大经堂",
@@ -66,7 +130,17 @@
    "lat": 29.25277,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/29.25277/119.29173"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jinhua.gov.cn/"
+    }
+   ]
   },
   {
    "n": "上岩寺",
@@ -74,7 +148,17 @@
    "lat": 29.39854,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/29.39854/120.01841"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jinhua.gov.cn/"
+    }
+   ]
   },
   {
    "n": "落彪坡",
@@ -82,7 +166,17 @@
    "lat": 29.38972,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/29.38972/120.01782"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jinhua.gov.cn/"
+    }
+   ]
   },
   {
    "n": "圆通宝殿",
@@ -90,7 +184,17 @@
    "lat": 29.39953,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/29.39953/120.02492"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jinhua.gov.cn/"
+    }
+   ]
   },
   {
    "n": "上岩洞",
@@ -98,7 +202,17 @@
    "lat": 29.40098,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/29.40098/120.02355"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jinhua.gov.cn/"
+    }
+   ]
   },
   {
    "n": "济公院",
@@ -106,7 +220,17 @@
    "lat": 29.40051,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/29.40051/120.0258"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jinhua.gov.cn/"
+    }
+   ]
   },
   {
    "n": "赤岸风景区",
@@ -114,7 +238,17 @@
    "lat": 29.08624,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/29.08624/119.95264"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jinhua.gov.cn/"
+    }
+   ]
   },
   {
    "n": "大寒尖旅游度假区",
@@ -122,7 +256,17 @@
    "lat": 29.08276,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/29.08276/119.95193"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jinhua.gov.cn/"
+    }
+   ]
   },
   {
    "n": "金华大草坪",
@@ -130,7 +274,17 @@
    "lat": 29.14109,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/29.14109/119.65021"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jinhua.gov.cn/"
+    }
+   ]
   },
   {
    "n": "天籁台",
@@ -138,7 +292,17 @@
    "lat": 29.3339,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/29.3339/120.1079"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jinhua.gov.cn/"
+    }
+   ]
   },
   {
    "n": "锦陇取景地",
@@ -146,7 +310,17 @@
    "lat": 29.30996,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/29.30996/120.3756"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jinhua.gov.cn/"
+    }
+   ]
   },
   {
    "n": "武陵取景地",
@@ -154,7 +328,17 @@
    "lat": 29.3116,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/29.3116/120.37249"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jinhua.gov.cn/"
+    }
+   ]
   },
   {
    "n": "横山风景区",
@@ -162,7 +346,17 @@
    "lat": 29.20027,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/29.20027/119.45134"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jinhua.gov.cn/"
+    }
+   ]
   },
   {
    "n": "云山风景区",
@@ -170,7 +364,17 @@
    "lat": 29.20542,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/29.20542/119.4799"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jinhua.gov.cn/"
+    }
+   ]
   },
   {
    "n": "德胜岩",
@@ -178,7 +382,17 @@
    "lat": 29.39328,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/29.39328/120.01833"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jinhua.gov.cn/"
+    }
+   ]
   },
   {
    "n": "六洞山地下长河",
@@ -186,7 +400,17 @@
    "lat": 29.20773,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/29.20773/119.53592"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jinhua.gov.cn/"
+    }
+   ]
   },
   {
    "n": "方岩风景名胜区",
@@ -194,7 +418,17 @@
    "lat": 28.92652,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/28.92652/120.18314"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jinhua.gov.cn/"
+    }
+   ]
   },
   {
    "n": "花田小镇",
@@ -202,7 +436,17 @@
    "lat": 28.85476,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/28.85476/119.70137"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jinhua.gov.cn/"
+    }
+   ]
   },
   {
    "n": "兰溪城墙",
@@ -210,7 +454,17 @@
    "lat": 29.21152,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/29.21152/119.46983"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jinhua.gov.cn/"
+    }
+   ]
   },
   {
    "n": "东阳卢宅",
@@ -218,7 +472,17 @@
    "lat": 29.26606,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/29.26606/120.24227"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jinhua.gov.cn/"
+    }
+   ]
   },
   {
    "n": "金华府文庙",
@@ -226,7 +490,17 @@
    "lat": 29.10342,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/29.10342/119.65906"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jinhua.gov.cn/"
+    }
+   ]
   }
  ],
  "rings": [

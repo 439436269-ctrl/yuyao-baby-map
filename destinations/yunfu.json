@@ -16,7 +16,17 @@
    "lat": 22.46939,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.46939/112.23125"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yunfu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "六祖惠能故居",
@@ -24,7 +34,17 @@
    "lat": 22.59519,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.59519/112.21143"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yunfu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "共成水库",
@@ -32,7 +52,17 @@
    "lat": 22.61189,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.61189/112.28293"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yunfu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "神仙谷",
@@ -40,7 +70,17 @@
    "lat": 22.57958,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.57958/112.18481"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yunfu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "峡谷漂流起点",
@@ -48,7 +88,17 @@
    "lat": 22.48599,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.48599/112.22798"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yunfu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "无忧瀑",
@@ -56,7 +106,17 @@
    "lat": 22.68545,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.68545/112.19547"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yunfu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "金刚经",
@@ -64,7 +124,17 @@
    "lat": 22.64539,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.64539/112.22542"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yunfu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "禅音墙",
@@ -72,7 +142,17 @@
    "lat": 22.64601,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.64601/112.22466"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yunfu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "拓展用地区",
@@ -80,7 +160,17 @@
    "lat": 22.64196,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.64196/112.22668"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yunfu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "卓锡泉",
@@ -88,7 +178,17 @@
    "lat": 22.64563,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.64563/112.22453"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yunfu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "大湾古建筑群",
@@ -96,7 +196,17 @@
    "lat": 22.81734,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.81734/111.63756"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yunfu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "“入胜”牌坊",
@@ -104,7 +214,17 @@
    "lat": 22.64699,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.64699/112.22362"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yunfu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "禅域小镇正门",
@@ -112,7 +232,17 @@
    "lat": 22.64829,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.64829/112.2232"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yunfu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "禅意天街",
@@ -120,7 +250,17 @@
    "lat": 22.64417,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.64417/112.22386"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yunfu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "法治文化主题公园",
@@ -128,7 +268,17 @@
    "lat": 22.70828,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.70828/112.23277"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yunfu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "升旗台",
@@ -136,7 +286,17 @@
    "lat": 22.71374,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.71374/112.25412"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yunfu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "玻璃栈道",
@@ -144,7 +304,17 @@
    "lat": 22.70454,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.70454/112.23652"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yunfu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "“越王湖公园”标志",
@@ -152,7 +322,17 @@
    "lat": 22.72274,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.72274/112.23219"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yunfu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "广场舞台",
@@ -160,7 +340,17 @@
    "lat": 22.64321,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.64321/112.25628"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yunfu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "党建公园入口",
@@ -168,7 +358,17 @@
    "lat": 22.64244,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.64244/112.25581"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yunfu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "禅茶之道",
@@ -176,7 +376,17 @@
    "lat": 22.6437,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.6437/112.25648"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yunfu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "历史文化长廊",
@@ -184,7 +394,17 @@
    "lat": 22.6438,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.6438/112.25639"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yunfu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "空军军机",
@@ -192,7 +412,17 @@
    "lat": 22.70233,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.70233/112.22393"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yunfu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "8.青阶花影",
@@ -200,7 +430,17 @@
    "lat": 22.60058,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.60058/112.21666"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yunfu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "7.碧水觅禅",
@@ -208,7 +448,17 @@
    "lat": 22.60388,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.60388/112.21603"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yunfu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "6.芦花鸿影",
@@ -216,7 +466,17 @@
    "lat": 22.60967,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.60967/112.21457"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yunfu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "5.翠轩望晚",
@@ -224,7 +484,17 @@
    "lat": 22.61148,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.61148/112.216"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yunfu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "4.横波漱石",
@@ -232,7 +502,17 @@
    "lat": 22.61311,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.61311/112.21657"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yunfu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "2. 青莲出水",
@@ -240,7 +520,17 @@
    "lat": 22.61595,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.61595/112.22241"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yunfu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "3. 平沙落雁",
@@ -248,7 +538,17 @@
    "lat": 22.61421,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.61421/112.22082"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yunfu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "1.芳草揽翠",
@@ -256,7 +556,17 @@
    "lat": 22.62443,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.62443/112.22379"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yunfu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "清净台",
@@ -264,7 +574,17 @@
    "lat": 22.7093,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.7093/112.24702"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yunfu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "灵动台",
@@ -272,7 +592,17 @@
    "lat": 22.70827,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.70827/112.2468"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yunfu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "莲花台",
@@ -280,7 +610,17 @@
    "lat": 22.70887,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.70887/112.24658"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yunfu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "明泉山水",
@@ -288,7 +628,17 @@
    "lat": 22.70512,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.70512/112.24663"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yunfu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "显心双阙",
@@ -296,7 +646,17 @@
    "lat": 22.70769,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.70769/112.24893"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yunfu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "洗心台",
@@ -304,7 +664,17 @@
    "lat": 22.70767,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.70767/112.24864"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yunfu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "佛手拈花、天梯",
@@ -312,7 +682,17 @@
    "lat": 22.49173,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.49173/112.22304"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yunfu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "“天门”",
@@ -320,7 +700,17 @@
    "lat": 22.4915,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.4915/112.22366"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yunfu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "爱心花圈",
@@ -328,7 +718,17 @@
    "lat": 22.49132,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.49132/112.22412"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yunfu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "水果藤架",
@@ -336,7 +736,17 @@
    "lat": 22.49086,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.49086/112.22557"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yunfu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "时光隧道",
@@ -344,7 +754,17 @@
    "lat": 22.49102,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.49102/112.2291"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yunfu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "月轮之门",
@@ -352,7 +772,17 @@
    "lat": 22.49133,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.49133/112.22965"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yunfu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "风车隧道",
@@ -360,7 +790,17 @@
    "lat": 22.49094,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.49094/112.23001"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yunfu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "南药文化展览馆",
@@ -368,7 +808,17 @@
    "lat": 22.48928,
    "tag": "室内",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.48928/112.22916"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yunfu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "玻璃空中漂流起点",
@@ -376,7 +826,17 @@
    "lat": 22.49168,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.49168/112.22307"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yunfu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "峡谷漂流终点",
@@ -384,7 +844,17 @@
    "lat": 22.4912,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.4912/112.21768"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yunfu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "题捐建设藏佛坑芳名",
@@ -392,7 +862,17 @@
    "lat": 22.56908,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.56908/112.22703"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yunfu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "六祖求雨石",
@@ -400,7 +880,17 @@
    "lat": 22.5692,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.5692/112.22695"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yunfu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "紫竹林",
@@ -408,7 +898,17 @@
    "lat": 22.58359,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.58359/112.25334"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yunfu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "蔡廷锴将军故居",
@@ -416,7 +916,17 @@
    "lat": 22.50942,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.50942/111.44765"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yunfu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "西圳石林风景区",
@@ -424,7 +934,17 @@
    "lat": 22.81277,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.81277/111.7832"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yunfu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "蟠龙洞",
@@ -432,7 +952,17 @@
    "lat": 22.94587,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.94587/112.0441"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yunfu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "云浮樱花园",
@@ -440,7 +970,17 @@
    "lat": 23.00538,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.00538/112.13413"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yunfu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "货运索道导向轮基座遗迹",
@@ -448,7 +988,17 @@
    "lat": 22.70424,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.70424/111.95467"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yunfu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "国恩寺",
@@ -456,7 +1006,17 @@
    "lat": 22.59171,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.59171/112.22327"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yunfu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "菩提树组",
@@ -464,7 +1024,17 @@
    "lat": 22.64499,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.64499/112.2255"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yunfu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "水上活动区域",
@@ -472,7 +1042,17 @@
    "lat": 22.56527,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.56527/112.29162"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yunfu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "CS野战",
@@ -480,7 +1060,17 @@
    "lat": 22.48938,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.48938/112.22723"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yunfu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "碧波冷泉（音乐喷泉）",
@@ -488,7 +1078,17 @@
    "lat": 22.68539,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.68539/112.19805"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yunfu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "菁莪书院",
@@ -496,7 +1096,17 @@
    "lat": 22.77419,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.77419/111.55836"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yunfu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "亲水平台",
@@ -504,7 +1114,17 @@
    "lat": 22.60058,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.60058/112.21677"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yunfu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "云安区如来寺",
@@ -512,7 +1132,17 @@
    "lat": 22.74636,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.74636/111.92951"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yunfu.gov.cn/"
+    }
+   ]
   }
  ],
  "rings": [

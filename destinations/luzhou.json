@@ -16,7 +16,17 @@
    "lat": 28.74469,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/28.74469/105.22729"
+    },
+    {
+     "n": "市官网",
+     "u": "https://luzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "钟鼓楼",
@@ -24,7 +34,17 @@
    "lat": 28.8944,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/28.8944/105.44589"
+    },
+    {
+     "n": "市官网",
+     "u": "https://luzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "笔架山碑林",
@@ -32,7 +52,17 @@
    "lat": 28.81288,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/28.81288/105.79015"
+    },
+    {
+     "n": "市官网",
+     "u": "https://luzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "山门",
@@ -40,7 +70,17 @@
    "lat": 28.81145,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/28.81145/105.78218"
+    },
+    {
+     "n": "市官网",
+     "u": "https://luzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "天堂坝景区",
@@ -48,7 +88,17 @@
    "lat": 28.62581,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/28.62581/106.21984"
+    },
+    {
+     "n": "市官网",
+     "u": "https://luzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "烟雨岩瀑布",
@@ -56,7 +106,17 @@
    "lat": 28.67225,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/28.67225/106.12564"
+    },
+    {
+     "n": "市官网",
+     "u": "https://luzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "福宝古镇",
@@ -64,7 +124,17 @@
    "lat": 28.76815,
    "tag": "古镇",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/28.76815/106.07701"
+    },
+    {
+     "n": "市官网",
+     "u": "https://luzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "笔架山旅游区",
@@ -74,7 +144,21 @@
    "drive": "",
    "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
    "rating": "4A",
-   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)"
+   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)",
+   "sources": [
+    {
+     "n": "4A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6AAAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/28.81301/105.78741"
+    },
+    {
+     "n": "市官网",
+     "u": "https://luzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "泸州老窖旅游景区",
@@ -82,7 +166,17 @@
    "lat": 28.88732,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/28.88732/105.44999"
+    },
+    {
+     "n": "市官网",
+     "u": "https://luzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "尧坝驿",
@@ -90,7 +184,17 @@
    "lat": 28.75156,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/28.75156/105.63646"
+    },
+    {
+     "n": "市官网",
+     "u": "https://luzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "东门",
@@ -98,7 +202,17 @@
    "lat": 28.89597,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/28.89597/105.45134"
+    },
+    {
+     "n": "市官网",
+     "u": "https://luzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "九狮山风景区",
@@ -106,7 +220,17 @@
    "lat": 28.96576,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/28.96576/105.42876"
+    },
+    {
+     "n": "市官网",
+     "u": "https://luzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "天仙硐",
@@ -114,7 +238,17 @@
    "lat": 28.69274,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/28.69274/105.39103"
+    },
+    {
+     "n": "市官网",
+     "u": "https://luzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "福宝玉兰山景区",
@@ -122,7 +256,17 @@
    "lat": 28.66763,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/28.66763/106.13028"
+    },
+    {
+     "n": "市官网",
+     "u": "https://luzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "太平古镇",
@@ -130,7 +274,17 @@
    "lat": 28.14073,
    "tag": "古镇",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/28.14073/106.0344"
+    },
+    {
+     "n": "市官网",
+     "u": "https://luzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "山河明月·醉酒城",
@@ -138,7 +292,17 @@
    "lat": 28.80907,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/28.80907/105.39143"
+    },
+    {
+     "n": "市官网",
+     "u": "https://luzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "法王寺龙卦山园区",
@@ -146,7 +310,17 @@
    "lat": 28.67023,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/28.67023/105.65412"
+    },
+    {
+     "n": "市官网",
+     "u": "https://luzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "报恩塔",
@@ -154,7 +328,17 @@
    "lat": 28.89414,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/28.89414/105.44841"
+    },
+    {
+     "n": "市官网",
+     "u": "https://luzhou.gov.cn/"
+    }
+   ]
   }
  ],
  "rings": [

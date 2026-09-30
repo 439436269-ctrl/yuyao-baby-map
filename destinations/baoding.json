@@ -16,7 +16,17 @@
    "lat": 39.22869,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.22869/114.64657"
+    },
+    {
+     "n": "市官网",
+     "u": "https://baoding.gov.cn/"
+    }
+   ]
   },
   {
    "n": "清西陵",
@@ -26,7 +36,21 @@
    "drive": "",
    "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
    "rating": "5A",
-   "ratingSrc": "国家5A名录(2025.3·358家)"
+   "ratingSrc": "国家5A名录(2025.3·358家)",
+   "sources": [
+    {
+     "n": "5A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B65A%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.35401/115.34451"
+    },
+    {
+     "n": "市官网",
+     "u": "https://baoding.gov.cn/"
+    }
+   ]
   },
   {
    "n": "蚕姑坨",
@@ -34,7 +58,17 @@
    "lat": 39.16552,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.16552/115.21057"
+    },
+    {
+     "n": "市官网",
+     "u": "https://baoding.gov.cn/"
+    }
+   ]
   },
   {
    "n": "Ice Falls and Cave",
@@ -42,7 +76,17 @@
    "lat": 39.05859,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.05859/115.03752"
+    },
+    {
+     "n": "市官网",
+     "u": "https://baoding.gov.cn/"
+    }
+   ]
   },
   {
    "n": "保定天生桥风景区",
@@ -50,7 +94,17 @@
    "lat": 38.85723,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/38.85723/113.87405"
+    },
+    {
+     "n": "市官网",
+     "u": "https://baoding.gov.cn/"
+    }
+   ]
   },
   {
    "n": "狼牙山滑雪场",
@@ -58,7 +112,17 @@
    "lat": 39.1294,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.1294/115.26477"
+    },
+    {
+     "n": "市官网",
+     "u": "https://baoding.gov.cn/"
+    }
+   ]
   },
   {
    "n": "奇峦亿峡峒",
@@ -66,7 +130,17 @@
    "lat": 39.70524,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.70524/115.43904"
+    },
+    {
+     "n": "市官网",
+     "u": "https://baoding.gov.cn/"
+    }
+   ]
   },
   {
    "n": "十二生肖园",
@@ -74,7 +148,17 @@
    "lat": 39.69846,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.69846/115.46201"
+    },
+    {
+     "n": "市官网",
+     "u": "https://baoding.gov.cn/"
+    }
+   ]
   },
   {
    "n": "断崖",
@@ -82,7 +166,17 @@
    "lat": 39.63765,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.63765/115.51458"
+    },
+    {
+     "n": "市官网",
+     "u": "https://baoding.gov.cn/"
+    }
+   ]
   },
   {
    "n": "小断崖",
@@ -90,7 +184,17 @@
    "lat": 39.63212,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.63212/115.51433"
+    },
+    {
+     "n": "市官网",
+     "u": "https://baoding.gov.cn/"
+    }
+   ]
   },
   {
    "n": "断崖（东绕）",
@@ -98,7 +202,17 @@
    "lat": 39.58783,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.58783/115.50284"
+    },
+    {
+     "n": "市官网",
+     "u": "https://baoding.gov.cn/"
+    }
+   ]
   },
   {
    "n": "石缝断崖",
@@ -106,7 +220,17 @@
    "lat": 39.59953,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.59953/115.56038"
+    },
+    {
+     "n": "市官网",
+     "u": "https://baoding.gov.cn/"
+    }
+   ]
   },
   {
    "n": "狭窄挂壁小路",
@@ -114,7 +238,17 @@
    "lat": 39.60196,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.60196/115.55816"
+    },
+    {
+     "n": "市官网",
+     "u": "https://baoding.gov.cn/"
+    }
+   ]
   },
   {
    "n": "挂壁小路",
@@ -122,7 +256,17 @@
    "lat": 39.59503,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.59503/115.65686"
+    },
+    {
+     "n": "市官网",
+     "u": "https://baoding.gov.cn/"
+    }
+   ]
   },
   {
    "n": "天地大裂缝",
@@ -130,7 +274,17 @@
    "lat": 39.87235,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.87235/115.51725"
+    },
+    {
+     "n": "市官网",
+     "u": "https://baoding.gov.cn/"
+    }
+   ]
   },
   {
    "n": "十瀑峡",
@@ -138,7 +292,17 @@
    "lat": 39.22597,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.22597/114.65232"
+    },
+    {
+     "n": "市官网",
+     "u": "https://baoding.gov.cn/"
+    }
+   ]
   },
   {
    "n": "天坑裂谷",
@@ -146,7 +310,17 @@
    "lat": 39.6036,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.6036/115.55871"
+    },
+    {
+     "n": "市官网",
+     "u": "https://baoding.gov.cn/"
+    }
+   ]
   },
   {
    "n": "鼓楼大街牌坊",
@@ -154,7 +328,17 @@
    "lat": 39.48496,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.48496/115.96583"
+    },
+    {
+     "n": "市官网",
+     "u": "https://baoding.gov.cn/"
+    }
+   ]
   },
   {
    "n": "Tower",
@@ -162,7 +346,17 @@
    "lat": 39.30122,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.30122/114.84053"
+    },
+    {
+     "n": "市官网",
+     "u": "https://baoding.gov.cn/"
+    }
+   ]
   },
   {
    "n": "古莲花池",
@@ -170,7 +364,17 @@
    "lat": 38.85666,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/38.85666/115.4919"
+    },
+    {
+     "n": "市官网",
+     "u": "https://baoding.gov.cn/"
+    }
+   ]
   },
   {
    "n": "大旗杆",
@@ -178,7 +382,17 @@
    "lat": 38.858,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/38.858/115.49052"
+    },
+    {
+     "n": "市官网",
+     "u": "https://baoding.gov.cn/"
+    }
+   ]
   },
   {
    "n": "钟楼",
@@ -186,7 +400,17 @@
    "lat": 38.85779,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/38.85779/115.49462"
+    },
+    {
+     "n": "市官网",
+     "u": "https://baoding.gov.cn/"
+    }
+   ]
   },
   {
    "n": "满城汉墓景区",
@@ -194,7 +418,17 @@
    "lat": 38.94732,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/38.94732/115.29043"
+    },
+    {
+     "n": "市官网",
+     "u": "https://baoding.gov.cn/"
+    }
+   ]
   },
   {
    "n": "料敌塔",
@@ -202,7 +436,17 @@
    "lat": 38.51034,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/38.51034/114.99663"
+    },
+    {
+     "n": "市官网",
+     "u": "https://baoding.gov.cn/"
+    }
+   ]
   },
   {
    "n": "泰陵（雍正）",
@@ -210,7 +454,17 @@
    "lat": 39.36976,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.36976/115.34493"
+    },
+    {
+     "n": "市官网",
+     "u": "https://baoding.gov.cn/"
+    }
+   ]
   },
   {
    "n": "崇妃园寝",
@@ -218,7 +472,17 @@
    "lat": 39.39508,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.39508/115.38247"
+    },
+    {
+     "n": "市官网",
+     "u": "https://baoding.gov.cn/"
+    }
+   ]
   },
   {
    "n": "泰东陵",
@@ -226,7 +490,17 @@
    "lat": 39.37979,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.37979/115.34634"
+    },
+    {
+     "n": "市官网",
+     "u": "https://baoding.gov.cn/"
+    }
+   ]
   },
   {
    "n": "昌陵（嘉庆）",
@@ -234,7 +508,17 @@
    "lat": 39.36291,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.36291/115.33963"
+    },
+    {
+     "n": "市官网",
+     "u": "https://baoding.gov.cn/"
+    }
+   ]
   },
   {
    "n": "崇陵（光绪）",
@@ -242,7 +526,17 @@
    "lat": 39.39532,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.39532/115.37846"
+    },
+    {
+     "n": "市官网",
+     "u": "https://baoding.gov.cn/"
+    }
+   ]
   },
   {
    "n": "泰陵妃园寝",
@@ -250,7 +544,17 @@
    "lat": 39.37481,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.37481/115.35153"
+    },
+    {
+     "n": "市官网",
+     "u": "https://baoding.gov.cn/"
+    }
+   ]
   },
   {
    "n": "开元寺大街",
@@ -258,7 +562,17 @@
    "lat": 38.51065,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/38.51065/114.99858"
+    },
+    {
+     "n": "市官网",
+     "u": "https://baoding.gov.cn/"
+    }
+   ]
   },
   {
    "n": "慕陵（道光）",
@@ -266,7 +580,17 @@
    "lat": 39.34232,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.34232/115.29605"
+    },
+    {
+     "n": "市官网",
+     "u": "https://baoding.gov.cn/"
+    }
+   ]
   },
   {
    "n": "慕东陵",
@@ -274,7 +598,17 @@
    "lat": 39.34756,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.34756/115.29751"
+    },
+    {
+     "n": "市官网",
+     "u": "https://baoding.gov.cn/"
+    }
+   ]
   },
   {
    "n": "QR碼 Weixin",
@@ -282,7 +616,17 @@
    "lat": 38.71495,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/38.71495/115.44177"
+    },
+    {
+     "n": "市官网",
+     "u": "https://baoding.gov.cn/"
+    }
+   ]
   },
   {
    "n": "白石山风景区",
@@ -292,7 +636,21 @@
    "drive": "",
    "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
    "rating": "5A",
-   "ratingSrc": "国家5A名录(2025.3·358家)"
+   "ratingSrc": "国家5A名录(2025.3·358家)",
+   "sources": [
+    {
+     "n": "5A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B65A%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.21672/114.69761"
+    },
+    {
+     "n": "市官网",
+     "u": "https://baoding.gov.cn/"
+    }
+   ]
   },
   {
    "n": "百里峡景区",
@@ -300,7 +658,17 @@
    "lat": 39.66219,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.66219/115.38905"
+    },
+    {
+     "n": "市官网",
+     "u": "https://baoding.gov.cn/"
+    }
+   ]
   },
   {
    "n": "滴水崖",
@@ -308,7 +676,17 @@
    "lat": 39.80669,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.80669/115.54235"
+    },
+    {
+     "n": "市官网",
+     "u": "https://baoding.gov.cn/"
+    }
+   ]
   },
   {
    "n": "红色记忆冉庄文旅特色小镇",
@@ -316,7 +694,17 @@
    "lat": 38.65578,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/38.65578/115.36566"
+    },
+    {
+     "n": "市官网",
+     "u": "https://baoding.gov.cn/"
+    }
+   ]
   }
  ],
  "rings": [

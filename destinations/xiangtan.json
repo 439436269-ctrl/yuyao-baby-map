@@ -16,7 +16,17 @@
    "lat": 27.91689,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/27.91689/112.4869"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.xiangtan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "怀念亭",
@@ -24,7 +34,17 @@
    "lat": 27.91709,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/27.91709/112.48678"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.xiangtan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "延安宝塔",
@@ -34,7 +54,21 @@
    "drive": "",
    "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
    "rating": "4A",
-   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)"
+   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)",
+   "sources": [
+    {
+     "n": "4A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6AAAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/27.91781/112.48524"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.xiangtan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "六位亲人墓",
@@ -42,7 +76,17 @@
    "lat": 27.91761,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/27.91761/112.48641"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.xiangtan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "沙洲坝水井",
@@ -50,7 +94,17 @@
    "lat": 27.91653,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/27.91653/112.48642"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.xiangtan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "毛泽东双亲墓",
@@ -58,7 +112,17 @@
    "lat": 27.91432,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/27.91432/112.49217"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.xiangtan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "南湖游船",
@@ -66,7 +130,17 @@
    "lat": 27.91695,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/27.91695/112.48841"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.xiangtan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "湖南一师水井",
@@ -74,7 +148,17 @@
    "lat": 27.91679,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/27.91679/112.48919"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.xiangtan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "枣园毛泽东旧居",
@@ -82,7 +166,17 @@
    "lat": 27.91754,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/27.91754/112.48555"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.xiangtan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "毛泽东诗词碑林",
@@ -90,7 +184,17 @@
    "lat": 27.89732,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/27.89732/112.47004"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.xiangtan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "滴水清音",
@@ -98,7 +202,17 @@
    "lat": 27.92196,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/27.92196/112.45506"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.xiangtan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "毛泽东祖父墓",
@@ -106,7 +220,17 @@
    "lat": 27.92381,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/27.92381/112.45717"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.xiangtan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "毛泽东曾祖父墓",
@@ -114,7 +238,17 @@
    "lat": 27.92071,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/27.92071/112.46261"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.xiangtan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "毛泽东曾祖母墓",
@@ -122,7 +256,17 @@
    "lat": 27.91999,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/27.91999/112.45939"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.xiangtan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "晒谷坪",
@@ -130,7 +274,17 @@
    "lat": 27.91142,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/27.91142/112.49"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.xiangtan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "海会古寺",
@@ -138,7 +292,17 @@
    "lat": 27.85926,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/27.85926/112.89727"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.xiangtan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "毛泽东纪念堂",
@@ -146,7 +310,17 @@
    "lat": 27.91644,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/27.91644/112.48717"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.xiangtan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "遵义会议会址",
@@ -156,7 +330,21 @@
    "drive": "",
    "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
    "rating": "4A",
-   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)"
+   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)",
+   "sources": [
+    {
+     "n": "4A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6AAAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/27.91622/112.48633"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.xiangtan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "泸定桥",
@@ -164,7 +352,17 @@
    "lat": 27.91671,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/27.91671/112.48573"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.xiangtan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "茅坪毛泽东旧居",
@@ -172,7 +370,17 @@
    "lat": 27.91647,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/27.91647/112.48814"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.xiangtan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "清水塘毛泽东旧居",
@@ -180,7 +388,17 @@
    "lat": 27.91693,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/27.91693/112.48955"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.xiangtan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "慈严堂",
@@ -188,7 +406,17 @@
    "lat": 27.91774,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/27.91774/112.48679"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.xiangtan.gov.cn/"
+    }
+   ]
   }
  ],
  "rings": [

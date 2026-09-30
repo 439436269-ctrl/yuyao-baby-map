@@ -16,7 +16,17 @@
    "lat": 26.57341,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/26.57341/106.7214"
+    },
+    {
+     "n": "市官网",
+     "u": "https://guiyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "蓬莱仙界荷塘月色景区",
@@ -24,7 +34,17 @@
    "lat": 26.75012,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/26.75012/106.73148"
+    },
+    {
+     "n": "市官网",
+     "u": "https://guiyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "大山洞",
@@ -32,7 +52,17 @@
    "lat": 26.62068,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/26.62068/106.73134"
+    },
+    {
+     "n": "市官网",
+     "u": "https://guiyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "南江大峡谷",
@@ -42,7 +72,21 @@
    "drive": "",
    "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
    "rating": "4A",
-   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)"
+   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)",
+   "sources": [
+    {
+     "n": "4A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6AAAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/26.9453/106.96743"
+    },
+    {
+     "n": "市官网",
+     "u": "https://guiyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "阅山湖公园",
@@ -50,7 +94,17 @@
    "lat": 26.63804,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/26.63804/106.60084"
+    },
+    {
+     "n": "市官网",
+     "u": "https://guiyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "人民广场",
@@ -60,7 +114,21 @@
    "drive": "",
    "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
    "rating": "4A",
-   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)"
+   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)",
+   "sources": [
+    {
+     "n": "4A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6AAAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/26.57285/106.70734"
+    },
+    {
+     "n": "市官网",
+     "u": "https://guiyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "老东门",
@@ -68,7 +136,17 @@
    "lat": 26.58229,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/26.58229/106.7153"
+    },
+    {
+     "n": "市官网",
+     "u": "https://guiyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "文昌阁",
@@ -76,7 +154,17 @@
    "lat": 26.5822,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/26.5822/106.71557"
+    },
+    {
+     "n": "市官网",
+     "u": "https://guiyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "筑城广场",
@@ -84,7 +172,17 @@
    "lat": 26.57387,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/26.57387/106.70556"
+    },
+    {
+     "n": "市官网",
+     "u": "https://guiyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "擦耳岩",
@@ -92,7 +190,17 @@
    "lat": 26.529,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/26.529/106.63123"
+    },
+    {
+     "n": "市官网",
+     "u": "https://guiyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "南城墙望风亭",
@@ -100,7 +208,17 @@
    "lat": 26.33251,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/26.33251/106.6821"
+    },
+    {
+     "n": "市官网",
+     "u": "https://guiyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "龙冈书院旧址",
@@ -108,7 +226,17 @@
    "lat": 26.85087,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/26.85087/106.60709"
+    },
+    {
+     "n": "市官网",
+     "u": "https://guiyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "赵理伦百岁坊",
@@ -116,7 +244,17 @@
    "lat": 26.33168,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/26.33168/106.68452"
+    },
+    {
+     "n": "市官网",
+     "u": "https://guiyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "紫江地缝生态旅游区",
@@ -124,7 +262,17 @@
    "lat": 26.90943,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/26.90943/107.03357"
+    },
+    {
+     "n": "市官网",
+     "u": "https://guiyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "周王氏媳刘氏节孝坊",
@@ -132,7 +280,17 @@
    "lat": 26.33007,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/26.33007/106.68508"
+    },
+    {
+     "n": "市官网",
+     "u": "https://guiyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "赵彩章百岁坊",
@@ -140,7 +298,17 @@
    "lat": 26.34171,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/26.34171/106.68206"
+    },
+    {
+     "n": "市官网",
+     "u": "https://guiyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "一线天",
@@ -148,7 +316,17 @@
    "lat": 26.62024,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/26.62024/106.61521"
+    },
+    {
+     "n": "市官网",
+     "u": "https://guiyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "甲秀楼",
@@ -156,7 +334,17 @@
    "lat": 26.57494,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/26.57494/106.71593"
+    },
+    {
+     "n": "市官网",
+     "u": "https://guiyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "翠微园",
@@ -164,7 +352,17 @@
    "lat": 26.57435,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/26.57435/106.71615"
+    },
+    {
+     "n": "市官网",
+     "u": "https://guiyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "青岩古镇",
@@ -172,7 +370,17 @@
    "lat": 26.33394,
    "tag": "古镇",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/26.33394/106.68251"
+    },
+    {
+     "n": "市官网",
+     "u": "https://guiyang.gov.cn/"
+    }
+   ]
   }
  ],
  "rings": [

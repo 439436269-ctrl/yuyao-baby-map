@@ -18,7 +18,21 @@
    "drive": "",
    "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
    "rating": "4A",
-   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)"
+   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)",
+   "sources": [
+    {
+     "n": "4A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6AAAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/35.64678/118.43055"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.linyi.gov.cn/"
+    }
+   ]
   },
   {
    "n": "金丝猴馆",
@@ -26,7 +40,17 @@
    "lat": 34.98936,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.98936/118.53871"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.linyi.gov.cn/"
+    }
+   ]
   },
   {
    "n": "梅花鹿馆",
@@ -34,7 +58,17 @@
    "lat": 34.98904,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.98904/118.53874"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.linyi.gov.cn/"
+    }
+   ]
   },
   {
    "n": "河马馆",
@@ -42,7 +76,17 @@
    "lat": 34.98864,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.98864/118.54022"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.linyi.gov.cn/"
+    }
+   ]
   },
   {
    "n": "鹦鹉长廊",
@@ -50,7 +94,17 @@
    "lat": 34.98994,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.98994/118.54066"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.linyi.gov.cn/"
+    }
+   ]
   },
   {
    "n": "狐狸馆",
@@ -58,7 +112,17 @@
    "lat": 34.98912,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.98912/118.54141"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.linyi.gov.cn/"
+    }
+   ]
   },
   {
    "n": "小熊猫馆",
@@ -66,7 +130,17 @@
    "lat": 34.98874,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.98874/118.54123"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.linyi.gov.cn/"
+    }
+   ]
   },
   {
    "n": "豪猪馆",
@@ -74,7 +148,17 @@
    "lat": 34.98815,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.98815/118.54124"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.linyi.gov.cn/"
+    }
+   ]
   },
   {
    "n": "海狸鼠馆",
@@ -82,7 +166,17 @@
    "lat": 34.98785,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.98785/118.54143"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.linyi.gov.cn/"
+    }
+   ]
   },
   {
    "n": "非洲狮馆",
@@ -90,7 +184,17 @@
    "lat": 34.9869,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.9869/118.54124"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.linyi.gov.cn/"
+    }
+   ]
   },
   {
    "n": "狼馆",
@@ -98,7 +202,17 @@
    "lat": 34.9869,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.9869/118.54111"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.linyi.gov.cn/"
+    }
+   ]
   },
   {
    "n": "斑马馆",
@@ -106,7 +220,17 @@
    "lat": 34.98739,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.98739/118.54064"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.linyi.gov.cn/"
+    }
+   ]
   },
   {
    "n": "鸵鸟馆",
@@ -114,7 +238,17 @@
    "lat": 34.9879,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.9879/118.54049"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.linyi.gov.cn/"
+    }
+   ]
   },
   {
    "n": "长颈鹿馆",
@@ -122,7 +256,17 @@
    "lat": 34.98838,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.98838/118.54026"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.linyi.gov.cn/"
+    }
+   ]
   },
   {
    "n": "羊驼馆",
@@ -130,7 +274,17 @@
    "lat": 34.98708,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.98708/118.54055"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.linyi.gov.cn/"
+    }
+   ]
   },
   {
    "n": "蓝角马馆",
@@ -138,7 +292,17 @@
    "lat": 34.9874,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.9874/118.53983"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.linyi.gov.cn/"
+    }
+   ]
   },
   {
    "n": "孟加拉虎馆",
@@ -146,7 +310,17 @@
    "lat": 34.98712,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.98712/118.53955"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.linyi.gov.cn/"
+    }
+   ]
   },
   {
    "n": "牦牛馆",
@@ -154,7 +328,17 @@
    "lat": 34.98701,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.98701/118.53889"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.linyi.gov.cn/"
+    }
+   ]
   },
   {
    "n": "川马馆",
@@ -162,7 +346,17 @@
    "lat": 34.98679,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.98679/118.53843"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.linyi.gov.cn/"
+    }
+   ]
   },
   {
    "n": "麋鹿馆",
@@ -170,7 +364,17 @@
    "lat": 34.98656,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.98656/118.53858"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.linyi.gov.cn/"
+    }
+   ]
   },
   {
    "n": "白虎馆",
@@ -178,7 +382,17 @@
    "lat": 34.9868,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.9868/118.53932"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.linyi.gov.cn/"
+    }
+   ]
   },
   {
    "n": "东北虎馆",
@@ -186,7 +400,17 @@
    "lat": 34.9867,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.9867/118.5398"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.linyi.gov.cn/"
+    }
+   ]
   },
   {
    "n": "美洲豹馆",
@@ -194,7 +418,17 @@
    "lat": 34.98585,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.98585/118.53936"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.linyi.gov.cn/"
+    }
+   ]
   },
   {
    "n": "斑鬣狗馆",
@@ -202,7 +436,17 @@
    "lat": 34.98597,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.98597/118.53995"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.linyi.gov.cn/"
+    }
+   ]
   },
   {
    "n": "藏獒馆",
@@ -210,7 +454,17 @@
    "lat": 34.98607,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.98607/118.54016"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.linyi.gov.cn/"
+    }
+   ]
   },
   {
    "n": "金钱豹馆",
@@ -218,7 +472,17 @@
    "lat": 34.98613,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.98613/118.54043"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.linyi.gov.cn/"
+    }
+   ]
   },
   {
    "n": "两栖动物管",
@@ -226,7 +490,17 @@
    "lat": 34.98644,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.98644/118.53544"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.linyi.gov.cn/"
+    }
+   ]
   },
   {
    "n": "大熊猫馆",
@@ -234,7 +508,17 @@
    "lat": 34.9882,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.9882/118.53612"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.linyi.gov.cn/"
+    }
+   ]
   },
   {
    "n": "军舰",
@@ -242,7 +526,17 @@
    "lat": 34.98462,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.98462/118.53785"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.linyi.gov.cn/"
+    }
+   ]
   },
   {
    "n": "海盗船",
@@ -250,7 +544,17 @@
    "lat": 34.98522,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.98522/118.5394"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.linyi.gov.cn/"
+    }
+   ]
   },
   {
    "n": "摩天轮车",
@@ -258,7 +562,17 @@
    "lat": 34.98512,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.98512/118.53966"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.linyi.gov.cn/"
+    }
+   ]
   },
   {
    "n": "旋转木马",
@@ -266,7 +580,17 @@
    "lat": 34.98516,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.98516/118.54008"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.linyi.gov.cn/"
+    }
+   ]
   },
   {
    "n": "碰碰车",
@@ -274,7 +598,17 @@
    "lat": 34.98534,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.98534/118.54041"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.linyi.gov.cn/"
+    }
+   ]
   },
   {
    "n": "疯狂老鼠",
@@ -282,7 +616,17 @@
    "lat": 34.98534,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.98534/118.54092"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.linyi.gov.cn/"
+    }
+   ]
   },
   {
    "n": "卡丁车",
@@ -290,7 +634,17 @@
    "lat": 34.98539,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.98539/118.54149"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.linyi.gov.cn/"
+    }
+   ]
   },
   {
    "n": "摇头飞椅",
@@ -298,7 +652,17 @@
    "lat": 34.98492,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.98492/118.54148"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.linyi.gov.cn/"
+    }
+   ]
   },
   {
    "n": "摩天轮",
@@ -308,7 +672,21 @@
    "drive": "",
    "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
    "rating": "4A",
-   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)"
+   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)",
+   "sources": [
+    {
+     "n": "4A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6AAAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.98488/118.54046"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.linyi.gov.cn/"
+    }
+   ]
   },
   {
    "n": "兰陵国家农业公园",
@@ -316,7 +694,17 @@
    "lat": 34.82104,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.82104/118.0147"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.linyi.gov.cn/"
+    }
+   ]
   },
   {
    "n": "兰陵国家农业公园（南门）",
@@ -324,7 +712,17 @@
    "lat": 34.82049,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.82049/118.01866"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.linyi.gov.cn/"
+    }
+   ]
   },
   {
    "n": "兰陵国家农业公园（东门）",
@@ -332,7 +730,17 @@
    "lat": 34.83554,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.83554/118.02878"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.linyi.gov.cn/"
+    }
+   ]
   },
   {
    "n": "地磅",
@@ -340,7 +748,17 @@
    "lat": 35.91376,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/35.91376/118.24837"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.linyi.gov.cn/"
+    }
+   ]
   },
   {
    "n": "原9439厂下河文化广场",
@@ -348,7 +766,17 @@
    "lat": 35.91383,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/35.91383/118.24621"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.linyi.gov.cn/"
+    }
+   ]
   },
   {
    "n": "四颗大树遗址",
@@ -356,7 +784,17 @@
    "lat": 35.9168,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/35.9168/118.23901"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.linyi.gov.cn/"
+    }
+   ]
   },
   {
    "n": "老石磨",
@@ -364,7 +802,17 @@
    "lat": 35.91818,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/35.91818/118.23705"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.linyi.gov.cn/"
+    }
+   ]
   },
   {
    "n": "原9439厂子弟学校",
@@ -372,7 +820,17 @@
    "lat": 35.91351,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/35.91351/118.24617"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.linyi.gov.cn/"
+    }
+   ]
   },
   {
    "n": "百鸟园",
@@ -380,7 +838,17 @@
    "lat": 34.98948,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.98948/118.54102"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.linyi.gov.cn/"
+    }
+   ]
   },
   {
    "n": "小动物馆",
@@ -388,7 +856,17 @@
    "lat": 34.98977,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.98977/118.53545"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.linyi.gov.cn/"
+    }
+   ]
   },
   {
    "n": "沂蒙湖",
@@ -396,7 +874,17 @@
    "lat": 35.05346,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/35.05346/118.36939"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.linyi.gov.cn/"
+    }
+   ]
   },
   {
    "n": "华野战地指挥所",
@@ -404,7 +892,17 @@
    "lat": 35.57189,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/35.57189/118.19248"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.linyi.gov.cn/"
+    }
+   ]
   },
   {
    "n": "华野战壕",
@@ -412,7 +910,17 @@
    "lat": 35.57218,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/35.57218/118.19297"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.linyi.gov.cn/"
+    }
+   ]
   },
   {
    "n": "老君泉",
@@ -420,7 +928,17 @@
    "lat": 35.57561,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/35.57561/118.19316"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.linyi.gov.cn/"
+    }
+   ]
   },
   {
    "n": "国民党第七十四师战壕",
@@ -428,7 +946,17 @@
    "lat": 35.57755,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/35.57755/118.19371"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.linyi.gov.cn/"
+    }
+   ]
   },
   {
    "n": "弹击石",
@@ -436,7 +964,17 @@
    "lat": 35.57752,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/35.57752/118.19335"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.linyi.gov.cn/"
+    }
+   ]
   },
   {
    "n": "炮轰石",
@@ -444,7 +982,17 @@
    "lat": 35.57654,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/35.57654/118.19312"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.linyi.gov.cn/"
+    }
+   ]
   },
   {
    "n": "一线天",
@@ -452,7 +1000,17 @@
    "lat": 35.57762,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/35.57762/118.19193"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.linyi.gov.cn/"
+    }
+   ]
   },
   {
    "n": "麦坡断裂带旅游风景区",
@@ -460,7 +1018,17 @@
    "lat": 34.54187,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.54187/118.42755"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.linyi.gov.cn/"
+    }
+   ]
   },
   {
    "n": "临沂零公里标志",
@@ -468,7 +1036,17 @@
    "lat": 35.0621,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/35.0621/118.33486"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.linyi.gov.cn/"
+    }
+   ]
   },
   {
    "n": "山东灵泉山旅游风景区",
@@ -476,7 +1054,17 @@
    "lat": 35.88943,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/35.88943/118.45458"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.linyi.gov.cn/"
+    }
+   ]
   },
   {
    "n": "沂蒙山银座天蒙旅游区",
@@ -486,7 +1074,21 @@
    "drive": "",
    "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
    "rating": "5A",
-   "ratingSrc": "国家5A名录(2025.3·358家)"
+   "ratingSrc": "国家5A名录(2025.3·358家)",
+   "sources": [
+    {
+     "n": "5A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B65A%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/35.46894/118.05245"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.linyi.gov.cn/"
+    }
+   ]
   },
   {
    "n": "宏蒙塔",
@@ -494,7 +1096,17 @@
    "lat": 35.69617,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/35.69617/117.92839"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.linyi.gov.cn/"
+    }
+   ]
   },
   {
    "n": "兰陵压油沟风景区",
@@ -502,7 +1114,17 @@
    "lat": 34.92723,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.92723/117.9625"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.linyi.gov.cn/"
+    }
+   ]
   },
   {
    "n": "宝山前风景旅游区",
@@ -510,7 +1132,17 @@
    "lat": 34.94048,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.94048/117.94163"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.linyi.gov.cn/"
+    }
+   ]
   },
   {
    "n": "钱王祠",
@@ -518,7 +1150,17 @@
    "lat": 35.00656,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/35.00656/118.18613"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.linyi.gov.cn/"
+    }
+   ]
   },
   {
    "n": "萤火虫水洞·地下大峡谷旅游区-地下大峡谷",
@@ -526,7 +1168,17 @@
    "lat": 35.7283,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/35.7283/118.53535"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.linyi.gov.cn/"
+    }
+   ]
   }
  ],
  "rings": [

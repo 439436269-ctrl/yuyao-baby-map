@@ -16,7 +16,17 @@
    "lat": 39.90577,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.90577/119.55829"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.qinhuangdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "集发农业梦想王国",
@@ -24,7 +34,17 @@
    "lat": 39.8189,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.8189/119.4122"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.qinhuangdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "开埠地",
@@ -32,7 +52,17 @@
    "lat": 39.90923,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.90923/119.61148"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.qinhuangdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "五祖岭",
@@ -40,7 +70,17 @@
    "lat": 40.13039,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.13039/119.42444"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.qinhuangdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "蟠桃峪风景区",
@@ -48,7 +88,17 @@
    "lat": 40.06883,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.06883/119.65412"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.qinhuangdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "背牛顶旅游区",
@@ -56,7 +106,17 @@
    "lat": 40.07557,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.07557/119.40088"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.qinhuangdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "象山景区",
@@ -64,7 +124,17 @@
    "lat": 40.00047,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.00047/119.3092"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.qinhuangdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "祖山景区-空中草原",
@@ -72,7 +142,17 @@
    "lat": 40.14231,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.14231/119.41419"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.qinhuangdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "祖山景区520打卡点",
@@ -80,7 +160,17 @@
    "lat": 40.13315,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.13315/119.4513"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.qinhuangdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "祖山风景区",
@@ -88,7 +178,17 @@
    "lat": 40.14877,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.14877/119.45069"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.qinhuangdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "冰糖峪风景区",
@@ -96,7 +196,17 @@
    "lat": 40.10362,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.10362/119.35959"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.qinhuangdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "北戴河刘庄夜市",
@@ -104,7 +214,17 @@
    "lat": 39.81861,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.81861/119.49829"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.qinhuangdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "秦皇之眼摩天轮",
@@ -112,7 +232,17 @@
    "lat": 39.90544,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.90544/119.54751"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.qinhuangdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "南码巷海鲜夜市美食广场",
@@ -120,7 +250,17 @@
    "lat": 39.79375,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.79375/119.417"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.qinhuangdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "北戴河不同艺术小镇",
@@ -128,7 +268,17 @@
    "lat": 39.82412,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.82412/119.49018"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.qinhuangdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "山海情",
@@ -136,7 +286,17 @@
    "lat": 39.79048,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.79048/119.41991"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.qinhuangdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "碧螺塔",
@@ -144,7 +304,17 @@
    "lat": 39.82002,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.82002/119.53118"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.qinhuangdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "天女峰",
@@ -152,7 +322,17 @@
    "lat": 40.12038,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.12038/119.42519"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.qinhuangdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "花果山景区",
@@ -162,7 +342,21 @@
    "drive": "",
    "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
    "rating": "5A",
-   "ratingSrc": "国家5A名录(2025.3·358家)"
+   "ratingSrc": "国家5A名录(2025.3·358家)",
+   "sources": [
+    {
+     "n": "5A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B65A%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.12482/119.35291"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.qinhuangdao.gov.cn/"
+    }
+   ]
   },
   {
    "n": "渔田小镇",
@@ -170,7 +364,17 @@
    "lat": 39.56921,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.56921/119.20774"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.qinhuangdao.gov.cn/"
+    }
+   ]
   }
  ],
  "rings": [

@@ -16,7 +16,17 @@
    "lat": 31.9959,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.9959/117.24565"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hefei.gov.cn/"
+    }
+   ]
   },
   {
    "n": "Glas Bridge",
@@ -24,7 +34,17 @@
    "lat": 31.69882,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.69882/117.50884"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hefei.gov.cn/"
+    }
+   ]
   },
   {
    "n": "龙王桥",
@@ -32,7 +52,17 @@
    "lat": 31.84483,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.84483/117.16586"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hefei.gov.cn/"
+    }
+   ]
   },
   {
    "n": "鸢尾园",
@@ -40,7 +70,17 @@
    "lat": 31.77284,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.77284/117.30244"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hefei.gov.cn/"
+    }
+   ]
   },
   {
    "n": "彩叶林",
@@ -48,7 +88,17 @@
    "lat": 31.77491,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.77491/117.30251"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hefei.gov.cn/"
+    }
+   ]
   },
   {
    "n": "玉兰园",
@@ -56,7 +106,17 @@
    "lat": 31.77591,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.77591/117.29833"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hefei.gov.cn/"
+    }
+   ]
   },
   {
    "n": "棠梨园",
@@ -64,7 +124,17 @@
    "lat": 31.77895,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.77895/117.29563"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hefei.gov.cn/"
+    }
+   ]
   },
   {
    "n": "海棠谷",
@@ -72,7 +142,17 @@
    "lat": 31.77962,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.77962/117.29207"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hefei.gov.cn/"
+    }
+   ]
   },
   {
    "n": "绣球园",
@@ -80,7 +160,17 @@
    "lat": 31.78143,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.78143/117.29305"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hefei.gov.cn/"
+    }
+   ]
   },
   {
    "n": "蓝紫花园",
@@ -88,7 +178,17 @@
    "lat": 31.78119,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.78119/117.29089"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hefei.gov.cn/"
+    }
+   ]
   },
   {
    "n": "百花园",
@@ -96,7 +196,17 @@
    "lat": 31.78291,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.78291/117.29846"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hefei.gov.cn/"
+    }
+   ]
   },
   {
    "n": "芝樱甸",
@@ -104,7 +214,17 @@
    "lat": 31.77637,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.77637/117.30658"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hefei.gov.cn/"
+    }
+   ]
   },
   {
    "n": "杜鹃园",
@@ -112,7 +232,17 @@
    "lat": 31.78763,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.78763/117.29329"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hefei.gov.cn/"
+    }
+   ]
   },
   {
    "n": "梅花园",
@@ -120,7 +250,17 @@
    "lat": 31.79054,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.79054/117.29013"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hefei.gov.cn/"
+    }
+   ]
   },
   {
    "n": "揽翠峰",
@@ -128,7 +268,17 @@
    "lat": 31.79008,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.79008/117.29173"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hefei.gov.cn/"
+    }
+   ]
   },
   {
    "n": "月季园",
@@ -136,7 +286,17 @@
    "lat": 31.78982,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.78982/117.30024"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hefei.gov.cn/"
+    }
+   ]
   },
   {
    "n": "户外美学馆",
@@ -144,7 +304,17 @@
    "lat": 31.7898,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.7898/117.29908"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hefei.gov.cn/"
+    }
+   ]
   },
   {
    "n": "樱花园",
@@ -152,7 +322,17 @@
    "lat": 31.78905,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.78905/117.304"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hefei.gov.cn/"
+    }
+   ]
   },
   {
    "n": "秋实园",
@@ -160,7 +340,17 @@
    "lat": 31.78976,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.78976/117.3046"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hefei.gov.cn/"
+    }
+   ]
   },
   {
    "n": "安徽园出入口",
@@ -168,7 +358,17 @@
    "lat": 31.78813,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.78813/117.29476"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hefei.gov.cn/"
+    }
+   ]
   },
   {
    "n": "苇荡渔音",
@@ -176,7 +376,17 @@
    "lat": 31.84592,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.84592/117.14447"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hefei.gov.cn/"
+    }
+   ]
   },
   {
    "n": "玉兰台观景台",
@@ -184,7 +394,17 @@
    "lat": 31.71703,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.71703/117.37318"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hefei.gov.cn/"
+    }
+   ]
   },
   {
    "n": "冶父草原",
@@ -192,7 +412,17 @@
    "lat": 31.30195,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.30195/117.35409"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hefei.gov.cn/"
+    }
+   ]
   },
   {
    "n": "杨振宁旧居",
@@ -200,7 +430,17 @@
    "lat": 31.51116,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.51116/117.23827"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hefei.gov.cn/"
+    }
+   ]
   },
   {
    "n": "孙立人故居",
@@ -208,7 +448,17 @@
    "lat": 31.51,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.51/117.23914"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hefei.gov.cn/"
+    }
+   ]
   },
   {
    "n": "小岭南花海",
@@ -216,7 +466,17 @@
    "lat": 31.90348,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.90348/117.0661"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hefei.gov.cn/"
+    }
+   ]
   },
   {
    "n": "合肥之源",
@@ -224,7 +484,17 @@
    "lat": 31.91231,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.91231/117.05828"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hefei.gov.cn/"
+    }
+   ]
   },
   {
    "n": "曹操运河遗址",
@@ -232,7 +502,17 @@
    "lat": 31.91315,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.91315/117.0501"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hefei.gov.cn/"
+    }
+   ]
   },
   {
    "n": "音乐小镇",
@@ -240,7 +520,17 @@
    "lat": 31.95534,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.95534/117.06785"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hefei.gov.cn/"
+    }
+   ]
   },
   {
    "n": "崔岗艺术村",
@@ -248,7 +538,17 @@
    "lat": 31.94852,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.94852/117.07703"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hefei.gov.cn/"
+    }
+   ]
   },
   {
    "n": "合肥马拉松文化小镇",
@@ -256,7 +556,17 @@
    "lat": 31.90978,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.90978/117.04392"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hefei.gov.cn/"
+    }
+   ]
   },
   {
    "n": "小羊牧场",
@@ -264,7 +574,17 @@
    "lat": 31.92564,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.92564/117.13323"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hefei.gov.cn/"
+    }
+   ]
   },
   {
    "n": "源古靖城",
@@ -272,7 +592,17 @@
    "lat": 31.78196,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.78196/117.38327"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hefei.gov.cn/"
+    }
+   ]
   },
   {
    "n": "瑶海湾湿地公园",
@@ -280,7 +610,17 @@
    "lat": 31.84833,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.84833/117.3826"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hefei.gov.cn/"
+    }
+   ]
   },
   {
    "n": "冶父山国家森林公园",
@@ -288,7 +628,17 @@
    "lat": 31.29766,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.29766/117.33571"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hefei.gov.cn/"
+    }
+   ]
   }
  ],
  "rings": [

@@ -16,7 +16,17 @@
    "lat": 32.22047,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.22047/119.45524"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhenjiang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "茗山法师纪念堂",
@@ -24,7 +34,17 @@
    "lat": 32.23901,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.23901/119.47957"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhenjiang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "焦山碑林",
@@ -32,7 +52,17 @@
    "lat": 32.2397,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.2397/119.47972"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhenjiang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "瘗鹤铭",
@@ -40,7 +70,17 @@
    "lat": 32.24044,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.24044/119.48003"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhenjiang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "焦山古炮台",
@@ -48,7 +88,17 @@
    "lat": 32.24105,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.24105/119.48035"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhenjiang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "吸江楼",
@@ -56,7 +106,17 @@
    "lat": 32.24109,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.24109/119.47904"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhenjiang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "观澜阁",
@@ -64,7 +124,17 @@
    "lat": 32.23939,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.23939/119.48032"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhenjiang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "鹤园",
@@ -72,7 +142,17 @@
    "lat": 32.23914,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.23914/119.48104"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhenjiang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "北固楼",
@@ -80,7 +160,17 @@
    "lat": 32.22011,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.22011/119.45188"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhenjiang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "多景楼",
@@ -88,7 +178,17 @@
    "lat": 32.21989,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.21989/119.4514"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhenjiang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "阿倍仲麻吕诗碑",
@@ -96,7 +196,17 @@
    "lat": 32.21969,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.21969/119.45249"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhenjiang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "延陵季子文化旅游景区",
@@ -104,7 +214,17 @@
    "lat": 31.89176,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.89176/119.43811"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhenjiang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "江边货站旧址",
@@ -112,7 +232,17 @@
    "lat": 32.21618,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.21618/119.42175"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhenjiang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "陆小波故居",
@@ -120,7 +250,17 @@
    "lat": 32.21522,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.21522/119.43293"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhenjiang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "镇江市京口闸遗址",
@@ -128,7 +268,17 @@
    "lat": 32.21506,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.21506/119.43272"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhenjiang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "镇江城市原点",
@@ -136,7 +286,17 @@
    "lat": 32.21833,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.21833/119.43795"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhenjiang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "严惠宇故居",
@@ -144,7 +304,17 @@
    "lat": 32.21153,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.21153/119.4339"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhenjiang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "芳名碑",
@@ -152,7 +322,17 @@
    "lat": 31.97293,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.97293/119.38912"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhenjiang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "得撒石磨豆腐村小康梅花园",
@@ -160,7 +340,17 @@
    "lat": 31.89591,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.89591/119.29566"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhenjiang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "嵇直故居",
@@ -168,7 +358,17 @@
    "lat": 32.21192,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.21192/119.42968"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhenjiang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "时光塔",
@@ -176,7 +376,17 @@
    "lat": 32.07482,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.07482/119.4988"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhenjiang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "王子的箭桥",
@@ -184,7 +394,17 @@
    "lat": 32.07456,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.07456/119.49659"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhenjiang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "通泰桥",
@@ -192,7 +412,17 @@
    "lat": 31.99323,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.99323/119.57144"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhenjiang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "老北门桥",
@@ -200,7 +430,17 @@
    "lat": 32.00178,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.00178/119.5667"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhenjiang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "开泰桥",
@@ -208,7 +448,17 @@
    "lat": 31.98995,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.98995/119.56465"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhenjiang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "迎春桥",
@@ -216,7 +466,17 @@
    "lat": 31.98958,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.98958/119.57165"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhenjiang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "三思桥",
@@ -224,7 +484,17 @@
    "lat": 32.00391,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.00391/119.559"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhenjiang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "萃秀桥",
@@ -232,7 +502,17 @@
    "lat": 31.98667,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.98667/119.57726"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhenjiang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "宝成桥",
@@ -240,7 +520,17 @@
    "lat": 32.00236,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.00236/119.55349"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhenjiang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "土桥",
@@ -248,7 +538,17 @@
    "lat": 32.00116,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.00116/119.55595"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhenjiang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "沈家桥",
@@ -256,7 +556,17 @@
    "lat": 31.99259,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.99259/119.56687"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhenjiang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "赤山湖国家湿地公园-雁栖岛",
@@ -264,7 +574,17 @@
    "lat": 31.84262,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.84262/119.10216"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhenjiang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "古观音洞",
@@ -272,7 +592,17 @@
    "lat": 32.18237,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.18237/119.45269"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhenjiang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "念佛堂",
@@ -280,7 +610,17 @@
    "lat": 32.18288,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.18288/119.45223"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhenjiang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "观音山圆通寺-五观堂",
@@ -288,7 +628,17 @@
    "lat": 32.18208,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.18208/119.45255"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhenjiang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "观音山圆通寺-伽蓝殿",
@@ -296,7 +646,17 @@
    "lat": 32.1822,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.1822/119.45246"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhenjiang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "观音山圆通寺-圆通宝殿",
@@ -304,7 +664,17 @@
    "lat": 32.18233,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.18233/119.45245"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhenjiang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "高崇寺-观音殿",
@@ -312,7 +682,17 @@
    "lat": 32.18033,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.18033/119.43051"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhenjiang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "高崇寺-玉佛殿",
@@ -320,7 +700,17 @@
    "lat": 32.18048,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.18048/119.43045"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhenjiang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "十王殿",
@@ -328,7 +718,17 @@
    "lat": 32.18022,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.18022/119.4302"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhenjiang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "高崇寺-三圣殿",
@@ -336,7 +736,17 @@
    "lat": 32.18034,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.18034/119.43017"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhenjiang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "高崇寺-菩提殿",
@@ -344,7 +754,17 @@
    "lat": 32.18046,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.18046/119.43014"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhenjiang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "高崇寺-地藏殿",
@@ -352,7 +772,17 @@
    "lat": 32.18074,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.18074/119.43012"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhenjiang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "高桥江豚湾",
@@ -360,7 +790,17 @@
    "lat": 32.2291,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.2291/119.62794"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhenjiang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "西津渡清代小码头遗址",
@@ -368,7 +808,17 @@
    "lat": 32.21754,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.21754/119.42519"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhenjiang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "赛珍珠纪念馆",
@@ -376,7 +826,17 @@
    "lat": 32.20478,
    "tag": "室内",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.20478/119.42895"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhenjiang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "天空云镜",
@@ -384,7 +844,17 @@
    "lat": 32.12958,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.12958/119.35331"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhenjiang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "探春亭",
@@ -392,7 +862,17 @@
    "lat": 32.12874,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.12874/119.35334"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhenjiang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "长山薰衣草彩虹小镇-恐龙科普馆",
@@ -400,7 +880,17 @@
    "lat": 32.1277,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.1277/119.35024"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhenjiang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "远古幽境",
@@ -408,7 +898,17 @@
    "lat": 32.12799,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.12799/119.35113"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhenjiang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "长山薰衣草彩虹小镇-水上浮桥",
@@ -416,7 +916,17 @@
    "lat": 32.12705,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.12705/119.35452"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhenjiang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "许愿池",
@@ -424,7 +934,17 @@
    "lat": 32.12748,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.12748/119.35548"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhenjiang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "孔雀园",
@@ -432,7 +952,17 @@
    "lat": 32.12774,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.12774/119.35683"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhenjiang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "凤头鸭戏水池",
@@ -440,7 +970,17 @@
    "lat": 32.12777,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.12777/119.35746"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhenjiang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "蒙古大营",
@@ -448,7 +988,17 @@
    "lat": 32.13069,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.13069/119.35705"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhenjiang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "风情托马斯",
@@ -456,7 +1006,17 @@
    "lat": 32.12957,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.12957/119.35595"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhenjiang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "长山薰衣草彩虹小镇-海枯石烂",
@@ -464,7 +1024,17 @@
    "lat": 32.12992,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.12992/119.3556"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhenjiang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "天下第一江山石刻",
@@ -472,7 +1042,17 @@
    "lat": 32.21966,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.21966/119.4524"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhenjiang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "北固山牌坊",
@@ -480,7 +1060,17 @@
    "lat": 32.21661,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.21661/119.45158"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhenjiang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "溜马涧",
@@ -488,7 +1078,17 @@
    "lat": 32.21961,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.21961/119.45129"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhenjiang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "铁塔",
@@ -496,7 +1096,17 @@
    "lat": 32.21946,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.21946/119.45252"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhenjiang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "中山纪念林",
@@ -504,7 +1114,17 @@
    "lat": 32.21715,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.21715/119.45271"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhenjiang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "东吴胜境牌楼",
@@ -512,7 +1132,17 @@
    "lat": 32.21944,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.21944/119.45409"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhenjiang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "五棵松",
@@ -520,7 +1150,17 @@
    "lat": 32.19727,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.19727/119.51356"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhenjiang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "得撒石磨豆腐村",
@@ -528,7 +1168,17 @@
    "lat": 31.89647,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.89647/119.29509"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhenjiang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "云阳楼",
@@ -536,7 +1186,17 @@
    "lat": 32.00231,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.00231/119.55377"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhenjiang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "镇江丹徒横山三茅宫道院",
@@ -544,7 +1204,17 @@
    "lat": 32.1585,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.1585/119.52853"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhenjiang.gov.cn/"
+    }
+   ]
   }
  ],
  "rings": [

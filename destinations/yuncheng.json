@@ -16,7 +16,17 @@
    "lat": 35.66054,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/35.66054/110.60029"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yuncheng.gov.cn/"
+    }
+   ]
   },
   {
    "n": "山西省运城市盐湖区金井乡西王文昌阁",
@@ -24,7 +34,17 @@
    "lat": 34.96653,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.96653/110.77157"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yuncheng.gov.cn/"
+    }
+   ]
   },
   {
    "n": "司马光墓",
@@ -32,7 +52,17 @@
    "lat": 35.19944,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/35.19944/111.11776"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yuncheng.gov.cn/"
+    }
+   ]
   },
   {
    "n": "永乐宫",
@@ -42,7 +72,21 @@
    "drive": "",
    "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
    "rating": "4A",
-   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)"
+   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)",
+   "sources": [
+    {
+     "n": "4A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6AAAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.72246/110.68761"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yuncheng.gov.cn/"
+    }
+   ]
   },
   {
    "n": "鹳雀楼景区",
@@ -50,7 +94,17 @@
    "lat": 34.83918,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.83918/110.26439"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yuncheng.gov.cn/"
+    }
+   ]
   },
   {
    "n": "西侯度遗址",
@@ -58,7 +112,17 @@
    "lat": 34.69711,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.69711/110.29943"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yuncheng.gov.cn/"
+    }
+   ]
   },
   {
    "n": "白台寺",
@@ -66,7 +130,17 @@
    "lat": 35.66386,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/35.66386/111.06943"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yuncheng.gov.cn/"
+    }
+   ]
   },
   {
    "n": "福胜寺",
@@ -74,7 +148,17 @@
    "lat": 35.75265,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/35.75265/111.16801"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yuncheng.gov.cn/"
+    }
+   ]
   },
   {
    "n": "玉皇庙",
@@ -82,7 +166,17 @@
    "lat": 35.77161,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/35.77161/111.15772"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yuncheng.gov.cn/"
+    }
+   ]
   },
   {
    "n": "龙兴寺",
@@ -90,7 +184,17 @@
    "lat": 35.61873,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/35.61873/111.21962"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yuncheng.gov.cn/"
+    }
+   ]
   },
   {
    "n": "绛州文庙",
@@ -98,7 +202,17 @@
    "lat": 35.61754,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/35.61754/111.22444"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yuncheng.gov.cn/"
+    }
+   ]
   },
   {
    "n": "关帝庙",
@@ -108,7 +222,21 @@
    "drive": "",
    "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
    "rating": "4A",
-   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)"
+   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)",
+   "sources": [
+    {
+     "n": "4A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6AAAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/35.65771/111.08487"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yuncheng.gov.cn/"
+    }
+   ]
   },
   {
    "n": "李家大院",
@@ -116,7 +244,17 @@
    "lat": 35.29046,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/35.29046/110.71856"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yuncheng.gov.cn/"
+    }
+   ]
   }
  ],
  "rings": [

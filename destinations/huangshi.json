@@ -16,7 +16,17 @@
    "lat": 30.14297,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.14297/114.84745"
+    },
+    {
+     "n": "市官网",
+     "u": "https://huangshi.gov.cn/"
+    }
+   ]
   },
   {
    "n": "沧浪亭",
@@ -24,7 +34,17 @@
    "lat": 29.85522,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/29.85522/115.22004"
+    },
+    {
+     "n": "市官网",
+     "u": "https://huangshi.gov.cn/"
+    }
+   ]
   },
   {
    "n": "桃花洞",
@@ -32,7 +52,17 @@
    "lat": 30.21283,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.21283/115.16004"
+    },
+    {
+     "n": "市官网",
+     "u": "https://huangshi.gov.cn/"
+    }
+   ]
   },
   {
    "n": "溶洞入口",
@@ -40,7 +70,17 @@
    "lat": 29.69035,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/29.69035/115.35512"
+    },
+    {
+     "n": "市官网",
+     "u": "https://huangshi.gov.cn/"
+    }
+   ]
   },
   {
    "n": "溶洞出口",
@@ -48,7 +88,17 @@
    "lat": 29.68607,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/29.68607/115.34994"
+    },
+    {
+     "n": "市官网",
+     "u": "https://huangshi.gov.cn/"
+    }
+   ]
   },
   {
    "n": "黄石矿山国家公园",
@@ -56,7 +106,17 @@
    "lat": 30.22081,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.22081/114.90686"
+    },
+    {
+     "n": "市官网",
+     "u": "https://huangshi.gov.cn/"
+    }
+   ]
   },
   {
    "n": "铜绿山古铜矿遗址",
@@ -64,7 +124,17 @@
    "lat": 30.08439,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.08439/114.94008"
+    },
+    {
+     "n": "市官网",
+     "u": "https://huangshi.gov.cn/"
+    }
+   ]
   },
   {
    "n": "元代古桥",
@@ -72,7 +142,17 @@
    "lat": 29.98649,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/29.98649/114.83766"
+    },
+    {
+     "n": "市官网",
+     "u": "https://huangshi.gov.cn/"
+    }
+   ]
   },
   {
    "n": "东昌阁",
@@ -80,7 +160,17 @@
    "lat": 30.20793,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.20793/114.94057"
+    },
+    {
+     "n": "市官网",
+     "u": "https://huangshi.gov.cn/"
+    }
+   ]
   }
  ],
  "rings": [

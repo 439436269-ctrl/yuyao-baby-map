@@ -16,7 +16,17 @@
    "lat": 36.61918,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.61918/101.77432"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.xining.gov.cn/"
+    }
+   ]
   },
   {
    "n": "International Village - Guojicun",
@@ -24,7 +34,17 @@
    "lat": 36.61199,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.61199/101.78848"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.xining.gov.cn/"
+    }
+   ]
   },
   {
    "n": "夜市",
@@ -32,7 +52,17 @@
    "lat": 36.62248,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.62248/101.78703"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.xining.gov.cn/"
+    }
+   ]
   },
   {
    "n": "金帝顺滑雪场",
@@ -40,7 +70,17 @@
    "lat": 37.031,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/37.031/101.80862"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.xining.gov.cn/"
+    }
+   ]
   },
   {
    "n": "北川冰雪世界",
@@ -48,7 +88,17 @@
    "lat": 36.70682,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.70682/101.76677"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.xining.gov.cn/"
+    }
+   ]
   },
   {
    "n": "鹞子沟康乐山庄滑雪场",
@@ -56,7 +106,17 @@
    "lat": 37.0335,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/37.0335/101.81878"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.xining.gov.cn/"
+    }
+   ]
   },
   {
    "n": "老爷山度假山庄滑雪场",
@@ -64,7 +124,17 @@
    "lat": 36.93924,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.93924/101.70398"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.xining.gov.cn/"
+    }
+   ]
   },
   {
    "n": "新奥斯陆冰雪世界",
@@ -72,7 +142,17 @@
    "lat": 36.77898,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.77898/101.76907"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.xining.gov.cn/"
+    }
+   ]
   },
   {
    "n": "华德花园广场",
@@ -80,7 +160,17 @@
    "lat": 36.61991,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.61991/101.77273"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.xining.gov.cn/"
+    }
+   ]
   },
   {
    "n": "腾龙那片海",
@@ -88,7 +178,17 @@
    "lat": 36.63452,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.63452/101.76131"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.xining.gov.cn/"
+    }
+   ]
   },
   {
    "n": "西宁人民公园",
@@ -96,7 +196,17 @@
    "lat": 36.63715,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.63715/101.76223"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.xining.gov.cn/"
+    }
+   ]
   },
   {
    "n": "塔尔寺",
@@ -106,7 +216,21 @@
    "drive": "",
    "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
    "rating": "5A",
-   "ratingSrc": "国家5A名录(2025.3·358家)"
+   "ratingSrc": "国家5A名录(2025.3·358家)",
+   "sources": [
+    {
+     "n": "5A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B65A%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.48777/101.56599"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.xining.gov.cn/"
+    }
+   ]
   },
   {
    "n": "日月山风景区",
@@ -114,7 +238,17 @@
    "lat": 36.44313,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.44313/101.09389"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.xining.gov.cn/"
+    }
+   ]
   }
  ],
  "rings": [

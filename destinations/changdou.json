@@ -16,7 +16,17 @@
    "lat": 31.1436,
    "tag": "景点",
    "drive": "约 1 小时",
-   "note": "[KNOWN·坐标photon] 强巴林寺"
+   "note": "[KNOWN·坐标photon] 强巴林寺",
+   "sources": [
+    {
+     "n": "坐标定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.1436/97.1772"
+    },
+    {
+     "n": "Photon·查询",
+     "u": "https://photon.komoot.io/?q=%E5%BC%BA%E5%B7%B4%E6%9E%97%E5%AF%BA"
+    }
+   ]
   }
  ],
  "rings": [

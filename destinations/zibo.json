@@ -16,7 +16,17 @@
    "lat": 37.07277,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/37.07277/118.0994"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zibo.gov.cn/"
+    }
+   ]
   },
   {
    "n": "冷轧钢生产线",
@@ -24,7 +34,17 @@
    "lat": 36.88141,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.88141/118.07557"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zibo.gov.cn/"
+    }
+   ]
   },
   {
    "n": "蒸汽机车",
@@ -32,7 +52,17 @@
    "lat": 36.88158,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.88158/118.07373"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zibo.gov.cn/"
+    }
+   ]
   },
   {
    "n": "矿山挖掘机",
@@ -40,7 +70,17 @@
    "lat": 36.88966,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.88966/118.07748"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zibo.gov.cn/"
+    }
+   ]
   },
   {
    "n": "七修苑",
@@ -48,7 +88,17 @@
    "lat": 36.3044,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.3044/117.98355"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zibo.gov.cn/"
+    }
+   ]
   },
   {
    "n": "临淄齐国故城",
@@ -56,7 +106,17 @@
    "lat": 36.89019,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.89019/118.33789"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zibo.gov.cn/"
+    }
+   ]
   }
  ],
  "rings": [

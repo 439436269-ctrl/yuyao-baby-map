@@ -16,7 +16,17 @@
    "lat": 48.65241,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/48.65241/126.15702"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.heihe.gov.cn/"
+    }
+   ]
   },
   {
    "n": "老黑山门口",
@@ -24,7 +34,17 @@
    "lat": 48.68654,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/48.68654/126.10383"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.heihe.gov.cn/"
+    }
+   ]
   },
   {
    "n": "老黑山景区",
@@ -32,7 +52,17 @@
    "lat": 48.68502,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/48.68502/126.10851"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.heihe.gov.cn/"
+    }
+   ]
   },
   {
    "n": "龙门石寨",
@@ -40,7 +70,17 @@
    "lat": 48.69097,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/48.69097/126.32224"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.heihe.gov.cn/"
+    }
+   ]
   },
   {
    "n": "水晶宫",
@@ -48,7 +88,17 @@
    "lat": 48.65596,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/48.65596/126.25993"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.heihe.gov.cn/"
+    }
+   ]
   },
   {
    "n": "白龙洞",
@@ -56,7 +106,17 @@
    "lat": 48.65451,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/48.65451/126.27665"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.heihe.gov.cn/"
+    }
+   ]
   },
   {
    "n": "格拉球山",
@@ -64,7 +124,17 @@
    "lat": 48.73536,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/48.73536/125.99381"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.heihe.gov.cn/"
+    }
+   ]
   },
   {
    "n": "卧虎山",
@@ -72,7 +142,17 @@
    "lat": 48.65951,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/48.65951/126.04687"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.heihe.gov.cn/"
+    }
+   ]
   },
   {
    "n": "北药泉",
@@ -80,7 +160,17 @@
    "lat": 48.64998,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/48.64998/126.14884"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.heihe.gov.cn/"
+    }
+   ]
   },
   {
    "n": "南药泉",
@@ -88,7 +178,17 @@
    "lat": 48.64831,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/48.64831/126.14899"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.heihe.gov.cn/"
+    }
+   ]
   },
   {
    "n": "药泉山",
@@ -96,7 +196,17 @@
    "lat": 48.64925,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/48.64925/126.13054"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.heihe.gov.cn/"
+    }
+   ]
   },
   {
    "n": "抗联英雄王明贵疗伤处遗址",
@@ -104,7 +214,17 @@
    "lat": 48.48311,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/48.48311/125.78956"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.heihe.gov.cn/"
+    }
+   ]
   }
  ],
  "rings": [

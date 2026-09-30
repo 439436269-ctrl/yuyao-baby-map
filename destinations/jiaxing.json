@@ -16,7 +16,17 @@
    "lat": 30.40408,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.40408/120.54031"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "福银堂",
@@ -24,7 +34,17 @@
    "lat": 30.94776,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.94776/120.88816"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "谈仙石城",
@@ -32,7 +52,17 @@
    "lat": 30.37435,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.37435/120.83387"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "云龙桑蚕文化园",
@@ -40,7 +70,17 @@
    "lat": 30.42582,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.42582/120.4714"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "铜笛仙馆",
@@ -48,7 +88,17 @@
    "lat": 30.74609,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.74609/120.73968"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "辰轩居",
@@ -56,7 +106,17 @@
    "lat": 30.74657,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.74657/120.74019"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "小瀛洲",
@@ -64,7 +124,17 @@
    "lat": 30.76211,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.76211/120.75571"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "望湖楼台",
@@ -72,7 +142,17 @@
    "lat": 30.75372,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.75372/120.76057"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "红船南湖书院",
@@ -80,7 +160,17 @@
    "lat": 30.7527,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.7527/120.76048"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "牡丹园",
@@ -90,7 +180,21 @@
    "drive": "",
    "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
    "rating": "4A",
-   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)"
+   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)",
+   "sources": [
+    {
+     "n": "4A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6AAAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.71797/120.76619"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "月季园",
@@ -98,7 +202,17 @@
    "lat": 30.72078,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.72078/120.76409"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "木犀园",
@@ -106,7 +220,17 @@
    "lat": 30.72116,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.72116/120.76501"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "沙雅林",
@@ -114,7 +238,17 @@
    "lat": 30.72005,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.72005/120.76567"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "政和桥",
@@ -122,7 +256,17 @@
    "lat": 30.71952,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.71952/120.76582"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "政协林",
@@ -130,7 +274,17 @@
    "lat": 30.7194,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.7194/120.76634"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "德正桥",
@@ -138,7 +292,17 @@
    "lat": 30.71958,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.71958/120.76658"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "景观大道",
@@ -146,7 +310,17 @@
    "lat": 30.72174,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.72174/120.76409"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "友谊树",
@@ -154,7 +328,17 @@
    "lat": 30.72145,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.72145/120.76408"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "濯春桥",
@@ -162,7 +346,17 @@
    "lat": 30.71804,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.71804/120.76825"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "樱花海棠园",
@@ -170,7 +364,17 @@
    "lat": 30.71669,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.71669/120.76684"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "清远桥",
@@ -178,7 +382,17 @@
    "lat": 30.71498,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.71498/120.76681"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "思德桥",
@@ -186,7 +400,17 @@
    "lat": 30.71552,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.71552/120.76659"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "彩虹桥",
@@ -194,7 +418,17 @@
    "lat": 30.79788,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.79788/120.92287"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "思贤塔",
@@ -202,7 +436,17 @@
    "lat": 30.84388,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.84388/120.91815"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "县城城门",
@@ -210,7 +454,17 @@
    "lat": 30.86403,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.86403/120.92697"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "墨竹桥",
@@ -218,7 +472,17 @@
    "lat": 30.80441,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.80441/120.91955"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "安仁桥",
@@ -226,7 +490,17 @@
    "lat": 30.94227,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.94227/120.88477"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "安济桥",
@@ -234,7 +508,17 @@
    "lat": 30.94215,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.94215/120.88424"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "融易网红打卡地",
@@ -242,7 +526,17 @@
    "lat": 30.8212,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.8212/120.87644"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "九曲游步道",
@@ -250,7 +544,17 @@
    "lat": 30.79132,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.79132/120.98766"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "斯麦乐巧克力乐园",
@@ -258,7 +562,17 @@
    "lat": 30.78906,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.78906/120.98534"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "百鸟朝凤",
@@ -266,7 +580,17 @@
    "lat": 30.64836,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.64836/120.58439"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "祥符亭",
@@ -274,7 +598,17 @@
    "lat": 30.95727,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.95727/120.91925"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "徐来亭",
@@ -282,7 +616,17 @@
    "lat": 30.82153,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.82153/120.87369"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "清风亭",
@@ -290,7 +634,17 @@
    "lat": 30.8225,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.8225/120.87317"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "清风廊",
@@ -298,7 +652,17 @@
    "lat": 30.82254,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.82254/120.87375"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "无人机试飞场",
@@ -306,7 +670,17 @@
    "lat": 30.82192,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.82192/120.87403"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "星创湖",
@@ -314,7 +688,17 @@
    "lat": 30.82144,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.82144/120.8741"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "智汇e站",
@@ -322,7 +706,17 @@
    "lat": 30.82273,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.82273/120.87482"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "智能生态照明系统",
@@ -330,7 +724,17 @@
    "lat": 30.82102,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.82102/120.87443"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "清风徐来",
@@ -338,7 +742,17 @@
    "lat": 30.8218,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.8218/120.87354"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "小镇客厅",
@@ -346,7 +760,17 @@
    "lat": 30.82187,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.82187/120.87289"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "漫行智谷",
@@ -354,7 +778,17 @@
    "lat": 30.82258,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.82258/120.87298"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "孔庙学宫",
@@ -362,7 +796,17 @@
    "lat": 30.4034,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.4034/120.54132"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "智创长廊",
@@ -370,7 +814,17 @@
    "lat": 30.83317,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.83317/120.88033"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "力通科创展厅",
@@ -378,7 +832,17 @@
    "lat": 30.82374,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.82374/120.86941"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "生态轻松阁",
@@ -386,7 +850,17 @@
    "lat": 30.82285,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.82285/120.87135"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "宜葆向阳农场",
@@ -394,7 +868,17 @@
    "lat": 30.8252,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.8252/120.86985"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "ECOBOX处理器",
@@ -402,7 +886,17 @@
    "lat": 30.82292,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.82292/120.87197"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "太阳能水循环系统",
@@ -410,7 +904,17 @@
    "lat": 30.82537,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.82537/120.87273"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "归谷初心",
@@ -418,7 +922,17 @@
    "lat": 30.82166,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.82166/120.88986"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "西塘景区",
@@ -426,7 +940,17 @@
    "lat": 30.94198,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.94198/120.88451"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "揽秀桥",
@@ -434,7 +958,17 @@
    "lat": 30.94718,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.94718/120.8823"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "吴镇墓",
@@ -442,7 +976,17 @@
    "lat": 30.84393,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.84393/120.91215"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "寒碧亭",
@@ -450,7 +994,17 @@
    "lat": 30.84399,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.84399/120.91207"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "渔父图碑廊",
@@ -458,7 +1012,17 @@
    "lat": 30.84406,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.84406/120.91204"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "竹谱碑廊",
@@ -466,7 +1030,17 @@
    "lat": 30.84375,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.84375/120.91198"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "林泉居",
@@ -474,7 +1048,17 @@
    "lat": 30.84371,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.84371/120.91183"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "梅花亭",
@@ -482,7 +1066,17 @@
    "lat": 30.84385,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.84385/120.91182"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "草书心经",
@@ -490,7 +1084,17 @@
    "lat": 30.84398,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.84398/120.91177"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "梅花泉",
@@ -498,7 +1102,17 @@
    "lat": 30.84404,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.84404/120.91184"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "八竹碑",
@@ -506,7 +1120,17 @@
    "lat": 30.84396,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.84396/120.91192"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "吴镇书画院",
@@ -514,7 +1138,17 @@
    "lat": 30.84432,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.84432/120.91204"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "祥符荡石坝",
@@ -522,7 +1156,17 @@
    "lat": 30.95748,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.95748/120.91876"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "会议中心",
@@ -530,7 +1174,17 @@
    "lat": 30.95842,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.95842/120.91869"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "科创综合展厅",
@@ -538,7 +1192,17 @@
    "lat": 30.95816,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.95816/120.91808"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "嘉善古城小东门",
@@ -546,7 +1210,17 @@
    "lat": 30.84666,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.84666/120.91742"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "欢乐园",
@@ -554,7 +1228,17 @@
    "lat": 30.85181,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.85181/120.92717"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "嘉善越里古镇",
@@ -562,7 +1246,17 @@
    "lat": 30.80497,
    "tag": "古镇",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.80497/120.92034"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "魏塘石碑坊",
@@ -570,7 +1264,17 @@
    "lat": 30.84249,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.84249/120.90812"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "思索者",
@@ -578,7 +1282,17 @@
    "lat": 30.8276,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.8276/120.92159"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "探索者",
@@ -586,7 +1300,17 @@
    "lat": 30.82745,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.82745/120.92109"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "汾湖美景",
@@ -594,7 +1318,17 @@
    "lat": 30.99826,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.99826/120.8062"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "可可广场",
@@ -602,7 +1336,17 @@
    "lat": 30.79067,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.79067/120.98406"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "桃花林",
@@ -610,7 +1354,17 @@
    "lat": 30.79015,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.79015/120.98455"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "斯麦乐巧克力工厂",
@@ -618,7 +1372,17 @@
    "lat": 30.79283,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.79283/120.98455"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "淘气城堡乐园",
@@ -626,7 +1390,17 @@
    "lat": 30.79195,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.79195/120.98619"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "DIY趣味屋",
@@ -634,7 +1408,17 @@
    "lat": 30.79233,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.79233/120.98505"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "巧克力市政厅",
@@ -642,7 +1426,17 @@
    "lat": 30.79239,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.79239/120.98529"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "巧克力原浆品尝",
@@ -650,7 +1444,17 @@
    "lat": 30.7929,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.7929/120.98513"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "手工巧克力品尝",
@@ -658,7 +1462,17 @@
    "lat": 30.79293,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.79293/120.98565"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "可可神奇之旅",
@@ -666,7 +1480,17 @@
    "lat": 30.79277,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.79277/120.98584"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "巧克力印象",
@@ -674,7 +1498,17 @@
    "lat": 30.79247,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.79247/120.9857"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "歌斐颂大道",
@@ -682,7 +1516,17 @@
    "lat": 30.79156,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.79156/120.98529"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "爱情海",
@@ -690,7 +1534,17 @@
    "lat": 30.79168,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.79168/120.98792"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "独墅岛",
@@ -698,7 +1552,17 @@
    "lat": 30.79045,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.79045/120.98346"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "巧克力广场",
@@ -706,7 +1570,17 @@
    "lat": 30.79097,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.79097/120.98536"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "商业区",
@@ -714,7 +1588,17 @@
    "lat": 30.7899,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.7899/120.98542"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "情人码头",
@@ -722,7 +1606,17 @@
    "lat": 30.79096,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.79096/120.98691"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "巧克力能源厂",
@@ -730,7 +1624,17 @@
    "lat": 30.79303,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.79303/120.98453"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "恐龙园",
@@ -738,7 +1642,17 @@
    "lat": 30.79026,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.79026/120.98395"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "嘉善体育中心",
@@ -746,7 +1660,17 @@
    "lat": 30.83227,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.83227/120.93067"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "地藏庵",
@@ -754,7 +1678,17 @@
    "lat": 30.83921,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.83921/120.89513"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "三角花坛",
@@ -762,7 +1696,17 @@
    "lat": 30.89845,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.89845/120.83927"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "中国归谷科技园",
@@ -770,7 +1714,17 @@
    "lat": 30.82013,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.82013/120.87463"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "嘉善归谷智造小镇",
@@ -778,7 +1732,17 @@
    "lat": 30.82012,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.82012/120.87467"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "碧海花园",
@@ -786,7 +1750,17 @@
    "lat": 30.78232,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.78232/120.97779"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "范泾草莓园",
@@ -794,7 +1768,17 @@
    "lat": 30.91612,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.91612/120.89841"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "西城门",
@@ -802,7 +1786,17 @@
    "lat": 30.84293,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.84293/120.90201"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "水乡明珠",
@@ -810,7 +1804,17 @@
    "lat": 30.83173,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.83173/120.92309"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "将军桥",
@@ -818,7 +1822,17 @@
    "lat": 31.00111,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.00111/120.80917"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "窑子",
@@ -826,7 +1840,17 @@
    "lat": 30.94689,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.94689/120.88298"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "迎秀桥",
@@ -834,7 +1858,17 @@
    "lat": 30.94677,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.94677/120.88327"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "纤桥",
@@ -842,7 +1876,17 @@
    "lat": 30.94671,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.94671/120.88359"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "敬香处",
@@ -850,7 +1894,17 @@
    "lat": 30.94718,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.94718/120.88404"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "会出巡",
@@ -858,7 +1912,17 @@
    "lat": 30.94729,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.94729/120.88412"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "嘉善第一高楼",
@@ -866,7 +1930,17 @@
    "lat": 30.80583,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.80583/120.92227"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "四季江南莲花池",
@@ -874,7 +1948,17 @@
    "lat": 30.82019,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.82019/120.90917"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "大寺桥遗址",
@@ -882,7 +1966,17 @@
    "lat": 30.84204,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.84204/120.9207"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "阿育王塔遗址",
@@ -890,7 +1984,17 @@
    "lat": 30.84281,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.84281/120.90833"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "嘉善北城门遗址",
@@ -898,7 +2002,17 @@
    "lat": 30.84773,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.84773/120.90928"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "刘公墩",
@@ -906,7 +2020,17 @@
    "lat": 30.85018,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.85018/120.90939"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "康济桥遗址",
@@ -914,7 +2038,17 @@
    "lat": 30.84157,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.84157/120.93363"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "瓶山",
@@ -922,7 +2056,17 @@
    "lat": 30.84129,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.84129/120.90955"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "罗星台",
@@ -930,7 +2074,17 @@
    "lat": 30.8418,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.8418/120.93353"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "日晖桥",
@@ -938,7 +2092,17 @@
    "lat": 30.84225,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.84225/120.9279"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "日晖桥东段水乡",
@@ -946,7 +2110,17 @@
    "lat": 30.84185,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.84185/120.92793"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "上官塘桥",
@@ -954,7 +2128,17 @@
    "lat": 30.84177,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.84177/120.93037"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "卖鱼桥",
@@ -962,7 +2146,17 @@
    "lat": 30.8423,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.8423/120.90863"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "魏塘社会主义宣传队旧址",
@@ -970,7 +2164,17 @@
    "lat": 30.84239,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.84239/120.91247"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "艺术展台",
@@ -978,7 +2182,17 @@
    "lat": 30.82736,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.82736/120.92169"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "艺术墙",
@@ -986,7 +2200,17 @@
    "lat": 30.82726,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.82726/120.92172"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "文化墙",
@@ -994,7 +2218,17 @@
    "lat": 30.82719,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.82719/120.92148"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "袁了凡展",
@@ -1002,7 +2236,17 @@
    "lat": 30.82699,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.82699/120.92176"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "永不熄灭的窑火",
@@ -1010,7 +2254,17 @@
    "lat": 30.82699,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.82699/120.9217"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "历史展厅",
@@ -1018,7 +2272,17 @@
    "lat": 30.82702,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.82702/120.92146"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "五姑娘文化展",
@@ -1026,7 +2290,17 @@
    "lat": 30.8271,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.8271/120.9214"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "周末大舞台",
@@ -1034,7 +2308,17 @@
    "lat": 30.83057,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.83057/120.92148"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "胥山村景区",
@@ -1042,7 +2326,17 @@
    "lat": 30.77974,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.77974/120.88479"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "沈钧儒故居",
@@ -1050,7 +2344,17 @@
    "lat": 30.75746,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.75746/120.7442"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "张安村遗址",
@@ -1058,7 +2362,17 @@
    "lat": 30.97317,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.97317/120.94153"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "汇秀桥",
@@ -1066,7 +2380,17 @@
    "lat": 30.94352,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.94352/120.88332"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "安顺桥",
@@ -1074,7 +2398,17 @@
    "lat": 30.9421,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.9421/120.88401"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "玲珑亭",
@@ -1082,7 +2416,17 @@
    "lat": 30.94371,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.94371/120.88382"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "独瓦亭",
@@ -1090,7 +2434,17 @@
    "lat": 30.94392,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.94392/120.88416"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "樱花大道",
@@ -1098,7 +2452,17 @@
    "lat": 30.94301,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.94301/120.88446"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "神秀桥",
@@ -1106,7 +2470,17 @@
    "lat": 30.94484,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.94484/120.88381"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "安媚桥",
@@ -1114,7 +2488,17 @@
    "lat": 30.94173,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.94173/120.88385"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "安福桥",
@@ -1122,7 +2506,17 @@
    "lat": 30.94217,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.94217/120.88452"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "安泰桥",
@@ -1130,7 +2524,17 @@
    "lat": 30.94182,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.94182/120.88393"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "大明华章景区",
@@ -1138,7 +2542,17 @@
    "lat": 30.80419,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.80419/120.92021"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "休闲农庄",
@@ -1146,7 +2560,17 @@
    "lat": 30.78215,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.78215/120.98191"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "火炬",
@@ -1154,7 +2578,17 @@
    "lat": 30.78466,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.78466/120.95627"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "碧云花园",
@@ -1162,7 +2596,17 @@
    "lat": 30.7824,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.7824/120.97872"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "湖心岛观景塔",
@@ -1170,7 +2614,17 @@
    "lat": 30.88843,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.88843/120.86565"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "鹿精灵广场",
@@ -1178,7 +2632,17 @@
    "lat": 30.79006,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.79006/120.97892"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "嘉善绿城园林",
@@ -1186,7 +2650,17 @@
    "lat": 30.83545,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.83545/120.94165"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "心旷神怡",
@@ -1194,7 +2668,17 @@
    "lat": 30.83196,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.83196/120.93663"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "儿童乐园区",
@@ -1202,7 +2686,17 @@
    "lat": 30.83134,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.83134/120.93892"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "科普教育区",
@@ -1210,7 +2704,17 @@
    "lat": 30.83094,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.83094/120.9366"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "休闲区",
@@ -1218,7 +2722,17 @@
    "lat": 30.83202,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.83202/120.94064"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "湖光山色",
@@ -1226,7 +2740,17 @@
    "lat": 30.83253,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.83253/120.93908"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "锦绣前程",
@@ -1234,7 +2758,17 @@
    "lat": 30.83519,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.83519/120.94163"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "都市桃源",
@@ -1242,7 +2776,17 @@
    "lat": 30.83217,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.83217/120.94121"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "中心湖景区",
@@ -1250,7 +2794,17 @@
    "lat": 30.83289,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.83289/120.93923"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "引秀桥",
@@ -1258,7 +2812,17 @@
    "lat": 30.94209,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.94209/120.88506"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "含秀桥",
@@ -1266,7 +2830,17 @@
    "lat": 30.94641,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.94641/120.88368"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "悦秀桥",
@@ -1274,7 +2848,17 @@
    "lat": 30.94591,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.94591/120.88379"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "环秀桥",
@@ -1282,7 +2866,17 @@
    "lat": 30.94751,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.94751/120.88763"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "永宁桥",
@@ -1290,7 +2884,17 @@
    "lat": 30.9479,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.9479/120.89112"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "安境桥",
@@ -1298,7 +2902,17 @@
    "lat": 30.94771,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.94771/120.89141"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "安喜桥",
@@ -1306,7 +2920,17 @@
    "lat": 30.94846,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.94846/120.89104"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "卧龙桥",
@@ -1314,7 +2938,17 @@
    "lat": 30.95059,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.95059/120.89064"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "万安桥",
@@ -1322,7 +2956,17 @@
    "lat": 30.9492,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.9492/120.89084"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "狮子桥",
@@ -1330,7 +2974,17 @@
    "lat": 30.94935,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.94935/120.89135"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "戊寅桥",
@@ -1338,7 +2992,17 @@
    "lat": 30.94946,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.94946/120.89185"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "里仁桥",
@@ -1346,7 +3010,17 @@
    "lat": 30.94986,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.94986/120.8938"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "四贤桥",
@@ -1354,7 +3028,17 @@
    "lat": 30.94864,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.94864/120.88852"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "送子来凤桥",
@@ -1362,7 +3046,17 @@
    "lat": 30.9479,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.9479/120.88918"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "门前荡",
@@ -1370,7 +3064,17 @@
    "lat": 30.94465,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.94465/120.79508"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "濮院时尚古镇",
@@ -1378,7 +3082,17 @@
    "lat": 30.68274,
    "tag": "古镇",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.68274/120.62846"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "鸳鸯湖",
@@ -1388,7 +3102,21 @@
    "drive": "",
    "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
    "rating": "4A",
-   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)"
+   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)",
+   "sources": [
+    {
+     "n": "4A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6AAAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.81343/120.97417"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "情人坡步",
@@ -1396,7 +3124,17 @@
    "lat": 30.81345,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.81345/120.97451"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "风车长廊",
@@ -1404,7 +3142,17 @@
    "lat": 30.81141,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.81141/120.9746"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "追逐车",
@@ -1412,7 +3160,17 @@
    "lat": 30.81194,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.81194/120.97411"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "旋转木马",
@@ -1420,7 +3178,17 @@
    "lat": 30.81214,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.81214/120.97376"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "四级花海乐园",
@@ -1428,7 +3196,17 @@
    "lat": 30.81284,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.81284/120.9737"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "聚和斋",
@@ -1436,7 +3214,17 @@
    "lat": 30.947,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.947/120.88441"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "穿堤",
@@ -1444,7 +3232,17 @@
    "lat": 30.99524,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.99524/120.77877"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "下甸庙景区",
@@ -1452,7 +3250,17 @@
    "lat": 30.9475,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.9475/120.84887"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "奥莱夜市",
@@ -1460,7 +3268,17 @@
    "lat": 30.80503,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.80503/120.9198"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "烟雨长廊",
@@ -1468,7 +3286,17 @@
    "lat": 30.94779,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.94779/120.88967"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "方厅水院景区",
@@ -1476,7 +3304,17 @@
    "lat": 31.01414,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.01414/120.89862"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "缪家村牌匾",
@@ -1484,7 +3322,17 @@
    "lat": 30.7842,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.7842/120.95314"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "I❤嘉善",
@@ -1492,7 +3340,17 @@
    "lat": 30.78919,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.78919/120.98535"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "方厅景区",
@@ -1500,7 +3358,17 @@
    "lat": 31.01645,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.01645/120.89726"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "长三角馆",
@@ -1508,7 +3376,17 @@
    "lat": 31.01723,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.01723/120.89727"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "观景台",
@@ -1516,7 +3394,17 @@
    "lat": 30.81561,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.81561/120.92088"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "音乐喷泉",
@@ -1524,7 +3412,17 @@
    "lat": 30.82506,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.82506/120.91966"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "中新嘉善",
@@ -1532,7 +3430,17 @@
    "lat": 30.88075,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.88075/120.95694"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "CSJS",
@@ -1540,7 +3448,17 @@
    "lat": 30.88581,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.88581/120.97429"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "德式碉堡",
@@ -1548,7 +3466,17 @@
    "lat": 30.87006,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.87006/120.97048"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "烧烤公园",
@@ -1556,7 +3484,17 @@
    "lat": 30.78219,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.78219/120.97904"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "宣传标语",
@@ -1564,7 +3502,17 @@
    "lat": 30.83212,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.83212/120.92259"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "九曲桥",
@@ -1572,7 +3520,17 @@
    "lat": 31.00019,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.00019/120.95256"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "百果岛景区",
@@ -1580,7 +3538,17 @@
    "lat": 30.9893,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.9893/120.91593"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "西丁公路转盘",
@@ -1588,7 +3556,17 @@
    "lat": 30.99985,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.99985/120.94918"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "嘉善城墙遗址",
@@ -1596,7 +3574,17 @@
    "lat": 30.84286,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.84286/120.90239"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "归谷半岛天桥",
@@ -1604,7 +3592,17 @@
    "lat": 30.81538,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.81538/120.87901"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "安墩桥",
@@ -1612,7 +3610,17 @@
    "lat": 30.81694,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.81694/120.88738"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "姚庄浙北桃花岛",
@@ -1620,7 +3628,17 @@
    "lat": 30.97245,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.97245/120.97694"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "张古溇",
@@ -1628,7 +3646,17 @@
    "lat": 30.81472,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.81472/120.8989"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "太空漫步",
@@ -1636,7 +3664,17 @@
    "lat": 30.81001,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.81001/120.97395"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "草坪休闲区",
@@ -1644,7 +3682,17 @@
    "lat": 30.81003,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.81003/120.97611"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "樱花林",
@@ -1652,7 +3700,17 @@
    "lat": 30.81155,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.81155/120.97419"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "森林聚会",
@@ -1660,7 +3718,17 @@
    "lat": 30.81238,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.81238/120.97384"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "安澜桥",
@@ -1668,7 +3736,17 @@
    "lat": 30.81362,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.81362/120.97392"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "摩崖飞瀑",
@@ -1676,7 +3754,17 @@
    "lat": 30.81403,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.81403/120.97365"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "华严坛",
@@ -1684,7 +3772,17 @@
    "lat": 30.99552,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.99552/120.785"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "莫氏庄园",
@@ -1692,7 +3790,17 @@
    "lat": 30.70007,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.70007/121.01494"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "Hi 上海",
@@ -1700,7 +3808,17 @@
    "lat": 30.88774,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.88774/121.00018"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "海天一洲",
@@ -1708,7 +3826,17 @@
    "lat": 30.4633,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.4633/121.12509"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "觉皇寺",
@@ -1716,7 +3844,17 @@
    "lat": 30.45556,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.45556/120.43403"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "硖石景区",
@@ -1724,7 +3862,17 @@
    "lat": 30.52897,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.52897/120.68919"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "绮园-独寤园",
@@ -1732,7 +3880,17 @@
    "lat": 30.52163,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.52163/120.94403"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "绮园",
@@ -1740,7 +3898,17 @@
    "lat": 30.51934,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.51934/120.94309"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "子城遗址公园",
@@ -1748,7 +3916,17 @@
    "lat": 30.76327,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.76327/120.74842"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "嘉善影视基地",
@@ -1756,7 +3934,17 @@
    "lat": 30.80293,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.80293/120.9282"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "归谷智造小镇",
@@ -1764,7 +3952,17 @@
    "lat": 30.82207,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.82207/120.87199"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "思贤文化广场",
@@ -1772,7 +3970,17 @@
    "lat": 30.84362,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.84362/120.91785"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "市民广场",
@@ -1780,7 +3988,17 @@
    "lat": 30.83256,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.83256/120.9214"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "许愿屋",
@@ -1788,7 +4006,17 @@
    "lat": 30.81173,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.81173/120.97352"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "祥符荡科创绿谷",
@@ -1796,7 +4024,17 @@
    "lat": 30.96131,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.96131/120.91748"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "王国维故居",
@@ -1804,7 +4042,17 @@
    "lat": 30.40419,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.40419/120.53325"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "薰衣草花海",
@@ -1812,7 +4060,17 @@
    "lat": 30.80952,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.80952/120.97541"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "十里水乡景区",
@@ -1820,7 +4078,17 @@
    "lat": 30.78443,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.78443/120.97598"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "汾湖风景区",
@@ -1828,7 +4096,17 @@
    "lat": 30.99934,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.99934/120.79388"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "安徽馆",
@@ -1836,7 +4114,17 @@
    "lat": 31.01809,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.01809/120.89605"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "浙江馆",
@@ -1844,7 +4132,17 @@
    "lat": 31.01807,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.01807/120.89847"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "东步行桥",
@@ -1852,7 +4150,17 @@
    "lat": 31.01954,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.01954/120.89878"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "西步行桥",
@@ -1860,7 +4168,17 @@
    "lat": 31.01958,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.01958/120.89575"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "主会馆",
@@ -1868,7 +4186,17 @@
    "lat": 31.0177,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.0177/120.89727"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "嘉善越里牌楼",
@@ -1876,7 +4204,17 @@
    "lat": 30.80127,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.80127/120.92045"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "大云旅游度假区",
@@ -1884,7 +4222,17 @@
    "lat": 30.79811,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.79811/120.9688"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "长生生态村",
@@ -1892,7 +4240,17 @@
    "lat": 30.88814,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.88814/120.86581"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "灰太狼农画",
@@ -1900,7 +4258,17 @@
    "lat": 30.88686,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.88686/120.86636"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "喜羊羊农画",
@@ -1908,7 +4276,17 @@
    "lat": 30.88704,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.88704/120.86747"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "小北农庄",
@@ -1916,7 +4294,17 @@
    "lat": 30.94287,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.94287/120.8412"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "杏福里乡村旅游景区",
@@ -1924,7 +4312,17 @@
    "lat": 30.92464,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.92464/120.79622"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "烟雨桥",
@@ -1932,7 +4330,17 @@
    "lat": 30.75365,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.75365/120.75958"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "涌泉广场",
@@ -1940,7 +4348,17 @@
    "lat": 30.81279,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.81279/120.97213"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "吴根越角牌匾",
@@ -1948,7 +4366,17 @@
    "lat": 30.9407,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.9407/120.8854"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "观水广场",
@@ -1956,7 +4384,17 @@
    "lat": 30.8251,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.8251/120.91965"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "音乐广场",
@@ -1964,7 +4402,17 @@
    "lat": 30.82277,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.82277/120.91917"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "优家牌楼",
@@ -1972,7 +4420,17 @@
    "lat": 30.84373,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.84373/120.97065"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "新塍影视民国城",
@@ -1980,7 +4438,17 @@
    "lat": 30.79936,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.79936/120.60719"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "春波门",
@@ -1988,7 +4456,17 @@
    "lat": 30.76408,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.76408/120.75468"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "曹王庙",
@@ -1996,7 +4474,17 @@
    "lat": 30.75245,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.75245/120.74707"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "新塍财神庙",
@@ -2004,7 +4492,17 @@
    "lat": 30.79938,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.79938/120.59783"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "文生修道院",
@@ -2012,7 +4510,17 @@
    "lat": 30.77913,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.77913/120.75354"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiaxing.gov.cn/"
+    }
+   ]
   }
  ],
  "rings": [

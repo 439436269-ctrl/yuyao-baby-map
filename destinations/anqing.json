@@ -16,7 +16,17 @@
    "lat": 30.36672,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.36672/116.14907"
+    },
+    {
+     "n": "市官网",
+     "u": "https://anqing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "巨石山滑雪场",
@@ -24,7 +34,17 @@
    "lat": 30.69049,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.69049/117.08369"
+    },
+    {
+     "n": "市官网",
+     "u": "https://anqing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "大别山滑雪乐园",
@@ -32,7 +52,17 @@
    "lat": 30.98579,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.98579/116.40665"
+    },
+    {
+     "n": "市官网",
+     "u": "https://anqing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "乌龙溪景区",
@@ -40,7 +70,17 @@
    "lat": 30.61923,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.61923/117.06698"
+    },
+    {
+     "n": "市官网",
+     "u": "https://anqing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "六尺巷",
@@ -48,7 +88,17 @@
    "lat": 31.05107,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.05107/116.94365"
+    },
+    {
+     "n": "市官网",
+     "u": "https://anqing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "观云楼",
@@ -56,7 +106,17 @@
    "lat": 30.7302,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.7302/116.45617"
+    },
+    {
+     "n": "市官网",
+     "u": "https://anqing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "皖公神像",
@@ -64,7 +124,17 @@
    "lat": 30.74262,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.74262/116.45325"
+    },
+    {
+     "n": "市官网",
+     "u": "https://anqing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "独秀园",
@@ -72,7 +142,17 @@
    "lat": 30.57391,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.57391/116.99592"
+    },
+    {
+     "n": "市官网",
+     "u": "https://anqing.gov.cn/"
+    }
+   ]
   }
  ],
  "rings": [

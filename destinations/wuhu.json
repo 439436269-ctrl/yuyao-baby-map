@@ -16,7 +16,17 @@
    "lat": 31.3706,
    "tag": "景点",
    "drive": "约 30 分钟",
-   "note": "[坐标OSM·正名] 方特系列四园集群"
+   "note": "[坐标OSM·正名] 方特系列四园集群",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.3706/118.4184"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.wuhu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "松鼠小镇",
@@ -24,7 +34,17 @@
    "lat": 31.2772,
    "tag": "亲子",
    "drive": "约 25 分钟",
-   "note": "[市政府网正文+坐标OSM] 亲子主题街区，官网点名景区"
+   "note": "[市政府网正文+坐标OSM] 亲子主题街区，官网点名景区",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.2772/118.3427"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.wuhu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "赭山公园",
@@ -32,7 +52,17 @@
    "lat": 31.347,
    "tag": "景点",
    "drive": "约 20 分钟",
-   "note": "[坐标OSM] 市区山景公园，登高俯城"
+   "note": "[坐标OSM] 市区山景公园，登高俯城",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.347/118.3673"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.wuhu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "镜湖公园",
@@ -40,7 +70,17 @@
    "lat": 31.3306,
    "tag": "景点",
    "drive": "约 20 分钟",
-   "note": "[坐标OSM] 城中湖公园，环湖推车"
+   "note": "[坐标OSM] 城中湖公园，环湖推车",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.3306/118.3677"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.wuhu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "天门山公园",
@@ -50,7 +90,21 @@
    "drive": "约 40 分钟",
    "note": "[坐标OSM] 城北江边山林",
    "rating": "5A",
-   "ratingSrc": "国家5A名录(2025.3·358家)"
+   "ratingSrc": "国家5A名录(2025.3·358家)",
+   "sources": [
+    {
+     "n": "5A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B65A%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.4712/118.2755"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.wuhu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "芜湖古城",
@@ -58,7 +112,21 @@
    "lat": 31.3226,
    "tag": "景点",
    "drive": "约 20 分钟",
-   "note": "[坐标photon] 镜湖区老城街区，逛吃结合"
+   "note": "[坐标photon] 镜湖区老城街区，逛吃结合",
+   "sources": [
+    {
+     "n": "坐标定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.3226/118.3774"
+    },
+    {
+     "n": "Photon·查询",
+     "u": "https://photon.komoot.io/?q=%E8%8A%9C%E6%B9%96%E5%8F%A4%E5%9F%8E"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.wuhu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "马仁奇峰",
@@ -66,7 +134,21 @@
    "lat": 30.983,
    "tag": "景点",
    "drive": "约 1 小时",
-   "note": "[坐标photon·繁昌] 芜湖丹霞地貌 · via photon"
+   "note": "[坐标photon·繁昌] 芜湖丹霞地貌 · via photon",
+   "sources": [
+    {
+     "n": "坐标定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.983/118.1557"
+    },
+    {
+     "n": "Photon·查询",
+     "u": "https://photon.komoot.io/?q=%E9%A9%AC%E4%BB%81%E5%A5%87%E5%B3%B0"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.wuhu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "鸠兹古镇",
@@ -74,7 +156,21 @@
    "lat": 31.374318,
    "tag": "景点",
    "drive": "约 2 小时",
-   "note": "[高德校准·GCJ→WGS] 鸠兹演艺小镇（高德现名：芜湖鸠兹度假区/鸠兹演艺小镇，同一项目）"
+   "note": "[高德校准·GCJ→WGS] 鸠兹演艺小镇（高德现名：芜湖鸠兹度假区/鸠兹演艺小镇，同一项目）",
+   "sources": [
+    {
+     "n": "高德·按名搜索",
+     "u": "https://uri.amap.com/search?keyword=%E9%B8%A0%E5%85%B9%E5%8F%A4%E9%95%87"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.374318/118.441406"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.wuhu.gov.cn/"
+    }
+   ]
   }
  ],
  "rings": [

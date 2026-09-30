@@ -18,7 +18,21 @@
    "drive": "",
    "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
    "rating": "4A",
-   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)"
+   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)",
+   "sources": [
+    {
+     "n": "4A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6AAAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/33.71976/105.75663"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.longnan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "李加万大银杏王",
@@ -26,7 +40,17 @@
    "lat": 33.2257,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/33.2257/104.9171"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.longnan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "两当兵变遗址",
@@ -34,7 +58,17 @@
    "lat": 33.90868,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/33.90868/106.3014"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.longnan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "山湾梦谷",
@@ -42,7 +76,17 @@
    "lat": 33.77119,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/33.77119/104.54731"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.longnan.gov.cn/"
+    }
+   ]
   }
  ],
  "rings": [

@@ -16,7 +16,17 @@
    "lat": 34.94129,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.94129/104.70163"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.dingxi.gov.cn/"
+    }
+   ]
   },
   {
    "n": "石门槛",
@@ -24,7 +34,17 @@
    "lat": 35.49632,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/35.49632/104.3386"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.dingxi.gov.cn/"
+    }
+   ]
   },
   {
    "n": "平西古城遗址",
@@ -32,7 +52,17 @@
    "lat": 35.84753,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/35.84753/104.58061"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.dingxi.gov.cn/"
+    }
+   ]
   },
   {
    "n": "渭水长虹霸陵桥",
@@ -40,7 +70,17 @@
    "lat": 35.13482,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/35.13482/104.21464"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.dingxi.gov.cn/"
+    }
+   ]
   },
   {
    "n": "温泉生态园",
@@ -48,7 +88,17 @@
    "lat": 35.20116,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/35.20116/105.16571"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.dingxi.gov.cn/"
+    }
+   ]
   },
   {
    "n": "三易花卉园",
@@ -56,7 +106,17 @@
    "lat": 35.55122,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/35.55122/103.83873"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.dingxi.gov.cn/"
+    }
+   ]
   },
   {
    "n": "渭河源大景区",
@@ -64,7 +124,17 @@
    "lat": 35.00392,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/35.00392/104.0886"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.dingxi.gov.cn/"
+    }
+   ]
   },
   {
    "n": "点将台",
@@ -72,7 +142,17 @@
    "lat": 35.59652,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/35.59652/104.61068"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.dingxi.gov.cn/"
+    }
+   ]
   }
  ],
  "rings": [

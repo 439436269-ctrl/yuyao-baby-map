@@ -18,7 +18,21 @@
    "drive": "",
    "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
    "rating": "4A",
-   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)"
+   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)",
+   "sources": [
+    {
+     "n": "4A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6AAAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/35.03872/106.67166"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.baoji.gov.cn/"
+    }
+   ]
   },
   {
    "n": "秋菊山庄",
@@ -26,7 +40,17 @@
    "lat": 34.74159,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.74159/106.69183"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.baoji.gov.cn/"
+    }
+   ]
   },
   {
    "n": "周家大院",
@@ -34,7 +58,17 @@
    "lat": 34.52021,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.52021/107.39669"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.baoji.gov.cn/"
+    }
+   ]
   },
   {
    "n": "鳌头",
@@ -42,7 +76,17 @@
    "lat": 33.93194,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/33.93194/107.43109"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.baoji.gov.cn/"
+    }
+   ]
   },
   {
    "n": "嘉陵江源头景区(西北门)",
@@ -50,7 +94,17 @@
    "lat": 34.24713,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.24713/106.93636"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.baoji.gov.cn/"
+    }
+   ]
   },
   {
    "n": "通天河国家森林公园",
@@ -60,7 +114,21 @@
    "drive": "",
    "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
    "rating": "4A",
-   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)"
+   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)",
+   "sources": [
+    {
+     "n": "4A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6AAAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.20095/106.5954"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.baoji.gov.cn/"
+    }
+   ]
   },
   {
    "n": "石鼓阁",
@@ -68,7 +136,17 @@
    "lat": 34.34959,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.34959/107.18639"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.baoji.gov.cn/"
+    }
+   ]
   },
   {
    "n": "法门文化景区",
@@ -78,7 +156,21 @@
    "drive": "",
    "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
    "rating": "5A",
-   "ratingSrc": "国家5A名录(2025.3·358家)"
+   "ratingSrc": "国家5A名录(2025.3·358家)",
+   "sources": [
+    {
+     "n": "5A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B65A%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.42709/107.89886"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.baoji.gov.cn/"
+    }
+   ]
   },
   {
    "n": "横渠书院",
@@ -86,7 +178,17 @@
    "lat": 34.19766,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.19766/107.95876"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.baoji.gov.cn/"
+    }
+   ]
   },
   {
    "n": "古羌旅景区",
@@ -94,7 +196,17 @@
    "lat": 33.90061,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/33.90061/106.46704"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.baoji.gov.cn/"
+    }
+   ]
   },
   {
    "n": "古大散关遗址森林公园",
@@ -102,7 +214,17 @@
    "lat": 34.27216,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.27216/107.01192"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.baoji.gov.cn/"
+    }
+   ]
   },
   {
    "n": "雍州古镇",
@@ -110,7 +232,17 @@
    "lat": 34.5404,
    "tag": "古镇",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.5404/107.24566"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.baoji.gov.cn/"
+    }
+   ]
   },
   {
    "n": "六营民俗村",
@@ -118,7 +250,17 @@
    "lat": 34.50001,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.50001/107.43099"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.baoji.gov.cn/"
+    }
+   ]
   }
  ],
  "rings": [

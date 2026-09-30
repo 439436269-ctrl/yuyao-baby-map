@@ -18,7 +18,21 @@
    "drive": "",
    "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
    "rating": "4A",
-   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)"
+   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)",
+   "sources": [
+    {
+     "n": "4A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6AAAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.02632/106.64848"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.baise.gov.cn/"
+    }
+   ]
   },
   {
    "n": "古龙山大峡谷",
@@ -26,7 +40,17 @@
    "lat": 23.01019,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.01019/106.66098"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.baise.gov.cn/"
+    }
+   ]
   },
   {
    "n": "罗妹莲花洞",
@@ -34,7 +58,17 @@
    "lat": 24.77488,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/24.77488/106.54825"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.baise.gov.cn/"
+    }
+   ]
   },
   {
    "n": "鹅泉碑",
@@ -42,7 +76,17 @@
    "lat": 23.10238,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.10238/106.38546"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.baise.gov.cn/"
+    }
+   ]
   },
   {
    "n": "龙神庙",
@@ -50,7 +94,17 @@
    "lat": 23.10231,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.10231/106.38538"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.baise.gov.cn/"
+    }
+   ]
   },
   {
    "n": "东孟天坑群",
@@ -58,7 +112,17 @@
    "lat": 23.35262,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.35262/107.32006"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.baise.gov.cn/"
+    }
+   ]
   },
   {
    "n": "楞响坑",
@@ -66,7 +130,17 @@
    "lat": 23.34857,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.34857/107.32393"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.baise.gov.cn/"
+    }
+   ]
   },
   {
    "n": "楞凡坑",
@@ -74,7 +148,17 @@
    "lat": 23.34922,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.34922/107.32213"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.baise.gov.cn/"
+    }
+   ]
   },
   {
    "n": "楞拱坑",
@@ -82,7 +166,17 @@
    "lat": 23.35155,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.35155/107.32137"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.baise.gov.cn/"
+    }
+   ]
   },
   {
    "n": "楞札坑",
@@ -90,7 +184,17 @@
    "lat": 23.35311,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.35311/107.3191"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.baise.gov.cn/"
+    }
+   ]
   },
   {
    "n": "楞谷坑",
@@ -98,7 +202,17 @@
    "lat": 23.3535,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.3535/107.32109"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.baise.gov.cn/"
+    }
+   ]
   },
   {
    "n": "楞苗坑",
@@ -106,7 +220,17 @@
    "lat": 23.35469,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.35469/107.31941"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.baise.gov.cn/"
+    }
+   ]
   },
   {
    "n": "楞日坑",
@@ -114,7 +238,17 @@
    "lat": 23.35677,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.35677/107.32041"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.baise.gov.cn/"
+    }
+   ]
   },
   {
    "n": "田州古城",
@@ -122,7 +256,17 @@
    "lat": 23.74501,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.74501/106.91578"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.baise.gov.cn/"
+    }
+   ]
   },
   {
    "n": "百色起义烈士纪念碑",
@@ -132,7 +276,21 @@
    "drive": "",
    "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
    "rating": "4A",
-   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)"
+   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)",
+   "sources": [
+    {
+     "n": "4A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6AAAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.90812/106.62627"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.baise.gov.cn/"
+    }
+   ]
   },
   {
    "n": "瀑布",
@@ -140,7 +298,17 @@
    "lat": 23.88291,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.88291/106.60976"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.baise.gov.cn/"
+    }
+   ]
   },
   {
    "n": "冰雪世界",
@@ -148,7 +316,17 @@
    "lat": 23.78714,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.78714/106.73248"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.baise.gov.cn/"
+    }
+   ]
   },
   {
    "n": "大石围天坑游客中心",
@@ -156,7 +334,17 @@
    "lat": 24.82702,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/24.82702/106.48685"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.baise.gov.cn/"
+    }
+   ]
   },
   {
    "n": "云海天舟",
@@ -164,7 +352,17 @@
    "lat": 24.80933,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/24.80933/106.44124"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.baise.gov.cn/"
+    }
+   ]
   },
   {
    "n": "大石围天坑",
@@ -174,7 +372,21 @@
    "drive": "",
    "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
    "rating": "4A",
-   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)"
+   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)",
+   "sources": [
+    {
+     "n": "4A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6AAAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/24.80819/106.44422"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.baise.gov.cn/"
+    }
+   ]
   },
   {
    "n": "红叶森林公园",
@@ -182,7 +394,17 @@
    "lat": 23.37734,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.37734/106.65057"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.baise.gov.cn/"
+    }
+   ]
   },
   {
    "n": "穿洞天坑",
@@ -190,7 +412,17 @@
    "lat": 24.80826,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/24.80826/106.48827"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.baise.gov.cn/"
+    }
+   ]
   },
   {
    "n": "罗家天坑",
@@ -198,7 +430,17 @@
    "lat": 24.80781,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/24.80781/106.45201"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.baise.gov.cn/"
+    }
+   ]
   },
   {
    "n": "流星天坑",
@@ -206,7 +448,17 @@
    "lat": 24.81273,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/24.81273/106.4793"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.baise.gov.cn/"
+    }
+   ]
   },
   {
    "n": "神木天坑",
@@ -214,7 +466,17 @@
    "lat": 24.81055,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/24.81055/106.46911"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.baise.gov.cn/"
+    }
+   ]
   },
   {
    "n": "白洞天坑",
@@ -222,7 +484,17 @@
    "lat": 24.80782,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/24.80782/106.47181"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.baise.gov.cn/"
+    }
+   ]
   },
   {
    "n": "靖西市五岭森林公园",
@@ -230,7 +502,17 @@
    "lat": 23.07123,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.07123/106.45639"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.baise.gov.cn/"
+    }
+   ]
   },
   {
    "n": "田东县龙须河自治区级森林公园",
@@ -238,7 +520,17 @@
    "lat": 23.5515,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.5515/107.12524"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.baise.gov.cn/"
+    }
+   ]
   },
   {
    "n": "大王岭自治区级森林公园",
@@ -246,7 +538,17 @@
    "lat": 23.70259,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.70259/106.3892"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.baise.gov.cn/"
+    }
+   ]
   },
   {
    "n": "广西凌云浩坤湖国家湿地公园",
@@ -254,7 +556,17 @@
    "lat": 24.22071,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/24.22071/106.68985"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.baise.gov.cn/"
+    }
+   ]
   },
   {
    "n": "广西百色福禄河国家湿地公园",
@@ -262,7 +574,17 @@
    "lat": 23.78429,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.78429/106.59821"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.baise.gov.cn/"
+    }
+   ]
   },
   {
    "n": "广西靖西龙潭国家湿地公园",
@@ -270,7 +592,17 @@
    "lat": 23.15534,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.15534/106.42426"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.baise.gov.cn/"
+    }
+   ]
   },
   {
    "n": "那坡县枕状玄武岩自治区级地质公园",
@@ -278,7 +610,17 @@
    "lat": 23.35479,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.35479/105.86391"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.baise.gov.cn/"
+    }
+   ]
   },
   {
    "n": "广西金钟山黑颈长尾雉国家级自然保护区",
@@ -286,7 +628,17 @@
    "lat": 24.6322,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/24.6322/104.88532"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.baise.gov.cn/"
+    }
+   ]
   },
   {
    "n": "广西岑王老山国家级自然保护区",
@@ -294,7 +646,17 @@
    "lat": 24.44928,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/24.44928/106.35541"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.baise.gov.cn/"
+    }
+   ]
   }
  ],
  "rings": [

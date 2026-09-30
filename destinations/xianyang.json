@@ -16,7 +16,17 @@
    "lat": 34.57548,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.57548/108.21387"
+    },
+    {
+     "n": "市官网",
+     "u": "https://xianyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "汉惠帝安陵",
@@ -24,7 +34,17 @@
    "lat": 34.42305,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.42305/108.84139"
+    },
+    {
+     "n": "市官网",
+     "u": "https://xianyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "西汉赵王如意陵",
@@ -32,7 +52,17 @@
    "lat": 34.4279,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.4279/108.85137"
+    },
+    {
+     "n": "市官网",
+     "u": "https://xianyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "汉吕后陵",
@@ -40,7 +70,17 @@
    "lat": 34.43383,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.43383/108.88132"
+    },
+    {
+     "n": "市官网",
+     "u": "https://xianyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "汉成帝延陵",
@@ -48,7 +88,17 @@
    "lat": 34.37488,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.37488/108.698"
+    },
+    {
+     "n": "市官网",
+     "u": "https://xianyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "鲁元公主墓",
@@ -56,7 +106,17 @@
    "lat": 34.42824,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.42824/108.85284"
+    },
+    {
+     "n": "市官网",
+     "u": "https://xianyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "平陵",
@@ -64,7 +124,17 @@
    "lat": 34.36182,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.36182/108.64036"
+    },
+    {
+     "n": "市官网",
+     "u": "https://xianyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "汉惠帝皇后张嫣陵",
@@ -72,7 +142,17 @@
    "lat": 34.42311,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.42311/108.83708"
+    },
+    {
+     "n": "市官网",
+     "u": "https://xianyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "汉高祖长陵",
@@ -80,7 +160,17 @@
    "lat": 34.43476,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.43476/108.87663"
+    },
+    {
+     "n": "市官网",
+     "u": "https://xianyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "汉景帝阳陵南阙门遗址",
@@ -88,7 +178,17 @@
    "lat": 34.44387,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.44387/108.94076"
+    },
+    {
+     "n": "市官网",
+     "u": "https://xianyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "王皇后陵墓",
@@ -96,7 +196,17 @@
    "lat": 34.44639,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.44639/108.94739"
+    },
+    {
+     "n": "市官网",
+     "u": "https://xianyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "孝昭皇后陵",
@@ -104,7 +214,17 @@
    "lat": 34.36322,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.36322/108.63082"
+    },
+    {
+     "n": "市官网",
+     "u": "https://xianyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "卫青墓",
@@ -112,7 +232,17 @@
    "lat": 34.34162,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.34162/108.58015"
+    },
+    {
+     "n": "市官网",
+     "u": "https://xianyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "周武王陵",
@@ -120,7 +250,17 @@
    "lat": 34.41124,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.41124/108.72524"
+    },
+    {
+     "n": "市官网",
+     "u": "https://xianyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "姜子牙墓",
@@ -128,7 +268,17 @@
    "lat": 34.41031,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.41031/108.73099"
+    },
+    {
+     "n": "市官网",
+     "u": "https://xianyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "李夫人墓",
@@ -136,7 +286,17 @@
    "lat": 34.34029,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.34029/108.56199"
+    },
+    {
+     "n": "市官网",
+     "u": "https://xianyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "周文王陵",
@@ -144,7 +304,17 @@
    "lat": 34.40931,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.40931/108.72566"
+    },
+    {
+     "n": "市官网",
+     "u": "https://xianyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "咸阳钟楼",
@@ -152,7 +322,17 @@
    "lat": 34.33525,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.33525/108.71388"
+    },
+    {
+     "n": "市官网",
+     "u": "https://xianyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "汉武帝茂陵",
@@ -160,7 +340,17 @@
    "lat": 34.33794,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.33794/108.56931"
+    },
+    {
+     "n": "市官网",
+     "u": "https://xianyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "昭陵",
@@ -168,7 +358,17 @@
    "lat": 34.63335,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.63335/108.48374"
+    },
+    {
+     "n": "市官网",
+     "u": "https://xianyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "泾阳崇文塔",
@@ -176,7 +376,17 @@
    "lat": 34.49671,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.49671/108.93762"
+    },
+    {
+     "n": "市官网",
+     "u": "https://xianyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "马嵬驿",
@@ -186,7 +396,21 @@
    "drive": "",
    "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
    "rating": "4A",
-   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)"
+   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)",
+   "sources": [
+    {
+     "n": "4A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6AAAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.32407/108.37537"
+    },
+    {
+     "n": "市官网",
+     "u": "https://xianyang.gov.cn/"
+    }
+   ]
   }
  ],
  "rings": [

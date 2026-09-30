@@ -16,7 +16,17 @@
    "lat": 36.20021,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.20021/117.12449"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.taian.gov.cn/"
+    }
+   ]
   },
   {
    "n": "云步桥(台阶3733)",
@@ -24,7 +34,17 @@
    "lat": 36.24581,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.24581/117.10689"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.taian.gov.cn/"
+    }
+   ]
   },
   {
    "n": "经石峪",
@@ -32,7 +52,17 @@
    "lat": 36.22542,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.22542/117.11785"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.taian.gov.cn/"
+    }
+   ]
   },
   {
    "n": "西张庄镇",
@@ -40,7 +70,17 @@
    "lat": 35.93864,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/35.93864/117.6071"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.taian.gov.cn/"
+    }
+   ]
   },
   {
    "n": "戴村坝",
@@ -48,7 +88,17 @@
    "lat": 35.89158,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/35.89158/116.55139"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.taian.gov.cn/"
+    }
+   ]
   },
   {
    "n": "前口头古民居建筑群",
@@ -56,7 +106,17 @@
    "lat": 35.91965,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/35.91965/116.58972"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.taian.gov.cn/"
+    }
+   ]
   },
   {
    "n": "大宋不夜城",
@@ -64,7 +124,17 @@
    "lat": 35.94365,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/35.94365/116.30245"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.taian.gov.cn/"
+    }
+   ]
   },
   {
    "n": "千年古银杏树",
@@ -72,7 +142,17 @@
    "lat": 35.73964,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/35.73964/117.48542"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.taian.gov.cn/"
+    }
+   ]
   },
   {
    "n": "夜市",
@@ -80,7 +160,17 @@
    "lat": 36.193,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.193/117.11858"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.taian.gov.cn/"
+    }
+   ]
   },
   {
    "n": "蔷薇花墙",
@@ -88,7 +178,17 @@
    "lat": 36.19249,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.19249/117.11071"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.taian.gov.cn/"
+    }
+   ]
   },
   {
    "n": "地心历险",
@@ -96,7 +196,17 @@
    "lat": 36.03959,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.03959/117.11672"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.taian.gov.cn/"
+    }
+   ]
   },
   {
    "n": "共工的愤怒",
@@ -104,7 +214,17 @@
    "lat": 36.03769,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.03769/117.11763"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.taian.gov.cn/"
+    }
+   ]
   },
   {
    "n": "山洪暴发",
@@ -112,7 +232,17 @@
    "lat": 36.03692,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.03692/117.11936"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.taian.gov.cn/"
+    }
+   ]
   },
   {
    "n": "祝融的怒火",
@@ -120,7 +250,17 @@
    "lat": 36.03798,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.03798/117.11818"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.taian.gov.cn/"
+    }
+   ]
   },
   {
    "n": "部落大舞台",
@@ -128,7 +268,17 @@
    "lat": 36.03768,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.03768/117.11838"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.taian.gov.cn/"
+    }
+   ]
   },
   {
    "n": "儿童主题公园",
@@ -136,7 +286,17 @@
    "lat": 36.03699,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.03699/117.11732"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.taian.gov.cn/"
+    }
+   ]
   },
   {
    "n": "部落神庙",
@@ -144,7 +304,17 @@
    "lat": 36.03638,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.03638/117.11724"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.taian.gov.cn/"
+    }
+   ]
   },
   {
    "n": "旋转木马",
@@ -152,7 +322,17 @@
    "lat": 36.03706,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.03706/117.11801"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.taian.gov.cn/"
+    }
+   ]
   },
   {
    "n": "大汶口陶艺体验区",
@@ -160,7 +340,17 @@
    "lat": 36.03652,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.03652/117.11816"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.taian.gov.cn/"
+    }
+   ]
   },
   {
    "n": "民俗街",
@@ -168,7 +358,17 @@
    "lat": 36.03581,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.03581/117.11521"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.taian.gov.cn/"
+    }
+   ]
   },
   {
    "n": "远古大战",
@@ -176,7 +376,17 @@
    "lat": 36.03825,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.03825/117.12056"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.taian.gov.cn/"
+    }
+   ]
   },
   {
    "n": "对对碰",
@@ -184,7 +394,17 @@
    "lat": 36.03809,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.03809/117.12145"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.taian.gov.cn/"
+    }
+   ]
   },
   {
    "n": "百鸟园",
@@ -192,7 +412,17 @@
    "lat": 36.03857,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.03857/117.12142"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.taian.gov.cn/"
+    }
+   ]
   },
   {
    "n": "丛林历险",
@@ -200,7 +430,17 @@
    "lat": 36.03679,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.03679/117.12117"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.taian.gov.cn/"
+    }
+   ]
   },
   {
    "n": "洪荒惊魂",
@@ -208,7 +448,17 @@
    "lat": 36.0364,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.0364/117.12056"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.taian.gov.cn/"
+    }
+   ]
   },
   {
    "n": "女娲补天",
@@ -216,7 +466,17 @@
    "lat": 36.03555,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.03555/117.12092"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.taian.gov.cn/"
+    }
+   ]
   },
   {
    "n": "金乌古镇",
@@ -224,7 +484,17 @@
    "lat": 36.0398,
    "tag": "古镇",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.0398/117.11393"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.taian.gov.cn/"
+    }
+   ]
   },
   {
    "n": "图腾森林",
@@ -232,7 +502,17 @@
    "lat": 36.03759,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.03759/117.11416"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.taian.gov.cn/"
+    }
+   ]
   },
   {
    "n": "梦回大汶口",
@@ -240,7 +520,17 @@
    "lat": 36.03709,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.03709/117.11403"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.taian.gov.cn/"
+    }
+   ]
   },
   {
    "n": "转转杯",
@@ -248,7 +538,17 @@
    "lat": 36.03666,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.03666/117.11475"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.taian.gov.cn/"
+    }
+   ]
   },
   {
    "n": "青蛙跳",
@@ -256,7 +556,17 @@
    "lat": 36.03645,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.03645/117.11452"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.taian.gov.cn/"
+    }
+   ]
   },
   {
    "n": "天旋地转",
@@ -264,7 +574,17 @@
    "lat": 36.03622,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.03622/117.11303"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.taian.gov.cn/"
+    }
+   ]
   },
   {
    "n": "时空隧道",
@@ -272,7 +592,17 @@
    "lat": 36.03784,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.03784/117.11234"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.taian.gov.cn/"
+    }
+   ]
   },
   {
    "n": "泰国鳄鱼风情演出",
@@ -280,7 +610,17 @@
    "lat": 36.03821,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.03821/117.11584"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.taian.gov.cn/"
+    }
+   ]
   },
   {
    "n": "激战鳄鱼岛",
@@ -288,7 +628,17 @@
    "lat": 36.03913,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.03913/117.11594"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.taian.gov.cn/"
+    }
+   ]
   },
   {
    "n": "生命烈火",
@@ -296,7 +646,17 @@
    "lat": 36.04024,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.04024/117.11508"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.taian.gov.cn/"
+    }
+   ]
   },
   {
    "n": "部落幽灵",
@@ -304,7 +664,17 @@
    "lat": 36.03894,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.03894/117.11856"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.taian.gov.cn/"
+    }
+   ]
   },
   {
    "n": "大汶口古村",
@@ -312,7 +682,17 @@
    "lat": 36.03648,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.03648/117.11935"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.taian.gov.cn/"
+    }
+   ]
   },
   {
    "n": "动物欢乐王国",
@@ -320,7 +700,17 @@
    "lat": 36.03706,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.03706/117.12204"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.taian.gov.cn/"
+    }
+   ]
   },
   {
    "n": "新泰新甫山景区",
@@ -328,7 +718,17 @@
    "lat": 36.0269,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.0269/117.68365"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.taian.gov.cn/"
+    }
+   ]
   },
   {
    "n": "记忆巷",
@@ -336,7 +736,17 @@
    "lat": 35.86285,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/35.86285/117.30723"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.taian.gov.cn/"
+    }
+   ]
   },
   {
    "n": "唐明画园",
@@ -344,7 +754,17 @@
    "lat": 36.23612,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.23612/116.99106"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.taian.gov.cn/"
+    }
+   ]
   },
   {
    "n": "罗荣桓元帅故居",
@@ -352,7 +772,17 @@
    "lat": 35.90998,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/35.90998/116.50152"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.taian.gov.cn/"
+    }
+   ]
   },
   {
    "n": "东平湖大溶洞",
@@ -362,7 +792,21 @@
    "drive": "",
    "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
    "rating": "4A",
-   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)"
+   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)",
+   "sources": [
+    {
+     "n": "4A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6AAAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.05228/116.26282"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.taian.gov.cn/"
+    }
+   ]
   },
   {
    "n": "六工山大寨",
@@ -370,7 +814,17 @@
    "lat": 36.06757,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.06757/116.19324"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.taian.gov.cn/"
+    }
+   ]
   },
   {
    "n": "宝瓶石",
@@ -378,7 +832,17 @@
    "lat": 36.22563,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.22563/117.08596"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.taian.gov.cn/"
+    }
+   ]
   },
   {
    "n": "三剑石",
@@ -386,7 +850,17 @@
    "lat": 36.22591,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.22591/117.08625"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.taian.gov.cn/"
+    }
+   ]
   },
   {
    "n": "空中观景塔",
@@ -394,7 +868,17 @@
    "lat": 36.16858,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.16858/117.02088"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.taian.gov.cn/"
+    }
+   ]
   },
   {
    "n": "白马寺",
@@ -402,7 +886,17 @@
    "lat": 35.73975,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/35.73975/117.48627"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.taian.gov.cn/"
+    }
+   ]
   },
   {
    "n": "甘露滩古井",
@@ -410,7 +904,17 @@
    "lat": 35.83948,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/35.83948/117.32623"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.taian.gov.cn/"
+    }
+   ]
   },
   {
    "n": "新泰如意谷景区",
@@ -418,7 +922,17 @@
    "lat": 36.00242,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.00242/117.73142"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.taian.gov.cn/"
+    }
+   ]
   },
   {
    "n": "清泉寺",
@@ -426,7 +940,17 @@
    "lat": 35.98526,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/35.98526/116.44417"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.taian.gov.cn/"
+    }
+   ]
   }
  ],
  "rings": [

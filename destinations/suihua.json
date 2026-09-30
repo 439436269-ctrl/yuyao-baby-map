@@ -16,7 +16,21 @@
    "lat": 43.8224,
    "tag": "景点",
    "drive": "约 1 小时",
-   "note": "[KNOWN·坐标photon] 金龟山庄"
+   "note": "[KNOWN·坐标photon] 金龟山庄",
+   "sources": [
+    {
+     "n": "坐标定位",
+     "u": "https://www.openstreetmap.org/#map=14/43.8224/127.327"
+    },
+    {
+     "n": "Photon·查询",
+     "u": "https://photon.komoot.io/?q=%E9%87%91%E9%BE%9F%E5%B1%B1%E5%BA%84"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.suihua.gov.cn/"
+    }
+   ]
   }
  ],
  "rings": [

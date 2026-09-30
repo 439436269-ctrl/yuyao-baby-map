@@ -16,7 +16,17 @@
    "lat": 30.24261,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.24261/120.16626"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "植物园",
@@ -26,7 +36,21 @@
    "drive": "",
    "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
    "rating": "5A",
-   "ratingSrc": "国家5A名录(2025.3·358家)"
+   "ratingSrc": "国家5A名录(2025.3·358家)",
+   "sources": [
+    {
+     "n": "5A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B65A%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.25526/120.12321"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "十二生肖石",
@@ -34,7 +58,17 @@
    "lat": 30.23764,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.23764/120.16026"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "江湖汇观亭",
@@ -42,7 +76,17 @@
    "lat": 30.2352,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.2352/120.16155"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "西泠印社",
@@ -50,7 +94,17 @@
    "lat": 30.25279,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.25279/120.1355"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "灵隐寺",
@@ -58,7 +112,17 @@
    "lat": 30.2428,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.2428/120.0968"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "马可波罗像",
@@ -66,7 +130,17 @@
    "lat": 30.26108,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.26108/120.15291"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "西湖音乐喷泉",
@@ -74,7 +148,17 @@
    "lat": 30.25609,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.25609/120.15574"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "三潭印月",
@@ -82,7 +166,17 @@
    "lat": 30.23948,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.23948/120.13978"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "广济桥",
@@ -92,7 +186,21 @@
    "drive": "",
    "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
    "rating": "4A",
-   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)"
+   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)",
+   "sources": [
+    {
+     "n": "4A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6AAAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.48036/120.17879"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "仓前火车站",
@@ -100,7 +208,17 @@
    "lat": 30.29656,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.29656/119.98298"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "白龙潭景区",
@@ -108,7 +226,17 @@
    "lat": 30.19225,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.19225/120.0159"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "下白泷",
@@ -116,7 +244,17 @@
    "lat": 30.19676,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.19676/120.00814"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "新叶",
@@ -124,7 +262,17 @@
    "lat": 29.33267,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/29.33267/119.33015"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "Historic village",
@@ -132,7 +280,17 @@
    "lat": 29.52159,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/29.52159/118.6035"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "小火车乐园",
@@ -140,7 +298,17 @@
    "lat": 30.2157,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.2157/120.12869"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "海狮训练馆",
@@ -148,7 +316,17 @@
    "lat": 30.21636,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.21636/120.12857"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "猴房",
@@ -156,7 +334,17 @@
    "lat": 30.2149,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.2149/120.12832"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "大明山风景区",
@@ -164,7 +352,17 @@
    "lat": 30.06016,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.06016/118.98989"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "曲院",
@@ -172,7 +370,17 @@
    "lat": 30.2513,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.2513/120.12912"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "中山公园",
@@ -180,7 +388,17 @@
    "lat": 30.25363,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.25363/120.13591"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "长桥",
@@ -188,7 +406,17 @@
    "lat": 30.2358,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.2358/120.1503"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "郭庄",
@@ -196,7 +424,17 @@
    "lat": 30.2459,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.2459/120.12759"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "火烈鸟",
@@ -204,7 +442,17 @@
    "lat": 30.15097,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.15097/119.98039"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "猴子王国",
@@ -212,7 +460,17 @@
    "lat": 30.15211,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.15211/119.97789"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "猩猩馆",
@@ -220,7 +478,17 @@
    "lat": 30.15271,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.15271/119.97769"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "狐猴岛",
@@ -228,7 +496,17 @@
    "lat": 30.15324,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.15324/119.97769"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "熊猫殿",
@@ -236,7 +514,17 @@
    "lat": 30.15487,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.15487/119.9765"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "亚洲象",
@@ -244,7 +532,17 @@
    "lat": 30.15434,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.15434/119.97758"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "亚洲小爪水獭",
@@ -252,7 +550,17 @@
    "lat": 30.15434,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.15434/119.97967"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "长颈鹿",
@@ -260,7 +568,17 @@
    "lat": 30.15522,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.15522/119.97826"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "犀牛",
@@ -268,7 +586,17 @@
    "lat": 30.15447,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.15447/119.98009"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "斑马",
@@ -276,7 +604,17 @@
    "lat": 30.15631,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.15631/119.97891"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "角马",
@@ -284,7 +622,17 @@
    "lat": 30.1567,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.1567/119.97713"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "驼羊",
@@ -292,7 +640,17 @@
    "lat": 30.15738,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.15738/119.97673"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "鸵鸟",
@@ -300,7 +658,17 @@
    "lat": 30.15798,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.15798/119.97681"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "骆驼",
@@ -308,7 +676,17 @@
    "lat": 30.15848,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.15848/119.97756"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "白虎",
@@ -316,7 +694,17 @@
    "lat": 30.15897,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.15897/119.98015"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "野马",
@@ -324,7 +712,17 @@
    "lat": 30.15937,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.15937/119.98141"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "野驴",
@@ -332,7 +730,17 @@
    "lat": 30.15964,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.15964/119.98213"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "非洲狮",
@@ -340,7 +748,17 @@
    "lat": 30.16,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.16/119.98283"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "东北虎",
@@ -348,7 +766,17 @@
    "lat": 30.16025,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.16025/119.98442"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "大羚羊",
@@ -356,7 +784,17 @@
    "lat": 30.15943,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.15943/119.98502"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "棕熊",
@@ -364,7 +802,17 @@
    "lat": 30.15852,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.15852/119.98554"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "豺",
@@ -372,7 +820,17 @@
    "lat": 30.15737,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.15737/119.98484"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "狼",
@@ -380,7 +838,17 @@
    "lat": 30.15699,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.15699/119.98461"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "袋鼠",
@@ -388,7 +856,17 @@
    "lat": 30.15496,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.15496/119.98341"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "丛林火车乘车点",
@@ -396,7 +874,17 @@
    "lat": 30.15436,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.15436/119.98109"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "天鹅湖",
@@ -406,7 +894,21 @@
    "drive": "",
    "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
    "rating": "4A",
-   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)"
+   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)",
+   "sources": [
+    {
+     "n": "4A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6AAAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.15347/119.98032"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "大食蚁兽",
@@ -414,7 +916,17 @@
    "lat": 30.15225,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.15225/119.9828"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "小食蚁兽",
@@ -422,7 +934,17 @@
    "lat": 30.15204,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.15204/119.9827"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "特弗伦羊",
@@ -430,7 +952,17 @@
    "lat": 30.15195,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.15195/119.98246"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "小浣熊",
@@ -438,7 +970,17 @@
    "lat": 30.15159,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.15159/119.98225"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "红绿金刚鹦鹉",
@@ -446,7 +988,17 @@
    "lat": 30.15049,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.15049/119.98121"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "虎跑梦泉",
@@ -454,7 +1006,17 @@
    "lat": 30.21177,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.21177/120.13009"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "三台雲水",
@@ -462,7 +1024,17 @@
    "lat": 30.23345,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.23345/120.12653"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "吳山景區",
@@ -470,7 +1042,17 @@
    "lat": 30.235,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.235/120.15772"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "茅公埠",
@@ -478,7 +1060,17 @@
    "lat": 30.24086,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.24086/120.11978"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "北山街",
@@ -486,7 +1078,17 @@
    "lat": 30.25816,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.25816/120.13952"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "曲院风荷",
@@ -494,7 +1096,17 @@
    "lat": 30.25347,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.25347/120.13098"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "杨公堤",
@@ -502,7 +1114,17 @@
    "lat": 30.23739,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.23739/120.12637"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "凤山门遗址",
@@ -510,7 +1132,17 @@
    "lat": 30.22734,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.22734/120.16629"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "福井杭州友好公园",
@@ -518,7 +1150,17 @@
    "lat": 30.25184,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.25184/120.12838"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "竹素园",
@@ -526,7 +1168,17 @@
    "lat": 30.25397,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.25397/120.12907"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "南湖",
@@ -534,7 +1186,17 @@
    "lat": 30.22933,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.22933/120.13329"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "太子湾公园",
@@ -542,7 +1204,17 @@
    "lat": 30.22887,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.22887/120.13736"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "灵峰探梅",
@@ -550,7 +1222,17 @@
    "lat": 30.26006,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.26006/120.10858"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "仙桥洞",
@@ -558,7 +1240,17 @@
    "lat": 30.11735,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.11735/120.02941"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "秋雪庵",
@@ -566,7 +1258,17 @@
    "lat": 30.26814,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.26814/120.059"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "文澜阁",
@@ -574,7 +1276,17 @@
    "lat": 30.25311,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.25311/120.13821"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "集贤亭",
@@ -582,7 +1294,17 @@
    "lat": 30.25314,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.25314/120.15699"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "涌金桥",
@@ -590,7 +1312,17 @@
    "lat": 30.24828,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.24828/120.15458"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "报先梵音",
@@ -598,7 +1330,17 @@
    "lat": 30.2676,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.2676/120.10532"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "龙川湾景区",
@@ -606,7 +1348,17 @@
    "lat": 29.44744,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/29.44744/118.67128"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "天目大峡谷门口",
@@ -614,7 +1366,17 @@
    "lat": 30.3677,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.3677/119.47151"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "东天目山西门口",
@@ -622,7 +1384,17 @@
    "lat": 30.34177,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.34177/119.49986"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "石林景区",
@@ -630,7 +1402,17 @@
    "lat": 29.38016,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/29.38016/119.00513"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "杭州宋城旅游区",
@@ -638,7 +1420,17 @@
    "lat": 30.1705,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.1705/120.09027"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "半道春红",
@@ -646,7 +1438,17 @@
    "lat": 30.2896,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.2896/120.15089"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "宝石山造像",
@@ -654,7 +1456,17 @@
    "lat": 30.26262,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.26262/120.1447"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "保大参号旧址",
@@ -662,7 +1474,17 @@
    "lat": 30.24167,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.24167/120.16493"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "红灯笼-外婆家",
@@ -670,7 +1492,17 @@
    "lat": 29.91919,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/29.91919/119.51503"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "刘庄",
@@ -678,7 +1510,17 @@
    "lat": 30.23919,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.23919/120.13212"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "滨江互联网小镇",
@@ -686,7 +1528,17 @@
    "lat": 30.19767,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.19767/120.20274"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "塘栖八字桥",
@@ -694,7 +1546,17 @@
    "lat": 30.47975,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.47975/120.18565"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "上白泷",
@@ -702,7 +1564,17 @@
    "lat": 30.19229,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.19229/119.99729"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "中白泷",
@@ -710,7 +1582,17 @@
    "lat": 30.19559,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.19559/120.00087"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "此时艺术空间",
@@ -718,7 +1600,17 @@
    "lat": 30.24132,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.24132/120.16533"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "宝成寺",
@@ -726,7 +1618,17 @@
    "lat": 30.23637,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.23637/120.16262"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "金陵天路(入口)",
@@ -734,7 +1636,17 @@
    "lat": 29.94,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/29.94/118.94415"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "严州古镇",
@@ -742,7 +1654,17 @@
    "lat": 29.5404,
    "tag": "古镇",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/29.5404/119.49758"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "孤山公园-鲁迅铜像",
@@ -750,7 +1672,17 @@
    "lat": 30.25525,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.25525/120.13931"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "江南龙门湾",
@@ -758,7 +1690,17 @@
    "lat": 29.69589,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/29.69589/119.65984"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "石爆头瀑布",
@@ -766,7 +1708,17 @@
    "lat": 30.03973,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.03973/119.06016"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "东风内燃机车",
@@ -774,7 +1726,17 @@
    "lat": 30.30058,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.30058/119.97869"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "龙兴寺经幢",
@@ -782,7 +1744,17 @@
    "lat": 30.26658,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.26658/120.15858"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "黄望公隐居地",
@@ -790,7 +1762,17 @@
    "lat": 30.09048,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.09048/120.00687"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "钱王祠",
@@ -798,7 +1780,17 @@
    "lat": 30.24517,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.24517/120.15329"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "水下生态观光长廊",
@@ -806,7 +1798,17 @@
    "lat": 30.27327,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.27327/120.07209"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "午潮山别墅废墟",
@@ -814,7 +1816,17 @@
    "lat": 30.19214,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.19214/120.00244"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "钢之运河广场",
@@ -822,7 +1834,17 @@
    "lat": 30.35835,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.35835/120.1606"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "遗迹花园",
@@ -830,7 +1852,17 @@
    "lat": 30.35863,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.35863/120.16172"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "杭钢动力草坪",
@@ -838,7 +1870,17 @@
    "lat": 30.35919,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.35919/120.16499"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "一尺花园",
@@ -846,7 +1888,17 @@
    "lat": 30.35991,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.35991/120.16554"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "再生花园",
@@ -854,7 +1906,17 @@
    "lat": 30.359,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.359/120.16739"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "龙吟狮吼",
@@ -862,7 +1924,17 @@
    "lat": 30.19774,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.19774/120.0135"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "桃花湖",
@@ -870,7 +1942,17 @@
    "lat": 30.35425,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.35425/120.2142"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "经纬线整交点",
@@ -878,7 +1960,17 @@
    "lat": 30.00009,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.00009/120.00082"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "九溪烟树",
@@ -886,7 +1978,17 @@
    "lat": 30.20462,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.20462/120.10854"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "运庐",
@@ -894,7 +1996,17 @@
    "lat": 30.31572,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.31572/120.13324"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "光华复旦",
@@ -902,7 +2014,17 @@
    "lat": 30.25242,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.25242/120.13771"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "严子陵钓台",
@@ -910,7 +2032,17 @@
    "lat": 29.70156,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/29.70156/119.65453"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "普渡慈航",
@@ -918,7 +2050,17 @@
    "lat": 30.2793,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.2793/120.04084"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "钱塘第一井",
@@ -926,7 +2068,17 @@
    "lat": 30.24127,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.24127/120.16567"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "湖天一碧",
@@ -934,7 +2086,17 @@
    "lat": 30.25307,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.25307/120.13993"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "梅鹤轩",
@@ -942,7 +2104,17 @@
    "lat": 30.25394,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.25394/120.14081"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "月波亭",
@@ -950,7 +2122,17 @@
    "lat": 30.25435,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.25435/120.14137"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "御碑亭",
@@ -958,7 +2140,17 @@
    "lat": 30.25443,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.25443/120.14147"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "乌龙涧铁轨景观",
@@ -966,7 +2158,17 @@
    "lat": 30.29526,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.29526/119.94867"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "于谦墓",
@@ -974,7 +2176,17 @@
    "lat": 30.23194,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.23194/120.12648"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "比翼双飞滑索",
@@ -982,7 +2194,17 @@
    "lat": 29.6165,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/29.6165/118.99839"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "河坊街",
@@ -990,7 +2212,17 @@
    "lat": 30.24248,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.24248/120.16479"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "城隍阁",
@@ -998,7 +2230,17 @@
    "lat": 30.23889,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.23889/120.15993"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "良渚国家考古遗址公园",
@@ -1006,7 +2248,17 @@
    "lat": 30.37957,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.37957/120.02385"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "岳王庙",
@@ -1014,7 +2266,17 @@
    "lat": 30.25474,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.25474/120.12977"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "仪门",
@@ -1022,7 +2284,17 @@
    "lat": 30.23801,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.23801/120.16002"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "鼓楼",
@@ -1030,7 +2302,17 @@
    "lat": 30.24034,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.24034/120.16679"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "桥西历史保护街区",
@@ -1038,7 +2320,17 @@
    "lat": 30.31988,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.31988/120.13315"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "森巴精灵部落",
@@ -1046,7 +2338,17 @@
    "lat": 30.15236,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.15236/119.98316"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "胡雪岩故居",
@@ -1054,7 +2356,17 @@
    "lat": 30.23959,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.23959/120.16828"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "杭州市方志馆",
@@ -1062,7 +2374,17 @@
    "lat": 30.24041,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.24041/120.16828"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "万松书院",
@@ -1070,7 +2392,17 @@
    "lat": 30.22903,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.22903/120.15599"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "龙湖天街步行街",
@@ -1078,7 +2410,17 @@
    "lat": 30.31295,
    "tag": "古镇",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.31295/120.3226"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "紫薇园城市原点",
@@ -1086,7 +2428,17 @@
    "lat": 30.2459,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.2459/120.16029"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "司徒雷登故居",
@@ -1094,7 +2446,17 @@
    "lat": 30.2714,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.2714/120.16165"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "闲林老街",
@@ -1102,7 +2464,17 @@
    "lat": 30.22596,
    "tag": "古镇",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.22596/119.98197"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "沙孟海旧居",
@@ -1110,7 +2482,17 @@
    "lat": 30.26402,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.26402/120.15385"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "Tianducheng Arch",
@@ -1118,7 +2500,17 @@
    "lat": 30.37672,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.37672/120.2459"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "闸口白塔",
@@ -1126,7 +2518,17 @@
    "lat": 30.2028,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.2028/120.14038"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "龙门牌坊",
@@ -1134,7 +2536,17 @@
    "lat": 29.90475,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/29.90475/119.94563"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hangzhou.gov.cn/"
+    }
+   ]
   }
  ],
  "rings": [

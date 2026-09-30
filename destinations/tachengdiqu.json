@@ -16,7 +16,17 @@
    "lat": 46.6822,
    "tag": "景点",
    "drive": "约 1 小时",
-   "note": "[KNOWN·坐标photon] 巴克图口岸"
+   "note": "[KNOWN·坐标photon] 巴克图口岸",
+   "sources": [
+    {
+     "n": "坐标定位",
+     "u": "https://www.openstreetmap.org/#map=14/46.6822/82.7932"
+    },
+    {
+     "n": "Photon·查询",
+     "u": "https://photon.komoot.io/?q=%E5%B7%B4%E5%85%8B%E5%9B%BE%E5%8F%A3%E5%B2%B8"
+    }
+   ]
   }
  ],
  "rings": [

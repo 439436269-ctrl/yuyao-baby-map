@@ -16,7 +16,17 @@
    "lat": 28.0181,
    "tag": "景点",
    "drive": "约 1 小时",
-   "note": "[KNOWN·坐标photon] 丙中洛"
+   "note": "[KNOWN·坐标photon] 丙中洛",
+   "sources": [
+    {
+     "n": "坐标定位",
+     "u": "https://www.openstreetmap.org/#map=14/28.0181/98.6215"
+    },
+    {
+     "n": "Photon·查询",
+     "u": "https://photon.komoot.io/?q=%E4%B8%99%E4%B8%AD%E6%B4%9B"
+    }
+   ]
   }
  ],
  "rings": [

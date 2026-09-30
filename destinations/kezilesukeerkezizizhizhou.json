@@ -16,7 +16,17 @@
    "lat": 38.2761,
    "tag": "景点",
    "drive": "约 1 小时",
-   "note": "[KNOWN·坐标photon] 慕士塔格峰"
+   "note": "[KNOWN·坐标photon] 慕士塔格峰",
+   "sources": [
+    {
+     "n": "坐标定位",
+     "u": "https://www.openstreetmap.org/#map=14/38.2761/75.1159"
+    },
+    {
+     "n": "Photon·查询",
+     "u": "https://photon.komoot.io/?q=%E6%85%95%E5%A3%AB%E5%A1%94%E6%A0%BC%E5%B3%B0"
+    }
+   ]
   }
  ],
  "rings": [

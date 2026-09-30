@@ -16,7 +16,17 @@
    "lat": 23.26796,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.26796/116.4975"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.shantou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "礐石风景名胜区(塔山景区)",
@@ -26,7 +36,21 @@
    "drive": "",
    "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
    "rating": "4A",
-   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)"
+   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)",
+   "sources": [
+    {
+     "n": "4A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6AAAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.33462/116.67419"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.shantou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "妈屿岛",
@@ -34,7 +58,17 @@
    "lat": 23.33807,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.33807/116.74801"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.shantou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "礐石风景名胜区(焰峰景区)",
@@ -44,7 +78,21 @@
    "drive": "",
    "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
    "rating": "4A",
-   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)"
+   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)",
+   "sources": [
+    {
+     "n": "4A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6AAAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.33442/116.68154"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.shantou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "北回归线标志塔",
@@ -52,7 +100,17 @@
    "lat": 23.44395,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.44395/117.13218"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.shantou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "华古岩",
@@ -60,7 +118,17 @@
    "lat": 23.13601,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.13601/116.50956"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.shantou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "冠山古庙",
@@ -68,7 +136,17 @@
    "lat": 23.48551,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.48551/116.72424"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.shantou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "冠山天后宫",
@@ -76,7 +154,17 @@
    "lat": 23.48528,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.48528/116.72476"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.shantou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "凌云阁魁星爷",
@@ -84,7 +172,17 @@
    "lat": 23.48557,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.48557/116.72499"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.shantou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "文昌宫",
@@ -92,7 +190,17 @@
    "lat": 23.48566,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.48566/116.72533"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.shantou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "观音堂",
@@ -100,7 +208,17 @@
    "lat": 23.48521,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.48521/116.72437"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.shantou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "石佛寺",
@@ -108,7 +226,17 @@
    "lat": 23.48571,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.48571/116.72419"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.shantou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "塔",
@@ -116,7 +244,17 @@
    "lat": 23.62544,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.62544/116.83522"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.shantou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "矿洞",
@@ -124,7 +262,17 @@
    "lat": 23.6273,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.6273/116.83631"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.shantou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "桥",
@@ -132,7 +280,17 @@
    "lat": 23.62622,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.62622/116.83526"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.shantou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "小庙",
@@ -140,7 +298,17 @@
    "lat": 23.6251,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.6251/116.83482"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.shantou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "文园小筑",
@@ -148,7 +316,17 @@
    "lat": 23.57238,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.57238/116.73787"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.shantou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "砖瓦窑遗址",
@@ -156,7 +334,17 @@
    "lat": 23.55427,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.55427/116.75918"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.shantou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "绿美前埔",
@@ -164,7 +352,17 @@
    "lat": 23.56592,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.56592/116.71747"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.shantou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "许士杰故居",
@@ -172,7 +370,17 @@
    "lat": 23.55595,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.55595/116.73112"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.shantou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "丽泽斋",
@@ -180,7 +388,17 @@
    "lat": 23.55626,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.55626/116.75619"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.shantou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "罗马柱廊",
@@ -188,7 +406,17 @@
    "lat": 23.35506,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.35506/116.67876"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.shantou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "音乐喷泉",
@@ -196,7 +424,17 @@
    "lat": 23.35451,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.35451/116.67881"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.shantou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "升旗台",
@@ -204,7 +442,17 @@
    "lat": 23.35424,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.35424/116.67883"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.shantou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "海螺雕塑",
@@ -212,7 +460,17 @@
    "lat": 23.35482,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.35482/116.67785"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.shantou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "海蚶雕塑",
@@ -220,7 +478,17 @@
    "lat": 23.35491,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.35491/116.67969"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.shantou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "I♥南澳",
@@ -228,7 +496,17 @@
    "lat": 23.4334,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.4334/116.94101"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.shantou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "仙城",
@@ -236,7 +514,17 @@
    "lat": 23.23677,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.23677/116.31568"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.shantou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "Viewing Tower",
@@ -244,7 +532,17 @@
    "lat": 23.41879,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.41879/116.63686"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.shantou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "灵山寺",
@@ -252,7 +550,17 @@
    "lat": 23.32424,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.32424/116.43691"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.shantou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "长春园（南湾时钟楼）",
@@ -260,7 +568,17 @@
    "lat": 23.4699,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.4699/116.80422"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.shantou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "南澳总兵府",
@@ -268,7 +586,17 @@
    "lat": 23.4545,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.4545/117.09707"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.shantou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "侯邦七落",
@@ -276,7 +604,17 @@
    "lat": 23.59695,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.59695/116.72176"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.shantou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "和美花海生态园",
@@ -284,7 +622,17 @@
    "lat": 23.56857,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.56857/116.75267"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.shantou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "JOJO自然牧场",
@@ -292,7 +640,17 @@
    "lat": 23.57714,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.57714/116.74824"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.shantou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "文光塔",
@@ -300,7 +658,17 @@
    "lat": 23.26232,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.26232/116.59802"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.shantou.gov.cn/"
+    }
+   ]
   }
  ],
  "rings": [

@@ -16,7 +16,17 @@
    "lat": 23.69849,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.69849/116.86774"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "青岚国家地质公园",
@@ -24,7 +34,17 @@
    "lat": 23.73434,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.73434/116.83635"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "邱氏广东大宗祠",
@@ -32,7 +52,17 @@
    "lat": 23.98702,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.98702/116.82849"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "望耕台",
@@ -40,7 +70,17 @@
    "lat": 23.98684,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.98684/116.8264"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "饶平武衙旧址",
@@ -48,7 +88,17 @@
    "lat": 23.9848,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.9848/116.82521"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "文明塔",
@@ -56,7 +106,17 @@
    "lat": 23.97814,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.97814/116.83776"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "陈复悦烈士墓园",
@@ -64,7 +124,17 @@
    "lat": 23.98935,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.98935/116.82595"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "东岳庙",
@@ -72,7 +142,17 @@
    "lat": 23.99443,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.99443/116.84411"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "大埕海滩",
@@ -80,7 +160,17 @@
    "lat": 23.59683,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.59683/117.14505"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "粤东一壁牌坊",
@@ -88,7 +178,17 @@
    "lat": 23.68508,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.68508/117.00583"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "雷音禅寺",
@@ -96,7 +196,17 @@
    "lat": 23.68916,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.68916/117.00704"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "饶平县电视塔",
@@ -104,7 +214,17 @@
    "lat": 23.6898,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.6898/117.01317"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "栖云健身乐园",
@@ -112,7 +232,17 @@
    "lat": 23.68984,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.68984/117.0101"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "大澳村史馆",
@@ -120,7 +250,17 @@
    "lat": 23.64704,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.64704/116.98591"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "大澳妈祖雕像",
@@ -128,7 +268,17 @@
    "lat": 23.64684,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.64684/116.98474"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "县太爷雕塑",
@@ -136,7 +286,17 @@
    "lat": 23.64723,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.64723/116.98435"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "碧洲观海长廊",
@@ -144,7 +304,17 @@
    "lat": 23.61737,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.61737/117.02434"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "瑞光书院",
@@ -152,7 +322,17 @@
    "lat": 23.66612,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.66612/117.00033"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "凤凰山观日出点",
@@ -160,7 +340,17 @@
    "lat": 23.95534,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.95534/116.64839"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "凤凰山天池",
@@ -168,7 +358,17 @@
    "lat": 23.95609,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.95609/116.64486"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "马山湖湿地",
@@ -176,7 +376,17 @@
    "lat": 23.76711,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.76711/116.81207"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "大埕上东湾浴场",
@@ -184,7 +394,17 @@
    "lat": 23.60365,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.60365/117.15428"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "海山野水度假村",
@@ -192,7 +412,17 @@
    "lat": 23.52189,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.52189/116.99042"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "海山海滩",
@@ -200,7 +430,17 @@
    "lat": 23.52191,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.52191/116.99269"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "状元坊",
@@ -208,7 +448,17 @@
    "lat": 23.66916,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.66916/116.64619"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "开元寺泰佛殿",
@@ -216,7 +466,17 @@
    "lat": 23.65665,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.65665/116.65882"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "广济门",
@@ -224,7 +484,17 @@
    "lat": 23.66569,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.66569/116.64784"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "牌坊",
@@ -232,7 +502,17 @@
    "lat": 23.65802,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.65802/117.08023"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "镇风塔",
@@ -240,7 +520,17 @@
    "lat": 23.58485,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.58485/117.0952"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "风吹岭古渡口遗址",
@@ -248,7 +538,17 @@
    "lat": 23.58669,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.58669/117.10036"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "风吹岭石刻群",
@@ -256,7 +556,17 @@
    "lat": 23.58648,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.58648/117.10003"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "“辟龙”海滩岩田",
@@ -264,7 +574,17 @@
    "lat": 23.5176,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.5176/116.95379"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "台省褒封坊",
@@ -272,7 +592,17 @@
    "lat": 23.66422,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.66422/116.64516"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "霞饶乡大祠堂",
@@ -280,7 +610,17 @@
    "lat": 23.66861,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.66861/117.01025"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "西湖南门",
@@ -288,7 +628,17 @@
    "lat": 23.67007,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.67007/116.63637"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "风喽",
@@ -296,7 +646,17 @@
    "lat": 23.67354,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.67354/116.63683"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "西湖東门",
@@ -304,7 +664,17 @@
    "lat": 23.67316,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.67316/116.63961"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "鳳凰塔",
@@ -312,7 +682,17 @@
    "lat": 23.65007,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.65007/116.65404"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "炮台",
@@ -320,7 +700,17 @@
    "lat": 23.68948,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.68948/117.01062"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "普陀岩",
@@ -328,7 +718,17 @@
    "lat": 23.59329,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.59329/117.10103"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "纳海楼",
@@ -336,7 +736,17 @@
    "lat": 23.6904,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.6904/117.01032"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "仙脚掌",
@@ -344,7 +754,17 @@
    "lat": 23.68919,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.68919/117.00803"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "漱玉泉",
@@ -352,7 +772,17 @@
    "lat": 23.68904,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.68904/117.00791"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "四进士坊",
@@ -360,7 +790,17 @@
    "lat": 23.67117,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.67117/116.64633"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "七俊坊",
@@ -368,7 +808,17 @@
    "lat": 23.66602,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.66602/116.64606"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "恩光洊锡坊",
@@ -376,7 +826,17 @@
    "lat": 23.66587,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.66587/116.64682"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "十相留聲坊",
@@ -384,7 +844,17 @@
    "lat": 23.65944,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.65944/116.64345"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "大理司平坊",
@@ -392,7 +862,17 @@
    "lat": 23.66007,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.66007/116.64377"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "玉署仙班坊",
@@ -400,7 +880,17 @@
    "lat": 23.66092,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.66092/116.64413"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "秋台坊",
@@ -408,7 +898,17 @@
    "lat": 23.66154,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.66154/116.64434"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "赐锦重光坊",
@@ -416,7 +916,17 @@
    "lat": 23.66213,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.66213/116.64453"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "吴楚重镇坊",
@@ -424,7 +934,17 @@
    "lat": 23.66251,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.66251/116.64465"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "大理少卿坊",
@@ -432,7 +952,17 @@
    "lat": 23.6634,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.6634/116.64492"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "两京科道坊",
@@ -440,7 +970,17 @@
    "lat": 23.66485,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.66485/116.64536"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "侍御坊",
@@ -448,7 +988,17 @@
    "lat": 23.66531,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.66531/116.64551"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "诰敕重封坊",
@@ -456,7 +1006,17 @@
    "lat": 23.66555,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.66555/116.64557"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "少司马坊",
@@ -464,7 +1024,17 @@
    "lat": 23.66576,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.66576/116.64562"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "盛世元凯坊",
@@ -472,7 +1042,17 @@
    "lat": 23.66646,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.66646/116.64577"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "宗伯学士坊",
@@ -480,7 +1060,17 @@
    "lat": 23.66711,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.66711/116.64589"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "三世尚书坊",
@@ -488,7 +1078,17 @@
    "lat": 23.66748,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.66748/116.64596"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "柱史坊",
@@ -496,7 +1096,17 @@
    "lat": 23.66759,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.66759/116.64598"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "理学儒宗坊",
@@ -504,7 +1114,17 @@
    "lat": 23.66817,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.66817/116.64607"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "圣朝使相坊",
@@ -512,7 +1132,17 @@
    "lat": 23.6689,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.6689/116.64615"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "文宗方伯坊",
@@ -520,7 +1150,17 @@
    "lat": 23.67023,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.67023/116.64627"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "麒麟壁",
@@ -528,7 +1168,17 @@
    "lat": 23.66693,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.66693/116.6439"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "太平桥遗址",
@@ -536,7 +1186,17 @@
    "lat": 23.67203,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.67203/116.64629"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "外江梨园公所",
@@ -544,7 +1204,17 @@
    "lat": 23.67174,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.67174/116.6468"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "百货大楼（潮商文化馆）",
@@ -552,7 +1222,17 @@
    "lat": 23.66638,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.66638/116.64555"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "饶宗颐学术馆",
@@ -560,7 +1240,17 @@
    "lat": 23.66486,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.66486/116.64725"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "龟叠石",
@@ -568,7 +1258,17 @@
    "lat": 23.69017,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.69017/117.00783"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "石壁山赋",
@@ -576,7 +1276,17 @@
    "lat": 23.68995,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.68995/117.01114"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "神仙驿站",
@@ -584,7 +1294,17 @@
    "lat": 23.72919,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.72919/116.74328"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "自助烧烤场",
@@ -592,7 +1312,17 @@
    "lat": 23.72914,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.72914/116.7438"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "樱花谷",
@@ -600,7 +1330,17 @@
    "lat": 23.73007,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.73007/116.7439"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "杨梅园",
@@ -608,7 +1348,17 @@
    "lat": 23.73084,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.73084/116.74394"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "1314通道",
@@ -616,7 +1366,17 @@
    "lat": 23.72871,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.72871/116.74423"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "芙蓉小榭",
@@ -624,7 +1384,17 @@
    "lat": 23.72846,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.72846/116.74213"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "朝圣路",
@@ -632,7 +1402,17 @@
    "lat": 23.72828,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.72828/116.74154"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "玻璃水滑道",
@@ -640,7 +1420,17 @@
    "lat": 23.72883,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.72883/116.74274"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "开悟桥",
@@ -648,7 +1438,17 @@
    "lat": 23.72823,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.72823/116.74084"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "青荷亭",
@@ -656,7 +1456,17 @@
    "lat": 23.72826,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.72826/116.74046"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "红花亭",
@@ -664,7 +1474,17 @@
    "lat": 23.72737,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.72737/116.74043"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "紫霞亭",
@@ -672,7 +1492,17 @@
    "lat": 23.72797,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.72797/116.74076"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "紫莲公馆",
@@ -680,7 +1510,17 @@
    "lat": 23.72569,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.72569/116.74529"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "科技馆",
@@ -690,7 +1530,21 @@
    "drive": "",
    "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
    "rating": "5A",
-   "ratingSrc": "国家5A名录(2025.3·358家)"
+   "ratingSrc": "国家5A名录(2025.3·358家)",
+   "sources": [
+    {
+     "n": "5A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B65A%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.72563/116.74567"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "中茶茶文化大观园",
@@ -698,7 +1552,17 @@
    "lat": 23.72552,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.72552/116.746"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "紫莲影院",
@@ -706,7 +1570,17 @@
    "lat": 23.72541,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.72541/116.74638"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "百鸟园",
@@ -714,7 +1588,17 @@
    "lat": 23.72824,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.72824/116.74572"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "玻璃光桥",
@@ -722,7 +1606,17 @@
    "lat": 23.72925,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.72925/116.74449"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "水莲舞台",
@@ -730,7 +1624,17 @@
    "lat": 23.72588,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.72588/116.73898"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "七彩桥",
@@ -738,7 +1642,17 @@
    "lat": 23.72559,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.72559/116.73935"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "七彩彩虹滑道",
@@ -746,7 +1660,17 @@
    "lat": 23.72465,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.72465/116.74667"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "祥光湖水上乐园",
@@ -754,7 +1678,17 @@
    "lat": 23.72864,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.72864/116.74649"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "泰坦尼克号",
@@ -762,7 +1696,17 @@
    "lat": 23.72913,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.72913/116.74567"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "玻璃滑道",
@@ -770,7 +1714,17 @@
    "lat": 23.72808,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.72808/116.74394"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "绿荫玻璃滑道",
@@ -778,7 +1732,17 @@
    "lat": 23.72414,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.72414/116.74614"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "碰碰车",
@@ -786,7 +1750,17 @@
    "lat": 23.72715,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.72715/116.74891"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "紫莲印象剧场",
@@ -794,7 +1768,17 @@
    "lat": 23.72744,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.72744/116.74891"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "紫莲福锅",
@@ -802,7 +1786,17 @@
    "lat": 23.727,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.727/116.74833"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "小火车",
@@ -810,7 +1804,17 @@
    "lat": 23.72276,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.72276/116.74578"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "画廊",
@@ -818,7 +1822,17 @@
    "lat": 23.72258,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.72258/116.7464"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "羊驼",
@@ -826,7 +1840,17 @@
    "lat": 23.72491,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.72491/116.7415"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "射击场",
@@ -834,7 +1858,17 @@
    "lat": 23.72474,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.72474/116.74089"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "白雲寺",
@@ -842,7 +1876,17 @@
    "lat": 23.66914,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.66914/116.87167"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "大觉寺",
@@ -850,7 +1894,17 @@
    "lat": 23.6617,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.6617/116.86656"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "猕猴",
@@ -858,7 +1912,17 @@
    "lat": 23.72405,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.72405/116.74356"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "梅花鹿",
@@ -866,7 +1930,17 @@
    "lat": 23.72375,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.72375/116.74239"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "柯基",
@@ -874,7 +1948,17 @@
    "lat": 23.72428,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.72428/116.74289"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "忠臣石",
@@ -882,7 +1966,17 @@
    "lat": 23.54544,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.54544/117.08221"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "大旗角",
@@ -890,7 +1984,17 @@
    "lat": 23.54585,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.54585/117.08207"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "汤溪水库八角亭",
@@ -898,7 +2002,17 @@
    "lat": 23.90215,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.90215/116.87512"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "名人岛",
@@ -906,7 +2020,17 @@
    "lat": 23.93871,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.93871/116.86711"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "废弃兵营",
@@ -914,7 +2038,17 @@
    "lat": 23.84654,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.84654/116.74471"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "浮滨观茶亭",
@@ -922,7 +2056,17 @@
    "lat": 23.80564,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.80564/116.78067"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "鸭嘴石",
@@ -930,7 +2074,17 @@
    "lat": 23.74828,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.74828/116.77485"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "煮茶点",
@@ -938,7 +2092,17 @@
    "lat": 23.63389,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.63389/117.12741"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "红塔",
@@ -946,7 +2110,17 @@
    "lat": 23.58348,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.58348/117.08963"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "嵩峰楼",
@@ -954,7 +2128,17 @@
    "lat": 23.79311,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.79311/116.8127"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "彩虹桥",
@@ -962,7 +2146,17 @@
    "lat": 23.6744,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.6744/116.71409"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "中山公园（旧门）",
@@ -970,7 +2164,17 @@
    "lat": 23.67427,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.67427/117.00462"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "饶平孔庙",
@@ -978,7 +2182,17 @@
    "lat": 23.98495,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.98495/116.82845"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "饶平城隍庙",
@@ -986,7 +2200,17 @@
    "lat": 23.9845,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.9845/116.82445"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "琴峰书院",
@@ -994,7 +2218,17 @@
    "lat": 23.98609,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.98609/116.82904"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "双流寺",
@@ -1002,7 +2236,17 @@
    "lat": 23.97645,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.97645/116.83866"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "饶平古县衙",
@@ -1010,7 +2254,17 @@
    "lat": 23.98502,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.98502/116.82721"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "从熙公祠",
@@ -1018,7 +2272,17 @@
    "lat": 23.4747,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.4747/116.6425"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "己略黄公祠",
@@ -1026,7 +2290,17 @@
    "lat": 23.66811,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.66811/116.64385"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "海阳学宫",
@@ -1034,7 +2308,17 @@
    "lat": 23.67062,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.67062/116.64359"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "许驸马府",
@@ -1042,7 +2326,17 @@
    "lat": 23.67348,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.67348/116.64267"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "大埕海滨浴场",
@@ -1050,7 +2344,17 @@
    "lat": 23.59677,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.59677/117.14496"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "大城所城",
@@ -1058,7 +2362,17 @@
    "lat": 23.61082,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.61082/117.1087"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "唐伯元故居",
@@ -1066,7 +2380,17 @@
    "lat": 23.66857,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.66857/116.64456"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "镇福楼",
@@ -1074,7 +2398,17 @@
    "lat": 24.13063,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/24.13063/116.88815"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "牌坊街",
@@ -1082,7 +2416,17 @@
    "lat": 23.66501,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.66501/116.64464"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "潮州府镇海楼",
@@ -1090,7 +2434,17 @@
    "lat": 23.67015,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.67015/116.64454"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chaozhou.gov.cn/"
+    }
+   ]
   }
  ],
  "rings": [

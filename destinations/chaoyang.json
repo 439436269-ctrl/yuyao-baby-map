@@ -16,7 +16,17 @@
    "lat": 41.53417,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/41.53417/120.50562"
+    },
+    {
+     "n": "市官网",
+     "u": "https://chaoyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "北方机械厂(5521厂)旧址",
@@ -24,7 +34,17 @@
    "lat": 40.84822,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.84822/119.17705"
+    },
+    {
+     "n": "市官网",
+     "u": "https://chaoyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "黄花滩塔（辽）",
@@ -32,7 +52,17 @@
    "lat": 41.44389,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/41.44389/120.11511"
+    },
+    {
+     "n": "市官网",
+     "u": "https://chaoyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "热河生物群命名地",
@@ -40,7 +70,17 @@
    "lat": 41.32601,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/41.32601/119.32722"
+    },
+    {
+     "n": "市官网",
+     "u": "https://chaoyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "八棱观塔",
@@ -48,7 +88,17 @@
    "lat": 41.38275,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/41.38275/120.06287"
+    },
+    {
+     "n": "市官网",
+     "u": "https://chaoyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "红山村瞭望店",
@@ -56,7 +106,17 @@
    "lat": 41.88152,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/41.88152/119.58863"
+    },
+    {
+     "n": "市官网",
+     "u": "https://chaoyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "喀喇沁右翼蒙古王陵",
@@ -64,7 +124,17 @@
    "lat": 41.65086,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/41.65086/119.51249"
+    },
+    {
+     "n": "市官网",
+     "u": "https://chaoyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "朝阳北塔",
@@ -72,7 +142,17 @@
    "lat": 41.57914,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/41.57914/120.45646"
+    },
+    {
+     "n": "市官网",
+     "u": "https://chaoyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "龙凤山风景区",
@@ -80,7 +160,17 @@
    "lat": 41.05685,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/41.05685/119.97832"
+    },
+    {
+     "n": "市官网",
+     "u": "https://chaoyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "利州古城",
@@ -88,7 +178,17 @@
    "lat": 41.10618,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/41.10618/119.76304"
+    },
+    {
+     "n": "市官网",
+     "u": "https://chaoyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "牛河梁国家考古遗址公园",
@@ -96,7 +196,17 @@
    "lat": 41.32222,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/41.32222/119.51373"
+    },
+    {
+     "n": "市官网",
+     "u": "https://chaoyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "小塔沟塔",
@@ -104,7 +214,17 @@
    "lat": 41.07691,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/41.07691/119.41233"
+    },
+    {
+     "n": "市官网",
+     "u": "https://chaoyang.gov.cn/"
+    }
+   ]
   }
  ],
  "rings": [

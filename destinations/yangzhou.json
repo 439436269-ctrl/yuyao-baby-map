@@ -16,7 +16,17 @@
    "lat": 32.39638,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.39638/119.42822"
+    },
+    {
+     "n": "市官网",
+     "u": "https://yangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "五亭桥",
@@ -24,7 +34,17 @@
    "lat": 32.40975,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.40975/119.41615"
+    },
+    {
+     "n": "市官网",
+     "u": "https://yangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "个园",
@@ -32,7 +52,17 @@
    "lat": 32.40116,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.40116/119.4382"
+    },
+    {
+     "n": "市官网",
+     "u": "https://yangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "何园",
@@ -40,7 +70,17 @@
    "lat": 32.38758,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.38758/119.44347"
+    },
+    {
+     "n": "市官网",
+     "u": "https://yangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "瘦西湖公园南门",
@@ -48,7 +88,17 @@
    "lat": 32.40401,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.40401/119.42072"
+    },
+    {
+     "n": "市官网",
+     "u": "https://yangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "瘦西湖公园西门",
@@ -56,7 +106,17 @@
    "lat": 32.40867,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.40867/119.40967"
+    },
+    {
+     "n": "市官网",
+     "u": "https://yangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "琼花观",
@@ -64,7 +124,17 @@
    "lat": 32.39755,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.39755/119.44361"
+    },
+    {
+     "n": "市官网",
+     "u": "https://yangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "汪氏小苑",
@@ -72,7 +142,17 @@
    "lat": 32.39777,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.39777/119.44172"
+    },
+    {
+     "n": "市官网",
+     "u": "https://yangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "东关古渡",
@@ -80,7 +160,17 @@
    "lat": 32.39985,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.39985/119.4477"
+    },
+    {
+     "n": "市官网",
+     "u": "https://yangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "文峰塔",
@@ -88,7 +178,17 @@
    "lat": 32.37373,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.37373/119.42759"
+    },
+    {
+     "n": "市官网",
+     "u": "https://yangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "高邮市北门翁城遗址公园",
@@ -96,7 +196,17 @@
    "lat": 32.78953,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.78953/119.42787"
+    },
+    {
+     "n": "市官网",
+     "u": "https://yangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "瘦西湖",
@@ -106,7 +216,21 @@
    "drive": "",
    "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
    "rating": "5A",
-   "ratingSrc": "国家5A名录(2025.3·358家)"
+   "ratingSrc": "国家5A名录(2025.3·358家)",
+   "sources": [
+    {
+     "n": "5A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B65A%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.40886/119.40893"
+    },
+    {
+     "n": "市官网",
+     "u": "https://yangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "朗月湖",
@@ -114,7 +238,17 @@
    "lat": 32.34435,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.34435/119.39824"
+    },
+    {
+     "n": "市官网",
+     "u": "https://yangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "问月湖",
@@ -122,7 +256,17 @@
    "lat": 32.34111,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.34111/119.39172"
+    },
+    {
+     "n": "市官网",
+     "u": "https://yangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "紫藤长廊",
@@ -130,7 +274,17 @@
    "lat": 32.34098,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.34098/119.39088"
+    },
+    {
+     "n": "市官网",
+     "u": "https://yangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "扬州大学校徽",
@@ -138,7 +292,17 @@
    "lat": 32.34231,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.34231/119.39751"
+    },
+    {
+     "n": "市官网",
+     "u": "https://yangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "小金山",
@@ -146,7 +310,17 @@
    "lat": 32.40983,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.40983/119.41998"
+    },
+    {
+     "n": "市官网",
+     "u": "https://yangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "钓鱼台",
@@ -154,7 +328,17 @@
    "lat": 32.41002,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.41002/119.41848"
+    },
+    {
+     "n": "市官网",
+     "u": "https://yangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "熙春台",
@@ -162,7 +346,17 @@
    "lat": 32.40938,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.40938/119.41069"
+    },
+    {
+     "n": "市官网",
+     "u": "https://yangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "小盘谷",
@@ -170,7 +364,17 @@
    "lat": 32.38897,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.38897/119.44048"
+    },
+    {
+     "n": "市官网",
+     "u": "https://yangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "柳荫禅林",
@@ -178,7 +382,17 @@
    "lat": 32.77142,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.77142/119.43408"
+    },
+    {
+     "n": "市官网",
+     "u": "https://yangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "同兴当铺",
@@ -186,7 +400,17 @@
    "lat": 32.7936,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.7936/119.42814"
+    },
+    {
+     "n": "市官网",
+     "u": "https://yangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "博士林",
@@ -194,7 +418,17 @@
    "lat": 32.23496,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.23496/119.37315"
+    },
+    {
+     "n": "市官网",
+     "u": "https://yangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "渌洋湖湿地公园北门",
@@ -202,7 +436,17 @@
    "lat": 32.65619,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.65619/119.52343"
+    },
+    {
+     "n": "市官网",
+     "u": "https://yangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "观音岛风景区",
@@ -210,7 +454,17 @@
    "lat": 32.24312,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.24312/119.38473"
+    },
+    {
+     "n": "市官网",
+     "u": "https://yangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "古文游台",
@@ -218,7 +472,17 @@
    "lat": 32.79656,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.79656/119.44263"
+    },
+    {
+     "n": "市官网",
+     "u": "https://yangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "高邮州署",
@@ -226,7 +490,17 @@
    "lat": 32.78384,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.78384/119.43169"
+    },
+    {
+     "n": "市官网",
+     "u": "https://yangzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "尚霏生态园",
@@ -234,7 +508,17 @@
    "lat": 32.7051,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.7051/119.34041"
+    },
+    {
+     "n": "市官网",
+     "u": "https://yangzhou.gov.cn/"
+    }
+   ]
   }
  ],
  "rings": [

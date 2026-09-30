@@ -18,7 +18,21 @@
    "drive": "",
    "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
    "rating": "4A",
-   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)"
+   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)",
+   "sources": [
+    {
+     "n": "4A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6AAAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.16746/115.7795"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.luan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "中国红岭公路-金寨",
@@ -26,7 +40,17 @@
    "lat": 31.30566,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.30566/115.67185"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.luan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "彩虹瀑",
@@ -34,7 +58,17 @@
    "lat": 31.13022,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.13022/115.77826"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.luan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "情人瀑",
@@ -42,7 +76,17 @@
    "lat": 31.12867,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.12867/115.777"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.luan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "淑女瀑",
@@ -50,7 +94,17 @@
    "lat": 31.12415,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.12415/115.77562"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.luan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "银弓瀑",
@@ -58,7 +112,17 @@
    "lat": 31.12316,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.12316/115.77385"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.luan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "红十一军三十二师成立旧址",
@@ -66,7 +130,17 @@
    "lat": 31.3486,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.3486/115.54919"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.luan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "天堂寨风景区",
@@ -76,7 +150,21 @@
    "drive": "约 3 小时",
    "note": "[六安5A·坐标OSM] 金寨·大别山主峰之一，景区大门坐标（主峰 115.77,31.11）",
    "rating": "5A",
-   "ratingSrc": "国家5A名录(2025.3·358家)"
+   "ratingSrc": "国家5A名录(2025.3·358家)",
+   "sources": [
+    {
+     "n": "5A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B65A%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.17/115.7696"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.luan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "万佛湖风景区",
@@ -86,7 +174,21 @@
    "drive": "约 1 小时",
    "note": "[六安5A·坐标OSM] 舒城·龙河口水库，环湖游船；官方名\"万佛山—龙河口水库风景名胜区\"",
    "rating": "5A",
-   "ratingSrc": "国家5A名录(2025.3·358家)"
+   "ratingSrc": "国家5A名录(2025.3·358家)",
+   "sources": [
+    {
+     "n": "5A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B65A%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.3015/116.7594"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.luan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "大别山主峰·白马尖",
@@ -96,7 +198,21 @@
    "drive": "约 2 小时",
    "note": "[坐标OSM] 霍山·大别山最高峰，登山看云海",
    "rating": "4A",
-   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)"
+   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)",
+   "sources": [
+    {
+     "n": "4A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6AAAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.1136/116.1858"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.luan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "横排头风景区",
@@ -106,7 +222,21 @@
    "drive": "约 40 分钟",
    "note": "[坐标OSM] 裕安·淠史杭水利风景区，水库大坝 + 湿地",
    "rating": "4A",
-   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)"
+   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)",
+   "sources": [
+    {
+     "n": "4A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6AAAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.601/116.3594"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.luan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "皖西博物馆",
@@ -114,7 +244,17 @@
    "lat": 31.7398,
    "tag": "室内",
    "drive": "约 15 分钟",
-   "note": "[坐标OSM] 六安城区·皋城文化展陈，室内遛娃雨天备选"
+   "note": "[坐标OSM] 六安城区·皋城文化展陈，室内遛娃雨天备选",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.7398/116.5197"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.luan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "大别山植物园",
@@ -122,7 +262,17 @@
    "lat": 31.4629,
    "tag": "景点",
    "drive": "约 40 分钟",
-   "note": "[坐标OSM] 大别山系植物科普园，推车友好"
+   "note": "[坐标OSM] 大别山系植物科普园，推车友好",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.4629/117.0121"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.luan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "南岳山（霍山）",
@@ -132,7 +282,25 @@
    "drive": "约 1.5 小时",
    "note": "[高德校准·GCJ→WGS] 南岳山 霍山县（AAA级，高德评分见开放时间数据）",
    "rating": "4A",
-   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)"
+   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)",
+   "sources": [
+    {
+     "n": "4A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6AAAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "高德·按名搜索",
+     "u": "https://uri.amap.com/search?keyword=%E5%8D%97%E5%B2%B3%E5%B1%B1%EF%BC%88%E9%9C%8D%E5%B1%B1%EF%BC%89"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.378539/116.314647"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.luan.gov.cn/"
+    }
+   ]
   }
  ],
  "rings": [

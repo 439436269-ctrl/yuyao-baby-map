@@ -16,7 +16,17 @@
    "lat": 43.97261,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/43.97261/125.27589"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.changchun.gov.cn/"
+    }
+   ]
   },
   {
    "n": "长春冰雪新天地",
@@ -24,7 +34,17 @@
    "lat": 43.87545,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/43.87545/125.57795"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.changchun.gov.cn/"
+    }
+   ]
   },
   {
    "n": "四亭桥",
@@ -32,7 +52,17 @@
    "lat": 43.85655,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/43.85655/125.3028"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.changchun.gov.cn/"
+    }
+   ]
   },
   {
    "n": "肆季南河粉色沙滩",
@@ -40,7 +70,17 @@
    "lat": 43.76219,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/43.76219/125.33527"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.changchun.gov.cn/"
+    }
+   ]
   },
   {
    "n": "鼬舍",
@@ -48,7 +88,17 @@
    "lat": 43.86781,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/43.86781/125.32628"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.changchun.gov.cn/"
+    }
+   ]
   },
   {
    "n": "松鼠猴",
@@ -56,7 +106,17 @@
    "lat": 43.86763,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/43.86763/125.32666"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.changchun.gov.cn/"
+    }
+   ]
   },
   {
    "n": "豪猪",
@@ -64,7 +124,17 @@
    "lat": 43.86765,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/43.86765/125.32644"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.changchun.gov.cn/"
+    }
+   ]
   },
   {
    "n": "狐狸舍",
@@ -72,7 +142,17 @@
    "lat": 43.868,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/43.868/125.32623"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.changchun.gov.cn/"
+    }
+   ]
   },
   {
    "n": "水獭",
@@ -80,7 +160,17 @@
    "lat": 43.86822,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/43.86822/125.32541"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.changchun.gov.cn/"
+    }
+   ]
   },
   {
    "n": "伪满皇宫博物院",
@@ -90,7 +180,21 @@
    "drive": "",
    "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
    "rating": "5A",
-   "ratingSrc": "国家5A名录(2025.3·358家)"
+   "ratingSrc": "国家5A名录(2025.3·358家)",
+   "sources": [
+    {
+     "n": "5A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B65A%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/43.90361/125.34188"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.changchun.gov.cn/"
+    }
+   ]
   },
   {
    "n": "苏军烈士纪念塔",
@@ -98,7 +202,17 @@
    "lat": 43.88448,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/43.88448/125.31817"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.changchun.gov.cn/"
+    }
+   ]
   },
   {
    "n": "日本东本愿寺新京别院旧址",
@@ -106,7 +220,17 @@
    "lat": 43.89139,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/43.89139/125.31582"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.changchun.gov.cn/"
+    }
+   ]
   },
   {
    "n": "东洋拓殖株式会社旧址",
@@ -114,7 +238,17 @@
    "lat": 43.88781,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/43.88781/125.31872"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.changchun.gov.cn/"
+    }
+   ]
   },
   {
    "n": "长春国际会议中心",
@@ -122,7 +256,17 @@
    "lat": 43.83648,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/43.83648/125.39371"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.changchun.gov.cn/"
+    }
+   ]
   },
   {
    "n": "长春国际会展中心",
@@ -130,7 +274,17 @@
    "lat": 43.83386,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/43.83386/125.3884"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.changchun.gov.cn/"
+    }
+   ]
   },
   {
    "n": "新京法政大学旧址",
@@ -138,7 +292,17 @@
    "lat": 43.85055,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/43.85055/125.31988"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.changchun.gov.cn/"
+    }
+   ]
   },
   {
    "n": "长春南大营旧址陈列馆",
@@ -146,7 +310,17 @@
    "lat": 43.84095,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/43.84095/125.32976"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.changchun.gov.cn/"
+    }
+   ]
   },
   {
    "n": "康德会馆旧址",
@@ -154,7 +328,17 @@
    "lat": 43.89027,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/43.89027/125.31721"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.changchun.gov.cn/"
+    }
+   ]
   },
   {
    "n": "伪满大兴会社旧址",
@@ -162,7 +346,17 @@
    "lat": 43.89284,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/43.89284/125.3188"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.changchun.gov.cn/"
+    }
+   ]
   },
   {
    "n": "民国吉林省长宅邸旧址",
@@ -170,7 +364,17 @@
    "lat": 43.90162,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/43.90162/125.32734"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.changchun.gov.cn/"
+    }
+   ]
   },
   {
    "n": "长春市杂技宫（横滨正金银行旧址）",
@@ -178,7 +382,17 @@
    "lat": 43.90394,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/43.90394/125.32368"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.changchun.gov.cn/"
+    }
+   ]
   },
   {
    "n": "袁宅",
@@ -186,7 +400,17 @@
    "lat": 43.89626,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/43.89626/125.33423"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.changchun.gov.cn/"
+    }
+   ]
   },
   {
    "n": "弘报社旧址",
@@ -194,7 +418,17 @@
    "lat": 43.89892,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/43.89892/125.31713"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.changchun.gov.cn/"
+    }
+   ]
   },
   {
    "n": "高野山金刚寺旧址",
@@ -202,7 +436,17 @@
    "lat": 43.90197,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/43.90197/125.3217"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.changchun.gov.cn/"
+    }
+   ]
   },
   {
    "n": "新京神社旧址",
@@ -210,7 +454,17 @@
    "lat": 43.90075,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/43.90075/125.31592"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.changchun.gov.cn/"
+    }
+   ]
   },
   {
    "n": "中央饭店旧址",
@@ -218,7 +472,17 @@
    "lat": 43.88929,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/43.88929/125.31996"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.changchun.gov.cn/"
+    }
+   ]
   },
   {
    "n": "伪满中央银行旧址",
@@ -226,7 +490,17 @@
    "lat": 43.88703,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/43.88703/125.33565"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.changchun.gov.cn/"
+    }
+   ]
   },
   {
    "n": "农业博览会展览馆",
@@ -234,7 +508,17 @@
    "lat": 43.80897,
    "tag": "室内",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/43.80897/125.42639"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.changchun.gov.cn/"
+    }
+   ]
   },
   {
    "n": "王大珩故居",
@@ -242,7 +526,17 @@
    "lat": 43.85146,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/43.85146/125.31756"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.changchun.gov.cn/"
+    }
+   ]
   },
   {
    "n": "长春道台衙门",
@@ -250,7 +544,17 @@
    "lat": 43.89977,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/43.89977/125.33293"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.changchun.gov.cn/"
+    }
+   ]
   },
   {
    "n": "宝山洋行旧址",
@@ -258,7 +562,17 @@
    "lat": 43.89398,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/43.89398/125.3222"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.changchun.gov.cn/"
+    }
+   ]
   },
   {
    "n": "千早病院旧址",
@@ -266,7 +580,17 @@
    "lat": 43.89889,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/43.89889/125.27965"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.changchun.gov.cn/"
+    }
+   ]
   },
   {
    "n": "Gate",
@@ -274,7 +598,17 @@
    "lat": 43.34481,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/43.34481/125.86494"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.changchun.gov.cn/"
+    }
+   ]
   },
   {
    "n": "大象馆",
@@ -282,7 +616,17 @@
    "lat": 43.86677,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/43.86677/125.32577"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.changchun.gov.cn/"
+    }
+   ]
   },
   {
    "n": "长颈鹿馆",
@@ -290,7 +634,17 @@
    "lat": 43.86642,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/43.86642/125.32621"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.changchun.gov.cn/"
+    }
+   ]
   },
   {
    "n": "极地动物馆",
@@ -298,7 +652,17 @@
    "lat": 43.86753,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/43.86753/125.33399"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.changchun.gov.cn/"
+    }
+   ]
   },
   {
    "n": "小动物合家欢",
@@ -306,7 +670,17 @@
    "lat": 43.86413,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/43.86413/125.32888"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.changchun.gov.cn/"
+    }
+   ]
   },
   {
    "n": "鸣放宫",
@@ -314,7 +688,17 @@
    "lat": 43.8784,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/43.8784/125.31452"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.changchun.gov.cn/"
+    }
+   ]
   },
   {
    "n": "地质宫",
@@ -322,7 +706,17 @@
    "lat": 43.88012,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/43.88012/125.30126"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.changchun.gov.cn/"
+    }
+   ]
   },
   {
    "n": "猩猩馆",
@@ -330,7 +724,17 @@
    "lat": 43.8662,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/43.8662/125.33131"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.changchun.gov.cn/"
+    }
+   ]
   },
   {
    "n": "袋鼠馆",
@@ -338,7 +742,17 @@
    "lat": 43.86564,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/43.86564/125.33249"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.changchun.gov.cn/"
+    }
+   ]
   },
   {
    "n": "小熊猫馆",
@@ -346,7 +760,17 @@
    "lat": 43.86566,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/43.86566/125.33207"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.changchun.gov.cn/"
+    }
+   ]
   },
   {
    "n": "水禽馆",
@@ -354,7 +778,17 @@
    "lat": 43.8648,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/43.8648/125.33354"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.changchun.gov.cn/"
+    }
+   ]
   },
   {
    "n": "中型猛兽馆",
@@ -362,7 +796,17 @@
    "lat": 43.866,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/43.866/125.3338"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.changchun.gov.cn/"
+    }
+   ]
   },
   {
    "n": "虎山",
@@ -370,7 +814,17 @@
    "lat": 43.86668,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/43.86668/125.33317"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.changchun.gov.cn/"
+    }
+   ]
   },
   {
    "n": "水禽",
@@ -378,7 +832,17 @@
    "lat": 43.86783,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/43.86783/125.32661"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.changchun.gov.cn/"
+    }
+   ]
   },
   {
    "n": "儿童动物园",
@@ -386,7 +850,17 @@
    "lat": 43.8675,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/43.8675/125.32721"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.changchun.gov.cn/"
+    }
+   ]
   },
   {
    "n": "斑马馆",
@@ -394,7 +868,17 @@
    "lat": 43.86619,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/43.86619/125.32715"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.changchun.gov.cn/"
+    }
+   ]
   },
   {
    "n": "河马馆",
@@ -402,7 +886,17 @@
    "lat": 43.86705,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/43.86705/125.32289"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.changchun.gov.cn/"
+    }
+   ]
   },
   {
    "n": "犀牛馆",
@@ -410,7 +904,17 @@
    "lat": 43.86637,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/43.86637/125.32527"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.changchun.gov.cn/"
+    }
+   ]
   },
   {
    "n": "火烈鸟馆",
@@ -418,7 +922,17 @@
    "lat": 43.86446,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/43.86446/125.32737"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.changchun.gov.cn/"
+    }
+   ]
   },
   {
    "n": "猛兽谷",
@@ -426,7 +940,17 @@
    "lat": 43.86461,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/43.86461/125.32467"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.changchun.gov.cn/"
+    }
+   ]
   },
   {
    "n": "猛兽笼",
@@ -434,7 +958,17 @@
    "lat": 43.8634,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/43.8634/125.32395"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.changchun.gov.cn/"
+    }
+   ]
   }
  ],
  "rings": [

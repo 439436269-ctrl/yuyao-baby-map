@@ -18,7 +18,21 @@
    "drive": "",
    "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
    "rating": "4A",
-   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)"
+   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)",
+   "sources": [
+    {
+     "n": "4A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6AAAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.31398/120.61506"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.suzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "苏州观前街",
@@ -26,7 +40,17 @@
    "lat": 31.31353,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.31353/120.6222"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.suzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "上真观门楼",
@@ -34,7 +58,17 @@
    "lat": 31.26383,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.26383/120.42815"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.suzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "狮子林",
@@ -42,7 +76,17 @@
    "lat": 31.3234,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.3234/120.6247"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.suzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "静思园",
@@ -50,7 +94,17 @@
    "lat": 31.16308,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.16308/120.68339"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.suzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "苏州摩天轮",
@@ -58,7 +112,17 @@
    "lat": 31.31654,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.31654/120.70839"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.suzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "文昌殿",
@@ -66,7 +130,17 @@
    "lat": 31.15992,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.15992/120.72678"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.suzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "Tongqiao Hall",
@@ -74,7 +148,17 @@
    "lat": 31.32643,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.32643/120.58921"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.suzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "七里山塘景點",
@@ -82,7 +166,17 @@
    "lat": 31.31868,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.31868/120.59911"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.suzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "网师园",
@@ -90,7 +184,17 @@
    "lat": 31.30038,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.30038/120.62984"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.suzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "山塘街",
@@ -98,7 +202,17 @@
    "lat": 31.3201,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.3201/120.59745"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.suzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "方塔",
@@ -106,7 +220,17 @@
    "lat": 31.6474,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.6474/120.74448"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.suzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "弘济桥",
@@ -114,7 +238,17 @@
    "lat": 31.85556,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.85556/120.63469"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.suzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "娄门",
@@ -122,7 +256,17 @@
    "lat": 31.32729,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.32729/120.63526"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.suzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "双桥",
@@ -130,7 +274,17 @@
    "lat": 31.11636,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.11636/120.84581"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.suzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "沙家浜风景区",
@@ -140,7 +294,21 @@
    "drive": "",
    "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
    "rating": "5A",
-   "ratingSrc": "国家5A名录(2025.3·358家)"
+   "ratingSrc": "国家5A名录(2025.3·358家)",
+   "sources": [
+    {
+     "n": "5A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B65A%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.55582/120.80107"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.suzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "金鸡湖音乐喷泉",
@@ -148,7 +316,17 @@
    "lat": 31.31958,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.31958/120.67887"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.suzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "樱花洲",
@@ -156,7 +334,17 @@
    "lat": 31.33876,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.33876/120.76604"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.suzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "纷纶海",
@@ -164,7 +352,17 @@
    "lat": 31.34141,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.34141/120.76401"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.suzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "Old Town",
@@ -172,7 +370,17 @@
    "lat": 31.31654,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.31654/120.6295"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.suzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "黎里古镇",
@@ -180,7 +388,17 @@
    "lat": 30.9912,
    "tag": "古镇",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.9912/120.70742"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.suzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "斗姥阁",
@@ -188,7 +406,17 @@
    "lat": 31.16024,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.16024/120.72783"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.suzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "听雨轩",
@@ -196,7 +424,17 @@
    "lat": 31.16031,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.16031/120.72759"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.suzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "香雪海",
@@ -204,7 +442,17 @@
    "lat": 31.29,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.29/120.36684"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.suzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "苏州太湖园博园",
@@ -212,7 +460,17 @@
    "lat": 31.14082,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.14082/120.44309"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.suzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "桃花岛",
@@ -220,7 +478,17 @@
    "lat": 31.0701,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.0701/120.31702"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.suzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "禹王庙",
@@ -228,7 +496,17 @@
    "lat": 31.12554,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.12554/120.21079"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.suzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "太湖林屋梅海",
@@ -236,7 +514,17 @@
    "lat": 31.1102,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.1102/120.2988"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.suzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "林屋洞景区",
@@ -244,7 +532,17 @@
    "lat": 31.1076,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.1076/120.30083"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.suzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "古樟植物园",
@@ -252,7 +550,17 @@
    "lat": 31.12543,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.12543/120.30221"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.suzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "石公山",
@@ -260,7 +568,17 @@
    "lat": 31.06473,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.06473/120.29082"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.suzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "石公山景区",
@@ -268,7 +586,17 @@
    "lat": 31.06517,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.06517/120.28979"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.suzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "文昌阁",
@@ -276,7 +604,17 @@
    "lat": 31.37081,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.37081/120.50966"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.suzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "白象湾",
@@ -284,7 +622,17 @@
    "lat": 31.28775,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.28775/120.45592"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.suzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "光福古镇",
@@ -292,7 +640,17 @@
    "lat": 31.29656,
    "tag": "古镇",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.29656/120.38419"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.suzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "白马涧生态园",
@@ -300,7 +658,17 @@
    "lat": 31.29934,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.29934/120.48667"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.suzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "Pearl tower",
@@ -308,7 +676,17 @@
    "lat": 31.16233,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.16233/120.71385"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.suzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "Chongben hall",
@@ -316,7 +694,17 @@
    "lat": 31.16025,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.16025/120.71318"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.suzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "芦荻烟雨",
@@ -324,7 +712,17 @@
    "lat": 31.42693,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.42693/120.78455"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.suzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "断桥落雁",
@@ -332,7 +730,17 @@
    "lat": 31.42621,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.42621/120.78392"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.suzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "澄湾夜月",
@@ -340,7 +748,17 @@
    "lat": 31.42581,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.42581/120.78424"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.suzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "定渚渔灯",
@@ -348,7 +766,17 @@
    "lat": 31.42637,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.42637/120.78336"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.suzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "唐氏宅园",
@@ -356,7 +784,17 @@
    "lat": 31.64276,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.64276/120.74063"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.suzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "苏州湾体育公园",
@@ -364,7 +802,17 @@
    "lat": 31.11601,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.11601/120.59386"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.suzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "歇马桥古镇",
@@ -372,7 +820,17 @@
    "lat": 31.22461,
    "tag": "古镇",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.22461/121.05346"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.suzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "淮海街",
@@ -380,7 +838,17 @@
    "lat": 31.29437,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.29437/120.55766"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.suzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "盘门景区",
@@ -388,7 +856,17 @@
    "lat": 31.29085,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.29085/120.61309"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.suzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "虎丘山风景区",
@@ -396,7 +874,17 @@
    "lat": 31.33755,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.33755/120.57644"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.suzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "包山禅寺",
@@ -404,7 +892,17 @@
    "lat": 31.1137,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.1137/120.28581"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.suzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "北寺塔",
@@ -412,7 +910,17 @@
    "lat": 31.32454,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.32454/120.6154"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.suzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "苏州海洋馆",
@@ -420,7 +928,17 @@
    "lat": 31.21904,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.21904/120.38027"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.suzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "退思园",
@@ -428,7 +946,17 @@
    "lat": 31.15985,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.15985/120.71632"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.suzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "招牌桥",
@@ -436,7 +964,17 @@
    "lat": 31.15846,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.15846/120.71448"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.suzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "留园",
@@ -444,7 +982,17 @@
    "lat": 31.31762,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.31762/120.58827"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.suzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "观前街",
@@ -452,7 +1000,17 @@
    "lat": 31.31318,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.31318/120.62036"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.suzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "吉利桥",
@@ -460,7 +1018,17 @@
    "lat": 31.15992,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.15992/120.71298"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.suzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "长庆桥",
@@ -468,7 +1036,17 @@
    "lat": 31.16005,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.16005/120.71315"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.suzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "太平桥",
@@ -476,7 +1054,17 @@
    "lat": 31.16015,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.16015/120.71251"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.suzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "耕乐堂",
@@ -484,7 +1072,17 @@
    "lat": 31.16015,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.16015/120.71102"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.suzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "嘉荫堂",
@@ -492,7 +1090,17 @@
    "lat": 31.15986,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.15986/120.71363"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.suzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "万年桥",
@@ -500,7 +1108,17 @@
    "lat": 31.3003,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.3003/120.60706"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.suzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "宝带桥",
@@ -508,7 +1126,17 @@
    "lat": 31.25876,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.25876/120.64948"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.suzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "拙政园",
@@ -516,7 +1144,17 @@
    "lat": 31.32647,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.32647/120.62473"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.suzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "伦敦桥",
@@ -524,7 +1162,17 @@
    "lat": 31.37341,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.37341/120.61157"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.suzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "耦园",
@@ -532,7 +1180,17 @@
    "lat": 31.31837,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.31837/120.63406"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.suzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "沧浪亭",
@@ -540,7 +1198,17 @@
    "lat": 31.29671,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.29671/120.62128"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.suzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "环秀山庄",
@@ -548,7 +1216,17 @@
    "lat": 31.31312,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.31312/120.60901"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.suzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "怡园",
@@ -556,7 +1234,17 @@
    "lat": 31.30967,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.30967/120.61705"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.suzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "可园",
@@ -564,7 +1252,17 @@
    "lat": 31.2976,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.2976/120.62068"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.suzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "双塔",
@@ -572,7 +1270,17 @@
    "lat": 31.30891,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.30891/120.62956"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.suzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "相门古城墙",
@@ -580,7 +1288,17 @@
    "lat": 31.31578,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.31578/120.63601"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.suzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "斜塘老街",
@@ -588,7 +1306,17 @@
    "lat": 31.30485,
    "tag": "古镇",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.30485/120.73458"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.suzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "七里山塘",
@@ -598,7 +1326,21 @@
    "drive": "",
    "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
    "rating": "4A",
-   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)"
+   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)",
+   "sources": [
+    {
+     "n": "4A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6AAAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.31942/120.59794"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.suzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "太平天国忠王府",
@@ -606,7 +1348,17 @@
    "lat": 31.32555,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.32555/120.62444"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.suzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "盘门",
@@ -614,7 +1366,17 @@
    "lat": 31.28956,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.28956/120.61195"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.suzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "燕园",
@@ -622,7 +1384,17 @@
    "lat": 31.65061,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.65061/120.73876"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.suzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "甲辰巷砖塔",
@@ -630,7 +1402,17 @@
    "lat": 31.31044,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.31044/120.63462"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.suzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "胥门",
@@ -638,7 +1420,17 @@
    "lat": 31.2995,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.2995/120.60832"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.suzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "碑廊",
@@ -646,7 +1438,17 @@
    "lat": 31.11875,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.11875/120.24905"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.suzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "同里古镇游览区",
@@ -654,7 +1456,17 @@
    "lat": 31.15916,
    "tag": "古镇",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.15916/120.71429"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.suzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "周庄古镇景区",
@@ -664,7 +1476,21 @@
    "drive": "",
    "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
    "rating": "5A",
-   "ratingSrc": "国家5A名录(2025.3·358家)"
+   "ratingSrc": "国家5A名录(2025.3·358家)",
+   "sources": [
+    {
+     "n": "5A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B65A%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.11527/120.84558"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.suzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "甪直古镇",
@@ -672,7 +1498,17 @@
    "lat": 31.27167,
    "tag": "古镇",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.27167/120.86909"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.suzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "永福桥",
@@ -680,7 +1516,17 @@
    "lat": 31.26878,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.26878/120.8686"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.suzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "保圣寺",
@@ -688,7 +1534,17 @@
    "lat": 31.2721,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.2721/120.86696"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.suzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "常熟文庙",
@@ -696,7 +1552,17 @@
    "lat": 31.6425,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.6425/120.74311"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.suzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "邑学",
@@ -704,7 +1570,17 @@
    "lat": 31.64245,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.64245/120.74278"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.suzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "言子祠",
@@ -712,7 +1588,17 @@
    "lat": 31.64255,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.64255/120.74334"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.suzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "清权祠",
@@ -720,7 +1606,17 @@
    "lat": 31.64926,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.64926/120.73603"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.suzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "翁同龢纪念馆",
@@ -728,7 +1624,17 @@
    "lat": 31.64292,
    "tag": "室内",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.64292/120.73714"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.suzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "言子旧宅",
@@ -736,7 +1642,17 @@
    "lat": 31.64747,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.64747/120.74008"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.suzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "下津桥",
@@ -744,7 +1660,17 @@
    "lat": 31.31461,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.31461/120.57812"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.suzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "财神居",
@@ -752,7 +1678,17 @@
    "lat": 31.11468,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.11468/120.85371"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.suzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "苏州乐园森林世界",
@@ -762,7 +1698,21 @@
    "drive": "",
    "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
    "rating": "4A",
-   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)"
+   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)",
+   "sources": [
+    {
+     "n": "4A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6AAAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.33337/120.46821"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.suzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "赵用贤宅",
@@ -770,7 +1720,17 @@
    "lat": 31.64316,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.64316/120.73603"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.suzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "黄公望纪念馆",
@@ -778,7 +1738,17 @@
    "lat": 31.68261,
    "tag": "室内",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.68261/120.68062"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.suzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "中国刺绣艺术馆",
@@ -786,7 +1756,17 @@
    "lat": 31.33599,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.33599/120.33901"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.suzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "木渎古镇",
@@ -794,7 +1774,17 @@
    "lat": 31.25301,
    "tag": "古镇",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.25301/120.50674"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.suzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "严讷宅",
@@ -802,7 +1792,17 @@
    "lat": 31.64296,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.64296/120.74143"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.suzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "震泽古镇",
@@ -810,7 +1810,17 @@
    "lat": 30.91678,
    "tag": "古镇",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.91678/120.50013"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.suzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "江苏馆",
@@ -818,7 +1828,17 @@
    "lat": 31.02107,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.02107/120.89609"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.suzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "北步行桥",
@@ -826,7 +1846,17 @@
    "lat": 31.02117,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.02117/120.89743"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.suzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "西步行桥",
@@ -834,7 +1864,17 @@
    "lat": 31.01958,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.01958/120.89575"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.suzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "印山园",
@@ -842,7 +1882,17 @@
    "lat": 31.62556,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.62556/120.69821"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.suzhou.gov.cn/"
+    }
+   ]
   }
  ],
  "rings": [

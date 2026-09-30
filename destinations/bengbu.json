@@ -16,7 +16,17 @@
    "lat": 32.89496,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.89496/117.36888"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.bengbu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "颜氏宗祠",
@@ -24,7 +34,17 @@
    "lat": 32.88744,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.88744/117.37577"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.bengbu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "宝经堂",
@@ -32,7 +52,17 @@
    "lat": 32.88742,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.88742/117.37752"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.bengbu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "南北分界线标志",
@@ -40,7 +70,17 @@
    "lat": 32.92086,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.92086/117.3984"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.bengbu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "蚌埠古民居建筑群",
@@ -48,7 +88,17 @@
    "lat": 32.89228,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.89228/117.37313"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.bengbu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "禹会村遗址国家考古遗址公园",
@@ -56,7 +106,17 @@
    "lat": 32.88326,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.88326/117.19883"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.bengbu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "祁门大祠堂",
@@ -64,7 +124,17 @@
    "lat": 32.89252,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.89252/117.39002"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.bengbu.gov.cn/"
+    }
+   ]
   }
  ],
  "rings": [

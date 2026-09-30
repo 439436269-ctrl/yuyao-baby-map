@@ -18,7 +18,21 @@
    "ratingSrc": "国家5A名录(2025.3)",
    "tag": "景点",
    "drive": "约 1 小时",
-   "note": "[5A·前缀归属·坐标photon] 吐鲁番市葡萄沟风景区"
+   "note": "[5A·前缀归属·坐标photon] 吐鲁番市葡萄沟风景区",
+   "sources": [
+    {
+     "n": "5A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B65A%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/43.0614/89.2169"
+    },
+    {
+     "n": "Photon·查询",
+     "u": "https://photon.komoot.io/?q=%E8%91%A1%E8%90%84%E6%B2%9F%E9%A3%8E%E6%99%AF%E5%8C%BA"
+    }
+   ]
   }
  ],
  "rings": [

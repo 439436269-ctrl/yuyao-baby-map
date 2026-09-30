@@ -16,7 +16,21 @@
    "lat": 35.779,
    "tag": "景点",
    "drive": "约 1 小时",
-   "note": "[KNOWN·坐标photon] 龙首山"
+   "note": "[KNOWN·坐标photon] 龙首山",
+   "sources": [
+    {
+     "n": "坐标定位",
+     "u": "https://www.openstreetmap.org/#map=14/35.779/114.9496"
+    },
+    {
+     "n": "Photon·查询",
+     "u": "https://photon.komoot.io/?q=%E9%BE%99%E9%A6%96%E5%B1%B1"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.liaoyuan.gov.cn/"
+    }
+   ]
   }
  ],
  "rings": [

@@ -16,7 +16,17 @@
    "lat": 38.1815,
    "tag": "景点",
    "drive": "约 1.5 小时",
-   "note": "[阿咪东索(5A)景区群·坐标photon·祁连县] 祁连卓尔山，与牛心山(阿咪东索)相望"
+   "note": "[阿咪东索(5A)景区群·坐标photon·祁连县] 祁连卓尔山，与牛心山(阿咪东索)相望",
+   "sources": [
+    {
+     "n": "坐标定位",
+     "u": "https://www.openstreetmap.org/#map=14/38.1815/100.266"
+    },
+    {
+     "n": "Photon·查询",
+     "u": "https://photon.komoot.io/?q=%E5%8D%93%E5%B0%94%E5%B1%B1%E9%A3%8E%E6%99%AF%E5%8C%BA"
+    }
+   ]
   }
  ],
  "rings": [

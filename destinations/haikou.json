@@ -16,7 +16,17 @@
    "lat": 19.94321,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/19.94321/110.20732"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.haikou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "荣堂村",
@@ -24,7 +34,17 @@
    "lat": 19.94364,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/19.94364/110.20778"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.haikou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "五公祠",
@@ -32,7 +52,17 @@
    "lat": 20.0101,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/20.0101/110.35526"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.haikou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "东寨港红树林自然保护区",
@@ -40,7 +70,17 @@
    "lat": 19.95322,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/19.95322/110.56619"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.haikou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "仙人洞 - Immortals Cave",
@@ -48,7 +88,17 @@
    "lat": 19.94363,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/19.94363/110.19398"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.haikou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "海口骑楼老街",
@@ -56,7 +106,17 @@
    "lat": 20.04473,
    "tag": "古镇",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/20.04473/110.33765"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.haikou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "风炉岭火山陨石坑",
@@ -64,7 +124,17 @@
    "lat": 19.92728,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/19.92728/110.2141"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.haikou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "海瑞故居",
@@ -72,7 +142,17 @@
    "lat": 20.00549,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/20.00549/110.34516"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.haikou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "榮堂村",
@@ -80,7 +160,17 @@
    "lat": 19.94332,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/19.94332/110.20682"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.haikou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "假日海滩",
@@ -88,7 +178,17 @@
    "lat": 20.03857,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/20.03857/110.23375"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.haikou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "海南之心·伦敦桥",
@@ -96,7 +196,17 @@
    "lat": 20.08162,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/20.08162/110.3593"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.haikou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "拾贝公园",
@@ -104,7 +214,17 @@
    "lat": 20.09113,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/20.09113/110.36554"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.haikou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "森江沅船厂旧址（旧船厂）",
@@ -112,7 +232,17 @@
    "lat": 20.08014,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/20.08014/110.37406"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.haikou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "天空之山驿站",
@@ -120,7 +250,17 @@
    "lat": 20.06005,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/20.06005/110.30245"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.haikou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "美丽沙岛",
@@ -128,7 +268,17 @@
    "lat": 20.07579,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/20.07579/110.31534"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.haikou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "仙人洞",
@@ -136,7 +286,17 @@
    "lat": 19.87367,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/19.87367/110.25168"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.haikou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "南渡江铁桥（省级文物）",
@@ -144,7 +304,17 @@
    "lat": 19.98097,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/19.98097/110.40506"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.haikou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "海瑞墓",
@@ -152,7 +322,17 @@
    "lat": 20.00805,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/20.00805/110.29144"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.haikou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "雷琼世界地质公园",
@@ -160,7 +340,17 @@
    "lat": 19.9293,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/19.9293/110.21599"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.haikou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "寄生火山1",
@@ -168,7 +358,17 @@
    "lat": 19.92687,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/19.92687/110.21227"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.haikou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "寄生火山2",
@@ -176,7 +376,17 @@
    "lat": 19.92604,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/19.92604/110.21328"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.haikou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "Volcanic Stone Culture",
@@ -184,7 +394,17 @@
    "lat": 19.92846,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/19.92846/110.21603"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.haikou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "白沙门公共海滩",
@@ -192,7 +412,17 @@
    "lat": 20.07802,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/20.07802/110.32892"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.haikou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "云洞图书馆",
@@ -200,7 +430,17 @@
    "lat": 20.04875,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/20.04875/110.31214"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.haikou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "海口钟楼",
@@ -208,7 +448,17 @@
    "lat": 20.04661,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/20.04661/110.33722"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.haikou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "秀英炮台",
@@ -216,7 +466,17 @@
    "lat": 20.0237,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/20.0237/110.30328"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.haikou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "海口琼州文化风情街景区",
@@ -224,7 +484,17 @@
    "lat": 19.97692,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/19.97692/110.40511"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.haikou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "白玉蟾纪念馆（海口市不可移动文物）",
@@ -232,7 +502,17 @@
    "lat": 19.91382,
    "tag": "室内",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/19.91382/110.15933"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.haikou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "海口六皇庙",
@@ -240,7 +520,17 @@
    "lat": 20.07926,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/20.07926/110.37181"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.haikou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "旅游学院",
@@ -248,7 +538,17 @@
    "lat": 19.97665,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/19.97665/110.50661"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.haikou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "阳光沙滩",
@@ -256,7 +556,17 @@
    "lat": 20.05978,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/20.05978/110.30352"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.haikou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "中山路",
@@ -264,7 +574,17 @@
    "lat": 20.04515,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/20.04515/110.33908"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.haikou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "中共琼崖第一次代表大会旧址",
@@ -272,7 +592,17 @@
    "lat": 20.04226,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/20.04226/110.33489"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.haikou.gov.cn/"
+    }
+   ]
   }
  ],
  "rings": [

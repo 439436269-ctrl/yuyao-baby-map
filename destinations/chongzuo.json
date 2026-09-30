@@ -16,7 +16,17 @@
    "lat": 22.46828,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.46828/106.57791"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.chongzuo.gov.cn/"
+    }
+   ]
   },
   {
    "n": "龙宫仙境",
@@ -24,7 +34,17 @@
    "lat": 22.83728,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.83728/107.0435"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.chongzuo.gov.cn/"
+    }
+   ]
   },
   {
    "n": "明仕田园",
@@ -32,7 +52,17 @@
    "lat": 22.70565,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.70565/106.92471"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.chongzuo.gov.cn/"
+    }
+   ]
   },
   {
    "n": "左江斜塔",
@@ -40,7 +70,17 @@
    "lat": 22.43883,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.43883/107.36505"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.chongzuo.gov.cn/"
+    }
+   ]
   },
   {
    "n": "天空之戒",
@@ -48,7 +88,17 @@
    "lat": 22.86024,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.86024/106.72069"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.chongzuo.gov.cn/"
+    }
+   ]
   },
   {
    "n": "大猩猩山",
@@ -56,7 +106,17 @@
    "lat": 22.25063,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.25063/107.03072"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.chongzuo.gov.cn/"
+    }
+   ]
   },
   {
    "n": "花山岩画",
@@ -66,7 +126,21 @@
    "drive": "",
    "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
    "rating": "5A",
-   "ratingSrc": "国家5A名录(2025.3·358家)"
+   "ratingSrc": "国家5A名录(2025.3·358家)",
+   "sources": [
+    {
+     "n": "5A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B65A%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.25867/107.01207"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.chongzuo.gov.cn/"
+    }
+   ]
   },
   {
    "n": "左江斜塔景区",
@@ -74,7 +148,17 @@
    "lat": 22.44017,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.44017/107.36287"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.chongzuo.gov.cn/"
+    }
+   ]
   },
   {
    "n": "峒那屿湾",
@@ -82,7 +166,17 @@
    "lat": 22.7199,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.7199/107.04621"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.chongzuo.gov.cn/"
+    }
+   ]
   },
   {
    "n": "圣泉谷",
@@ -90,7 +184,17 @@
    "lat": 22.74429,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.74429/106.86645"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.chongzuo.gov.cn/"
+    }
+   ]
   },
   {
    "n": "恩城水上古镇",
@@ -98,7 +202,17 @@
    "lat": 22.74046,
    "tag": "古镇",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.74046/107.09116"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.chongzuo.gov.cn/"
+    }
+   ]
   },
   {
    "n": "友谊关",
@@ -106,7 +220,17 @@
    "lat": 21.97635,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/21.97635/106.71212"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.chongzuo.gov.cn/"
+    }
+   ]
   },
   {
    "n": "老木棉景区",
@@ -114,7 +238,17 @@
    "lat": 22.816,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.816/106.78607"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.chongzuo.gov.cn/"
+    }
+   ]
   },
   {
    "n": "龙峡山国家森林公园-银山片区",
@@ -122,7 +256,17 @@
    "lat": 22.42611,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.42611/107.38146"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.chongzuo.gov.cn/"
+    }
+   ]
   },
   {
    "n": "龙峡山国家森林公园-宜山片区",
@@ -130,7 +274,17 @@
    "lat": 22.4601,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.4601/107.28595"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.chongzuo.gov.cn/"
+    }
+   ]
   },
   {
    "n": "派阳山自治区级森林公园",
@@ -138,7 +292,17 @@
    "lat": 22.02742,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.02742/107.17839"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.chongzuo.gov.cn/"
+    }
+   ]
   },
   {
    "n": "崇左逐羊森林公园",
@@ -146,7 +310,17 @@
    "lat": 22.59119,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.59119/107.92272"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.chongzuo.gov.cn/"
+    }
+   ]
   },
   {
    "n": "广西龙州左江国家湿地公园",
@@ -154,7 +328,17 @@
    "lat": 22.36305,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.36305/107.03347"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.chongzuo.gov.cn/"
+    }
+   ]
   },
   {
    "n": "广西崇左白头叶猴国家级自然保护区",
@@ -162,7 +346,17 @@
    "lat": 22.53859,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.53859/107.37253"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.chongzuo.gov.cn/"
+    }
+   ]
   },
   {
    "n": "广西崇左白头叶猴国家级自然保护区-板利片区",
@@ -170,7 +364,17 @@
    "lat": 22.23275,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.23275/107.50605"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.chongzuo.gov.cn/"
+    }
+   ]
   },
   {
    "n": "骆越文化宫",
@@ -178,7 +382,17 @@
    "lat": 22.18057,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.18057/107.06512"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.chongzuo.gov.cn/"
+    }
+   ]
   },
   {
    "n": "法国驻龙州领事馆旧址",
@@ -186,7 +400,17 @@
    "lat": 22.33829,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.33829/106.85805"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.chongzuo.gov.cn/"
+    }
+   ]
   }
  ],
  "rings": [

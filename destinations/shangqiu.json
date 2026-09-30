@@ -16,7 +16,17 @@
    "lat": 34.18129,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.18129/116.50322"
+    },
+    {
+     "n": "市官网",
+     "u": "https://shangqiu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "应天书院",
@@ -24,7 +34,17 @@
    "lat": 34.37221,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.37221/115.61461"
+    },
+    {
+     "n": "市官网",
+     "u": "https://shangqiu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "张巡祠",
@@ -32,7 +52,17 @@
    "lat": 34.37183,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.37183/115.60808"
+    },
+    {
+     "n": "市官网",
+     "u": "https://shangqiu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "归德府城",
@@ -40,7 +70,17 @@
    "lat": 34.38263,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.38263/115.61137"
+    },
+    {
+     "n": "市官网",
+     "u": "https://shangqiu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "燧皇陵",
@@ -48,7 +88,17 @@
    "lat": 34.36935,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.36935/115.58282"
+    },
+    {
+     "n": "市官网",
+     "u": "https://shangqiu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "商丘火神台",
@@ -56,7 +106,17 @@
    "lat": 34.36536,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.36536/115.58512"
+    },
+    {
+     "n": "市官网",
+     "u": "https://shangqiu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "宋国故城",
@@ -64,7 +124,17 @@
    "lat": 34.36674,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.36674/115.59896"
+    },
+    {
+     "n": "市官网",
+     "u": "https://shangqiu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "归德府城隍庙",
@@ -72,7 +142,17 @@
    "lat": 34.38192,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.38192/115.61008"
+    },
+    {
+     "n": "市官网",
+     "u": "https://shangqiu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "袁家山",
@@ -80,7 +160,17 @@
    "lat": 34.4236,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.4236/115.06418"
+    },
+    {
+     "n": "市官网",
+     "u": "https://shangqiu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "陈家大院",
@@ -88,7 +178,17 @@
    "lat": 34.38315,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.38315/115.61573"
+    },
+    {
+     "n": "市官网",
+     "u": "https://shangqiu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "归德驿馆",
@@ -96,7 +196,17 @@
    "lat": 34.37764,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.37764/115.61318"
+    },
+    {
+     "n": "市官网",
+     "u": "https://shangqiu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "侯方域故居",
@@ -104,7 +214,17 @@
    "lat": 34.3852,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.3852/115.61286"
+    },
+    {
+     "n": "市官网",
+     "u": "https://shangqiu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "侯恂故居",
@@ -112,7 +232,17 @@
    "lat": 34.38587,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.38587/115.61279"
+    },
+    {
+     "n": "市官网",
+     "u": "https://shangqiu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "中共中央中原局扩大会议秘书处旧址",
@@ -120,7 +250,17 @@
    "lat": 34.37848,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.37848/115.60881"
+    },
+    {
+     "n": "市官网",
+     "u": "https://shangqiu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "归德府府衙",
@@ -128,7 +268,17 @@
    "lat": 34.38338,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.38338/115.613"
+    },
+    {
+     "n": "市官网",
+     "u": "https://shangqiu.gov.cn/"
+    }
+   ]
   },
   {
    "n": "归德府府察院",
@@ -136,7 +286,17 @@
    "lat": 34.3816,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.3816/115.61243"
+    },
+    {
+     "n": "市官网",
+     "u": "https://shangqiu.gov.cn/"
+    }
+   ]
   }
  ],
  "rings": [

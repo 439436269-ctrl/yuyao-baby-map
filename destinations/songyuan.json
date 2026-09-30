@@ -16,7 +16,17 @@
    "lat": 34.58375,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.58375/135.57037"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jlsy.gov.cn/"
+    }
+   ]
   },
   {
    "n": "パチンコ&スロット アロー 松原店",
@@ -24,7 +34,17 @@
    "lat": 34.5847,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.5847/135.57124"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jlsy.gov.cn/"
+    }
+   ]
   },
   {
    "n": "smile",
@@ -32,7 +52,17 @@
    "lat": 34.58625,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.58625/135.53469"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jlsy.gov.cn/"
+    }
+   ]
   },
   {
    "n": "パチンコメトロ",
@@ -40,7 +70,17 @@
    "lat": 34.58651,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.58651/135.53653"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jlsy.gov.cn/"
+    }
+   ]
   },
   {
    "n": "高見 新世紀",
@@ -48,7 +88,17 @@
    "lat": 34.57515,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.57515/135.54762"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jlsy.gov.cn/"
+    }
+   ]
   },
   {
    "n": "カラオケトマト",
@@ -56,7 +106,17 @@
    "lat": 34.57478,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.57478/135.5481"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jlsy.gov.cn/"
+    }
+   ]
   },
   {
    "n": "キングパチンコ",
@@ -64,7 +124,17 @@
    "lat": 34.5761,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.5761/135.55677"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jlsy.gov.cn/"
+    }
+   ]
   },
   {
    "n": "孝庄祖陵旅游区",
@@ -72,7 +142,17 @@
    "lat": 45.31773,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/45.31773/124.48387"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jlsy.gov.cn/"
+    }
+   ]
   },
   {
    "n": "莲花寺",
@@ -80,7 +160,17 @@
    "lat": 45.15413,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/45.15413/124.89168"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jlsy.gov.cn/"
+    }
+   ]
   },
   {
    "n": "地藏殿",
@@ -88,7 +178,17 @@
    "lat": 45.15566,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/45.15566/124.89857"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jlsy.gov.cn/"
+    }
+   ]
   },
   {
    "n": "龙华寺",
@@ -96,7 +196,17 @@
    "lat": 45.15308,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/45.15308/124.89342"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jlsy.gov.cn/"
+    }
+   ]
   }
  ],
  "rings": [

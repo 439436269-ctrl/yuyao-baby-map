@@ -16,7 +16,17 @@
    "lat": 36.6917,
    "tag": "景点",
    "drive": "约 1 小时",
-   "note": "[KNOWN·坐标photon] 茶卡盐湖"
+   "note": "[KNOWN·坐标photon] 茶卡盐湖",
+   "sources": [
+    {
+     "n": "坐标定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.6917/99.1137"
+    },
+    {
+     "n": "Photon·查询",
+     "u": "https://photon.komoot.io/?q=%E8%8C%B6%E5%8D%A1%E7%9B%90%E6%B9%96"
+    }
+   ]
   }
  ],
  "rings": [

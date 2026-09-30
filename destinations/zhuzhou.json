@@ -18,7 +18,21 @@
    "drive": "约 2 小时",
    "note": "[坐标OSM·park] 炎陵县，华人祭祖圣地",
    "rating": "5A",
-   "ratingSrc": "国家5A名录(2025.3·358家)"
+   "ratingSrc": "国家5A名录(2025.3·358家)",
+   "sources": [
+    {
+     "n": "5A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B65A%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/26.4164/113.6669"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhuzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "酒仙湖（酒埠江水库）",
@@ -26,7 +40,21 @@
    "lat": 27.2193,
    "tag": "景点",
    "drive": "约 1.5 小时",
-   "note": "[坐标photon] 攸县水库湖区，环湖亲水"
+   "note": "[坐标photon] 攸县水库湖区，环湖亲水",
+   "sources": [
+    {
+     "n": "坐标定位",
+     "u": "https://www.openstreetmap.org/#map=14/27.2193/113.6085"
+    },
+    {
+     "n": "Photon·查询",
+     "u": "https://photon.komoot.io/?q=%E9%85%92%E4%BB%99%E6%B9%96%EF%BC%88%E9%85%92%E5%9F%A0%E6%B1%9F%E6%B0%B4%E5%BA%93%EF%BC%89"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhuzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "株洲方特",
@@ -34,7 +62,17 @@
    "lat": 27.9928,
    "tag": "景点",
    "drive": "约 40 分钟",
-   "note": "[坐标OSM] 云龙示范区主题乐园群"
+   "note": "[坐标OSM] 云龙示范区主题乐园群",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/27.9928/113.1879"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhuzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "云阳山风景区",
@@ -44,7 +82,25 @@
    "drive": "约 1.5 小时",
    "note": "[GeoNames精确·湖南茶陵T/MT山体点] 株洲茶陵道教名山",
    "rating": "4A",
-   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)"
+   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)",
+   "sources": [
+    {
+     "n": "4A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6AAAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "GeoNames·搜索",
+     "u": "https://www.geonames.org/search?q=%E4%BA%91%E9%98%B3%E5%B1%B1%E9%A3%8E%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/26.75674/113.4623"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhuzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "神农谷国家森林公园",
@@ -52,7 +108,21 @@
    "lat": 26.502671,
    "tag": "景点",
    "drive": "约 1.5 小时",
-   "note": "[高德校准·GCJ→WGS] 炎陵县神农谷国家森林公园"
+   "note": "[高德校准·GCJ→WGS] 炎陵县神农谷国家森林公园",
+   "sources": [
+    {
+     "n": "高德·按名搜索",
+     "u": "https://uri.amap.com/search?keyword=%E7%A5%9E%E5%86%9C%E8%B0%B7%E5%9B%BD%E5%AE%B6%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9B%AD"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/26.502671/114.023431"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhuzhou.gov.cn/"
+    }
+   ]
   }
  ],
  "rings": [

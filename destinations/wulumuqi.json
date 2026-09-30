@@ -16,7 +16,17 @@
    "lat": 43.8085,
    "tag": "景点",
    "drive": "约 20 分钟",
-   "note": "[坐标OSM] 乌鲁木齐城市地标，登顶看城"
+   "note": "[坐标OSM] 乌鲁木齐城市地标，登顶看城",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/43.8085/87.6061"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.wlmq.gov.cn/"
+    }
+   ]
   },
   {
    "n": "新疆维吾尔自治区博物馆",
@@ -26,7 +36,21 @@
    "drive": "约 20 分钟",
    "note": "[坐标OSM·museum] 干尸馆+丝路展，室内首选",
    "rating": "4A",
-   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)"
+   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)",
+   "sources": [
+    {
+     "n": "4A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6AAAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/43.8181/87.5806"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.wlmq.gov.cn/"
+    }
+   ]
   },
   {
    "n": "新疆国际大巴扎",
@@ -34,7 +58,17 @@
    "lat": 43.7788,
    "tag": "景点",
    "drive": "约 30 分钟",
-   "note": "[坐标OSM·attraction] 民族风情集市，逛吃拍照"
+   "note": "[坐标OSM·attraction] 民族风情集市，逛吃拍照",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/43.7788/87.6152"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.wlmq.gov.cn/"
+    }
+   ]
   },
   {
    "n": "乌鲁木齐市博物馆",
@@ -44,7 +78,21 @@
    "drive": "约 25 分钟",
    "note": "[坐标OSM·museum] 城市历史，室内备选",
    "rating": "5A",
-   "ratingSrc": "国家5A名录(2025.3·358家)"
+   "ratingSrc": "国家5A名录(2025.3·358家)",
+   "sources": [
+    {
+     "n": "5A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B65A%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/43.87/87.6161"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.wlmq.gov.cn/"
+    }
+   ]
   },
   {
    "n": "新疆地质矿产博物馆",
@@ -52,7 +100,17 @@
    "lat": 43.829,
    "tag": "室内",
    "drive": "约 20 分钟",
-   "note": "[坐标OSM·museum] 矿石奇观，娃爱看石头"
+   "note": "[坐标OSM·museum] 矿石奇观，娃爱看石头",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/43.829/87.5104"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.wlmq.gov.cn/"
+    }
+   ]
   },
   {
    "n": "达坂城盐湖",
@@ -60,7 +118,17 @@
    "lat": 43.4119,
    "tag": "景点",
    "drive": "约 1 小时",
-   "note": "[坐标OSM] 达坂城\"死海\"盐湖，漂浮体验"
+   "note": "[坐标OSM] 达坂城\"死海\"盐湖，漂浮体验",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/43.4119/88.1153"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.wlmq.gov.cn/"
+    }
+   ]
   },
   {
    "n": "南山旅游基地",
@@ -68,7 +136,17 @@
    "lat": 43.6028,
    "tag": "景点",
    "drive": "约 1 小时",
-   "note": "[坐标OSM] 天山北坡牧场，避暑骑马"
+   "note": "[坐标OSM] 天山北坡牧场，避暑骑马",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/43.6028/87.5545"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.wlmq.gov.cn/"
+    }
+   ]
   }
  ],
  "rings": [

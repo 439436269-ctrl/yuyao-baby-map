@@ -18,7 +18,25 @@
    "drive": "约 1.5 小时",
    "note": "[坐标photon] 藏传佛教格鲁派名寺，内蒙\"小布达拉宫\"",
    "rating": "4A",
-   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)"
+   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)",
+   "sources": [
+    {
+     "n": "4A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6AAAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "坐标定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.7915/110.3078"
+    },
+    {
+     "n": "Photon·查询",
+     "u": "https://photon.komoot.io/?q=%E4%BA%94%E5%BD%93%E5%8F%AC"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.baotou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "美岱召",
@@ -26,7 +44,21 @@
    "lat": 40.6036,
    "tag": "景点",
    "drive": "约 1 小时",
-   "note": "[坐标photon] 土右旗明代城寺合一古迹"
+   "note": "[坐标photon] 土右旗明代城寺合一古迹",
+   "sources": [
+    {
+     "n": "坐标定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.6036/110.7038"
+    },
+    {
+     "n": "Photon·查询",
+     "u": "https://photon.komoot.io/?q=%E7%BE%8E%E5%B2%B1%E5%8F%AC"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.baotou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "希拉穆仁草原",
@@ -34,7 +66,21 @@
    "lat": 41.4361,
    "tag": "景点",
    "drive": "约 1.5 小时",
-   "note": "[坐标photon] 距包头最近的草原度假区"
+   "note": "[坐标photon] 距包头最近的草原度假区",
+   "sources": [
+    {
+     "n": "坐标定位",
+     "u": "https://www.openstreetmap.org/#map=14/41.4361/111.2593"
+    },
+    {
+     "n": "Photon·查询",
+     "u": "https://photon.komoot.io/?q=%E5%B8%8C%E6%8B%89%E7%A9%86%E4%BB%81%E8%8D%89%E5%8E%9F"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.baotou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "南海湿地公园",
@@ -42,7 +88,21 @@
    "lat": 40.5577,
    "tag": "景点",
    "drive": "约 30 分钟",
-   "note": "[坐标photon] 东河区黄河湿地，推车环湖"
+   "note": "[坐标photon] 东河区黄河湿地，推车环湖",
+   "sources": [
+    {
+     "n": "坐标定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.5577/110.0276"
+    },
+    {
+     "n": "Photon·查询",
+     "u": "https://photon.komoot.io/?q=%E5%8D%97%E6%B5%B7%E6%B9%BF%E5%9C%B0%E5%85%AC%E5%9B%AD"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.baotou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "包头博物馆",
@@ -50,7 +110,21 @@
    "lat": 40.6407,
    "tag": "室内",
    "drive": "约 20 分钟",
-   "note": "[坐标photon] 鹿城历史展陈，室内备选"
+   "note": "[坐标photon] 鹿城历史展陈，室内备选",
+   "sources": [
+    {
+     "n": "坐标定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.6407/109.835"
+    },
+    {
+     "n": "Photon·查询",
+     "u": "https://photon.komoot.io/?q=%E5%8C%85%E5%A4%B4%E5%8D%9A%E7%89%A9%E9%A6%86"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.baotou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "北方兵器城",
@@ -60,7 +134,25 @@
    "drive": "约 25 分钟",
    "note": "[坐标photon] 军工主题公园，大童乐园",
    "rating": "4A",
-   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)"
+   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)",
+   "sources": [
+    {
+     "n": "4A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6AAAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "坐标定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.6788/109.8738"
+    },
+    {
+     "n": "Photon·查询",
+     "u": "https://photon.komoot.io/?q=%E5%8C%97%E6%96%B9%E5%85%B5%E5%99%A8%E5%9F%8E"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.baotou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "阿尔丁植物园",
@@ -68,7 +160,21 @@
    "lat": 40.6661,
    "tag": "景点",
    "drive": "约 20 分钟",
-   "note": "[坐标photon] 市区大绿地，遛娃放风"
+   "note": "[坐标photon] 市区大绿地，遛娃放风",
+   "sources": [
+    {
+     "n": "坐标定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.6661/109.8307"
+    },
+    {
+     "n": "Photon·查询",
+     "u": "https://photon.komoot.io/?q=%E9%98%BF%E5%B0%94%E4%B8%81%E6%A4%8D%E7%89%A9%E5%9B%AD"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.baotou.gov.cn/"
+    }
+   ]
   }
  ],
  "rings": [

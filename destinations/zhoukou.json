@@ -16,7 +16,17 @@
    "lat": 33.86343,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/33.86343/115.48899"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhoukou.gov.cn/page_pc/index.html/"
+    }
+   ]
   },
   {
    "n": "圣哲老子像",
@@ -24,7 +34,17 @@
    "lat": 33.63517,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/33.63517/114.67701"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhoukou.gov.cn/page_pc/index.html/"
+    }
+   ]
   },
   {
    "n": "龙园",
@@ -32,7 +52,17 @@
    "lat": 33.75033,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/33.75033/114.88049"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhoukou.gov.cn/page_pc/index.html/"
+    }
+   ]
   },
   {
    "n": "太昊陵景区",
@@ -40,7 +70,17 @@
    "lat": 33.75311,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/33.75311/114.88216"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhoukou.gov.cn/page_pc/index.html/"
+    }
+   ]
   },
   {
    "n": "神州第一荷",
@@ -48,7 +88,17 @@
    "lat": 33.74613,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/33.74613/114.8973"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhoukou.gov.cn/page_pc/index.html/"
+    }
+   ]
   },
   {
    "n": "包公庙",
@@ -56,7 +106,17 @@
    "lat": 33.73592,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/33.73592/114.8788"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhoukou.gov.cn/page_pc/index.html/"
+    }
+   ]
   },
   {
    "n": "刘秀饮马台",
@@ -64,7 +124,17 @@
    "lat": 33.65258,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/33.65258/114.48595"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhoukou.gov.cn/page_pc/index.html/"
+    }
+   ]
   },
   {
    "n": "许村白果树",
@@ -72,7 +142,17 @@
    "lat": 33.64548,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/33.64548/114.48878"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhoukou.gov.cn/page_pc/index.html/"
+    }
+   ]
   },
   {
    "n": "渡口走廊",
@@ -80,7 +160,17 @@
    "lat": 33.62317,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/33.62317/114.67268"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhoukou.gov.cn/page_pc/index.html/"
+    }
+   ]
   },
   {
    "n": "关帝庙",
@@ -90,7 +180,21 @@
    "drive": "",
    "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
    "rating": "4A",
-   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)"
+   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)",
+   "sources": [
+    {
+     "n": "4A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6AAAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/33.63321/114.63995"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhoukou.gov.cn/page_pc/index.html/"
+    }
+   ]
   },
   {
    "n": "老子故里旅游区",
@@ -98,7 +202,17 @@
    "lat": 33.86113,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/33.86113/115.54869"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhoukou.gov.cn/page_pc/index.html/"
+    }
+   ]
   },
   {
    "n": "袁世凯旧居",
@@ -106,7 +220,17 @@
    "lat": 33.34396,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/33.34396/114.96058"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhoukou.gov.cn/page_pc/index.html/"
+    }
+   ]
   },
   {
    "n": "叶氏庄园",
@@ -114,7 +238,17 @@
    "lat": 33.65721,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/33.65721/114.46986"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhoukou.gov.cn/page_pc/index.html/"
+    }
+   ]
   },
   {
    "n": "弦歌台",
@@ -122,7 +256,17 @@
    "lat": 33.72832,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/33.72832/114.87702"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhoukou.gov.cn/page_pc/index.html/"
+    }
+   ]
   }
  ],
  "rings": [

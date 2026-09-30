@@ -16,7 +16,17 @@
    "lat": 22.95903,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.95903/107.6301"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "陆军",
@@ -24,7 +34,17 @@
    "lat": 22.95791,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.95791/107.62833"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "海军",
@@ -32,7 +52,17 @@
    "lat": 22.95873,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.95873/107.62711"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "龙虎山",
@@ -42,7 +72,21 @@
    "drive": "",
    "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
    "rating": "5A",
-   "ratingSrc": "国家5A名录(2025.3·358家)"
+   "ratingSrc": "国家5A名录(2025.3·358家)",
+   "sources": [
+    {
+     "n": "5A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B65A%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.96207/107.62879"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "雨林大观",
@@ -50,7 +94,17 @@
    "lat": 22.78958,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.78958/108.39143"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "凤凰阁",
@@ -58,7 +112,17 @@
    "lat": 22.78979,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.78979/108.39493"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "箫台",
@@ -66,7 +130,17 @@
    "lat": 22.7886,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.7886/108.39608"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "桃花岛",
@@ -74,7 +148,17 @@
    "lat": 22.79223,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.79223/108.39587"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "中山路夜市",
@@ -82,7 +166,17 @@
    "lat": 22.81533,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.81533/108.31821"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "棕榈园",
@@ -90,7 +184,17 @@
    "lat": 22.7862,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.7862/108.3865"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "南宁花花大世界",
@@ -98,7 +202,17 @@
    "lat": 23.01097,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.01097/108.27357"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "雨林探险",
@@ -106,7 +220,17 @@
    "lat": 22.7656,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.7656/108.41285"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "乌鲁木齐园",
@@ -114,7 +238,17 @@
    "lat": 22.722,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.722/108.47493"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "拉萨园",
@@ -122,7 +256,17 @@
    "lat": 22.72216,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.72216/108.47549"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "银川园",
@@ -130,7 +274,17 @@
    "lat": 22.72172,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.72172/108.47422"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "长春园",
@@ -138,7 +292,17 @@
    "lat": 22.72128,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.72128/108.47468"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "大连园",
@@ -146,7 +310,17 @@
    "lat": 22.72137,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.72137/108.475"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "哈尔滨园",
@@ -154,7 +328,17 @@
    "lat": 22.72145,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.72145/108.47541"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "郑州园",
@@ -162,7 +346,17 @@
    "lat": 22.72196,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.72196/108.47648"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "台湾园",
@@ -170,7 +364,17 @@
    "lat": 22.72316,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.72316/108.47698"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "香港园",
@@ -178,7 +382,17 @@
    "lat": 22.72295,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.72295/108.47728"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "澳门园",
@@ -186,7 +400,17 @@
    "lat": 22.72266,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.72266/108.4773"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "厦门园",
@@ -196,7 +420,21 @@
    "drive": "",
    "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
    "rating": "5A",
-   "ratingSrc": "国家5A名录(2025.3·358家)"
+   "ratingSrc": "国家5A名录(2025.3·358家)",
+   "sources": [
+    {
+     "n": "5A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B65A%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.72237/108.47708"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "福州园",
@@ -204,7 +442,17 @@
    "lat": 22.72246,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.72246/108.47662"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "伊朗园",
@@ -212,7 +460,17 @@
    "lat": 22.71964,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.71964/108.47551"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "英国园",
@@ -220,7 +478,17 @@
    "lat": 22.71901,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.71901/108.47496"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "丝路园",
@@ -228,7 +496,17 @@
    "lat": 22.71883,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.71883/108.47472"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "意大利·克雷马市园",
@@ -236,7 +514,17 @@
    "lat": 22.71853,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.71853/108.47421"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "俄罗斯·达诺夫哥罗德园",
@@ -244,7 +532,17 @@
    "lat": 22.71928,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.71928/108.47522"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "西班牙·穆尔西亚市园",
@@ -252,7 +550,17 @@
    "lat": 22.7186,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.7186/108.4755"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "希腊园",
@@ -260,7 +568,17 @@
    "lat": 22.71823,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.71823/108.475"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "日本·长野县园",
@@ -268,7 +586,17 @@
    "lat": 22.7179,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.7179/108.4747"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "法国·马恩河谷省园",
@@ -276,7 +604,17 @@
    "lat": 22.71767,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.71767/108.47436"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "呼和浩特园",
@@ -284,7 +622,17 @@
    "lat": 22.72179,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.72179/108.47315"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "合肥园",
@@ -292,7 +640,17 @@
    "lat": 22.72525,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.72525/108.47715"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "珠海园",
@@ -300,7 +658,17 @@
    "lat": 22.7243,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.7243/108.47689"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "武汉园",
@@ -308,7 +676,17 @@
    "lat": 22.72421,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.72421/108.47743"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "深圳园",
@@ -316,7 +694,17 @@
    "lat": 22.72427,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.72427/108.47807"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "海口园",
@@ -324,7 +712,17 @@
    "lat": 22.72468,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.72468/108.47821"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "上海园",
@@ -332,7 +730,17 @@
    "lat": 22.72504,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.72504/108.47766"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "八桂天境（广西园）",
@@ -340,7 +748,17 @@
    "lat": 22.72494,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.72494/108.47605"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "罗汉松园",
@@ -348,7 +766,17 @@
    "lat": 22.72744,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.72744/108.47818"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "北京园",
@@ -356,7 +784,17 @@
    "lat": 22.72779,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.72779/108.47653"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "南宁精神",
@@ -364,7 +802,17 @@
    "lat": 22.72811,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.72811/108.4753"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "太原园",
@@ -372,7 +820,17 @@
    "lat": 22.72847,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.72847/108.47602"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "石家庄园",
@@ -380,7 +838,17 @@
    "lat": 22.72891,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.72891/108.47596"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "济南园",
@@ -388,7 +856,17 @@
    "lat": 22.7291,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.7291/108.47527"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "山东寿光园",
@@ -396,7 +874,17 @@
    "lat": 22.72886,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.72886/108.47485"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "沈阳园",
@@ -404,7 +892,17 @@
    "lat": 22.72859,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.72859/108.47682"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "晋中园",
@@ -412,7 +910,17 @@
    "lat": 22.72894,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.72894/108.47664"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "天津园",
@@ -420,7 +928,17 @@
    "lat": 22.72969,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.72969/108.47638"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "西安园",
@@ -428,7 +946,17 @@
    "lat": 22.72934,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.72934/108.4767"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "昆山园",
@@ -436,7 +964,17 @@
    "lat": 22.72942,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.72942/108.47479"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "苏州园",
@@ -446,7 +984,21 @@
    "drive": "",
    "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
    "rating": "5A",
-   "ratingSrc": "国家5A名录(2025.3·358家)"
+   "ratingSrc": "国家5A名录(2025.3·358家)",
+   "sources": [
+    {
+     "n": "5A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B65A%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.72929/108.47437"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "杭州园",
@@ -454,7 +1006,17 @@
    "lat": 22.72844,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.72844/108.47398"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "成都园",
@@ -462,7 +1024,17 @@
    "lat": 22.7286,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.7286/108.47315"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "三亚园",
@@ -470,7 +1042,17 @@
    "lat": 22.72867,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.72867/108.47266"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "宁波园",
@@ -478,7 +1060,17 @@
    "lat": 22.72901,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.72901/108.47248"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "昆明园",
@@ -486,7 +1078,17 @@
    "lat": 22.72941,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.72941/108.47235"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "黔锦苗韵（贵阳园）",
@@ -494,7 +1096,17 @@
    "lat": 22.72976,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.72976/108.47234"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "徐州园",
@@ -502,7 +1114,17 @@
    "lat": 22.72138,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.72138/108.47588"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "南昌园",
@@ -510,7 +1132,17 @@
    "lat": 22.72158,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.72158/108.47619"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "长沙园",
@@ -518,7 +1150,17 @@
    "lat": 22.72927,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.72927/108.47354"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "广州园",
@@ -526,7 +1168,17 @@
    "lat": 22.72988,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.72988/108.47312"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "南京园",
@@ -534,7 +1186,17 @@
    "lat": 22.73038,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.73038/108.47348"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "重庆园",
@@ -542,7 +1204,17 @@
    "lat": 22.73077,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.73077/108.47364"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "印尼·西爪哇省园",
@@ -550,7 +1222,17 @@
    "lat": 22.73037,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.73037/108.47752"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "马来西亚园",
@@ -558,7 +1240,17 @@
    "lat": 22.72982,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.72982/108.47799"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "缅甸·仰光市园",
@@ -566,7 +1258,17 @@
    "lat": 22.72961,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.72961/108.47749"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "泰国·孔敬市园",
@@ -574,7 +1276,17 @@
    "lat": 22.72961,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.72961/108.47833"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "新加坡园",
@@ -582,7 +1294,17 @@
    "lat": 22.72954,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.72954/108.47865"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "文莱园",
@@ -590,7 +1312,17 @@
    "lat": 22.72921,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.72921/108.47798"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "老挝·万象市园",
@@ -598,7 +1330,17 @@
    "lat": 22.72881,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.72881/108.4781"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "越南·海防市园",
@@ -606,7 +1348,17 @@
    "lat": 22.72913,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.72913/108.47828"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "兰州园",
@@ -614,7 +1366,17 @@
    "lat": 22.72235,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.72235/108.47575"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "西宁园",
@@ -622,7 +1384,17 @@
    "lat": 22.72264,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.72264/108.47603"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "善成邕州",
@@ -630,7 +1402,17 @@
    "lat": 22.72766,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.72766/108.4756"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "梦幻乐园",
@@ -638,7 +1420,17 @@
    "lat": 22.82602,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.82602/108.3987"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "梦幻王国",
@@ -646,7 +1438,17 @@
    "lat": 22.82545,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.82545/108.39618"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "乡村体验园",
@@ -654,7 +1456,17 @@
    "lat": 22.82382,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.82382/108.39284"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "梦幻花园",
@@ -662,7 +1474,17 @@
    "lat": 22.82387,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.82387/108.39547"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "梦幻海湾",
@@ -670,7 +1492,17 @@
    "lat": 22.82522,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.82522/108.39809"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "邕宁区香流溪热带水果产业（核心）示范区",
@@ -678,7 +1510,17 @@
    "lat": 22.66711,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.66711/108.55721"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "玫瑰花园入口",
@@ -686,7 +1528,17 @@
    "lat": 22.77108,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.77108/108.72688"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "家庭农场",
@@ -694,7 +1546,17 @@
    "lat": 22.7663,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.7663/108.73551"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "景区大门",
@@ -702,7 +1564,17 @@
    "lat": 22.76499,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.76499/108.73083"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "风铃岛",
@@ -710,7 +1582,17 @@
    "lat": 22.76811,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.76811/108.73302"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "长乐岛",
@@ -718,7 +1600,17 @@
    "lat": 22.76781,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.76781/108.7344"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "景区5号门",
@@ -726,7 +1618,17 @@
    "lat": 22.7718,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.7718/108.72842"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "景区2号门",
@@ -734,7 +1636,17 @@
    "lat": 22.76596,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.76596/108.73245"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "景区3号门",
@@ -742,7 +1654,17 @@
    "lat": 22.76654,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.76654/108.73648"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "射箭场",
@@ -750,7 +1672,17 @@
    "lat": 22.80368,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.80368/108.69046"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "混水摸鱼区",
@@ -758,7 +1690,17 @@
    "lat": 22.80438,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.80438/108.6905"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "森林徒步",
@@ -766,7 +1708,17 @@
    "lat": 22.80552,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.80552/108.69265"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "金花茶 科研中心",
@@ -774,7 +1726,17 @@
    "lat": 22.81413,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.81413/108.69275"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "金花溪谷",
@@ -782,7 +1744,17 @@
    "lat": 22.8085,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.8085/108.69041"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "金花茶 产业种植带",
@@ -790,7 +1762,17 @@
    "lat": 22.81707,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.81707/108.69001"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "金花小镇入口",
@@ -798,7 +1780,17 @@
    "lat": 22.82406,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.82406/108.68732"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "太空飞梭",
@@ -806,7 +1798,17 @@
    "lat": 22.76675,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.76675/108.41352"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "塔銮盛典",
@@ -814,7 +1816,17 @@
    "lat": 22.76347,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.76347/108.41248"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "走进吴哥",
@@ -822,7 +1834,17 @@
    "lat": 22.7647,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.7647/108.40804"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "千岛之歌",
@@ -830,7 +1852,17 @@
    "lat": 22.7636,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.7636/108.41175"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "马六甲勇士",
@@ -838,7 +1870,17 @@
    "lat": 22.76384,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.76384/108.41402"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "七彩之旅",
@@ -846,7 +1888,17 @@
    "lat": 22.76465,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.76465/108.41659"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "相约下龙湾",
@@ -854,7 +1906,17 @@
    "lat": 22.76707,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.76707/108.41584"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "拉玛传奇",
@@ -862,7 +1924,17 @@
    "lat": 22.76516,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.76516/108.41208"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "马尼拉 马尼拉",
@@ -870,7 +1942,17 @@
    "lat": 22.76851,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.76851/108.41047"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "寻找鱼尾狮",
@@ -878,7 +1960,17 @@
    "lat": 22.76794,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.76794/108.41127"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "七彩跳伞塔",
@@ -886,7 +1978,17 @@
    "lat": 22.76658,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.76658/108.4089"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "伴你飞翔",
@@ -894,7 +1996,17 @@
    "lat": 22.76829,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.76829/108.40935"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "千岛附属舞台",
@@ -902,7 +2014,17 @@
    "lat": 22.76417,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.76417/108.41059"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "玲珑岛",
@@ -910,7 +2032,17 @@
    "lat": 22.73471,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.73471/108.47677"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "蘑菇工坊",
@@ -918,7 +2050,17 @@
    "lat": 22.95596,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.95596/108.35381"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "乌龟海盗船",
@@ -926,7 +2068,17 @@
    "lat": 22.9597,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.9597/108.35846"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "中国弄拉",
@@ -934,7 +2086,17 @@
    "lat": 23.65744,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.65744/108.32066"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "Aqua Market",
@@ -942,7 +2104,17 @@
    "lat": 22.81591,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.81591/108.30995"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "董泉",
@@ -950,7 +2122,17 @@
    "lat": 22.7842,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.7842/108.38365"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "千年苏铁园",
@@ -958,7 +2140,17 @@
    "lat": 22.78716,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.78716/108.3843"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "香花园",
@@ -966,7 +2158,17 @@
    "lat": 22.78741,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.78741/108.39051"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "丛林乐园",
@@ -974,7 +2176,17 @@
    "lat": 22.78982,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.78982/108.40323"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "音乐大草坪",
@@ -982,7 +2194,17 @@
    "lat": 22.78205,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.78205/108.40536"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "丘石花园",
@@ -990,7 +2212,17 @@
    "lat": 22.77901,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.77901/108.4078"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "黄花风铃园",
@@ -998,7 +2230,17 @@
    "lat": 22.77741,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.77741/108.41253"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "梅园",
@@ -1006,7 +2248,17 @@
    "lat": 22.78364,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.78364/108.40717"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "竹园",
@@ -1014,7 +2266,17 @@
    "lat": 22.78697,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.78697/108.40688"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "叶子花园",
@@ -1022,7 +2284,17 @@
    "lat": 22.79076,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.79076/108.40768"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "水生花园",
@@ -1030,7 +2302,17 @@
    "lat": 22.79307,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.79307/108.40653"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "樱花园",
@@ -1038,7 +2320,17 @@
    "lat": 22.79781,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.79781/108.40761"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "五彩长廊",
@@ -1046,7 +2338,17 @@
    "lat": 22.79789,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.79789/108.4049"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "桂花园",
@@ -1054,7 +2356,17 @@
    "lat": 22.79742,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.79742/108.3951"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "兰园",
@@ -1062,7 +2374,17 @@
    "lat": 22.79501,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.79501/108.39003"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "荫生植物园",
@@ -1070,7 +2392,17 @@
    "lat": 22.79414,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.79414/108.38758"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "广西珍贵树种展示园",
@@ -1078,7 +2410,17 @@
    "lat": 22.79299,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.79299/108.38259"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "铜鼓音乐台",
@@ -1086,7 +2428,17 @@
    "lat": 22.79489,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.79489/108.3688"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "状元泉文化园",
@@ -1094,7 +2446,17 @@
    "lat": 22.79153,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.79153/108.38027"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "邕州老街",
@@ -1102,7 +2464,17 @@
    "lat": 22.7935,
    "tag": "古镇",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.7935/108.33643"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "极地快车",
@@ -1110,7 +2482,17 @@
    "lat": 22.76712,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.76712/108.40953"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "Yongzhou ancient city",
@@ -1118,7 +2500,17 @@
    "lat": 22.81686,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.81686/108.31574"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "Блошиный рынок",
@@ -1126,7 +2518,17 @@
    "lat": 22.83192,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.83192/108.31862"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "Flower field",
@@ -1134,7 +2536,17 @@
    "lat": 22.83439,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.83439/108.32977"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "狄公井",
@@ -1142,7 +2554,17 @@
    "lat": 23.09431,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.09431/108.67952"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "昆仑关",
@@ -1150,7 +2572,17 @@
    "lat": 23.0951,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.0951/108.68103"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "要塞巨炮",
@@ -1158,7 +2590,17 @@
    "lat": 22.81435,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.81435/108.33108"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "花眷秘境",
@@ -1166,7 +2608,17 @@
    "lat": 22.77902,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.77902/108.40424"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "玉兰魅惑",
@@ -1174,7 +2626,17 @@
    "lat": 22.77935,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.77935/108.40437"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "岩岩台地",
@@ -1182,7 +2644,17 @@
    "lat": 22.77962,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.77962/108.4064"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "塔塔花园",
@@ -1190,7 +2662,17 @@
    "lat": 22.7785,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.7785/108.40684"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "九拱桥",
@@ -1198,7 +2680,17 @@
    "lat": 22.80811,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.80811/108.34524"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "环山秀坪",
@@ -1206,7 +2698,17 @@
    "lat": 22.78641,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.78641/108.3884"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "五象饮江",
@@ -1214,7 +2716,17 @@
    "lat": 22.77133,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.77133/108.34963"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "畅游阁",
@@ -1222,7 +2734,17 @@
    "lat": 22.81543,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.81543/108.3145"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "广西革命纪念馆",
@@ -1230,7 +2752,17 @@
    "lat": 22.85466,
    "tag": "室内",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.85466/108.3799"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "骠国乐",
@@ -1238,7 +2770,17 @@
    "lat": 22.76553,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.76553/108.40705"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "超音速国际卡丁车赛车场",
@@ -1246,7 +2788,17 @@
    "lat": 22.90302,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.90302/108.4909"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "东风1227",
@@ -1254,7 +2806,17 @@
    "lat": 22.79015,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.79015/108.2818"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "那贵樱花园",
@@ -1262,7 +2824,17 @@
    "lat": 22.75273,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.75273/108.59262"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "南宁古城墙",
@@ -1270,7 +2842,17 @@
    "lat": 22.81322,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.81322/108.31696"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "中泰友谊园",
@@ -1278,7 +2860,17 @@
    "lat": 22.78839,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.78839/108.39094"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "友谊长廊",
@@ -1286,7 +2878,17 @@
    "lat": 22.79506,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.79506/108.37165"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "广西九龙瀑布群国家森林公园",
@@ -1296,7 +2898,21 @@
    "drive": "",
    "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
    "rating": "4A",
-   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)"
+   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)",
+   "sources": [
+    {
+     "n": "4A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6AAAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.04953/109.15324"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "广西七坡自治区级森林公园",
@@ -1304,7 +2920,17 @@
    "lat": 22.69016,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.69016/108.22089"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "广西朝燕自治区级森林公园",
@@ -1312,7 +2938,17 @@
    "lat": 23.48663,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.48663/108.24663"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "广西崇左白头叶猴国家级自然保护区",
@@ -1320,7 +2956,17 @@
    "lat": 22.50087,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.50087/107.95491"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "南宁昆仑关旅游风景区",
@@ -1328,7 +2974,17 @@
    "lat": 23.09489,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.09489/108.68052"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   },
   {
    "n": "星漫湖·清迈故事",
@@ -1336,7 +2992,17 @@
    "lat": 22.75751,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.75751/108.59061"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanning.gov.cn/"
+    }
+   ]
   }
  ],
  "rings": [

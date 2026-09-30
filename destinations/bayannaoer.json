@@ -16,7 +16,21 @@
    "lat": 40.5431,
    "tag": "景点",
    "drive": "约 1 小时",
-   "note": "[KNOWN·坐标photon] 纳林湖"
+   "note": "[KNOWN·坐标photon] 纳林湖",
+   "sources": [
+    {
+     "n": "坐标定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.5431/106.6335"
+    },
+    {
+     "n": "Photon·查询",
+     "u": "https://photon.komoot.io/?q=%E7%BA%B3%E6%9E%97%E6%B9%96"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.bynr.gov.cn/"
+    }
+   ]
   },
   {
    "n": "乌梁素海",
@@ -24,7 +38,21 @@
    "lat": 40.9709,
    "tag": "景点",
    "drive": "约 1 小时",
-   "note": "[KNOWN·坐标photon] 乌梁素海"
+   "note": "[KNOWN·坐标photon] 乌梁素海",
+   "sources": [
+    {
+     "n": "坐标定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.9709/108.9299"
+    },
+    {
+     "n": "Photon·查询",
+     "u": "https://photon.komoot.io/?q=%E4%B9%8C%E6%A2%81%E7%B4%A0%E6%B5%B7"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.bynr.gov.cn/"
+    }
+   ]
   }
  ],
  "rings": [

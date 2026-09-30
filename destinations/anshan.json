@@ -16,7 +16,17 @@
    "lat": 41.10531,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/41.10531/123.00359"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.anshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "散放互动区",
@@ -24,7 +34,17 @@
    "lat": 41.10552,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/41.10552/123.00465"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.anshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "映碧楼",
@@ -32,7 +52,17 @@
    "lat": 41.1002,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/41.1002/123.00551"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.anshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "宪法广场",
@@ -40,7 +70,17 @@
    "lat": 41.08208,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/41.08208/123.0099"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.anshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "千山风景区",
@@ -48,7 +88,17 @@
    "lat": 41.00734,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/41.00734/123.12322"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.anshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "少帅陵",
@@ -56,7 +106,17 @@
    "lat": 41.51188,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/41.51188/122.3561"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.anshan.gov.cn/"
+    }
+   ]
   }
  ],
  "rings": [

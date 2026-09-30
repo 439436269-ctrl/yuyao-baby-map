@@ -16,7 +16,17 @@
    "lat": 32.87501,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.87501/117.53705"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chuzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "小岗村乡村旅游区",
@@ -26,7 +36,21 @@
    "drive": "",
    "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
    "rating": "4A",
-   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)"
+   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)",
+   "sources": [
+    {
+     "n": "4A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6AAAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.84062/117.76772"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chuzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "Xihua Gate",
@@ -34,7 +58,17 @@
    "lat": 32.87441,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.87441/117.54648"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chuzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "Xuanwu Gate",
@@ -42,7 +76,17 @@
    "lat": 32.88181,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.88181/117.54244"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chuzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "皇甫山国家森林公园",
@@ -50,7 +94,17 @@
    "lat": 32.33646,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.33646/118.01476"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chuzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "中都旧城",
@@ -58,7 +112,17 @@
    "lat": 32.87694,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.87694/117.53888"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chuzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "明中都鼓楼",
@@ -66,7 +130,17 @@
    "lat": 32.86491,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.86491/117.55702"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chuzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "明皇陵",
@@ -74,7 +148,17 @@
    "lat": 32.81406,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.81406/117.51906"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chuzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "南京太仆寺衙署",
@@ -82,7 +166,17 @@
    "lat": 32.30351,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.30351/118.29465"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chuzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "明中都皇故城国家考古遗址公园",
@@ -90,7 +184,17 @@
    "lat": 32.8775,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.8775/117.53986"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chuzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "明中都历代帝王庙景区",
@@ -98,7 +202,17 @@
    "lat": 32.86731,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.86731/117.52892"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chuzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "明中都钟楼",
@@ -106,7 +220,17 @@
    "lat": 32.86691,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.86691/117.5246"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chuzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "钟离古城遗址",
@@ -114,7 +238,17 @@
    "lat": 32.90905,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.90905/117.67383"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chuzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "郑和天元号宝船",
@@ -122,7 +256,17 @@
    "lat": 32.2187,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.2187/118.37211"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chuzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "Noon Gate",
@@ -130,7 +274,17 @@
    "lat": 32.87286,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.87286/117.54162"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chuzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "同乐园",
@@ -138,7 +292,17 @@
    "lat": 32.28434,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.28434/118.2778"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chuzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "崇本门",
@@ -146,7 +310,17 @@
    "lat": 32.6917,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.6917/118.99149"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chuzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "南天门",
@@ -154,7 +328,17 @@
    "lat": 32.27303,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.27303/118.27553"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chuzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "醉翁亭",
@@ -162,7 +346,17 @@
    "lat": 32.28559,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.28559/118.28215"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.chuzhou.gov.cn/"
+    }
+   ]
   }
  ],
  "rings": [

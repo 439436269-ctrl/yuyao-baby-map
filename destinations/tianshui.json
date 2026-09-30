@@ -16,7 +16,17 @@
    "lat": 34.58547,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.58547/105.708"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.tianshui.gov.cn/"
+    }
+   ]
   },
   {
    "n": "伏羲庙",
@@ -24,7 +34,17 @@
    "lat": 34.58032,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.58032/105.70318"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.tianshui.gov.cn/"
+    }
+   ]
   },
   {
    "n": "麦积山石窟",
@@ -32,7 +52,17 @@
    "lat": 34.3517,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.3517/106.00401"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.tianshui.gov.cn/"
+    }
+   ]
   },
   {
    "n": "卦台山",
@@ -40,7 +70,17 @@
    "lat": 34.70643,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.70643/105.62031"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.tianshui.gov.cn/"
+    }
+   ]
   },
   {
    "n": "娘娘殿",
@@ -48,7 +88,17 @@
    "lat": 34.3971,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.3971/106.0487"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.tianshui.gov.cn/"
+    }
+   ]
   },
   {
    "n": "西崖",
@@ -56,7 +106,17 @@
    "lat": 34.39727,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.39727/106.04734"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.tianshui.gov.cn/"
+    }
+   ]
   },
   {
    "n": "太阳山省级森林公园",
@@ -64,7 +124,17 @@
    "lat": 34.42089,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.42089/105.77764"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.tianshui.gov.cn/"
+    }
+   ]
   },
   {
    "n": "花石崖",
@@ -72,7 +142,17 @@
    "lat": 34.57476,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.57476/106.19433"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.tianshui.gov.cn/"
+    }
+   ]
   },
   {
    "n": "水帘洞拉梢寺",
@@ -80,7 +160,17 @@
    "lat": 34.83268,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.83268/104.95081"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.tianshui.gov.cn/"
+    }
+   ]
   },
   {
    "n": "小陇山国家森林公园桃花沟景区",
@@ -88,7 +178,17 @@
    "lat": 34.31649,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.31649/106.57332"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.tianshui.gov.cn/"
+    }
+   ]
   },
   {
    "n": "玉皇顶",
@@ -96,7 +196,17 @@
    "lat": 34.39566,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.39566/106.04933"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.tianshui.gov.cn/"
+    }
+   ]
   },
   {
    "n": "舍利塔",
@@ -104,7 +214,17 @@
    "lat": 34.39544,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.39544/106.04939"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.tianshui.gov.cn/"
+    }
+   ]
   },
   {
    "n": "石刻",
@@ -112,7 +232,17 @@
    "lat": 34.39545,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.39545/106.04857"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.tianshui.gov.cn/"
+    }
+   ]
   },
   {
    "n": "卦台山遗址",
@@ -120,7 +250,17 @@
    "lat": 34.70608,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.70608/105.62042"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.tianshui.gov.cn/"
+    }
+   ]
   },
   {
    "n": "凤山景区",
@@ -128,7 +268,17 @@
    "lat": 34.85732,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.85732/105.67281"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.tianshui.gov.cn/"
+    }
+   ]
   },
   {
    "n": "杜甫草堂",
@@ -138,7 +288,21 @@
    "drive": "",
    "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
    "rating": "4A",
-   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)"
+   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)",
+   "sources": [
+    {
+     "n": "4A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6AAAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.46009/105.97913"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.tianshui.gov.cn/"
+    }
+   ]
   },
   {
    "n": "太常第",
@@ -146,7 +310,17 @@
    "lat": 34.5825,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.5825/105.72025"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.tianshui.gov.cn/"
+    }
+   ]
   }
  ],
  "rings": [

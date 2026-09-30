@@ -1,0 +1,102 @@
+{
+ "_updated": "2026-09-30",
+ "_note": "数据集来源注册表：每个数据源的拉取 URL、日期、解析脚本链与产物，供追溯与更新复跑。更新方式=按 parser 顺序重跑脚本后改 fetchedAt/entries 并 build 发布。",
+ "datasets": [
+  {
+   "id": "official-sites",
+   "title": "全国地级市政府官网谱系",
+   "method": "拼音域名推断+HTTP探活(curl拦截码判定)+Bing标题匹配",
+   "urls": ["https://cn.bing.com/search?q=<city>+人民政府+官网", "https://www.<city>.gov.cn/"],
+   "scripts": ["sources-all.cjs", "sources-fix.cjs", "sources-fix2.cjs", "sources-search.cjs"],
+   "output": "destinations/sources.json (officialSite/verified/evidence 字段)",
+   "entries": 281,
+   "total": 337,
+   "fetchedAt": "2026-09-30",
+   "status": "281/337；剩56城见 sources 内 verified:false"
+  },
+  {
+   "id": "rating-5a",
+   "title": "全国5A级旅游景区名录",
+   "url": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B65A%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA",
+   "officialBasis": "文化和旅游部动态名录（2025-03口径358家），词条为转录",
+   "scripts": ["fetch5a.cjs", "parse5a.cjs", "clean5a.cjs", "apply-ratings.cjs"],
+   "output": [".5a-list.json(368条)", "各城包 cands[].rating='5A'+ratingSrc"],
+   "matched": 130,
+   "fetchedAt": "2026-09-30",
+   "status": "已上线；更新=重跑fetch5a→parse/clean→apply-ratings"
+  },
+  {
+   "id": "rating-4a",
+   "title": "全国4A级旅游景区名录",
+   "url": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6AAAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA",
+   "officialBasis": "省级文旅厅评定体系，词条转录（分省名录节选）",
+   "scripts": ["fetch4a.cjs", "parse4a.cjs", "apply4a.cjs"],
+   "output": [".4a-list.json(1298条)", "各城包 cands[].rating='4A'"],
+   "matched": 209,
+   "fetchedAt": "2026-09-30",
+   "status": "已上线；缺皖/闽/赣/豫/湘5省标题解析待补；3A无单一名录未接入(显示机制就绪)"
+  },
+  {
+   "id": "geonames-cn",
+   "title": "GeoNames 中国全量地名（WGS84）",
+   "url": "https://download.geonames.org/export/dump/CN.zip",
+   "note": "32MB需 curl -C - 断点续传；本地CN.txt 132MB不入库；中国条目name为拼音",
+   "helperUrls": ["https://download.geonames.org/export/dump/admin1CodesASCII.txt", "https://download.geonames.org/export/dump/admin2Codes.txt"],
+   "scripts": ["geonames-match.cjs"],
+   "output": [".geonames-hits.json"],
+   "fetchedAt": "2026-09-30",
+   "usage": "云阳山精确坐标/桃江县锚定等"
+  },
+  {
+   "id": "osm-overpass",
+   "title": "OpenStreetMap Overpass（城市批量建包+音译检索）",
+   "urls": ["https://maps.mail.ru/osm/tools/overpass/api/interpreter", "https://overpass-api.de/api/interpreter", "https://overpass.kumi.systems/api/interpreter"],
+   "scripts": ["sync-scenic.cjs", "build-cities.cjs", "assign5a3.cjs", "final-pois2.cjs", "fix-wrong-pois.cjs", "sweep-phonetic.cjs", "add-parks.cjs"],
+   "output": ["各城 destinations/<id>.json", ".pending-still.json 等"],
+   "note": "mail.ru为主力；全国admin_level查询必504→逐城area；中文缺POI时用拼音音译(Asihatu)检索；结果必须城市限定+黑名单过滤",
+   "fetchedAt": "2026-09-28~30"
+  },
+  {
+   "id": "photon",
+   "title": "Photon 地理编码（OSM）",
+   "url": "https://photon.komoot.io/api/?q=<keyword>&limit=N",
+   "scripts": ["luan-coords.cjs", "coords6.cjs", "coords6b.cjs", "coords6c.cjs", "retry8.cjs"],
+   "note": "不支持 lang=zh(400)；纯名查询+结果内省市过滤，多词串常0结果",
+   "fetchedAt": "2026-09-28~30"
+  },
+  {
+   "id": "amap",
+   "title": "高德 Web服务 POI 校准",
+   "url": "https://restapi.amap.com/v3/place/text?keywords=&city=&key=",
+   "keyRef": "skill:amap-geocode/secrets/amap-key.txt（本地副本 yuyao-app/.amap-key.txt）",
+   "scripts": ["amap-calibrate.cjs", "amap-calibrate2.cjs"],
+   "output": ["6个待定点 GCJ→WGS 校准", "manual-points.json 状态"],
+   "note": "返回GCJ必须纠偏；city双限定+收费站黑名单；完整管线见 skill amap-geocode",
+   "fetchedAt": "2026-09-30"
+  },
+  {
+   "id": "city-packages",
+   "title": "城市包生成与索引",
+   "scripts": ["build-cities.cjs(断点续跑.build-progress-v2.json)", "gen-cities.cjs(省分组索引)", "gen-json.cjs", "sources.json/manual-points.json 维护脚本"],
+   "output": ["destinations/index.json(337城)", "destinations/*.json(337 ready)"],
+   "note": "每点 note 内标注具体来源([OSM]/[GeoNames]/[高德校准·GCJ→WGS]/[锚定·待核])，点级溯源看 note",
+   "fetchedAt": "2026-09-30"
+  },
+  {
+   "id": "yuyao-curated",
+   "title": "余姚策展数据包（人工整理）",
+   "scripts": ["gen-json.cjs", "add-parks.cjs(公园OSM)", "fix-malls.cjs/verify-malls.cjs(商场核验)", "apply-ratings.cjs"],
+   "output": "destinations/yuyao.json(46点)",
+   "note": "曾删3个臆造点(慈溪万达/余姚万达/余姚银泰)；商场经OSM/官网双核",
+   "fetchedAt": "2026-09-26~30"
+  }
+ ],
+ "attemptedAndRejected": [
+  { "target": "浙江省文旅厅A级名录", "url": "https://ct.zj.gov.cn/", "result": "JS动态栏目+无头TLS被拦，改用百科转录", "at": "2026-09-27" },
+  { "target": "六安市政府/文旅局名录", "urls": ["https://www.luan.gov.cn/", "https://www.ningbo.gov.cn/"], "result": "首页可达但深链名录页搜不到，改评级体系+坐标核验", "at": "2026-09-28" },
+  { "target": "高德网页 poiInfo / 页面fetch", "url": "https://www.amap.com/service/poiInfo", "result": "滑块风控/页面fetch超时→改Web服务key", "at": "2026-09-30" },
+  { "target": "百度qt老接口", "url": "https://map.baidu.com/?newmap=1&qt=s", "result": "need_recaptcha", "at": "2026-09-30" },
+  { "target": "Wikidata/wikiwand", "urls": ["https://www.wikidata.org/w/api.php", "https://www.wikiwand.com"], "result": "被墙(000)", "at": "2026-09-30" },
+  { "target": "搜狗地图老接口", "url": "http://map.sogou.com/apis/search/pc", "result": "空响应(已死)", "at": "2026-09-30" }
+ ]
+}

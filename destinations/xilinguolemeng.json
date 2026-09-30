@@ -16,7 +16,21 @@
    "lat": 40.7523,
    "tag": "景点",
    "drive": "约 1 小时",
-   "note": "[KNOWN·坐标photon] 锡林郭勒草原"
+   "note": "[KNOWN·坐标photon] 锡林郭勒草原",
+   "sources": [
+    {
+     "n": "坐标定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.7523/111.688"
+    },
+    {
+     "n": "Photon·查询",
+     "u": "https://photon.komoot.io/?q=%E9%94%A1%E6%9E%97%E9%83%AD%E5%8B%92%E8%8D%89%E5%8E%9F"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.xlgl.gov.cn/"
+    }
+   ]
   }
  ],
  "rings": [

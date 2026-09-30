@@ -18,7 +18,21 @@
    "drive": "约 4 小时",
    "rating": "5A",
    "ratingSrc": "国家5A名录(2025.3)",
-   "note": "[5A·OSM正名·克什克腾世界地质公园阿斯哈图石林园区] 精确坐标（音译检索命中）"
+   "note": "[5A·OSM正名·克什克腾世界地质公园阿斯哈图石林园区] 精确坐标（音译检索命中）",
+   "sources": [
+    {
+     "n": "5A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B65A%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/43.9537/117.5156"
+    },
+    {
+     "n": "市官网",
+     "u": "https://chifeng.gov.cn/"
+    }
+   ]
   }
  ],
  "rings": [

@@ -16,7 +16,17 @@
    "lat": 40.03732,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.03732/94.80421"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiuquan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "白马塔",
@@ -24,7 +34,17 @@
    "lat": 40.1312,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.1312/94.64853"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiuquan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "破城子遗址",
@@ -32,7 +52,17 @@
    "lat": 40.30582,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.30582/95.90718"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiuquan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "西千佛洞",
@@ -40,7 +70,17 @@
    "lat": 39.97539,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.97539/94.36451"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiuquan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "The peacock",
@@ -48,7 +88,17 @@
    "lat": 40.54228,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.54228/93.11268"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiuquan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "大地之子",
@@ -56,7 +106,17 @@
    "lat": 40.38152,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.38152/95.83817"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiuquan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "高老莊",
@@ -64,7 +124,17 @@
    "lat": 39.94701,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.94701/94.10199"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiuquan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "Chinesische Mauer",
@@ -72,7 +142,17 @@
    "lat": 40.31328,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.31328/93.62021"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiuquan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "寿昌城遗址",
@@ -80,7 +160,17 @@
    "lat": 39.91157,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.91157/94.10659"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiuquan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "鸣沙山",
@@ -90,7 +180,21 @@
    "drive": "",
    "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
    "rating": "5A",
-   "ratingSrc": "国家5A名录(2025.3·358家)"
+   "ratingSrc": "国家5A名录(2025.3·358家)",
+   "sources": [
+    {
+     "n": "5A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B65A%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.08371/94.67492"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiuquan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "玉门关遗址",
@@ -98,7 +202,17 @@
    "lat": 40.35361,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.35361/93.86408"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiuquan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "阳关景区",
@@ -106,7 +220,17 @@
    "lat": 39.93545,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.93545/94.05356"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiuquan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "野生胡杨",
@@ -114,7 +238,17 @@
    "lat": 40.02677,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.02677/98.84411"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiuquan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "沙枣林",
@@ -122,7 +256,17 @@
    "lat": 40.01984,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.01984/98.84544"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiuquan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "金色田园",
@@ -130,7 +274,17 @@
    "lat": 40.01822,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.01822/98.85348"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiuquan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "胡杨林",
@@ -140,7 +294,21 @@
    "drive": "",
    "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
    "rating": "5A",
-   "ratingSrc": "国家5A名录(2025.3·358家)"
+   "ratingSrc": "国家5A名录(2025.3·358家)",
+   "sources": [
+    {
+     "n": "5A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B65A%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.03667/98.82388"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiuquan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "芦苇迷宫",
@@ -148,7 +316,17 @@
    "lat": 40.05641,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.05641/98.79778"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiuquan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "瀚海红柳",
@@ -156,7 +334,17 @@
    "lat": 40.05049,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.05049/98.81408"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiuquan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "沙漠娱乐体验区",
@@ -164,7 +352,17 @@
    "lat": 40.0602,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.0602/98.77461"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiuquan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "塔林",
@@ -172,7 +370,17 @@
    "lat": 40.04004,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.04004/94.80737"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiuquan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "多坝沟胡杨峡",
@@ -180,7 +388,17 @@
    "lat": 39.77544,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.77544/93.44126"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiuquan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "Statue of man on a horse",
@@ -188,7 +406,17 @@
    "lat": 40.27089,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.27089/96.19905"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiuquan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "昌马石窟",
@@ -196,7 +424,17 @@
    "lat": 39.89348,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.89348/96.77945"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiuquan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "鼓楼",
@@ -204,7 +442,17 @@
    "lat": 39.74373,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.74373/98.50981"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiuquan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "西汉酒泉胜迹",
@@ -214,7 +462,21 @@
    "drive": "",
    "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
    "rating": "4A",
-   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)"
+   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)",
+   "sources": [
+    {
+     "n": "4A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6AAAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.74655/98.53242"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiuquan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "敦煌古城",
@@ -222,7 +484,17 @@
    "lat": 40.0564,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.0564/94.51793"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiuquan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "锁阳城遗址",
@@ -230,7 +502,17 @@
    "lat": 40.24674,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.24674/96.20263"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiuquan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "Guazhou City",
@@ -238,7 +520,17 @@
    "lat": 40.46512,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.46512/95.68224"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiuquan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "Guazhou City II",
@@ -246,7 +538,17 @@
    "lat": 40.48899,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.48899/95.69627"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiuquan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "六工城遗址",
@@ -254,7 +556,17 @@
    "lat": 40.39506,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.39506/95.59965"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiuquan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "鸣沙山月牙泉",
@@ -264,7 +576,21 @@
    "drive": "",
    "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
    "rating": "5A",
-   "ratingSrc": "国家5A名录(2025.3·358家)"
+   "ratingSrc": "国家5A名录(2025.3·358家)",
+   "sources": [
+    {
+     "n": "5A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B65A%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.08678/94.67456"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiuquan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "敦煌世界地质公园雅丹景区",
@@ -272,7 +598,17 @@
    "lat": 40.49575,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.49575/93.1158"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiuquan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "莫高窟景区",
@@ -280,7 +616,17 @@
    "lat": 40.04087,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.04087/94.80796"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiuquan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "月牙泉",
@@ -290,7 +636,21 @@
    "drive": "",
    "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
    "rating": "5A",
-   "ratingSrc": "国家5A名录(2025.3·358家)"
+   "ratingSrc": "国家5A名录(2025.3·358家)",
+   "sources": [
+    {
+     "n": "5A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B65A%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.08733/94.66939"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiuquan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "悬泉置遗址",
@@ -298,7 +658,17 @@
    "lat": 40.26482,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.26482/95.3298"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiuquan.gov.cn/"
+    }
+   ]
   }
  ],
  "rings": [

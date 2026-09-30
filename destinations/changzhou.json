@@ -16,7 +16,17 @@
    "lat": 31.16165,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.16165/119.51332"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.changzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "竹文化园",
@@ -24,7 +34,17 @@
    "lat": 31.16029,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.16029/119.51255"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.changzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "水西村江南指挥部政治部战地服务团旧址",
@@ -32,7 +52,17 @@
    "lat": 31.50864,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.50864/119.34011"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.changzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "水西村江南指挥部司令部通讯班旧址",
@@ -40,7 +70,17 @@
    "lat": 31.50872,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.50872/119.33968"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.changzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "水西村江南指挥部政治部印刷所旧址",
@@ -48,7 +88,17 @@
    "lat": 31.50847,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.50847/119.33934"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.changzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "西瀛门",
@@ -56,7 +106,17 @@
    "lat": 31.78043,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.78043/119.94522"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.changzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "通吴门",
@@ -64,7 +124,17 @@
    "lat": 31.77144,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.77144/119.96943"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.changzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "浅滩叠水",
@@ -72,7 +142,17 @@
    "lat": 31.77769,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.77769/119.96687"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.changzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "红梅春晓",
@@ -80,7 +160,17 @@
    "lat": 31.77522,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.77522/119.96819"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.changzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "翠薇秋霞",
@@ -88,7 +178,17 @@
    "lat": 31.77876,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.77876/119.96685"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.changzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "文笔夕照",
@@ -96,7 +196,17 @@
    "lat": 31.77454,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.77454/119.96964"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.changzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "曲池风荷",
@@ -104,7 +214,17 @@
    "lat": 31.77867,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.77867/119.96978"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.changzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "东南第一丛林",
@@ -112,7 +232,17 @@
    "lat": 31.77725,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.77725/119.96554"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.changzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "雪山劲松",
@@ -120,7 +250,17 @@
    "lat": 31.77847,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.77847/119.96819"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.changzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "青峦倒影",
@@ -128,7 +268,17 @@
    "lat": 31.77778,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.77778/119.9683"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.changzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "凤桥花径",
@@ -136,7 +286,17 @@
    "lat": 31.77605,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.77605/119.96923"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.changzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "古刹钟声",
@@ -144,7 +304,17 @@
    "lat": 31.77864,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.77864/119.96501"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.changzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "吴风遗韵",
@@ -152,7 +322,17 @@
    "lat": 31.77571,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.77571/119.97024"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.changzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "东坡古渡",
@@ -160,7 +340,17 @@
    "lat": 31.76859,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.76859/119.97268"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.changzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "篦梁灯火",
@@ -168,7 +358,17 @@
    "lat": 31.78204,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.78204/119.94287"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.changzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "文亨穿月",
@@ -176,7 +376,17 @@
    "lat": 31.78151,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.78151/119.94332"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.changzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "西城晚朓",
@@ -184,7 +394,17 @@
    "lat": 31.78062,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.78062/119.94488"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.changzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "莺啭琴音",
@@ -192,7 +412,17 @@
    "lat": 31.77863,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.77863/119.95208"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.changzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "晋陵遗韵",
@@ -200,7 +430,17 @@
    "lat": 31.77826,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.77826/119.95291"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.changzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "枕流飞瀑",
@@ -208,7 +448,17 @@
    "lat": 31.77917,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.77917/119.95304"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.changzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "虚舟",
@@ -216,7 +466,17 @@
    "lat": 31.78429,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.78429/119.9542"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.changzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "鉴湖一曲",
@@ -224,7 +484,17 @@
    "lat": 31.78441,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.78441/119.9541"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.changzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "尚书码头",
@@ -232,7 +502,17 @@
    "lat": 31.77752,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.77752/119.94767"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.changzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "神女湖观景台",
@@ -240,7 +520,17 @@
    "lat": 31.63905,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.63905/119.31244"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.changzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "神女之心观景台",
@@ -248,7 +538,17 @@
    "lat": 31.63911,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.63911/119.29199"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.changzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "汨罗霸观景台",
@@ -256,7 +556,17 @@
    "lat": 31.65477,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.65477/119.29908"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.changzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "尊经戴月",
@@ -264,7 +574,17 @@
    "lat": 31.79133,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.79133/119.94734"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.changzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "枫窗小牍",
@@ -272,7 +592,17 @@
    "lat": 31.79129,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.79129/119.9479"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.changzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "披星桂雨",
@@ -280,7 +610,17 @@
    "lat": 31.79207,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.79207/119.94749"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.changzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "坐水临流",
@@ -288,7 +628,17 @@
    "lat": 31.792,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.792/119.94811"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.changzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "白鸽广场",
@@ -296,7 +646,17 @@
    "lat": 31.69983,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.69983/119.91251"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.changzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "森林探险",
@@ -304,7 +664,17 @@
    "lat": 31.69987,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.69987/119.91503"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.changzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "非洲风情秀",
@@ -312,7 +682,17 @@
    "lat": 31.70253,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.70253/119.92652"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.changzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "马术体验营",
@@ -320,7 +700,17 @@
    "lat": 31.70066,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.70066/119.92453"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.changzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "儿童嘉年华",
@@ -328,7 +718,17 @@
    "lat": 31.70067,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.70067/119.925"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.changzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "百灵花鸟世界",
@@ -336,7 +736,17 @@
    "lat": 31.70334,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.70334/119.92414"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.changzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "水游淹城",
@@ -344,7 +754,17 @@
    "lat": 31.70399,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.70399/119.92478"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.changzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "爱宝乐园",
@@ -352,7 +772,17 @@
    "lat": 31.70245,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.70245/119.92336"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.changzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "中华恐龙馆",
@@ -360,7 +790,17 @@
    "lat": 31.82607,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.82607/119.99698"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.changzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "疯狂恐龙人",
@@ -368,7 +808,17 @@
    "lat": 31.82408,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.82408/119.99531"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.changzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "库克苏克",
@@ -376,7 +826,17 @@
    "lat": 31.82448,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.82448/119.99716"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.changzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "冒险港",
@@ -384,7 +844,17 @@
    "lat": 31.82499,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.82499/119.99874"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.changzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "鲁布拉",
@@ -392,7 +862,17 @@
    "lat": 31.82669,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.82669/119.99935"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.changzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "侏罗纪水世界",
@@ -400,7 +880,17 @@
    "lat": 31.82708,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.82708/119.99859"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.changzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "梦幻庄园",
@@ -408,7 +898,17 @@
    "lat": 31.82726,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.82726/119.99555"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.changzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "暴宝探险营",
@@ -416,7 +916,17 @@
    "lat": 31.82757,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.82757/119.99406"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.changzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "魔幻雨林",
@@ -424,7 +934,17 @@
    "lat": 31.82641,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.82641/119.99422"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.changzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "恐龙基因研究中心",
@@ -432,7 +952,17 @@
    "lat": 31.82569,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.82569/119.99366"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.changzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "诸葛八阵图村落",
@@ -440,7 +970,17 @@
    "lat": 31.58074,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.58074/119.62762"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.changzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "武侯亭",
@@ -448,7 +988,17 @@
    "lat": 31.58078,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.58078/119.62854"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.changzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "金坛区长荡湖旅游度假区",
@@ -456,7 +1006,17 @@
    "lat": 31.61739,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.61739/119.60844"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.changzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "森氧源境",
@@ -464,7 +1024,17 @@
    "lat": 32.03931,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.03931/119.83362"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.changzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "水母宕",
@@ -472,7 +1042,17 @@
    "lat": 32.04184,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.04184/119.8313"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.changzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "直溪巨龙宫",
@@ -480,7 +1060,17 @@
    "lat": 31.86539,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.86539/119.4215"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.changzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "揽月湾观光塔",
@@ -488,7 +1078,17 @@
    "lat": 31.68326,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.68326/119.8415"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.changzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "水西村江南指挥部司令部副官处旧址",
@@ -496,7 +1096,17 @@
    "lat": 31.50831,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.50831/119.3402"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.changzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "斑马",
@@ -504,7 +1114,17 @@
    "lat": 31.70094,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.70094/119.92066"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.changzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "长颈鹿",
@@ -512,7 +1132,17 @@
    "lat": 31.70079,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.70079/119.92172"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.changzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "棕熊",
@@ -520,7 +1150,17 @@
    "lat": 31.70001,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.70001/119.92012"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.changzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "金毛羚牛",
@@ -528,7 +1168,17 @@
    "lat": 31.70042,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.70042/119.91768"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.changzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "矮马",
@@ -536,7 +1186,17 @@
    "lat": 31.70042,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.70042/119.91816"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.changzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "野马",
@@ -544,7 +1204,17 @@
    "lat": 31.70045,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.70045/119.9187"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.changzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "非洲鸵鸟",
@@ -552,7 +1222,17 @@
    "lat": 31.70082,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.70082/119.92138"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.changzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "狼",
@@ -560,7 +1240,17 @@
    "lat": 31.69952,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.69952/119.91861"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.changzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "东北虎",
@@ -568,7 +1258,17 @@
    "lat": 31.69959,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.69959/119.91731"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.changzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "白虎",
@@ -576,7 +1276,17 @@
    "lat": 31.69964,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.69964/119.91613"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.changzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "非洲狮",
@@ -584,7 +1294,17 @@
    "lat": 31.70072,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.70072/119.91436"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.changzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "梅花鹿",
@@ -592,7 +1312,17 @@
    "lat": 31.70139,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.70139/119.91222"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.changzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "白黇鹿",
@@ -600,7 +1330,17 @@
    "lat": 31.70193,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.70193/119.91193"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.changzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "羊驼",
@@ -608,7 +1348,17 @@
    "lat": 31.7002,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.7002/119.91242"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.changzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "盘羊",
@@ -616,7 +1366,17 @@
    "lat": 31.70256,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.70256/119.9146"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.changzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "矮驴",
@@ -624,7 +1384,17 @@
    "lat": 31.70214,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.70214/119.91444"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.changzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "骆驼",
@@ -632,7 +1402,17 @@
    "lat": 31.70213,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.70213/119.91491"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.changzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "红熊猫",
@@ -640,7 +1420,17 @@
    "lat": 31.70058,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.70058/119.92398"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.changzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "非洲象",
@@ -648,7 +1438,17 @@
    "lat": 31.70083,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.70083/119.92317"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.changzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "河马",
@@ -656,7 +1456,17 @@
    "lat": 31.70092,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.70092/119.9261"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.changzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "袋鼠",
@@ -664,7 +1474,17 @@
    "lat": 31.70125,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.70125/119.92243"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.changzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "孔雀",
@@ -672,7 +1492,17 @@
    "lat": 31.70323,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.70323/119.92351"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.changzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "鹦鹉",
@@ -680,7 +1510,17 @@
    "lat": 31.70287,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.70287/119.92381"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.changzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "食蚁兽",
@@ -688,7 +1528,17 @@
    "lat": 31.70372,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.70372/119.92407"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.changzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "大熊猫",
@@ -696,7 +1546,17 @@
    "lat": 31.70347,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.70347/119.92529"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.changzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "黑猩猩",
@@ -704,7 +1564,17 @@
    "lat": 31.7041,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.7041/119.92592"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.changzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "白虎 东北虎",
@@ -712,7 +1582,17 @@
    "lat": 31.70369,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.70369/119.92692"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.changzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "猕猴",
@@ -720,7 +1600,17 @@
    "lat": 31.70447,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.70447/119.92683"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.changzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "节尾狐猴",
@@ -728,7 +1618,17 @@
    "lat": 31.70459,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.70459/119.92515"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.changzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "松鼠猴",
@@ -736,7 +1636,17 @@
    "lat": 31.70493,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.70493/119.92548"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.changzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "阿拉伯狒狒",
@@ -744,7 +1654,17 @@
    "lat": 31.7047,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.7047/119.92662"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.changzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "黑帽悬猴",
@@ -752,7 +1672,17 @@
    "lat": 31.70501,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.70501/119.92605"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.changzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "黑熊",
@@ -760,7 +1690,17 @@
    "lat": 31.70014,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.70014/119.91948"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.changzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "鹈鹕",
@@ -768,7 +1708,17 @@
    "lat": 31.70041,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.70041/119.9126"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.changzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "鸸鹋",
@@ -776,7 +1726,17 @@
    "lat": 31.70323,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.70323/119.91288"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.changzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "中共苏皖区一大会址",
@@ -784,7 +1744,17 @@
    "lat": 31.83877,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.83877/119.50124"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.changzhou.gov.cn/"
+    }
+   ]
   }
  ],
  "rings": [

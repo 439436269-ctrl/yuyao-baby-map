@@ -16,7 +16,17 @@
    "lat": 22.95913,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.95913/115.65228"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.shanwei.gov.cn/"
+    }
+   ]
   },
   {
    "n": "红海湾遮浪南海寺观世音旅游景区",
@@ -24,7 +34,17 @@
    "lat": 22.67084,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.67084/115.57382"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.shanwei.gov.cn/"
+    }
+   ]
   },
   {
    "n": "凤仪牌坊",
@@ -32,7 +52,17 @@
    "lat": 22.76619,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.76619/115.36568"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.shanwei.gov.cn/"
+    }
+   ]
   },
   {
    "n": "柴铺井",
@@ -40,7 +70,17 @@
    "lat": 22.76619,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.76619/115.36591"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.shanwei.gov.cn/"
+    }
+   ]
   },
   {
    "n": "相思园",
@@ -48,7 +88,17 @@
    "lat": 22.76615,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.76615/115.36629"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.shanwei.gov.cn/"
+    }
+   ]
   },
   {
    "n": "海陆丰戏曲脸谱园",
@@ -56,7 +106,17 @@
    "lat": 22.76717,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.76717/115.36696"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.shanwei.gov.cn/"
+    }
+   ]
   },
   {
    "n": "廻龙寺",
@@ -64,7 +124,17 @@
    "lat": 23.40068,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.40068/115.52947"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.shanwei.gov.cn/"
+    }
+   ]
   },
   {
    "n": "白水寨瀑布风景区",
@@ -72,7 +142,17 @@
    "lat": 23.42193,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.42193/115.59905"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.shanwei.gov.cn/"
+    }
+   ]
   },
   {
    "n": "黄布寨瀑布",
@@ -80,7 +160,17 @@
    "lat": 23.35719,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.35719/115.77048"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.shanwei.gov.cn/"
+    }
+   ]
   },
   {
    "n": "参将府遗址",
@@ -88,7 +178,17 @@
    "lat": 23.202,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.202/115.54332"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.shanwei.gov.cn/"
+    }
+   ]
   },
   {
    "n": "鲸鱼石",
@@ -96,7 +196,17 @@
    "lat": 23.33809,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.33809/115.65948"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.shanwei.gov.cn/"
+    }
+   ]
   },
   {
    "n": "华侨城·螺溪谷",
@@ -104,7 +214,17 @@
    "lat": 23.35392,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.35392/115.62338"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.shanwei.gov.cn/"
+    }
+   ]
   },
   {
    "n": "宝山村桐树下九厅十八井",
@@ -112,7 +232,17 @@
    "lat": 23.31389,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.31389/115.66231"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.shanwei.gov.cn/"
+    }
+   ]
   },
   {
    "n": "王汉璋烈士墓",
@@ -120,7 +250,17 @@
    "lat": 23.23084,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.23084/115.6825"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.shanwei.gov.cn/"
+    }
+   ]
   },
   {
    "n": "旱硿奇观",
@@ -128,7 +268,17 @@
    "lat": 23.41881,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.41881/115.62892"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.shanwei.gov.cn/"
+    }
+   ]
   },
   {
    "n": "金坑鸡爪地烈士纪念亭",
@@ -136,7 +286,17 @@
    "lat": 23.41543,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.41543/115.57601"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.shanwei.gov.cn/"
+    }
+   ]
   },
   {
    "n": "牵牛上石",
@@ -144,7 +304,17 @@
    "lat": 22.71768,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.71768/115.34689"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.shanwei.gov.cn/"
+    }
+   ]
   },
   {
    "n": "绝壁？",
@@ -152,7 +322,17 @@
    "lat": 22.71202,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.71202/115.35177"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.shanwei.gov.cn/"
+    }
+   ]
   },
   {
    "n": "鸡鸣寺",
@@ -160,7 +340,17 @@
    "lat": 23.04168,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.04168/115.25621"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.shanwei.gov.cn/"
+    }
+   ]
   },
   {
    "n": "红场",
@@ -168,7 +358,17 @@
    "lat": 22.97065,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.97065/115.33081"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.shanwei.gov.cn/"
+    }
+   ]
   },
   {
    "n": "莲花大佛",
@@ -176,7 +376,17 @@
    "lat": 23.03881,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.03881/115.25201"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.shanwei.gov.cn/"
+    }
+   ]
   },
   {
    "n": "鸡公髻嶂生态园",
@@ -184,7 +394,17 @@
    "lat": 23.2318,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.2318/115.67361"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.shanwei.gov.cn/"
+    }
+   ]
   },
   {
    "n": "汕尾市100kW岸式波力电站遗址",
@@ -192,7 +412,17 @@
    "lat": 22.67218,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.67218/115.57728"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.shanwei.gov.cn/"
+    }
+   ]
   },
   {
    "n": "凤山祖庙旅游区",
@@ -200,7 +430,17 @@
    "lat": 22.76607,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.76607/115.36691"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.shanwei.gov.cn/"
+    }
+   ]
   },
   {
    "n": "龙珠寺",
@@ -208,7 +448,17 @@
    "lat": 23.34924,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.34924/115.68261"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.shanwei.gov.cn/"
+    }
+   ]
   },
   {
    "n": "飞龙寺",
@@ -216,7 +466,17 @@
    "lat": 23.33836,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.33836/115.65948"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.shanwei.gov.cn/"
+    }
+   ]
   },
   {
    "n": "圆通寺",
@@ -224,7 +484,17 @@
    "lat": 23.12019,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.12019/115.54232"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.shanwei.gov.cn/"
+    }
+   ]
   },
   {
    "n": "岳坑农会旧址",
@@ -232,7 +502,17 @@
    "lat": 23.35299,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.35299/115.47531"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.shanwei.gov.cn/"
+    }
+   ]
   }
  ],
  "rings": [

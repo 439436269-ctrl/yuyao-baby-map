@@ -16,7 +16,21 @@
    "lat": 28.515906,
    "tag": "景点",
    "drive": "约 1.5 小时",
-   "note": "[高德校准·GCJ→WGS] 桃花江竹海"
+   "note": "[高德校准·GCJ→WGS] 桃花江竹海",
+   "sources": [
+    {
+     "n": "高德·按名搜索",
+     "u": "https://uri.amap.com/search?keyword=%E6%A1%83%E8%8A%B1%E6%B1%9F%E7%AB%B9%E6%B5%B7"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/28.515906/112.178397"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yiyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "桃花江镇",
@@ -24,7 +38,17 @@
    "lat": 28.5251,
    "tag": "景点",
    "drive": "约 1.5 小时",
-   "note": "[OSM·镇中心] 竹海门户小镇，桃花江命名地"
+   "note": "[OSM·镇中心] 竹海门户小镇，桃花江命名地",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/28.5251/112.1344"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yiyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "安化云台山",
@@ -32,7 +56,21 @@
    "lat": 28.363107,
    "tag": "景点",
    "drive": "约 2 小时",
-   "note": "[高德校准·GCJ→WGS] 云台山风景区"
+   "note": "[高德校准·GCJ→WGS] 云台山风景区",
+   "sources": [
+    {
+     "n": "高德·按名搜索",
+     "u": "https://uri.amap.com/search?keyword=%E5%AE%89%E5%8C%96%E4%BA%91%E5%8F%B0%E5%B1%B1"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/28.363107/110.993223"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yiyang.gov.cn/"
+    }
+   ]
   }
  ],
  "rings": [

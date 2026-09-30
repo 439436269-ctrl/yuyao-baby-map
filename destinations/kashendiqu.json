@@ -18,7 +18,25 @@
    "ratingSrc": "国家5A名录(2025.3)",
    "tag": "景点",
    "drive": "约 1 小时",
-   "note": "[5A·前缀归属·坐标photon] 喀什地区喀什古城景区"
+   "note": "[5A·前缀归属·坐标photon] 喀什地区喀什古城景区",
+   "sources": [
+    {
+     "n": "5A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B65A%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.4721/75.9876"
+    },
+    {
+     "n": "Photon·查询",
+     "u": "https://photon.komoot.io/?q=%E5%96%80%E4%BB%80%E5%8F%A4%E5%9F%8E%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.kashi.gov.cn/"
+    }
+   ]
   },
   {
    "n": "帕米尔旅游区",
@@ -28,7 +46,25 @@
    "ratingSrc": "国家5A名录(2025.3)",
    "tag": "景点",
    "drive": "约 1 小时",
-   "note": "[5A·前缀归属·坐标photon] 喀什地区帕米尔旅游区"
+   "note": "[5A·前缀归属·坐标photon] 喀什地区帕米尔旅游区",
+   "sources": [
+    {
+     "n": "5A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B65A%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/38.2749/74.916"
+    },
+    {
+     "n": "Photon·查询",
+     "u": "https://photon.komoot.io/?q=%E5%B8%95%E7%B1%B3%E5%B0%94%E6%97%85%E6%B8%B8%E5%8C%BA"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.kashi.gov.cn/"
+    }
+   ]
   }
  ],
  "rings": [

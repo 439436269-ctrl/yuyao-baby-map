@@ -16,7 +16,21 @@
    "lat": 47.9722,
    "tag": "景点",
    "drive": "约 1 小时",
-   "note": "[KNOWN·坐标photon] 龙江三峡国家森林公园"
+   "note": "[KNOWN·坐标photon] 龙江三峡国家森林公园",
+   "sources": [
+    {
+     "n": "坐标定位",
+     "u": "https://www.openstreetmap.org/#map=14/47.9722/130.7781"
+    },
+    {
+     "n": "Photon·查询",
+     "u": "https://photon.komoot.io/?q=%E9%BE%99%E6%B1%9F%E4%B8%89%E5%B3%A1%E5%9B%BD%E5%AE%B6%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9B%AD"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hegang.gov.cn/"
+    }
+   ]
   }
  ],
  "rings": [

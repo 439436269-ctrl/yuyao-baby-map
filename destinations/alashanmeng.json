@@ -18,7 +18,25 @@
    "ratingSrc": "国家5A名录(2025.3)",
    "tag": "景点",
    "drive": "约 1 小时",
-   "note": "[5A·前缀归属·坐标photon] 阿拉善盟胡杨林旅游区"
+   "note": "[5A·前缀归属·坐标photon] 阿拉善盟胡杨林旅游区",
+   "sources": [
+    {
+     "n": "5A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B65A%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/41.9663/101.0803"
+    },
+    {
+     "n": "Photon·查询",
+     "u": "https://photon.komoot.io/?q=%E8%83%A1%E6%9D%A8%E6%9E%97%E6%97%85%E6%B8%B8%E5%8C%BA"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.als.gov.cn/"
+    }
+   ]
   }
  ],
  "rings": [

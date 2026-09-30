@@ -16,7 +16,17 @@
    "lat": 21.68242,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/21.68242/108.69667"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qinzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "三娘湾",
@@ -24,7 +34,17 @@
    "lat": 21.63135,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/21.63135/108.78278"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qinzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "六峰山",
@@ -32,7 +52,17 @@
    "lat": 22.42145,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.42145/109.28422"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qinzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "碗窑梨花谷景区",
@@ -40,7 +70,17 @@
    "lat": 22.34251,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.34251/108.75453"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qinzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "钦州古龙窑",
@@ -48,7 +88,17 @@
    "lat": 21.96242,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/21.96242/108.63553"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qinzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "钦州千年古陶城",
@@ -56,7 +106,17 @@
    "lat": 21.92784,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/21.92784/108.68105"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qinzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "青梅林",
@@ -64,7 +124,17 @@
    "lat": 22.08172,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.08172/109.50842"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qinzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "观景长廊",
@@ -72,7 +142,17 @@
    "lat": 22.08032,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.08032/109.50971"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qinzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "绿澄湖",
@@ -80,7 +160,17 @@
    "lat": 22.07972,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.07972/109.50861"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qinzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "玉澄湖",
@@ -88,7 +178,17 @@
    "lat": 22.08006,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.08006/109.51041"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qinzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "仙岛公园",
@@ -96,7 +196,17 @@
    "lat": 21.74361,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/21.74361/108.59258"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qinzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "刘永福故居",
@@ -104,7 +214,17 @@
    "lat": 21.94776,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/21.94776/108.61791"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qinzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "骏马城雕碑记",
@@ -112,7 +232,17 @@
    "lat": 22.4173,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.4173/109.28657"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qinzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "钦州宋城墙遗址公园",
@@ -120,7 +250,17 @@
    "lat": 21.95528,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/21.95528/108.62046"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qinzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "北部湾花卉公园",
@@ -128,7 +268,17 @@
    "lat": 21.95014,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/21.95014/108.74017"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qinzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "林湖森林公园-林湖景区",
@@ -136,7 +286,17 @@
    "lat": 22.03919,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.03919/108.62289"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qinzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "六万大山自治区级森林公园",
@@ -144,7 +304,17 @@
    "lat": 22.57486,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.57486/109.8664"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qinzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "广西钦州林湖自治区级森林公园-王岗山景区",
@@ -152,7 +322,17 @@
    "lat": 22.00294,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.00294/108.21067"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qinzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "钦州八寨沟景区",
@@ -162,7 +342,21 @@
    "drive": "",
    "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
    "rating": "4A",
-   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)"
+   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)",
+   "sources": [
+    {
+     "n": "4A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6AAAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.09911/108.24878"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qinzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "浦北五皇山森林公园",
@@ -170,7 +364,17 @@
    "lat": 22.15839,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.15839/109.35055"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qinzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "六峰山-三海岩风景名胜区",
@@ -178,7 +382,17 @@
    "lat": 22.42093,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.42093/109.28057"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qinzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "钦州那雾山自治区级地质公园",
@@ -186,7 +400,17 @@
    "lat": 21.88716,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/21.88716/108.92687"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.qinzhou.gov.cn/"
+    }
+   ]
   }
  ],
  "rings": [

@@ -16,7 +16,17 @@
    "lat": 35.79681,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/35.79681/119.36785"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.weifang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "留山古火山国家森林公园",
@@ -24,7 +34,17 @@
    "lat": 36.28928,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.28928/118.98755"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.weifang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "云门山石窟造像",
@@ -32,7 +52,17 @@
    "lat": 36.64034,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.64034/118.45523"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.weifang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "驼山石窟",
@@ -40,7 +70,17 @@
    "lat": 36.64857,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.64857/118.43087"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.weifang.gov.cn/"
+    }
+   ]
   }
  ],
  "rings": [

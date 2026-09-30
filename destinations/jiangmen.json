@@ -16,7 +16,17 @@
    "lat": 22.27077,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.27077/113.09039"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "白水带民俗信仰区（江门）",
@@ -24,7 +34,17 @@
    "lat": 22.57981,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.57981/113.11122"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "一处山顶",
@@ -32,7 +52,17 @@
    "lat": 22.56162,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.56162/113.00162"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "云峰之顶",
@@ -40,7 +70,17 @@
    "lat": 22.55941,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.55941/113.00351"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "八贤亭",
@@ -48,7 +88,17 @@
    "lat": 22.55024,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.55024/113.02428"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "天鹅湖大坝",
@@ -56,7 +106,17 @@
    "lat": 22.56951,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.56951/113.01534"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "奥运廊",
@@ -64,7 +124,17 @@
    "lat": 22.5853,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.5853/113.117"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "小水坝",
@@ -72,7 +142,17 @@
    "lat": 22.5744,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.5744/113.01583"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "山涧幽谷",
@@ -80,7 +160,17 @@
    "lat": 22.58562,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.58562/113.11199"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "挑望",
@@ -88,7 +178,17 @@
    "lat": 22.56854,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.56854/113.03254"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "江门九寨",
@@ -96,7 +196,17 @@
    "lat": 22.5731,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.5731/113.00937"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "牌坊",
@@ -104,7 +214,17 @@
    "lat": 22.55804,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.55804/113.02211"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "玉台寺牌坊",
@@ -112,7 +232,17 @@
    "lat": 22.55136,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.55136/113.02314"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "白水带上龙光分叉",
@@ -120,7 +250,17 @@
    "lat": 22.5853,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.5853/113.11346"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "白水带水云天",
@@ -128,7 +268,17 @@
    "lat": 22.58799,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.58799/113.10942"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "白水带雪峰寺",
@@ -136,7 +286,17 @@
    "lat": 22.58635,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.58635/113.11517"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "白水带龙光塔广场",
@@ -144,7 +304,17 @@
    "lat": 22.58582,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.58582/113.12069"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "石标",
@@ -152,7 +322,17 @@
    "lat": 22.56452,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.56452/113.00195"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "竹林",
@@ -160,7 +340,17 @@
    "lat": 22.58558,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.58558/113.1104"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "老妖豆浆",
@@ -168,7 +358,17 @@
    "lat": 22.58321,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.58321/113.11141"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "至善亭",
@@ -176,7 +376,17 @@
    "lat": 22.58602,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.58602/113.11237"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "进山检查站",
@@ -184,7 +394,17 @@
    "lat": 22.58157,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.58157/113.02483"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "圭峰山森林公园永镇山门",
@@ -192,7 +412,17 @@
    "lat": 22.54494,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.54494/113.02765"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "去云峰入口1",
@@ -200,7 +430,17 @@
    "lat": 22.57398,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.57398/113.00805"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "拐弯2",
@@ -208,7 +448,17 @@
    "lat": 22.55496,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.55496/113.00021"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "最开阳处",
@@ -216,7 +466,17 @@
    "lat": 22.55547,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.55547/113.00575"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "转入密林",
@@ -224,7 +484,17 @@
    "lat": 22.55476,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.55476/113.00075"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "溪流源头1",
@@ -232,7 +502,17 @@
    "lat": 22.56613,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.56613/113.0223"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "自力村",
@@ -240,7 +520,17 @@
    "lat": 22.3765,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.3765/112.57454"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "观瀑布最佳位置",
@@ -248,7 +538,17 @@
    "lat": 22.56956,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.56956/113.01802"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "取水点",
@@ -256,7 +556,17 @@
    "lat": 22.56989,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.56989/113.01547"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "B线上山点",
@@ -264,7 +574,17 @@
    "lat": 22.56791,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.56791/113.03354"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "生物防火林标志",
@@ -272,7 +592,17 @@
    "lat": 22.57467,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.57467/113.01555"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "上狮子头坳口途经点_本次错路点",
@@ -280,7 +610,17 @@
    "lat": 22.17748,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.17748/112.95527"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "双龙瀑布",
@@ -288,7 +628,17 @@
    "lat": 22.20878,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.20878/112.98262"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "向阳水库营地",
@@ -296,7 +646,17 @@
    "lat": 22.1926,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.1926/112.99072"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "好泡泳溪",
@@ -304,7 +664,17 @@
    "lat": 22.17885,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.17885/112.96831"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "左五指山右黄茅凹",
@@ -312,7 +682,17 @@
    "lat": 22.216,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.216/112.96085"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "左狮子口右车桶坑",
@@ -320,7 +700,17 @@
    "lat": 22.17857,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.17857/112.95767"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "最正瀑布",
@@ -328,7 +718,17 @@
    "lat": 22.21012,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.21012/112.98191"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "望风朔补水及岔路",
@@ -336,7 +736,17 @@
    "lat": 22.15955,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.15955/112.96814"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "由此右转穿过竹林为正路_接前面岔口",
@@ -344,7 +754,17 @@
    "lat": 22.16805,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.16805/112.97117"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "补水",
@@ -352,7 +772,17 @@
    "lat": 22.16978,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.16978/112.9684"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "车桶坑补水",
@@ -360,7 +790,17 @@
    "lat": 22.1796,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.1796/112.95183"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "车桶坑顶下几米",
@@ -368,7 +808,17 @@
    "lat": 22.18075,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.18075/112.94953"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "长塘水库站长处",
@@ -376,7 +826,17 @@
    "lat": 22.17808,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.17808/112.98185"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "长塘水库营地",
@@ -384,7 +844,17 @@
    "lat": 22.18146,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.18146/112.96955"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "长塘车路",
@@ -392,7 +862,17 @@
    "lat": 22.18548,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.18548/112.98071"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "大石头",
@@ -400,7 +880,17 @@
    "lat": 22.56838,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.56838/113.02114"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "桃花岛入口",
@@ -408,7 +898,17 @@
    "lat": 22.58244,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.58244/113.10761"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "军事禁区标志",
@@ -416,7 +916,17 @@
    "lat": 22.58723,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.58723/113.10767"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "上山口",
@@ -424,7 +934,17 @@
    "lat": 22.64835,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.64835/113.01942"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "小路消失，开始溯溪",
@@ -432,7 +952,17 @@
    "lat": 22.15986,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.15986/112.97604"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "陡峭的溯溪路",
@@ -440,7 +970,17 @@
    "lat": 22.16012,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.16012/112.97515"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "分叉",
@@ -448,7 +988,17 @@
    "lat": 22.55481,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.55481/113.00093"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "天线",
@@ -456,7 +1006,17 @@
    "lat": 22.55936,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.55936/113.00353"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "桥",
@@ -464,7 +1024,17 @@
    "lat": 22.56913,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.56913/113.00297"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "水沟",
@@ -472,7 +1042,17 @@
    "lat": 22.56369,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.56369/113.0017"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "水渠开始",
@@ -480,7 +1060,17 @@
    "lat": 22.5547,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.5547/113.00103"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "水渠结束",
@@ -488,7 +1078,17 @@
    "lat": 22.5621,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.5621/113.01146"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "水源",
@@ -496,7 +1096,17 @@
    "lat": 22.5571,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.5571/113.00586"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "能看到天鹅湖的地方",
@@ -504,7 +1114,17 @@
    "lat": 22.56199,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.56199/113.01146"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "斜坡",
@@ -512,7 +1132,17 @@
    "lat": 22.57478,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.57478/113.01743"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "兰花场",
@@ -520,7 +1150,17 @@
    "lat": 22.45418,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.45418/112.24544"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "夹水",
@@ -528,7 +1168,17 @@
    "lat": 22.48771,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.48771/112.32882"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "古代路标",
@@ -536,7 +1186,17 @@
    "lat": 22.6416,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.6416/112.726"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "彩虹古村",
@@ -544,7 +1204,17 @@
    "lat": 22.63398,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.63398/112.72596"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "停车场",
@@ -552,7 +1222,17 @@
    "lat": 22.5391,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.5391/113.00869"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "农家乐",
@@ -560,7 +1240,17 @@
    "lat": 22.5364,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.5364/113.00637"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "客家村取水点",
@@ -568,7 +1258,17 @@
    "lat": 22.53656,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.53656/113.00651"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "水坝",
@@ -576,7 +1276,17 @@
    "lat": 22.54158,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.54158/113.01118"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "玩水处",
@@ -584,7 +1294,17 @@
    "lat": 22.54897,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.54897/113.01475"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "相思苑",
@@ -592,7 +1312,17 @@
    "lat": 22.54914,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.54914/113.01524"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "茅龙草堂",
@@ -600,7 +1330,17 @@
    "lat": 22.54885,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.54885/113.01465"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "五和二社旧址",
@@ -608,7 +1348,17 @@
    "lat": 22.55003,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.55003/112.97079"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "冈州林界",
@@ -616,7 +1366,17 @@
    "lat": 22.55171,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.55171/112.99461"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "下同和村分叉",
@@ -624,7 +1384,17 @@
    "lat": 22.5548,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.5548/113.00017"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "分叉口-未知道路",
@@ -632,7 +1402,17 @@
    "lat": 22.5579,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.5579/113.0031"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "卧龙石",
@@ -640,7 +1420,17 @@
    "lat": 22.55542,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.55542/113.00444"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "同和瀑布底",
@@ -648,7 +1438,17 @@
    "lat": 22.55486,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.55486/112.99049"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "心形石",
@@ -656,7 +1456,17 @@
    "lat": 22.55322,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.55322/113.00075"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "瀑布上山顶",
@@ -664,7 +1474,17 @@
    "lat": 22.55167,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.55167/112.99203"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "瀑布顶",
@@ -672,7 +1492,17 @@
    "lat": 22.55494,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.55494/112.99119"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "馒头峰",
@@ -680,7 +1510,17 @@
    "lat": 22.5561,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.5561/113.00423"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "441的山峰",
@@ -688,7 +1528,17 @@
    "lat": 22.55348,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.55348/112.99989"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "452米的山峰",
@@ -696,7 +1546,17 @@
    "lat": 22.55439,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.55439/113.00003"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "分叉-未探明道路",
@@ -704,7 +1564,17 @@
    "lat": 22.55493,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.55493/113.00505"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "上山路口",
@@ -712,7 +1582,17 @@
    "lat": 21.77557,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/21.77557/112.54865"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "基站电源",
@@ -720,7 +1600,17 @@
    "lat": 21.77376,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/21.77376/112.55149"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "水闸",
@@ -728,7 +1618,17 @@
    "lat": 21.77502,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/21.77502/112.55468"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "路边深沟位置",
@@ -736,7 +1636,17 @@
    "lat": 21.77677,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/21.77677/112.55349"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "路面终止点",
@@ -744,7 +1654,17 @@
    "lat": 21.77674,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/21.77674/112.55025"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "车能进入最深点",
@@ -752,7 +1672,17 @@
    "lat": 21.77489,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/21.77489/112.55531"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "鸡笼山基站",
@@ -760,7 +1690,17 @@
    "lat": 21.77373,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/21.77373/112.55911"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "东南亚风情园",
@@ -768,7 +1708,17 @@
    "lat": 21.78103,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/21.78103/112.54243"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "公婆石",
@@ -776,7 +1726,17 @@
    "lat": 21.89661,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/21.89661/112.97713"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "扯旗角",
@@ -784,7 +1744,17 @@
    "lat": 21.8767,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/21.8767/112.9531"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "裸露岩石",
@@ -792,7 +1762,17 @@
    "lat": 22.57779,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.57779/113.0302"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "水帘洞",
@@ -800,7 +1780,17 @@
    "lat": 22.59088,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.59088/113.08294"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "亭",
@@ -808,7 +1798,17 @@
    "lat": 22.54846,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.54846/113.02503"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "冈州第一峰牌坊",
@@ -816,7 +1816,17 @@
    "lat": 22.54985,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.54985/113.02068"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "碧霞楼",
@@ -824,7 +1834,17 @@
    "lat": 22.54333,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.54333/113.01704"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "险处",
@@ -832,7 +1852,17 @@
    "lat": 22.57755,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.57755/113.01587"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "大岩石地峰窝",
@@ -840,7 +1870,17 @@
    "lat": 22.55265,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.55265/113.00029"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "小灵岩",
@@ -848,7 +1888,17 @@
    "lat": 22.54705,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.54705/112.99995"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "石室",
@@ -856,7 +1906,17 @@
    "lat": 22.54442,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.54442/112.99949"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "吊钟花",
@@ -864,7 +1924,17 @@
    "lat": 22.56774,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.56774/113.02202"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "兽夹路",
@@ -872,7 +1942,17 @@
    "lat": 22.54809,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.54809/112.98962"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "大石路",
@@ -880,7 +1960,17 @@
    "lat": 22.54382,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.54382/112.98988"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "新宁铁路北街站原址",
@@ -888,7 +1978,17 @@
    "lat": 22.61064,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.61064/113.10768"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "瀑布底部",
@@ -896,7 +1996,17 @@
    "lat": 22.56956,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.56956/113.01768"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "香泉岭",
@@ -904,7 +2014,17 @@
    "lat": 22.72309,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.72309/113.01291"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "鳌峰山公园大门",
@@ -912,7 +2032,17 @@
    "lat": 22.19267,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.19267/112.30691"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "香家堡梦幻花世界",
@@ -920,7 +2050,17 @@
    "lat": 22.25177,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.25177/112.27209"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "near Led chip factory",
@@ -928,7 +2068,17 @@
    "lat": 22.64722,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.64722/113.1261"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "钦头沙滩",
@@ -936,7 +2086,17 @@
    "lat": 21.88362,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/21.88362/112.95955"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "新会葵林",
@@ -944,7 +2104,17 @@
    "lat": 22.50185,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.50185/112.99868"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "Goose City",
@@ -952,7 +2122,17 @@
    "lat": 22.38221,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.38221/112.65599"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "知青文化广场",
@@ -960,7 +2140,17 @@
    "lat": 22.62208,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.62208/113.07895"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "八卦山公园",
@@ -968,7 +2158,17 @@
    "lat": 22.62247,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.62247/113.07821"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "白水带公园登山径足球场入口处",
@@ -976,7 +2176,17 @@
    "lat": 22.58558,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.58558/113.10357"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "长廊",
@@ -984,7 +2194,17 @@
    "lat": 22.5225,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.5225/113.1276"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "梁启超故居纪念馆",
@@ -992,7 +2212,17 @@
    "lat": 22.46289,
    "tag": "室内",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.46289/113.06607"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "古劳水乡旅游区",
@@ -1000,7 +2230,17 @@
    "lat": 22.82465,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.82465/112.94938"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "石阶路上山路口",
@@ -1008,7 +2248,17 @@
    "lat": 22.57096,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.57096/113.00973"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "云峰环线",
@@ -1016,7 +2266,17 @@
    "lat": 22.55782,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.55782/113.00289"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "碉庄",
@@ -1024,7 +2284,17 @@
    "lat": 22.36953,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.36953/112.57649"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "恩平温泉国家地质公园",
@@ -1032,7 +2302,17 @@
    "lat": 22.11838,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.11838/112.17526"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "毓培别墅",
@@ -1040,7 +2320,17 @@
    "lat": 22.35206,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.35206/112.55811"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "浮月村洋楼",
@@ -1048,7 +2338,17 @@
    "lat": 22.03676,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.03676/112.80621"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "岭南小九寨",
@@ -1056,7 +2356,17 @@
    "lat": 21.99753,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/21.99753/112.69423"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "大浪湾婚纱摄影基地",
@@ -1064,7 +2374,17 @@
    "lat": 21.89357,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/21.89357/112.869"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "南六坡",
@@ -1072,7 +2392,17 @@
    "lat": 21.87927,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/21.87927/112.9449"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "水中碉楼",
@@ -1080,7 +2410,17 @@
    "lat": 22.23333,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.23333/112.66634"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "礼乐乡村绿廊",
@@ -1088,7 +2428,17 @@
    "lat": 22.55044,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.55044/113.08726"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "新会石涧",
@@ -1096,7 +2446,17 @@
    "lat": 22.54245,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.54245/113.01085"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "大成断桥",
@@ -1104,7 +2464,17 @@
    "lat": 22.38409,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.38409/112.74896"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "食尚天地",
@@ -1112,7 +2482,17 @@
    "lat": 22.47234,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.47234/112.76798"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "泉林黄金小镇",
@@ -1120,7 +2500,17 @@
    "lat": 22.16844,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.16844/112.37556"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "水步冈宁影视城",
@@ -1128,7 +2518,17 @@
    "lat": 22.37771,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.37771/112.73936"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "落羽水杉",
@@ -1136,7 +2536,17 @@
    "lat": 22.5459,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.5459/113.0112"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "雁山山泉",
@@ -1144,7 +2554,17 @@
    "lat": 22.7828,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.7828/113.01603"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "山言茶语",
@@ -1152,7 +2572,17 @@
    "lat": 22.78197,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.78197/113.01912"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "雁鸣谷",
@@ -1160,7 +2590,17 @@
    "lat": 22.78156,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.78156/113.01807"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "雁鸣池",
@@ -1168,7 +2608,17 @@
    "lat": 22.78084,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.78084/113.02218"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "雀花鸣翠",
@@ -1176,7 +2626,17 @@
    "lat": 22.78054,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.78054/113.02278"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "熙翠亭",
@@ -1184,7 +2644,17 @@
    "lat": 22.78085,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.78085/113.02325"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "映翠亭",
@@ -1192,7 +2662,17 @@
    "lat": 22.78047,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.78047/113.0237"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "清沽亭",
@@ -1200,7 +2680,17 @@
    "lat": 22.78072,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.78072/113.0239"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "贵人峰",
@@ -1208,7 +2698,17 @@
    "lat": 22.77413,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.77413/113.02011"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "电视塔",
@@ -1218,7 +2718,21 @@
    "drive": "",
    "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
    "rating": "5A",
-   "ratingSrc": "国家5A名录(2025.3·358家)"
+   "ratingSrc": "国家5A名录(2025.3·358家)",
+   "sources": [
+    {
+     "n": "5A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B65A%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.77507/113.02018"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "冠玉亭",
@@ -1226,7 +2740,17 @@
    "lat": 22.77184,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.77184/113.02165"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "狮子峰",
@@ -1236,7 +2760,21 @@
    "drive": "",
    "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
    "rating": "4A",
-   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)"
+   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)",
+   "sources": [
+    {
+     "n": "4A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6AAAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.78447/113.02017"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "陆佑亭",
@@ -1244,7 +2782,17 @@
    "lat": 22.78555,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.78555/113.02522"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "雁山笑佛",
@@ -1252,7 +2800,17 @@
    "lat": 22.78595,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.78595/113.02441"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "奇景小路",
@@ -1260,7 +2818,17 @@
    "lat": 22.78569,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.78569/113.02369"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "海元洞",
@@ -1268,7 +2836,17 @@
    "lat": 22.78585,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.78585/113.0252"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "状元门",
@@ -1276,7 +2854,17 @@
    "lat": 22.77953,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.77953/113.02815"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "状元坊",
@@ -1284,7 +2872,17 @@
    "lat": 22.77902,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.77902/113.02738"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "鹦鹉乐园",
@@ -1292,7 +2890,17 @@
    "lat": 22.77934,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.77934/113.02639"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "中共新会县委旧址纪念广场",
@@ -1300,7 +2908,17 @@
    "lat": 22.52865,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.52865/112.90201"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "那金谷",
@@ -1308,7 +2926,17 @@
    "lat": 22.14829,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.14829/112.38326"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "无尽夏",
@@ -1316,7 +2944,17 @@
    "lat": 22.58241,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.58241/113.10409"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "泥巴岛",
@@ -1324,7 +2962,17 @@
    "lat": 22.82533,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.82533/112.94727"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "古劳水乡童梦村",
@@ -1332,7 +2980,17 @@
    "lat": 22.82529,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.82529/112.94611"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "八棱亭",
@@ -1340,7 +2998,17 @@
    "lat": 22.54914,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.54914/113.02492"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "风采亭",
@@ -1348,7 +3016,17 @@
    "lat": 22.55038,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.55038/113.02079"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "灵兔望月",
@@ -1356,7 +3034,17 @@
    "lat": 21.712,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/21.712/112.3466"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "梁赞故居",
@@ -1364,7 +3052,17 @@
    "lat": 22.83012,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.83012/112.93414"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "云天顶",
@@ -1372,7 +3070,17 @@
    "lat": 22.46634,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.46634/112.24935"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "皂幕凌云",
@@ -1380,7 +3088,17 @@
    "lat": 22.71998,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.71998/112.77627"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "苏星半岛露营基地",
@@ -1388,7 +3106,17 @@
    "lat": 22.68823,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.68823/112.92373"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "花海世界",
@@ -1396,7 +3124,17 @@
    "lat": 21.78847,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/21.78847/112.54478"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "金星广场",
@@ -1404,7 +3142,17 @@
    "lat": 22.21688,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.21688/112.80742"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "香草地",
@@ -1412,7 +3160,17 @@
    "lat": 22.61176,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.61176/112.6576"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "西江美岸文创园",
@@ -1420,7 +3178,17 @@
    "lat": 22.8012,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.8012/113.01549"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "仙鹤高飞",
@@ -1428,7 +3196,17 @@
    "lat": 22.79321,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.79321/112.99789"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "江门铁桥旧址",
@@ -1436,7 +3214,17 @@
    "lat": 22.57612,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.57612/113.0837"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "THWUFO航空科技馆",
@@ -1444,7 +3232,17 @@
    "lat": 22.15808,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.15808/112.38006"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "飞机1",
@@ -1452,7 +3250,17 @@
    "lat": 22.18623,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.18623/112.32949"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "飞机2",
@@ -1460,7 +3268,17 @@
    "lat": 22.18606,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.18606/112.32975"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "陈皮村",
@@ -1468,7 +3286,17 @@
    "lat": 22.45616,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.45616/113.06589"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "凌云塔",
@@ -1476,7 +3304,17 @@
    "lat": 22.46495,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.46495/113.07008"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "三老纪念亭",
@@ -1484,7 +3322,17 @@
    "lat": 22.19607,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.19607/112.30888"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "冯如故居",
@@ -1492,7 +3340,17 @@
    "lat": 22.37542,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.37542/112.38125"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "官生居庐",
@@ -1500,7 +3358,17 @@
    "lat": 22.37652,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.37652/112.57415"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "居安楼",
@@ -1508,7 +3376,17 @@
    "lat": 22.37796,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.37796/112.57358"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "澜生居庐",
@@ -1516,7 +3394,17 @@
    "lat": 22.37687,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.37687/112.57391"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "龙胜楼",
@@ -1524,7 +3412,17 @@
    "lat": 22.37751,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.37751/112.57358"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "养闲别墅",
@@ -1532,7 +3430,17 @@
    "lat": 22.37722,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.37722/112.57335"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "球安居庐",
@@ -1540,7 +3448,17 @@
    "lat": 22.37718,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.37718/112.57294"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "叶生居庐",
@@ -1548,7 +3466,17 @@
    "lat": 22.37704,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.37704/112.57429"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "逸农庐",
@@ -1556,7 +3484,17 @@
    "lat": 22.3775,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.3775/112.5745"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "云幻楼",
@@ -1564,7 +3502,17 @@
    "lat": 22.37747,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.37747/112.57391"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "湛庐",
@@ -1572,7 +3520,17 @@
    "lat": 22.37643,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.37643/112.57487"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "小鸟天堂",
@@ -1580,7 +3538,17 @@
    "lat": 22.46226,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.46226/113.04638"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "桃花岛",
@@ -1588,7 +3556,17 @@
    "lat": 22.58359,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.58359/113.10692"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "海口埠文化楼",
@@ -1596,7 +3574,17 @@
    "lat": 22.0328,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.0328/112.77865"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "马降龙古村落",
@@ -1604,7 +3592,17 @@
    "lat": 22.28715,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.28715/112.56331"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "汀江圩华侨近代建筑群",
@@ -1612,7 +3610,17 @@
    "lat": 22.04434,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.04434/112.74209"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "凌云古塔",
@@ -1620,7 +3628,17 @@
    "lat": 22.25746,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.25746/112.77314"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "瑞石楼",
@@ -1628,7 +3646,17 @@
    "lat": 22.2618,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.2618/112.5208"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "锦江楼",
@@ -1636,7 +3664,17 @@
    "lat": 22.26172,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.26172/112.52063"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "升峰楼",
@@ -1644,7 +3682,17 @@
    "lat": 22.26165,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.26165/112.52047"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "赤坎古镇",
@@ -1652,7 +3700,17 @@
    "lat": 22.32701,
    "tag": "古镇",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.32701/112.58539"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "泮文楼",
@@ -1660,7 +3718,17 @@
    "lat": 22.35258,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.35258/112.55882"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "泮立楼",
@@ -1668,7 +3736,17 @@
    "lat": 22.35255,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.35255/112.55919"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "立园",
@@ -1676,7 +3754,17 @@
    "lat": 22.35273,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.35273/112.55989"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "晃庐",
@@ -1684,7 +3772,17 @@
    "lat": 22.35237,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.35237/112.55874"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "乐天楼",
@@ -1692,7 +3790,17 @@
    "lat": 22.35279,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.35279/112.55909"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "明庐",
@@ -1700,7 +3808,17 @@
    "lat": 22.35291,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.35291/112.55903"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "炯庐",
@@ -1708,7 +3826,17 @@
    "lat": 22.35268,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.35268/112.55913"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "稳庐",
@@ -1716,7 +3844,17 @@
    "lat": 22.35286,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.35286/112.5589"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "安庐",
@@ -1724,7 +3862,17 @@
    "lat": 22.37802,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.37802/112.57364"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "铭石楼",
@@ -1732,7 +3880,17 @@
    "lat": 22.37722,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.37722/112.57443"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "永庆楼",
@@ -1740,7 +3898,17 @@
    "lat": 22.37596,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.37596/112.57234"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "永安居庐",
@@ -1748,7 +3916,17 @@
    "lat": 22.37573,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.37573/112.57235"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "竹林楼",
@@ -1756,7 +3934,17 @@
    "lat": 22.37753,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.37753/112.57478"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "崖门古炮台",
@@ -1764,7 +3952,17 @@
    "lat": 22.22695,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.22695/113.08661"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "云礼石头村",
@@ -1772,7 +3970,17 @@
    "lat": 22.12607,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.12607/112.12674"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "恩平市清水河汽车露营基地（恩平市簕菜文化创意园）",
@@ -1780,7 +3988,17 @@
    "lat": 22.16858,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.16858/112.27394"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   },
   {
    "n": "歇马举人村",
@@ -1788,7 +4006,17 @@
    "lat": 22.24261,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.24261/112.36974"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.jiangmen.gov.cn/"
+    }
+   ]
   }
  ],
  "rings": [

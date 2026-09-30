@@ -16,7 +16,17 @@
    "lat": 32.39585,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.39585/120.56834"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nantong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "烟雨亭",
@@ -24,7 +34,17 @@
    "lat": 32.02401,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.02401/120.85524"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nantong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "药用植物园",
@@ -32,7 +52,17 @@
    "lat": 31.95936,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.95936/120.89897"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nantong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "盆景园",
@@ -40,7 +70,17 @@
    "lat": 31.94889,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.94889/120.9037"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nantong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "槭树杜鹃园",
@@ -48,7 +88,17 @@
    "lat": 31.96012,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.96012/120.90091"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nantong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "纤维园",
@@ -56,7 +106,17 @@
    "lat": 31.95854,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.95854/120.9008"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nantong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "海棠园",
@@ -64,7 +124,17 @@
    "lat": 31.95802,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.95802/120.90029"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nantong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "展览温室",
@@ -72,7 +142,17 @@
    "lat": 31.958,
    "tag": "室内",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.958/120.89866"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nantong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "菊园",
@@ -80,7 +160,17 @@
    "lat": 31.95878,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.95878/120.89804"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nantong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "竹园",
@@ -88,7 +178,17 @@
    "lat": 31.95893,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.95893/120.89749"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nantong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "黄色花园",
@@ -96,7 +196,17 @@
    "lat": 31.95799,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.95799/120.89689"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nantong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "木兰园",
@@ -104,7 +214,17 @@
    "lat": 31.9573,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.9573/120.89555"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nantong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "红色花园",
@@ -112,7 +232,17 @@
    "lat": 31.95557,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.95557/120.89701"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nantong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "假山叠水",
@@ -120,7 +250,17 @@
    "lat": 31.95631,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.95631/120.89664"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nantong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "紫色花园",
@@ -128,7 +268,17 @@
    "lat": 31.95461,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.95461/120.89975"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nantong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "游船码头",
@@ -136,7 +286,17 @@
    "lat": 31.95439,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.95439/120.8984"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nantong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "白色花园",
@@ -144,7 +304,17 @@
    "lat": 31.95452,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.95452/120.89727"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nantong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "蔷薇园",
@@ -152,7 +322,17 @@
    "lat": 31.95315,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.95315/120.89914"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nantong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "藤蔓园",
@@ -160,7 +340,17 @@
    "lat": 31.95184,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.95184/120.89916"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nantong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "水生蔬菜园",
@@ -168,7 +358,17 @@
    "lat": 31.95157,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.95157/120.90087"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nantong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "科普馆",
@@ -176,7 +376,17 @@
    "lat": 31.9521,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.9521/120.90173"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nantong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "莲园",
@@ -184,7 +394,17 @@
    "lat": 31.95271,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.95271/120.90219"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nantong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "水生花卉园",
@@ -192,7 +412,17 @@
    "lat": 31.95202,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.95202/120.90361"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nantong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "植物信息中心",
@@ -200,7 +430,17 @@
    "lat": 31.95142,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.95142/120.90541"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nantong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "植物引种区",
@@ -208,7 +448,17 @@
    "lat": 31.95344,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.95344/120.90578"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nantong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "水生树木园",
@@ -216,7 +466,17 @@
    "lat": 31.95392,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.95392/120.90313"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nantong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "粉色花园",
@@ -224,7 +484,17 @@
    "lat": 31.95556,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.95556/120.90011"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nantong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "樱花园",
@@ -232,7 +502,17 @@
    "lat": 31.9555,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.9555/120.90121"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nantong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "珍惜园",
@@ -240,7 +520,17 @@
    "lat": 31.95551,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.95551/120.9034"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nantong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "地震台",
@@ -248,7 +538,17 @@
    "lat": 31.95232,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.95232/120.88908"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nantong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "田园印迹",
@@ -256,7 +556,17 @@
    "lat": 31.95267,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.95267/120.89426"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nantong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "桃园谧境",
@@ -264,7 +574,17 @@
    "lat": 31.9521,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.9521/120.89194"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nantong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "三生台",
@@ -272,7 +592,17 @@
    "lat": 31.95146,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.95146/120.89249"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nantong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "集贤里",
@@ -280,7 +610,17 @@
    "lat": 32.39229,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.39229/120.56572"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nantong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "西山咀",
@@ -288,7 +628,17 @@
    "lat": 31.95224,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.95224/120.87997"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nantong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "异兽园",
@@ -296,7 +646,17 @@
    "lat": 31.95347,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.95347/120.88134"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nantong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "文化碑林",
@@ -304,7 +664,17 @@
    "lat": 31.95381,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.95381/120.88239"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nantong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "翠微亭",
@@ -312,7 +682,17 @@
    "lat": 31.95315,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.95315/120.88421"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nantong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "摩崖石刻",
@@ -320,7 +700,17 @@
    "lat": 31.95307,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.95307/120.88439"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nantong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "提名坡",
@@ -328,7 +718,17 @@
    "lat": 31.95291,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.95291/120.88461"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nantong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "狼山狼",
@@ -336,7 +736,17 @@
    "lat": 31.95143,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.95143/120.88644"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nantong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "许愿树",
@@ -344,7 +754,17 @@
    "lat": 31.95104,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.95104/120.88641"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nantong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "狼山赋",
@@ -352,7 +772,17 @@
    "lat": 31.95116,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.95116/120.88575"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nantong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "幻公塔",
@@ -360,7 +790,17 @@
    "lat": 31.95165,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.95165/120.88437"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nantong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "磊落矶",
@@ -368,7 +808,17 @@
    "lat": 31.95344,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.95344/120.88428"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nantong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "翕崖",
@@ -376,7 +826,17 @@
    "lat": 31.95343,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.95343/120.88418"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nantong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "抚台平倭碑",
@@ -384,7 +844,17 @@
    "lat": 31.95171,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.95171/120.88446"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nantong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "望江亭",
@@ -392,7 +862,17 @@
    "lat": 31.95209,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.95209/120.88512"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nantong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "沙淦碑亭",
@@ -400,7 +880,17 @@
    "lat": 31.95183,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.95183/120.88363"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nantong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "康熙御书碑亭",
@@ -408,7 +898,17 @@
    "lat": 31.95225,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.95225/120.88378"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nantong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "白雅雨墓",
@@ -416,7 +916,17 @@
    "lat": 31.95218,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.95218/120.88276"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nantong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "振衣亭",
@@ -424,7 +934,17 @@
    "lat": 31.95221,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.95221/120.88274"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nantong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "挹翠亭",
@@ -432,7 +952,17 @@
    "lat": 31.95233,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.95233/120.88052"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nantong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "通海垦牧公司",
@@ -440,7 +970,17 @@
    "lat": 31.99296,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.99296/121.69768"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nantong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "水绘园风景区",
@@ -450,7 +990,21 @@
    "drive": "",
    "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
    "rating": "4A",
-   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)"
+   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)",
+   "sources": [
+    {
+     "n": "4A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6AAAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.39795/120.5649"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nantong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "定慧禅寺",
@@ -458,7 +1012,17 @@
    "lat": 32.39118,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.39118/120.56779"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nantong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "丁堰古镇",
@@ -466,7 +1030,17 @@
    "lat": 32.36177,
    "tag": "古镇",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.36177/120.71356"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nantong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "石庄古镇",
@@ -474,7 +1048,17 @@
    "lat": 32.14758,
    "tag": "古镇",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.14758/120.5171"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nantong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "林梓古镇",
@@ -482,7 +1066,17 @@
    "lat": 32.29683,
    "tag": "古镇",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.29683/120.7418"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nantong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "东陈古镇",
@@ -490,7 +1084,17 @@
    "lat": 32.40393,
    "tag": "古镇",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.40393/120.64465"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nantong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "圆通宝鼎",
@@ -498,7 +1102,17 @@
    "lat": 31.95004,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.95004/120.8772"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nantong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "謇园",
@@ -506,7 +1120,17 @@
    "lat": 31.9533,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.9533/120.88542"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nantong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "林溪精舍",
@@ -514,7 +1138,17 @@
    "lat": 31.95317,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.95317/120.88444"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nantong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "松巅阁",
@@ -522,7 +1156,17 @@
    "lat": 31.9535,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.9535/120.88425"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nantong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "赵绘沈秀之楼",
@@ -530,7 +1174,17 @@
    "lat": 31.95278,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.95278/120.88489"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nantong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "入山之门",
@@ -538,7 +1192,17 @@
    "lat": 31.95128,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.95128/120.88691"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nantong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "石坊三墓",
@@ -546,7 +1210,17 @@
    "lat": 31.95119,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.95119/120.88565"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nantong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "濠濮间",
@@ -554,7 +1228,17 @@
    "lat": 31.95166,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.95166/120.88674"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nantong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "山水涧",
@@ -562,7 +1246,17 @@
    "lat": 31.95116,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.95116/120.88716"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nantong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "紫琅园",
@@ -570,7 +1264,17 @@
    "lat": 31.95099,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.95099/120.88585"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nantong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "支云塔",
@@ -578,7 +1282,17 @@
    "lat": 31.95272,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.95272/120.88279"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nantong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "葵竹山房",
@@ -586,7 +1300,17 @@
    "lat": 31.95233,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.95233/120.88414"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nantong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "无量轩",
@@ -594,7 +1318,17 @@
    "lat": 31.95025,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.95025/120.88572"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nantong.gov.cn/"
+    }
+   ]
   }
  ],
  "rings": [

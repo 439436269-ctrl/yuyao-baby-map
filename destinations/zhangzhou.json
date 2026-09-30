@@ -16,7 +16,17 @@
    "lat": 24.65138,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/24.65138/117.05349"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhangzhou.gov.cn/cms/html/zzsrmzf/index.html/"
+    }
+   ]
   },
   {
    "n": "东升楼",
@@ -24,7 +34,17 @@
    "lat": 24.11315,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/24.11315/116.97968"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhangzhou.gov.cn/cms/html/zzsrmzf/index.html/"
+    }
+   ]
   },
   {
    "n": "庄上大楼",
@@ -32,7 +52,17 @@
    "lat": 24.11478,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/24.11478/117.10371"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhangzhou.gov.cn/cms/html/zzsrmzf/index.html/"
+    }
+   ]
   },
   {
    "n": "名峰山庄",
@@ -40,7 +70,17 @@
    "lat": 24.21544,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/24.21544/117.08325"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhangzhou.gov.cn/cms/html/zzsrmzf/index.html/"
+    }
+   ]
   },
   {
    "n": "翡翠湾",
@@ -48,7 +88,17 @@
    "lat": 23.94657,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.94657/117.77015"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhangzhou.gov.cn/cms/html/zzsrmzf/index.html/"
+    }
+   ]
   },
   {
    "n": "六鳌古城",
@@ -56,7 +106,17 @@
    "lat": 23.93314,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.93314/117.74768"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhangzhou.gov.cn/cms/html/zzsrmzf/index.html/"
+    }
+   ]
   },
   {
    "n": "风动石",
@@ -66,7 +126,21 @@
    "drive": "",
    "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
    "rating": "4A",
-   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)"
+   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)",
+   "sources": [
+    {
+     "n": "4A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6AAAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.73669/117.53551"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhangzhou.gov.cn/cms/html/zzsrmzf/index.html/"
+    }
+   ]
   },
   {
    "n": "云水谣古镇",
@@ -74,7 +148,17 @@
    "lat": 24.66806,
    "tag": "古镇",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/24.66806/117.08974"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhangzhou.gov.cn/cms/html/zzsrmzf/index.html/"
+    }
+   ]
   },
   {
    "n": "田中赋土楼群",
@@ -82,7 +166,17 @@
    "lat": 24.62185,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/24.62185/117.11499"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhangzhou.gov.cn/cms/html/zzsrmzf/index.html/"
+    }
+   ]
   },
   {
    "n": "望洋台",
@@ -90,7 +184,17 @@
    "lat": 23.60739,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.60739/117.24118"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhangzhou.gov.cn/cms/html/zzsrmzf/index.html/"
+    }
+   ]
   },
   {
    "n": "风车",
@@ -98,7 +202,17 @@
    "lat": 24.21547,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/24.21547/117.10238"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhangzhou.gov.cn/cms/html/zzsrmzf/index.html/"
+    }
+   ]
   },
   {
    "n": "田螺坑土楼群",
@@ -106,7 +220,17 @@
    "lat": 24.587,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/24.587/117.05605"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhangzhou.gov.cn/cms/html/zzsrmzf/index.html/"
+    }
+   ]
   },
   {
    "n": "南门湾",
@@ -114,7 +238,17 @@
    "lat": 23.73072,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.73072/117.52165"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhangzhou.gov.cn/cms/html/zzsrmzf/index.html/"
+    }
+   ]
   },
   {
    "n": "诒安堡",
@@ -122,7 +256,17 @@
    "lat": 24.1764,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/24.1764/117.81281"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhangzhou.gov.cn/cms/html/zzsrmzf/index.html/"
+    }
+   ]
   },
   {
    "n": "漳浦文庙",
@@ -130,7 +274,17 @@
    "lat": 24.11476,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/24.11476/117.61066"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhangzhou.gov.cn/cms/html/zzsrmzf/index.html/"
+    }
+   ]
   },
   {
    "n": "灵通岩",
@@ -138,7 +292,17 @@
    "lat": 24.15432,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/24.15432/117.14993"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhangzhou.gov.cn/cms/html/zzsrmzf/index.html/"
+    }
+   ]
   },
   {
    "n": "大地土楼群",
@@ -146,7 +310,17 @@
    "lat": 25.02397,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.02397/117.6845"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhangzhou.gov.cn/cms/html/zzsrmzf/index.html/"
+    }
+   ]
   },
   {
    "n": "怀远楼",
@@ -154,7 +328,17 @@
    "lat": 24.67502,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/24.67502/117.08938"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhangzhou.gov.cn/cms/html/zzsrmzf/index.html/"
+    }
+   ]
   },
   {
    "n": "漳州滨海火山地质公园",
@@ -162,7 +346,17 @@
    "lat": 24.20815,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/24.20815/118.02139"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhangzhou.gov.cn/cms/html/zzsrmzf/index.html/"
+    }
+   ]
   },
   {
    "n": "龙美湾抽象画廊景区",
@@ -170,7 +364,17 @@
    "lat": 23.96513,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.96513/117.79545"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhangzhou.gov.cn/cms/html/zzsrmzf/index.html/"
+    }
+   ]
   },
   {
    "n": "文公祠",
@@ -180,7 +384,21 @@
    "drive": "",
    "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
    "rating": "4A",
-   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)"
+   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)",
+   "sources": [
+    {
+     "n": "4A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6AAAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.73814/117.52946"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhangzhou.gov.cn/cms/html/zzsrmzf/index.html/"
+    }
+   ]
   }
  ],
  "rings": [

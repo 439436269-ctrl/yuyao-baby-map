@@ -16,7 +16,17 @@
    "lat": 27.75389,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/27.75389/100.74966"
+    },
+    {
+     "n": "市官网",
+     "u": "https://lijiang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "洛克故居",
@@ -24,7 +34,17 @@
    "lat": 27.01504,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/27.01504/100.21269"
+    },
+    {
+     "n": "市官网",
+     "u": "https://lijiang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "纳西古乐会",
@@ -32,7 +52,17 @@
    "lat": 26.87735,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/26.87735/100.23293"
+    },
+    {
+     "n": "市官网",
+     "u": "https://lijiang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "黑龙潭",
@@ -42,7 +72,21 @@
    "drive": "",
    "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
    "rating": "4A",
-   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)"
+   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)",
+   "sources": [
+    {
+     "n": "4A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6AAAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/26.88694/100.2331"
+    },
+    {
+     "n": "市官网",
+     "u": "https://lijiang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "虎跳峡",
@@ -52,7 +96,21 @@
    "drive": "",
    "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
    "rating": "4A",
-   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)"
+   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)",
+   "sources": [
+    {
+     "n": "4A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6AAAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/27.2044/100.12064"
+    },
+    {
+     "n": "市官网",
+     "u": "https://lijiang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "Mill",
@@ -60,7 +118,17 @@
    "lat": 27.02574,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/27.02574/99.69993"
+    },
+    {
+     "n": "市官网",
+     "u": "https://lijiang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "中虎跳峡",
@@ -68,7 +136,17 @@
    "lat": 27.25549,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/27.25549/100.16428"
+    },
+    {
+     "n": "市官网",
+     "u": "https://lijiang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "老虎嘴",
@@ -76,7 +154,17 @@
    "lat": 27.50355,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/27.50355/100.41816"
+    },
+    {
+     "n": "市官网",
+     "u": "https://lijiang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "三眼井",
@@ -84,7 +172,17 @@
    "lat": 26.87324,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/26.87324/100.23611"
+    },
+    {
+     "n": "市官网",
+     "u": "https://lijiang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "祥和院",
@@ -92,7 +190,17 @@
    "lat": 26.87097,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/26.87097/100.23245"
+    },
+    {
+     "n": "市官网",
+     "u": "https://lijiang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "何家大院",
@@ -100,7 +208,17 @@
    "lat": 26.28831,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/26.28831/100.6214"
+    },
+    {
+     "n": "市官网",
+     "u": "https://lijiang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "阮家大院",
@@ -108,7 +226,17 @@
    "lat": 26.39704,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/26.39704/100.6489"
+    },
+    {
+     "n": "市官网",
+     "u": "https://lijiang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "清水刘慥故居",
@@ -116,7 +244,17 @@
    "lat": 26.39838,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/26.39838/100.64998"
+    },
+    {
+     "n": "市官网",
+     "u": "https://lijiang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "清水胡家宅院",
@@ -124,7 +262,17 @@
    "lat": 26.4001,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/26.4001/100.65009"
+    },
+    {
+     "n": "市官网",
+     "u": "https://lijiang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "清水彭家宅院",
@@ -132,7 +280,17 @@
    "lat": 26.40291,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/26.40291/100.65103"
+    },
+    {
+     "n": "市官网",
+     "u": "https://lijiang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "清水黄星海进士院",
@@ -140,7 +298,17 @@
    "lat": 26.40114,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/26.40114/100.65093"
+    },
+    {
+     "n": "市官网",
+     "u": "https://lijiang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "玉龙雪山飞行基地",
@@ -148,7 +316,17 @@
    "lat": 26.99705,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/26.99705/100.23623"
+    },
+    {
+     "n": "市官网",
+     "u": "https://lijiang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "上元茶课所",
@@ -156,7 +334,17 @@
    "lat": 26.92867,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/26.92867/100.05319"
+    },
+    {
+     "n": "市官网",
+     "u": "https://lijiang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "邱塘关",
@@ -164,7 +352,17 @@
    "lat": 26.77889,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/26.77889/100.26344"
+    },
+    {
+     "n": "市官网",
+     "u": "https://lijiang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "觉显塔遗址",
@@ -172,7 +370,17 @@
    "lat": 26.77255,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/26.77255/100.26733"
+    },
+    {
+     "n": "市官网",
+     "u": "https://lijiang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "文明坊",
@@ -180,7 +388,17 @@
    "lat": 26.88678,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/26.88678/100.23225"
+    },
+    {
+     "n": "市官网",
+     "u": "https://lijiang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "铁虹桥",
@@ -188,7 +406,17 @@
    "lat": 26.871,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/26.871/99.95623"
+    },
+    {
+     "n": "市官网",
+     "u": "https://lijiang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "金龙桥",
@@ -196,7 +424,17 @@
    "lat": 26.78436,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/26.78436/100.38886"
+    },
+    {
+     "n": "市官网",
+     "u": "https://lijiang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "牦牛坪",
@@ -204,7 +442,17 @@
    "lat": 27.17052,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/27.17052/100.24122"
+    },
+    {
+     "n": "市官网",
+     "u": "https://lijiang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "万古楼",
@@ -212,7 +460,17 @@
    "lat": 26.87381,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/26.87381/100.2302"
+    },
+    {
+     "n": "市官网",
+     "u": "https://lijiang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "拉市海湿地公园",
@@ -220,7 +478,17 @@
    "lat": 26.86468,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/26.86468/100.13806"
+    },
+    {
+     "n": "市官网",
+     "u": "https://lijiang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "九十九龙潭景区",
@@ -228,7 +496,17 @@
    "lat": 26.65208,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/26.65208/99.77529"
+    },
+    {
+     "n": "市官网",
+     "u": "https://lijiang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "上虎跳峡",
@@ -236,7 +514,17 @@
    "lat": 27.19219,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/27.19219/100.11413"
+    },
+    {
+     "n": "市官网",
+     "u": "https://lijiang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "接风楼",
@@ -244,7 +532,17 @@
    "lat": 26.87542,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/26.87542/100.22942"
+    },
+    {
+     "n": "市官网",
+     "u": "https://lijiang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "丽江古城",
@@ -252,7 +550,17 @@
    "lat": 26.87389,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/26.87389/100.23571"
+    },
+    {
+     "n": "市官网",
+     "u": "https://lijiang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "顾彼得旧居",
@@ -260,7 +568,17 @@
    "lat": 26.87607,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/26.87607/100.22821"
+    },
+    {
+     "n": "市官网",
+     "u": "https://lijiang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "束河古镇",
@@ -268,7 +586,17 @@
    "lat": 26.92349,
    "tag": "古镇",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/26.92349/100.20393"
+    },
+    {
+     "n": "市官网",
+     "u": "https://lijiang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "科贡坊",
@@ -276,7 +604,17 @@
    "lat": 26.87575,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/26.87575/100.23242"
+    },
+    {
+     "n": "市官网",
+     "u": "https://lijiang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "木府",
@@ -284,7 +622,17 @@
    "lat": 26.87293,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/26.87293/100.23227"
+    },
+    {
+     "n": "市官网",
+     "u": "https://lijiang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "大石桥",
@@ -292,7 +640,17 @@
    "lat": 26.87574,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/26.87574/100.23376"
+    },
+    {
+     "n": "市官网",
+     "u": "https://lijiang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "四方街",
@@ -300,7 +658,17 @@
    "lat": 26.87554,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/26.87554/100.23287"
+    },
+    {
+     "n": "市官网",
+     "u": "https://lijiang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "九色玫瑰小镇",
@@ -308,7 +676,17 @@
    "lat": 26.70388,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/26.70388/100.23039"
+    },
+    {
+     "n": "市官网",
+     "u": "https://lijiang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "蓝月谷",
@@ -316,7 +694,17 @@
    "lat": 27.12939,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/27.12939/100.24192"
+    },
+    {
+     "n": "市官网",
+     "u": "https://lijiang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "白沙古镇",
@@ -324,7 +712,17 @@
    "lat": 26.95651,
    "tag": "古镇",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/26.95651/100.21493"
+    },
+    {
+     "n": "市官网",
+     "u": "https://lijiang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "云杉坪",
@@ -332,7 +730,17 @@
    "lat": 27.1435,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/27.1435/100.22995"
+    },
+    {
+     "n": "市官网",
+     "u": "https://lijiang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "宝山石头城",
@@ -340,7 +748,17 @@
    "lat": 27.47585,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/27.47585/100.43089"
+    },
+    {
+     "n": "市官网",
+     "u": "https://lijiang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "刘家宅院",
@@ -348,7 +766,17 @@
    "lat": 26.40024,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/26.40024/100.65054"
+    },
+    {
+     "n": "市官网",
+     "u": "https://lijiang.gov.cn/"
+    }
+   ]
   }
  ],
  "rings": [

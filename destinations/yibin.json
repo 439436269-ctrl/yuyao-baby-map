@@ -16,7 +16,17 @@
    "lat": 28.77572,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/28.77572/104.63479"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yibin.gov.cn/"
+    }
+   ]
   },
   {
    "n": "同济大学理学院(旧址)",
@@ -24,7 +34,17 @@
    "lat": 28.80954,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/28.80954/104.79779"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yibin.gov.cn/"
+    }
+   ]
   },
   {
    "n": "双眼井",
@@ -32,7 +52,17 @@
    "lat": 28.80704,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/28.80704/104.7977"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yibin.gov.cn/"
+    }
+   ]
   },
   {
    "n": "石燕门槛",
@@ -40,7 +70,17 @@
    "lat": 28.80743,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/28.80743/104.79934"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yibin.gov.cn/"
+    }
+   ]
   },
   {
    "n": "叙州城墙",
@@ -48,7 +88,17 @@
    "lat": 28.76914,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/28.76914/104.6286"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yibin.gov.cn/"
+    }
+   ]
   },
   {
    "n": "僰人悬棺",
@@ -56,7 +106,17 @@
    "lat": 28.03372,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/28.03372/104.82095"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yibin.gov.cn/"
+    }
+   ]
   },
   {
    "n": "冠英古街",
@@ -64,7 +124,17 @@
    "lat": 28.76928,
    "tag": "古镇",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/28.76928/104.62799"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yibin.gov.cn/"
+    }
+   ]
   },
   {
    "n": "化石迷宫",
@@ -72,7 +142,17 @@
    "lat": 28.17975,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/28.17975/105.13853"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yibin.gov.cn/"
+    }
+   ]
   },
   {
    "n": "悬棺",
@@ -80,7 +160,17 @@
    "lat": 28.1843,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/28.1843/105.14278"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yibin.gov.cn/"
+    }
+   ]
   },
   {
    "n": "国立同济大学医学院旧址",
@@ -88,7 +178,17 @@
    "lat": 28.80841,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/28.80841/104.79703"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yibin.gov.cn/"
+    }
+   ]
   },
   {
    "n": "刘家院",
@@ -96,7 +196,17 @@
    "lat": 28.80797,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/28.80797/104.79662"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yibin.gov.cn/"
+    }
+   ]
   },
   {
    "n": "五粮液“利川永”老窖池",
@@ -104,7 +214,17 @@
    "lat": 28.77675,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/28.77675/104.61913"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yibin.gov.cn/"
+    }
+   ]
   },
   {
    "n": "五粮液“长发升”老窖池",
@@ -112,7 +232,17 @@
    "lat": 28.77151,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/28.77151/104.62735"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yibin.gov.cn/"
+    }
+   ]
   },
   {
    "n": "筠连县凌云关",
@@ -120,7 +250,17 @@
    "lat": 28.19314,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/28.19314/104.53718"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yibin.gov.cn/"
+    }
+   ]
   },
   {
    "n": "清溪沟茶文化公园",
@@ -128,7 +268,17 @@
    "lat": 28.10526,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/28.10526/104.4483"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yibin.gov.cn/"
+    }
+   ]
   },
   {
    "n": "Wangyou Valley Entrance",
@@ -136,7 +286,17 @@
    "lat": 28.45963,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/28.45963/104.98098"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yibin.gov.cn/"
+    }
+   ]
   },
   {
    "n": "Grand Canyon Ropeway",
@@ -144,7 +304,17 @@
    "lat": 28.46224,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/28.46224/105.01435"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yibin.gov.cn/"
+    }
+   ]
   },
   {
    "n": "花台寺石刻",
@@ -152,7 +322,17 @@
    "lat": 28.76878,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/28.76878/104.62741"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yibin.gov.cn/"
+    }
+   ]
   },
   {
    "n": "内昆铁路旧线桥墩",
@@ -160,7 +340,17 @@
    "lat": 28.38675,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/28.38675/104.26759"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yibin.gov.cn/"
+    }
+   ]
   },
   {
    "n": "隆兴石室墓群",
@@ -168,7 +358,17 @@
    "lat": 29.02169,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/29.02169/104.45107"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yibin.gov.cn/"
+    }
+   ]
   },
   {
    "n": "兴文世界地质公园",
@@ -176,7 +376,17 @@
    "lat": 28.1865,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/28.1865/105.13888"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yibin.gov.cn/"
+    }
+   ]
   },
   {
    "n": "夫妻峰",
@@ -184,7 +394,17 @@
    "lat": 28.1814,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/28.1814/105.14091"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yibin.gov.cn/"
+    }
+   ]
   },
   {
    "n": "三江一览楼",
@@ -192,7 +412,17 @@
    "lat": 28.77066,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/28.77066/104.60752"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yibin.gov.cn/"
+    }
+   ]
   },
   {
    "n": "天河温泉",
@@ -200,7 +430,17 @@
    "lat": 28.12846,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/28.12846/104.55652"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yibin.gov.cn/"
+    }
+   ]
   },
   {
    "n": "大雪山景点",
@@ -208,7 +448,17 @@
    "lat": 27.88801,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/27.88801/104.7568"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yibin.gov.cn/"
+    }
+   ]
   }
  ],
  "rings": [

@@ -16,7 +16,17 @@
    "lat": 32.0189,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.0189/112.14839"
+    },
+    {
+     "n": "市官网",
+     "u": "http://xiangyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "文官",
@@ -24,7 +34,17 @@
    "lat": 31.9941,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.9941/112.02683"
+    },
+    {
+     "n": "市官网",
+     "u": "http://xiangyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "武将",
@@ -32,7 +52,17 @@
    "lat": 31.99419,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.99419/112.02684"
+    },
+    {
+     "n": "市官网",
+     "u": "http://xiangyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "襄阳市廉政文化教育基地",
@@ -40,7 +70,17 @@
    "lat": 31.99406,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.99406/112.02797"
+    },
+    {
+     "n": "市官网",
+     "u": "http://xiangyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "三神殿",
@@ -48,7 +88,17 @@
    "lat": 32.26325,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.26325/111.64943"
+    },
+    {
+     "n": "市官网",
+     "u": "http://xiangyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "濠水",
@@ -56,7 +106,17 @@
    "lat": 32.01874,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.01874/112.15395"
+    },
+    {
+     "n": "市官网",
+     "u": "http://xiangyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "仲宣楼",
@@ -64,7 +124,17 @@
    "lat": 32.01533,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.01533/112.15765"
+    },
+    {
+     "n": "市官网",
+     "u": "http://xiangyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "北街",
@@ -72,7 +142,17 @@
    "lat": 32.02278,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.02278/112.14318"
+    },
+    {
+     "n": "市官网",
+     "u": "http://xiangyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "昭明台",
@@ -80,7 +160,17 @@
    "lat": 32.02026,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.02026/112.14524"
+    },
+    {
+     "n": "市官网",
+     "u": "http://xiangyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "县学宫大成殿",
@@ -88,7 +178,17 @@
    "lat": 32.0195,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.0195/112.14417"
+    },
+    {
+     "n": "市官网",
+     "u": "http://xiangyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "隆中景区",
@@ -96,7 +196,17 @@
    "lat": 31.99687,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.99687/112.02154"
+    },
+    {
+     "n": "市官网",
+     "u": "http://xiangyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "习家池",
@@ -104,7 +214,17 @@
    "lat": 31.98413,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.98413/112.15923"
+    },
+    {
+     "n": "市官网",
+     "u": "http://xiangyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "吟啸山庄",
@@ -112,7 +232,17 @@
    "lat": 31.9945,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.9945/112.02907"
+    },
+    {
+     "n": "市官网",
+     "u": "http://xiangyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "三顾堂",
@@ -120,7 +250,17 @@
    "lat": 31.99352,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.99352/112.02603"
+    },
+    {
+     "n": "市官网",
+     "u": "http://xiangyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "诸葛亮卧室",
@@ -128,7 +268,17 @@
    "lat": 31.99307,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.99307/112.02579"
+    },
+    {
+     "n": "市官网",
+     "u": "http://xiangyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "卧龙深处",
@@ -136,7 +286,17 @@
    "lat": 31.99368,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.99368/112.02493"
+    },
+    {
+     "n": "市官网",
+     "u": "http://xiangyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "三义殿",
@@ -144,7 +304,17 @@
    "lat": 31.99407,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.99407/112.02643"
+    },
+    {
+     "n": "市官网",
+     "u": "http://xiangyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "武侯祠游览区",
@@ -152,7 +322,17 @@
    "lat": 31.99413,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.99413/112.02681"
+    },
+    {
+     "n": "市官网",
+     "u": "http://xiangyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "诸葛草庐",
@@ -160,7 +340,17 @@
    "lat": 31.99286,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.99286/112.02585"
+    },
+    {
+     "n": "市官网",
+     "u": "http://xiangyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "诸葛均卧室",
@@ -168,7 +358,17 @@
    "lat": 31.99313,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.99313/112.02605"
+    },
+    {
+     "n": "市官网",
+     "u": "http://xiangyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "三顾堂游览区",
@@ -176,7 +376,17 @@
    "lat": 31.99362,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.99362/112.02603"
+    },
+    {
+     "n": "市官网",
+     "u": "http://xiangyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "诸葛草庐游览区",
@@ -184,7 +394,17 @@
    "lat": 31.99298,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.99298/112.0259"
+    },
+    {
+     "n": "市官网",
+     "u": "http://xiangyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "水镜庄风景区",
@@ -192,7 +412,17 @@
    "lat": 31.76461,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.76461/111.83223"
+    },
+    {
+     "n": "市官网",
+     "u": "http://xiangyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "米公祠风景区",
@@ -200,7 +430,17 @@
    "lat": 32.03177,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.03177/112.13855"
+    },
+    {
+     "n": "市官网",
+     "u": "http://xiangyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "白水寺景区",
@@ -208,7 +448,17 @@
    "lat": 31.97537,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.97537/112.75348"
+    },
+    {
+     "n": "市官网",
+     "u": "http://xiangyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "管家巷",
@@ -216,7 +466,17 @@
    "lat": 32.02454,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.02454/112.14372"
+    },
+    {
+     "n": "市官网",
+     "u": "http://xiangyang.gov.cn/"
+    }
+   ]
   }
  ],
  "rings": [

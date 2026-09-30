@@ -16,7 +16,17 @@
    "lat": 28.14038,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/28.14038/120.85289"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.wenzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "Xianju Covered Bridge",
@@ -24,7 +34,17 @@
    "lat": 27.57788,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/27.57788/119.75188"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.wenzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "Tongle Covered Bridge",
@@ -32,7 +52,17 @@
    "lat": 27.59674,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/27.59674/119.66676"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.wenzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "Labyrinth",
@@ -40,7 +70,17 @@
    "lat": 27.31505,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/27.31505/120.4288"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.wenzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "帆影公园",
@@ -48,7 +88,17 @@
    "lat": 28.02428,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/28.02428/120.63125"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.wenzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "千年大榕树",
@@ -56,7 +106,17 @@
    "lat": 27.99021,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/27.99021/120.62834"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.wenzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "大龙湫景区",
@@ -64,7 +124,17 @@
    "lat": 28.35337,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/28.35337/121.04922"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.wenzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "丽花亭",
@@ -72,7 +142,17 @@
    "lat": 27.97089,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/27.97089/120.70567"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.wenzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "南雁荡山东西洞景区",
@@ -80,7 +160,17 @@
    "lat": 27.59846,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/27.59846/120.2798"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.wenzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "南雁荡山顺溪景区",
@@ -88,7 +178,17 @@
    "lat": 27.54641,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/27.54641/120.17127"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.wenzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "南雁荡山碧海天城景区",
@@ -96,7 +196,17 @@
    "lat": 27.6035,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/27.6035/120.23431"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.wenzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "南雁荡山赤岩山景区",
@@ -104,7 +214,17 @@
    "lat": 27.70489,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/27.70489/120.28488"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.wenzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "南雁荡山明王峰景区",
@@ -112,7 +232,17 @@
    "lat": 27.69622,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/27.69622/120.20107"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.wenzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "丽塘井",
@@ -120,7 +250,17 @@
    "lat": 27.92281,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/27.92281/120.65199"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.wenzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "寺前桥",
@@ -128,7 +268,17 @@
    "lat": 28.0672,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/28.0672/120.50697"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.wenzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "东瓯名胜",
@@ -136,7 +286,17 @@
    "lat": 28.01905,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/28.01905/120.66171"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.wenzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "温州天主堂",
@@ -144,7 +304,17 @@
    "lat": 28.01618,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/28.01618/120.64966"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.wenzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "天下第一门",
@@ -152,7 +322,17 @@
    "lat": 28.37689,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/28.37689/121.03884"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.wenzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "灯雨龙舌",
@@ -160,7 +340,17 @@
    "lat": 27.92255,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/27.92255/120.64941"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.wenzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "葛凯明彻",
@@ -168,7 +358,17 @@
    "lat": 27.92212,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/27.92212/120.65048"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.wenzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "我建犹怜",
@@ -176,7 +376,17 @@
    "lat": 27.92164,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/27.92164/120.65045"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.wenzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "小心石楠",
@@ -184,7 +394,17 @@
    "lat": 27.92469,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/27.92469/120.64943"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.wenzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "交垟土楼 Jiaoyang Tulou (Earth Building)",
@@ -192,7 +412,17 @@
    "lat": 27.55197,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/27.55197/119.73975"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.wenzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "文重廊桥 Wenchong Covered Bridge",
@@ -200,7 +430,17 @@
    "lat": 27.54834,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/27.54834/119.91241"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.wenzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "东垟戏台 Dongyang Old Theater",
@@ -208,7 +448,17 @@
    "lat": 27.54836,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/27.54836/119.91153"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.wenzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "徐岙底古村 Xu'aodi Old Town",
@@ -216,7 +466,17 @@
    "lat": 27.56058,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/27.56058/119.90593"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.wenzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "将军桥 Jiangjun Covered Bridge",
@@ -224,7 +484,17 @@
    "lat": 27.62101,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/27.62101/119.92969"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.wenzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "库村 Ku Village",
@@ -232,7 +502,17 @@
    "lat": 27.62621,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/27.62621/119.9354"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.wenzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "苍坡古村 Cangpo Old Village",
@@ -240,7 +520,17 @@
    "lat": 28.36261,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/28.36261/120.74591"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.wenzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "岭上人家 Houses on the hill",
@@ -248,7 +538,17 @@
    "lat": 28.39369,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/28.39369/120.87869"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.wenzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "芙蓉古村 Furong Old Village",
@@ -256,7 +556,17 @@
    "lat": 28.33328,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/28.33328/120.73202"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.wenzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "丽水古街 Lishui Old Street",
@@ -264,7 +574,17 @@
    "lat": 28.34152,
    "tag": "古镇",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/28.34152/120.73086"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.wenzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "林坑 Linkeng Old Village",
@@ -272,7 +592,17 @@
    "lat": 28.54594,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/28.54594/120.69983"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.wenzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "三甲大树",
@@ -280,7 +610,17 @@
    "lat": 27.86208,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/27.86208/120.78717"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.wenzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "半屏山",
@@ -288,7 +628,17 @@
    "lat": 27.80437,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/27.80437/121.13839"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.wenzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "大沙岙",
@@ -296,7 +646,17 @@
    "lat": 27.82151,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/27.82151/121.17146"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.wenzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "雁荡山南閤牌楼群",
@@ -304,7 +664,17 @@
    "lat": 28.40176,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/28.40176/121.07335"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.wenzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "雁荡山飞拉达",
@@ -312,7 +682,17 @@
    "lat": 28.39925,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/28.39925/121.04958"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.wenzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "梧田老街",
@@ -320,7 +700,17 @@
    "lat": 27.97203,
    "tag": "古镇",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/27.97203/120.67562"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.wenzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "永昌堡",
@@ -328,7 +718,17 @@
    "lat": 27.90827,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/27.90827/120.81205"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.wenzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "仙公宫",
@@ -336,7 +736,17 @@
    "lat": 27.24035,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/27.24035/120.44235"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.wenzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "章纶故居",
@@ -344,7 +754,17 @@
    "lat": 28.3998,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/28.3998/121.07283"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.wenzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "显胜门景区",
@@ -352,7 +772,17 @@
    "lat": 28.37852,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/28.37852/121.03962"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.wenzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "望海楼",
@@ -360,7 +790,17 @@
    "lat": 27.84008,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/27.84008/121.125"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.wenzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "大雄宝殿",
@@ -368,7 +808,17 @@
    "lat": 27.24001,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/27.24001/120.44102"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.wenzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "西竺寺",
@@ -376,7 +826,17 @@
    "lat": 27.23977,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/27.23977/120.44091"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.wenzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "雷公殿",
@@ -384,7 +844,17 @@
    "lat": 27.23967,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/27.23967/120.44111"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.wenzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "杨府庙",
@@ -392,7 +862,17 @@
    "lat": 27.23956,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/27.23956/120.44086"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.wenzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "陈公祠",
@@ -400,7 +880,17 @@
    "lat": 27.23904,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/27.23904/120.44128"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.wenzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "龙山亭",
@@ -408,7 +898,17 @@
    "lat": 27.24049,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/27.24049/120.44251"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.wenzhou.gov.cn/"
+    }
+   ]
   }
  ],
  "rings": [

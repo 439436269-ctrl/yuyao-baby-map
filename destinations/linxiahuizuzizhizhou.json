@@ -16,7 +16,17 @@
    "lat": 36.05475,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.05475/103.2578"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.linxia.gov.cn/"
+    }
+   ]
   },
   {
    "n": "摩天轮",
@@ -26,7 +36,21 @@
    "drive": "",
    "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
    "rating": "4A",
-   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)"
+   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)",
+   "sources": [
+    {
+     "n": "4A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6AAAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/35.60366/103.22368"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.linxia.gov.cn/"
+    }
+   ]
   },
   {
    "n": "蝴蝶楼",
@@ -34,7 +58,17 @@
    "lat": 35.58687,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/35.58687/103.2011"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.linxia.gov.cn/"
+    }
+   ]
   },
   {
    "n": "影壁",
@@ -42,7 +76,17 @@
    "lat": 35.59364,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/35.59364/103.20688"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.linxia.gov.cn/"
+    }
+   ]
   },
   {
    "n": "积石民俗村",
@@ -50,7 +94,17 @@
    "lat": 35.70631,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/35.70631/102.8585"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.linxia.gov.cn/"
+    }
+   ]
   },
   {
    "n": "肖红坪景区",
@@ -58,7 +112,17 @@
    "lat": 35.75246,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/35.75246/102.80313"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.linxia.gov.cn/"
+    }
+   ]
   },
   {
    "n": "Hipparion Fauna Fossil",
@@ -66,7 +130,17 @@
    "lat": 35.35542,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/35.35542/103.42035"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.linxia.gov.cn/"
+    }
+   ]
   },
   {
    "n": "八坊十三巷",
@@ -74,7 +148,17 @@
    "lat": 35.59109,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/35.59109/103.20805"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.linxia.gov.cn/"
+    }
+   ]
   }
  ],
  "rings": [

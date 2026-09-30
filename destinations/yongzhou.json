@@ -16,7 +16,17 @@
    "lat": 25.25453,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.25453/112.05665"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yongzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "朝阳岩石刻",
@@ -24,7 +34,17 @@
    "lat": 26.20794,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/26.20794/111.60979"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yongzhou.gov.cn/"
+    }
+   ]
   },
   {
    "n": "女书园",
@@ -32,7 +52,17 @@
    "lat": 25.3565,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.3565/111.44845"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.yongzhou.gov.cn/"
+    }
+   ]
   }
  ],
  "rings": [

@@ -18,7 +18,25 @@
    "drive": "约 20 分钟",
    "note": "[坐标photon] 5A·世界遗产，拉萨必打卡",
    "rating": "5A",
-   "ratingSrc": "国家5A名录(2025.3·358家)"
+   "ratingSrc": "国家5A名录(2025.3·358家)",
+   "sources": [
+    {
+     "n": "5A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B65A%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "坐标定位",
+     "u": "https://www.openstreetmap.org/#map=14/29.6579/91.1174"
+    },
+    {
+     "n": "Photon·查询",
+     "u": "https://photon.komoot.io/?q=%E5%B8%83%E8%BE%BE%E6%8B%89%E5%AE%AB"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.lasa.gov.cn/"
+    }
+   ]
   },
   {
    "n": "大昭寺",
@@ -28,7 +46,25 @@
    "drive": "约 20 分钟",
    "note": "[坐标photon] 4A·转经朝拜中心，八廓街环抱",
    "rating": "5A",
-   "ratingSrc": "国家5A名录(2025.3·358家)"
+   "ratingSrc": "国家5A名录(2025.3·358家)",
+   "sources": [
+    {
+     "n": "5A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B65A%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "坐标定位",
+     "u": "https://www.openstreetmap.org/#map=14/29.6529/91.1318"
+    },
+    {
+     "n": "Photon·查询",
+     "u": "https://photon.komoot.io/?q=%E5%A4%A7%E6%98%AD%E5%AF%BA"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.lasa.gov.cn/"
+    }
+   ]
   },
   {
    "n": "八廓街",
@@ -36,7 +72,21 @@
    "lat": 29.6526,
    "tag": "景点",
    "drive": "约 20 分钟",
-   "note": "[坐标photon] 环大昭寺老街，慢逛买手信"
+   "note": "[坐标photon] 环大昭寺老街，慢逛买手信",
+   "sources": [
+    {
+     "n": "坐标定位",
+     "u": "https://www.openstreetmap.org/#map=14/29.6526/91.1318"
+    },
+    {
+     "n": "Photon·查询",
+     "u": "https://photon.komoot.io/?q=%E5%85%AB%E5%BB%93%E8%A1%97"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.lasa.gov.cn/"
+    }
+   ]
   },
   {
    "n": "罗布林卡",
@@ -46,7 +96,25 @@
    "drive": "约 25 分钟",
    "note": "[坐标photon] 达赖夏宫园林，树荫多好推车",
    "rating": "4A",
-   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)"
+   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)",
+   "sources": [
+    {
+     "n": "4A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6AAAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "坐标定位",
+     "u": "https://www.openstreetmap.org/#map=14/29.6546/91.09"
+    },
+    {
+     "n": "Photon·查询",
+     "u": "https://photon.komoot.io/?q=%E7%BD%97%E5%B8%83%E6%9E%97%E5%8D%A1"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.lasa.gov.cn/"
+    }
+   ]
   },
   {
    "n": "哲蚌寺",
@@ -54,7 +122,21 @@
    "lat": 29.6768,
    "tag": "景点",
    "drive": "约 35 分钟",
-   "note": "[坐标photon] 世界最大藏传佛寺之一，山坡寺群"
+   "note": "[坐标photon] 世界最大藏传佛寺之一，山坡寺群",
+   "sources": [
+    {
+     "n": "坐标定位",
+     "u": "https://www.openstreetmap.org/#map=14/29.6768/91.0469"
+    },
+    {
+     "n": "Photon·查询",
+     "u": "https://photon.komoot.io/?q=%E5%93%B2%E8%9A%8C%E5%AF%BA"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.lasa.gov.cn/"
+    }
+   ]
   },
   {
    "n": "色拉寺",
@@ -62,7 +144,21 @@
    "lat": 29.6979,
    "tag": "景点",
    "drive": "约 30 分钟",
-   "note": "[坐标photon] 辩经闻名，下午场辩经值得看"
+   "note": "[坐标photon] 辩经闻名，下午场辩经值得看",
+   "sources": [
+    {
+     "n": "坐标定位",
+     "u": "https://www.openstreetmap.org/#map=14/29.6979/91.1329"
+    },
+    {
+     "n": "Photon·查询",
+     "u": "https://photon.komoot.io/?q=%E8%89%B2%E6%8B%89%E5%AF%BA"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.lasa.gov.cn/"
+    }
+   ]
   },
   {
    "n": "西藏博物馆",
@@ -70,7 +166,21 @@
    "lat": 29.6515,
    "tag": "室内",
    "drive": "约 25 分钟",
-   "note": "[坐标photon] 罗布林卡旁，高原历史展陈"
+   "note": "[坐标photon] 罗布林卡旁，高原历史展陈",
+   "sources": [
+    {
+     "n": "坐标定位",
+     "u": "https://www.openstreetmap.org/#map=14/29.6515/91.0976"
+    },
+    {
+     "n": "Photon·查询",
+     "u": "https://photon.komoot.io/?q=%E8%A5%BF%E8%97%8F%E5%8D%9A%E7%89%A9%E9%A6%86"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.lasa.gov.cn/"
+    }
+   ]
   }
  ],
  "rings": [

@@ -18,7 +18,21 @@
    "drive": "约 1.5 小时",
    "note": "[5A·坐标photon·冶力关镇] 甘南州临潭县冶力关",
    "rating": "5A",
-   "ratingSrc": "国家5A名录(2025.3)"
+   "ratingSrc": "国家5A名录(2025.3)",
+   "sources": [
+    {
+     "n": "5A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B65A%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "坐标定位",
+     "u": "https://www.openstreetmap.org/#map=14/34.9644/103.6605"
+    },
+    {
+     "n": "Photon·查询",
+     "u": "https://photon.komoot.io/?q=%E5%86%B6%E5%8A%9B%E5%85%B3%E6%97%85%E6%B8%B8%E5%8C%BA"
+    }
+   ]
   }
  ],
  "rings": [

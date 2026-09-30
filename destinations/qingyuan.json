@@ -16,7 +16,17 @@
    "lat": 24.12633,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/24.12633/113.36403"
+    },
+    {
+     "n": "市官网",
+     "u": "http://qingyuan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "通天岩旅游景区",
@@ -24,7 +34,17 @@
    "lat": 24.15242,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/24.15242/113.34959"
+    },
+    {
+     "n": "市官网",
+     "u": "http://qingyuan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "大樟沙滩",
@@ -32,7 +52,17 @@
    "lat": 24.00019,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/24.00019/113.27367"
+    },
+    {
+     "n": "市官网",
+     "u": "http://qingyuan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "彭家祠",
@@ -40,7 +70,17 @@
    "lat": 24.18908,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/24.18908/112.89724"
+    },
+    {
+     "n": "市官网",
+     "u": "http://qingyuan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "英西峰林走廊洞天仙境",
@@ -48,7 +88,17 @@
    "lat": 24.1548,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/24.1548/112.89516"
+    },
+    {
+     "n": "市官网",
+     "u": "http://qingyuan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "千年銀杏",
@@ -56,7 +106,17 @@
    "lat": 24.72986,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/24.72986/112.54807"
+    },
+    {
+     "n": "市官网",
+     "u": "http://qingyuan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "连州地下河",
@@ -66,7 +126,21 @@
    "drive": "",
    "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
    "rating": "4A",
-   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)"
+   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)",
+   "sources": [
+    {
+     "n": "4A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6AAAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.00389/112.3189"
+    },
+    {
+     "n": "市官网",
+     "u": "http://qingyuan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "龙潭角瀑布",
@@ -74,7 +148,17 @@
    "lat": 24.76824,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/24.76824/112.88837"
+    },
+    {
+     "n": "市官网",
+     "u": "http://qingyuan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "和顺岩",
@@ -82,7 +166,17 @@
    "lat": 24.2348,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/24.2348/112.88661"
+    },
+    {
+     "n": "市官网",
+     "u": "http://qingyuan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "峰林晓镇",
@@ -90,7 +184,17 @@
    "lat": 24.12299,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/24.12299/112.91949"
+    },
+    {
+     "n": "市官网",
+     "u": "http://qingyuan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "油岭瑶寨",
@@ -98,7 +202,17 @@
    "lat": 24.61525,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/24.61525/112.28326"
+    },
+    {
+     "n": "市官网",
+     "u": "http://qingyuan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "千年神树",
@@ -106,7 +220,17 @@
    "lat": 23.5734,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.5734/113.15626"
+    },
+    {
+     "n": "市官网",
+     "u": "http://qingyuan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "潭岭天湖",
@@ -114,7 +238,17 @@
    "lat": 24.9707,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/24.9707/112.65161"
+    },
+    {
+     "n": "市官网",
+     "u": "http://qingyuan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "大东山温泉度假区",
@@ -122,7 +256,17 @@
    "lat": 24.85429,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/24.85429/112.62082"
+    },
+    {
+     "n": "市官网",
+     "u": "http://qingyuan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "大东山温泉度假区-瀑布景区",
@@ -130,7 +274,17 @@
    "lat": 24.84796,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/24.84796/112.63009"
+    },
+    {
+     "n": "市官网",
+     "u": "http://qingyuan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "荷花池",
@@ -138,7 +292,17 @@
    "lat": 24.82782,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/24.82782/112.54533"
+    },
+    {
+     "n": "市官网",
+     "u": "http://qingyuan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "小狗背书包",
@@ -146,7 +310,17 @@
    "lat": 24.80026,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/24.80026/112.65056"
+    },
+    {
+     "n": "市官网",
+     "u": "http://qingyuan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "东岳殿遗址",
@@ -154,7 +328,17 @@
    "lat": 24.7956,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/24.7956/112.6516"
+    },
+    {
+     "n": "市官网",
+     "u": "http://qingyuan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "夫妻石",
@@ -162,7 +346,17 @@
    "lat": 24.81676,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/24.81676/112.65055"
+    },
+    {
+     "n": "市官网",
+     "u": "http://qingyuan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "小赵州桥 (永丰石拱桥)",
@@ -170,7 +364,17 @@
    "lat": 24.2057,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/24.2057/112.90639"
+    },
+    {
+     "n": "市官网",
+     "u": "http://qingyuan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "东嶽行宫",
@@ -178,7 +382,17 @@
    "lat": 24.79654,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/24.79654/112.65598"
+    },
+    {
+     "n": "市官网",
+     "u": "http://qingyuan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "英熊谷",
@@ -186,7 +400,17 @@
    "lat": 23.5765,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.5765/113.15596"
+    },
+    {
+     "n": "市官网",
+     "u": "http://qingyuan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "鱼背石",
@@ -194,7 +418,17 @@
    "lat": 24.79572,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/24.79572/112.64262"
+    },
+    {
+     "n": "市官网",
+     "u": "http://qingyuan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "玻璃云桥",
@@ -202,7 +436,17 @@
    "lat": 23.78983,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.78983/112.95157"
+    },
+    {
+     "n": "市官网",
+     "u": "http://qingyuan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "慧光塔",
@@ -210,7 +454,17 @@
    "lat": 24.77722,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/24.77722/112.38133"
+    },
+    {
+     "n": "市官网",
+     "u": "http://qingyuan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "猿林猴岛",
@@ -218,7 +472,17 @@
    "lat": 23.57605,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.57605/113.15742"
+    },
+    {
+     "n": "市官网",
+     "u": "http://qingyuan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "空中探索",
@@ -226,7 +490,17 @@
    "lat": 23.57293,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.57293/113.15925"
+    },
+    {
+     "n": "市官网",
+     "u": "http://qingyuan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "鹦鹉雨林",
@@ -234,7 +508,17 @@
    "lat": 23.57816,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.57816/113.15741"
+    },
+    {
+     "n": "市官网",
+     "u": "http://qingyuan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "连山欧家梯田",
@@ -242,7 +526,17 @@
    "lat": 24.74144,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/24.74144/112.18012"
+    },
+    {
+     "n": "市官网",
+     "u": "http://qingyuan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "黑山梯田",
@@ -250,7 +544,17 @@
    "lat": 24.75154,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/24.75154/112.15701"
+    },
+    {
+     "n": "市官网",
+     "u": "http://qingyuan.gov.cn/"
+    }
+   ]
   }
  ],
  "rings": [

@@ -16,7 +16,17 @@
    "lat": 24.29391,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/24.29391/115.0583"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.heyuan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "永贞楼",
@@ -24,7 +34,17 @@
    "lat": 24.29312,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/24.29312/115.05718"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.heyuan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "中宪第",
@@ -32,7 +52,17 @@
    "lat": 24.29311,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/24.29311/115.05652"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.heyuan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "谦光楼",
@@ -40,7 +70,17 @@
    "lat": 24.29434,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/24.29434/115.05381"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.heyuan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "福谦楼",
@@ -48,7 +88,17 @@
    "lat": 24.29343,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/24.29343/115.05528"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.heyuan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "龙川考棚",
@@ -56,7 +106,17 @@
    "lat": 24.05929,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/24.05929/115.18372"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.heyuan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "过山车",
@@ -64,7 +124,17 @@
    "lat": 23.76825,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.76825/114.70334"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.heyuan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "摩天轮",
@@ -74,7 +144,21 @@
    "drive": "",
    "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
    "rating": "4A",
-   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)"
+   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)",
+   "sources": [
+    {
+     "n": "4A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6AAAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.76868/114.70366"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.heyuan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "巴伐利亚庄园",
@@ -82,7 +166,17 @@
    "lat": 23.63217,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.63217/114.61536"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.heyuan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "天上客(返璞归真)风景区",
@@ -90,7 +184,17 @@
    "lat": 23.43473,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.43473/115.10444"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.heyuan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "龟峰塔",
@@ -98,7 +202,17 @@
    "lat": 23.72926,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.72926/114.69685"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.heyuan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "苏家围客家乡村旅游区",
@@ -106,7 +220,17 @@
    "lat": 23.84468,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.84468/114.88321"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.heyuan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "南武当山",
@@ -114,7 +238,17 @@
    "lat": 24.61819,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/24.61819/114.71844"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.heyuan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "石岩寮生成寺",
@@ -122,7 +256,17 @@
    "lat": 23.2898,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.2898/115.42458"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.heyuan.gov.cn/"
+    }
+   ]
   }
  ],
  "rings": [

@@ -16,7 +16,17 @@
    "lat": 37.80416,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/37.80416/112.58005"
+    },
+    {
+     "n": "市官网",
+     "u": "https://taiyuan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "碑林公园",
@@ -24,7 +34,17 @@
    "lat": 37.85061,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/37.85061/112.5336"
+    },
+    {
+     "n": "市官网",
+     "u": "https://taiyuan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "白龙洞",
@@ -32,7 +52,17 @@
    "lat": 37.73599,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/37.73599/112.3781"
+    },
+    {
+     "n": "市官网",
+     "u": "https://taiyuan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "山西省立川至医学专科学校旧址",
@@ -40,7 +70,17 @@
    "lat": 37.87742,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/37.87742/112.56951"
+    },
+    {
+     "n": "市官网",
+     "u": "https://taiyuan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "天龙山公路3层回旋高架桥",
@@ -48,7 +88,17 @@
    "lat": 37.72184,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/37.72184/112.40069"
+    },
+    {
+     "n": "市官网",
+     "u": "https://taiyuan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "神州塔",
@@ -56,7 +106,17 @@
    "lat": 38.04621,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/38.04621/112.6436"
+    },
+    {
+     "n": "市官网",
+     "u": "https://taiyuan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "成语童话",
@@ -64,7 +124,17 @@
    "lat": 38.04738,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/38.04738/112.64893"
+    },
+    {
+     "n": "市官网",
+     "u": "https://taiyuan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "昆仑探秘",
@@ -72,7 +142,17 @@
    "lat": 38.04735,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/38.04735/112.64603"
+    },
+    {
+     "n": "市官网",
+     "u": "https://taiyuan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "孟姜女",
@@ -80,7 +160,17 @@
    "lat": 38.04631,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/38.04631/112.64547"
+    },
+    {
+     "n": "市官网",
+     "u": "https://taiyuan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "九州神韵",
@@ -88,7 +178,17 @@
    "lat": 38.04757,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/38.04757/112.64414"
+    },
+    {
+     "n": "市官网",
+     "u": "https://taiyuan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "水漫金山",
@@ -96,7 +196,17 @@
    "lat": 38.04574,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/38.04574/112.6421"
+    },
+    {
+     "n": "市官网",
+     "u": "https://taiyuan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "梁祝",
@@ -104,7 +214,17 @@
    "lat": 38.0448,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/38.0448/112.64283"
+    },
+    {
+     "n": "市官网",
+     "u": "https://taiyuan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "熊出没剧场",
@@ -112,7 +232,17 @@
    "lat": 38.04377,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/38.04377/112.64011"
+    },
+    {
+     "n": "市官网",
+     "u": "https://taiyuan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "飞跃狗熊岭",
@@ -120,7 +250,17 @@
    "lat": 38.04407,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/38.04407/112.64101"
+    },
+    {
+     "n": "市官网",
+     "u": "https://taiyuan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "莲花宝洞",
@@ -128,7 +268,17 @@
    "lat": 37.7524,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/37.7524/112.43589"
+    },
+    {
+     "n": "市官网",
+     "u": "https://taiyuan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "龙泉",
@@ -136,7 +286,17 @@
    "lat": 37.75236,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/37.75236/112.43626"
+    },
+    {
+     "n": "市官网",
+     "u": "https://taiyuan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "拱极门",
@@ -144,7 +304,17 @@
    "lat": 37.88775,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/37.88775/112.56615"
+    },
+    {
+     "n": "市官网",
+     "u": "https://taiyuan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "中国清徐关帝城",
@@ -152,7 +322,17 @@
    "lat": 37.62608,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/37.62608/112.35366"
+    },
+    {
+     "n": "市官网",
+     "u": "https://taiyuan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "大仙庙",
@@ -160,7 +340,17 @@
    "lat": 37.82017,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/37.82017/112.4149"
+    },
+    {
+     "n": "市官网",
+     "u": "https://taiyuan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "森林公园",
@@ -168,7 +358,17 @@
    "lat": 37.90851,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/37.90851/112.52709"
+    },
+    {
+     "n": "市官网",
+     "u": "https://taiyuan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "毛泽东像",
@@ -176,7 +376,17 @@
    "lat": 37.80504,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/37.80504/112.57886"
+    },
+    {
+     "n": "市官网",
+     "u": "https://taiyuan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "唱经楼",
@@ -184,7 +394,17 @@
    "lat": 37.87075,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/37.87075/112.55897"
+    },
+    {
+     "n": "市官网",
+     "u": "https://taiyuan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "开化寺",
@@ -192,7 +412,17 @@
    "lat": 38.1893,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/38.1893/112.6924"
+    },
+    {
+     "n": "市官网",
+     "u": "https://taiyuan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "晋阳古城",
@@ -200,7 +430,17 @@
    "lat": 37.72791,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/37.72791/112.48062"
+    },
+    {
+     "n": "市官网",
+     "u": "https://taiyuan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "太原县牺盟会旧址",
@@ -208,7 +448,17 @@
    "lat": 37.72884,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/37.72884/112.47862"
+    },
+    {
+     "n": "市官网",
+     "u": "https://taiyuan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "悬泉寺",
@@ -216,7 +466,17 @@
    "lat": 37.9829,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/37.9829/112.37041"
+    },
+    {
+     "n": "市官网",
+     "u": "https://taiyuan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "大王庙",
@@ -224,7 +484,17 @@
    "lat": 38.04729,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/38.04729/112.79966"
+    },
+    {
+     "n": "市官网",
+     "u": "https://taiyuan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "首义门",
@@ -232,7 +502,17 @@
    "lat": 37.86133,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/37.86133/112.56764"
+    },
+    {
+     "n": "市官网",
+     "u": "https://taiyuan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "漫山阁",
@@ -240,7 +520,17 @@
    "lat": 37.73593,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/37.73593/112.37734"
+    },
+    {
+     "n": "市官网",
+     "u": "https://taiyuan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "龙山石窟",
@@ -248,7 +538,17 @@
    "lat": 37.73215,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/37.73215/112.42974"
+    },
+    {
+     "n": "市官网",
+     "u": "https://taiyuan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "不二寺",
@@ -256,7 +556,17 @@
    "lat": 38.05147,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/38.05147/112.66037"
+    },
+    {
+     "n": "市官网",
+     "u": "https://taiyuan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "轩辕庙",
@@ -264,7 +574,17 @@
    "lat": 38.06799,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/38.06799/112.76332"
+    },
+    {
+     "n": "市官网",
+     "u": "https://taiyuan.gov.cn/"
+    }
+   ]
   }
  ],
  "rings": [

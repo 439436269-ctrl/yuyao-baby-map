@@ -18,7 +18,21 @@
    "drive": "",
    "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
    "rating": "5A",
-   "ratingSrc": "国家5A名录(2025.3·358家)"
+   "ratingSrc": "国家5A名录(2025.3·358家)",
+   "sources": [
+    {
+     "n": "5A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B65A%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/29.54692/103.76931"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.leshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "舍身崖",
@@ -26,7 +40,17 @@
    "lat": 29.52324,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/29.52324/103.33744"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.leshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "峨眉山滑雪场",
@@ -34,7 +58,17 @@
    "lat": 29.54469,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/29.54469/103.32888"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.leshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "Buddha-meeting Platform",
@@ -42,7 +76,17 @@
    "lat": 29.57486,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/29.57486/103.39307"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.leshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "佛国天堂",
@@ -50,7 +94,17 @@
    "lat": 29.54554,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/29.54554/103.77158"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.leshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "碑林",
@@ -58,7 +112,17 @@
    "lat": 29.54638,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/29.54638/103.77154"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.leshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "夹江千佛岩",
@@ -66,7 +130,17 @@
    "lat": 29.75377,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/29.75377/103.54018"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.leshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "峨眉山第一山亭",
@@ -74,7 +148,17 @@
    "lat": 29.56876,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/29.56876/103.44564"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.leshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "乐山大佛-北门",
@@ -82,7 +166,17 @@
    "lat": 29.54978,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/29.54978/103.77094"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.leshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "范店一线天",
@@ -90,7 +184,17 @@
    "lat": 29.33825,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/29.33825/103.46373"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.leshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "药师佛",
@@ -98,7 +202,17 @@
    "lat": 29.54217,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/29.54217/103.77265"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.leshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "罗汉堂",
@@ -106,7 +220,17 @@
    "lat": 29.54071,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/29.54071/103.769"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.leshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "降妖池",
@@ -114,7 +238,17 @@
    "lat": 29.54263,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/29.54263/103.77429"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.leshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "白塔",
@@ -122,7 +256,17 @@
    "lat": 29.54225,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/29.54225/103.77541"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.leshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "33米坐佛",
@@ -130,7 +274,17 @@
    "lat": 29.54116,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/29.54116/103.7739"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.leshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "云岗大佛",
@@ -138,7 +292,17 @@
    "lat": 29.54239,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/29.54239/103.77362"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.leshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "170米睡佛",
@@ -146,7 +310,17 @@
    "lat": 29.54059,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/29.54059/103.77522"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.leshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "天门石",
@@ -154,7 +328,17 @@
    "lat": 29.52725,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/29.52725/103.33232"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.leshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "濠上大桥",
@@ -162,7 +346,17 @@
    "lat": 29.54091,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/29.54091/103.77143"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.leshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "苏稽古镇",
@@ -170,7 +364,17 @@
    "lat": 29.59051,
    "tag": "古镇",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/29.59051/103.6658"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.leshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "神鞭",
@@ -178,7 +382,17 @@
    "lat": 29.3478,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/29.3478/103.79377"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.leshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "桫椤王",
@@ -186,7 +400,17 @@
    "lat": 29.33477,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/29.33477/103.79747"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.leshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "犀牛沱",
@@ -194,7 +418,17 @@
    "lat": 29.33651,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/29.33651/103.79265"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.leshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "海师洞",
@@ -202,7 +436,17 @@
    "lat": 29.54652,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/29.54652/103.76949"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.leshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "苏园",
@@ -210,7 +454,17 @@
    "lat": 29.54618,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/29.54618/103.77031"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.leshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "金满成故居",
@@ -218,7 +472,17 @@
    "lat": 29.51635,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/29.51635/103.4574"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.leshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "虎穴",
@@ -226,7 +490,17 @@
    "lat": 29.54843,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/29.54843/103.76998"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.leshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "火炮",
@@ -234,7 +508,17 @@
    "lat": 29.54409,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/29.54409/103.7703"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.leshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "麻浩渔村",
@@ -242,7 +526,17 @@
    "lat": 29.54258,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/29.54258/103.77092"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.leshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "川西竹海",
@@ -250,7 +544,17 @@
    "lat": 28.8767,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/28.8767/103.95705"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.leshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "灵宝塔",
@@ -258,7 +562,17 @@
    "lat": 29.54843,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/29.54843/103.77107"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.leshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "龙湫",
@@ -266,7 +580,17 @@
    "lat": 29.54879,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/29.54879/103.77027"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.leshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "注易洞",
@@ -274,7 +598,17 @@
    "lat": 29.54753,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/29.54753/103.77066"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.leshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "浮玉亭",
@@ -282,7 +616,17 @@
    "lat": 29.54663,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/29.54663/103.76917"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.leshan.gov.cn/"
+    }
+   ]
   }
  ],
  "rings": [

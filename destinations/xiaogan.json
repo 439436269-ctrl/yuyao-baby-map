@@ -18,7 +18,25 @@
    "drive": "约 1 小时",
    "note": "[KNOWN·坐标photon] 双峰山",
    "rating": "4A",
-   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)"
+   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)",
+   "sources": [
+    {
+     "n": "4A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6AAAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "坐标定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.0628/119.8872"
+    },
+    {
+     "n": "Photon·查询",
+     "u": "https://photon.komoot.io/?q=%E5%8F%8C%E5%B3%B0%E5%B1%B1"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.xiaogan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "汤池温泉",
@@ -26,7 +44,21 @@
    "lat": 26.229,
    "tag": "景点",
    "drive": "约 1 小时",
-   "note": "[KNOWN·坐标photon] 汤池温泉"
+   "note": "[KNOWN·坐标photon] 汤池温泉",
+   "sources": [
+    {
+     "n": "坐标定位",
+     "u": "https://www.openstreetmap.org/#map=14/26.229/118.9323"
+    },
+    {
+     "n": "Photon·查询",
+     "u": "https://photon.komoot.io/?q=%E6%B1%A4%E6%B1%A0%E6%B8%A9%E6%B3%89"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.xiaogan.gov.cn/"
+    }
+   ]
   }
  ],
  "rings": [

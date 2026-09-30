@@ -16,7 +16,17 @@
    "lat": 41.76812,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/41.76812/125.9647"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.tonghua.gov.cn/"
+    }
+   ]
   },
   {
    "n": "鸡冠山雪海世界滑雪场",
@@ -24,7 +34,17 @@
    "lat": 42.18834,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/42.18834/125.50253"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.tonghua.gov.cn/"
+    }
+   ]
   },
   {
    "n": "仙佛洞",
@@ -32,7 +52,17 @@
    "lat": 41.27436,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/41.27436/126.11543"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.tonghua.gov.cn/"
+    }
+   ]
   },
   {
    "n": "参乡水街",
@@ -40,7 +70,17 @@
    "lat": 42.27,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/42.27/125.72514"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.tonghua.gov.cn/"
+    }
+   ]
   },
   {
    "n": "云岭野山参风景旅游区",
@@ -48,7 +88,17 @@
    "lat": 42.05044,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/42.05044/125.41101"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.tonghua.gov.cn/"
+    }
+   ]
   },
   {
    "n": "罗通山风景旅游区",
@@ -56,7 +106,17 @@
    "lat": 42.38088,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/42.38088/125.97745"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.tonghua.gov.cn/"
+    }
+   ]
   },
   {
    "n": "青龙山滑雪场",
@@ -64,7 +124,17 @@
    "lat": 42.17149,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/42.17149/125.64009"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.tonghua.gov.cn/"
+    }
+   ]
   },
   {
    "n": "五七干校景区",
@@ -72,7 +142,17 @@
    "lat": 42.20399,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/42.20399/125.68901"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.tonghua.gov.cn/"
+    }
+   ]
   },
   {
    "n": "三江府逸景大峡谷",
@@ -80,7 +160,17 @@
    "lat": 42.33951,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/42.33951/126.09162"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.tonghua.gov.cn/"
+    }
+   ]
   },
   {
    "n": "Yalu River viewpoint",
@@ -88,7 +178,17 @@
    "lat": 41.11807,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/41.11807/126.18828"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.tonghua.gov.cn/"
+    }
+   ]
   },
   {
    "n": "Yalu River Guomen Scenic Area (Chinese citizens only)",
@@ -96,7 +196,17 @@
    "lat": 41.15784,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/41.15784/126.27307"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.tonghua.gov.cn/"
+    }
+   ]
   },
   {
    "n": "海龙湖景区",
@@ -104,7 +214,17 @@
    "lat": 42.51699,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/42.51699/125.72144"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.tonghua.gov.cn/"
+    }
+   ]
   },
   {
    "n": "十三户芍药花谷景区",
@@ -112,7 +232,17 @@
    "lat": 42.29684,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/42.29684/125.60699"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.tonghua.gov.cn/"
+    }
+   ]
   }
  ],
  "rings": [

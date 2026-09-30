@@ -16,7 +16,17 @@
    "lat": 23.17966,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.17966/112.53677"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhaoqing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "蝴蝶谷",
@@ -24,7 +34,17 @@
    "lat": 23.17875,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.17875/112.5347"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhaoqing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "三榕揽胜",
@@ -32,7 +52,17 @@
    "lat": 23.07329,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.07329/112.47086"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhaoqing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "石室洞",
@@ -40,7 +70,17 @@
    "lat": 23.07552,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.07552/112.4714"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhaoqing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "五龙亭",
@@ -48,7 +88,17 @@
    "lat": 23.07401,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.07401/112.47357"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhaoqing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "天湖景区",
@@ -56,7 +106,17 @@
    "lat": 23.17851,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.17851/112.5356"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhaoqing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "云溪景区",
@@ -64,7 +124,17 @@
    "lat": 23.1724,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.1724/112.5423"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhaoqing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "梅庵",
@@ -72,7 +142,17 @@
    "lat": 23.05297,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.05297/112.44231"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhaoqing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "宝月荷香",
@@ -80,7 +160,17 @@
    "lat": 23.05378,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.05378/112.4605"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhaoqing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "仙果园",
@@ -88,7 +178,17 @@
    "lat": 23.08371,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.08371/112.48745"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhaoqing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "石峒古庙",
@@ -96,7 +196,17 @@
    "lat": 23.08541,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.08541/112.48408"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhaoqing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "佶闲亭",
@@ -104,7 +214,17 @@
    "lat": 23.07423,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.07423/112.47712"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhaoqing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "飞水潭（孙中山游泳处）",
@@ -112,7 +232,17 @@
    "lat": 23.17529,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.17529/112.5414"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhaoqing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "大斑石景区",
@@ -120,7 +250,17 @@
    "lat": 23.46013,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.46013/111.7299"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhaoqing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "巽峰塔",
@@ -128,7 +268,17 @@
    "lat": 23.02969,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.02969/112.48012"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhaoqing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "贞山风景区",
@@ -136,7 +286,17 @@
    "lat": 23.32567,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.32567/112.66382"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhaoqing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "端砚文化村",
@@ -144,7 +304,17 @@
    "lat": 23.07056,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.07056/112.50858"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhaoqing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "金沙滩",
@@ -154,7 +324,21 @@
    "drive": "",
    "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
    "rating": "4A",
-   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)"
+   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)",
+   "sources": [
+    {
+     "n": "4A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6AAAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.08391/112.48468"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhaoqing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "仙鹤呈祥",
@@ -162,7 +346,17 @@
    "lat": 23.08136,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.08136/112.48058"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhaoqing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "领事林",
@@ -170,7 +364,17 @@
    "lat": 23.0847,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.0847/112.46899"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhaoqing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "北回归线标志塔",
@@ -178,7 +382,17 @@
    "lat": 23.44022,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.44022/111.49435"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhaoqing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "砚洲岛航空运动旅游营地",
@@ -186,7 +400,17 @@
    "lat": 23.17466,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.17466/112.60986"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhaoqing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "狮岗叶挺独立团练兵场遗址",
@@ -194,7 +418,17 @@
    "lat": 23.08689,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.08689/112.48541"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhaoqing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "八卦村景区",
@@ -204,7 +438,21 @@
    "drive": "",
    "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
    "rating": "4A",
-   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)"
+   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)",
+   "sources": [
+    {
+     "n": "4A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6AAAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.94273/112.63396"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhaoqing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "猫爪谷景区",
@@ -212,7 +460,17 @@
    "lat": 22.99419,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.99419/112.69812"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhaoqing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "月光流域",
@@ -220,7 +478,17 @@
    "lat": 23.14248,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.14248/112.38362"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhaoqing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "龙母梳妆楼",
@@ -228,7 +496,17 @@
    "lat": 23.09223,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.09223/112.1278"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhaoqing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "发财井",
@@ -236,7 +514,17 @@
    "lat": 23.08634,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.08634/112.47337"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhaoqing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "网红玻璃船",
@@ -244,7 +532,17 @@
    "lat": 23.08642,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.08642/112.47183"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhaoqing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "星湖樱韵",
@@ -252,7 +550,17 @@
    "lat": 23.08432,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.08432/112.4627"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhaoqing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "香港回归林",
@@ -260,7 +568,17 @@
    "lat": 23.08413,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.08413/112.46536"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhaoqing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "默彩之径",
@@ -268,7 +586,17 @@
    "lat": 23.00378,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.00378/112.45"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhaoqing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "神龟石",
@@ -276,7 +604,17 @@
    "lat": 23.13274,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.13274/112.58248"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhaoqing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "星岩书院",
@@ -284,7 +622,17 @@
    "lat": 23.0545,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.0545/112.46087"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhaoqing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "星湖竹筏",
@@ -292,7 +640,17 @@
    "lat": 23.07718,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.07718/112.47299"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhaoqing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "阅湖楼",
@@ -300,7 +658,17 @@
    "lat": 23.07557,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.07557/112.4746"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhaoqing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "灵芝岛",
@@ -308,7 +676,17 @@
    "lat": 23.0844,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.0844/112.48326"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhaoqing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "桃花岛",
@@ -316,7 +694,17 @@
    "lat": 23.08616,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.08616/112.47221"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhaoqing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "罗汉岛",
@@ -324,7 +712,17 @@
    "lat": 23.083,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.083/112.47095"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhaoqing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "七星岩大桥",
@@ -332,7 +730,17 @@
    "lat": 23.07447,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.07447/112.47919"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhaoqing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "观鱼池",
@@ -340,7 +748,17 @@
    "lat": 23.07793,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.07793/112.46849"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhaoqing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "盘龙峡",
@@ -348,7 +766,17 @@
    "lat": 23.36133,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.36133/111.82582"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhaoqing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "披云楼",
@@ -356,7 +784,17 @@
    "lat": 23.0517,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.0517/112.45398"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhaoqing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "丽谯楼",
@@ -364,7 +802,17 @@
    "lat": 23.04978,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.04978/112.45389"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhaoqing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "阅江楼",
@@ -372,7 +820,17 @@
    "lat": 23.04734,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.04734/112.4666"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhaoqing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "红莲水榭",
@@ -380,7 +838,17 @@
    "lat": 23.0782,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.0782/112.46826"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhaoqing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "宋郡伯覃氏宗祠",
@@ -388,7 +856,17 @@
    "lat": 23.05711,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.05711/112.5025"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhaoqing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "石牌里民宿文创街区",
@@ -396,7 +874,17 @@
    "lat": 23.085,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.085/112.48825"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhaoqing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "水月宮",
@@ -404,7 +892,17 @@
    "lat": 23.07474,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.07474/112.47213"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhaoqing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "后乐亭",
@@ -412,7 +910,17 @@
    "lat": 23.07523,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.07523/112.47126"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhaoqing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "白沙龙母庙",
@@ -420,7 +928,17 @@
    "lat": 23.04722,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.04722/112.42383"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhaoqing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "元魁塔",
@@ -428,7 +946,17 @@
    "lat": 23.05139,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.05139/112.49609"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhaoqing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "元魁文创街区",
@@ -436,7 +964,17 @@
    "lat": 23.05171,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.05171/112.49557"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhaoqing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "葫芦山风景区",
@@ -444,7 +982,17 @@
    "lat": 23.28673,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.28673/112.66807"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhaoqing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "包公楼",
@@ -452,7 +1000,17 @@
    "lat": 23.17706,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.17706/112.63845"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhaoqing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "七星岩牌坊",
@@ -460,7 +1018,17 @@
    "lat": 23.05711,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.05711/112.46429"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhaoqing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "绥江竹海生态旅游景区",
@@ -468,7 +1036,17 @@
    "lat": 23.59705,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.59705/112.3889"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhaoqing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "宝锭山风景区",
@@ -476,7 +1054,17 @@
    "lat": 23.59998,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.59998/112.40715"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhaoqing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "牙鹰楼",
@@ -484,7 +1072,17 @@
    "lat": 23.05049,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.05049/112.45868"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhaoqing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "儒教园",
@@ -492,7 +1090,17 @@
    "lat": 22.94181,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.94181/112.63343"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhaoqing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "意平农场",
@@ -500,7 +1108,17 @@
    "lat": 22.98679,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.98679/112.46692"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhaoqing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "七星岩东门广场",
@@ -508,7 +1126,17 @@
    "lat": 23.07421,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.07421/112.48303"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhaoqing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "崇禧塔",
@@ -516,7 +1144,17 @@
    "lat": 23.0472,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/23.0472/112.47774"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhaoqing.gov.cn/"
+    }
+   ]
   }
  ],
  "rings": [

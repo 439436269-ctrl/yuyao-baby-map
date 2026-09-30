@@ -16,7 +16,21 @@
    "lat": 42.8113,
    "tag": "景点",
    "drive": "约 1 小时",
-   "note": "[KNOWN·坐标photon] 哈密回王陵"
+   "note": "[KNOWN·坐标photon] 哈密回王陵",
+   "sources": [
+    {
+     "n": "坐标定位",
+     "u": "https://www.openstreetmap.org/#map=14/42.8113/93.4874"
+    },
+    {
+     "n": "Photon·查询",
+     "u": "https://photon.komoot.io/?q=%E5%93%88%E5%AF%86%E5%9B%9E%E7%8E%8B%E9%99%B5"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.hami.gov.cn/"
+    }
+   ]
   }
  ],
  "rings": [

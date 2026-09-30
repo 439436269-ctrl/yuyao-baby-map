@@ -16,7 +16,17 @@
    "lat": 30.00599,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.00599/117.97905"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.huangshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "西递镇",
@@ -24,7 +34,17 @@
    "lat": 29.89492,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/29.89492/117.96762"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.huangshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "迎客松",
@@ -32,7 +52,17 @@
    "lat": 30.12459,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.12459/118.17035"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.huangshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "鳌鱼洞",
@@ -40,7 +70,17 @@
    "lat": 30.12912,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.12912/118.16293"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.huangshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "西海大峡谷(北口)",
@@ -48,7 +88,17 @@
    "lat": 30.14213,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.14213/118.15358"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.huangshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "曙光亭",
@@ -56,7 +106,17 @@
    "lat": 30.14531,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.14531/118.16678"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.huangshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "白鹅岭",
@@ -64,7 +124,17 @@
    "lat": 30.13951,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.13951/118.16762"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.huangshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "二天门",
@@ -72,7 +142,17 @@
    "lat": 29.80894,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/29.80894/118.03326"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.huangshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "小壶天",
@@ -80,7 +160,17 @@
    "lat": 29.80927,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/29.80927/118.03109"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.huangshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "湖边古村落",
@@ -88,7 +178,17 @@
    "lat": 29.7233,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/29.7233/118.34336"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.huangshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "飞来石",
@@ -96,7 +196,17 @@
    "lat": 30.13794,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.13794/118.15878"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.huangshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "老道口",
@@ -104,7 +214,17 @@
    "lat": 30.1229,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.1229/118.1703"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.huangshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "海心亭",
@@ -112,7 +232,17 @@
    "lat": 30.13179,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.13179/118.16265"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.huangshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "一线天",
@@ -120,7 +250,17 @@
    "lat": 30.12913,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.12913/118.16334"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.huangshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "梦幻景区 (西海)",
@@ -128,7 +268,17 @@
    "lat": 30.14102,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.14102/118.15474"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.huangshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "卢村木雕楼",
@@ -136,7 +286,17 @@
    "lat": 30.0172,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.0172/117.96984"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.huangshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "松谷庵",
@@ -144,7 +304,17 @@
    "lat": 30.1473,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.1473/118.16613"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.huangshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "群峰顶",
@@ -152,7 +322,17 @@
    "lat": 30.1361,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.1361/118.15892"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.huangshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "欢达亭",
@@ -160,7 +340,17 @@
    "lat": 30.13801,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.13801/118.16378"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.huangshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "西海大峡谷",
@@ -168,7 +358,17 @@
    "lat": 30.13419,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.13419/118.15066"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.huangshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "观瀑亭",
@@ -176,7 +376,17 @@
    "lat": 30.1021,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.1021/118.17551"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.huangshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "钓桥庵",
@@ -184,7 +394,17 @@
    "lat": 30.13339,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.13339/118.12558"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.huangshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "皮蓬",
@@ -192,7 +412,17 @@
    "lat": 30.13555,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.13555/118.16398"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.huangshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "西递石林",
@@ -200,7 +430,17 @@
    "lat": 29.90111,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/29.90111/118.03973"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.huangshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "人行观光索桥",
@@ -208,7 +448,17 @@
    "lat": 29.71653,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/29.71653/118.33528"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.huangshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "徽州照壁",
@@ -216,7 +466,17 @@
    "lat": 29.72264,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/29.72264/118.34285"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.huangshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "电动水车",
@@ -224,7 +484,17 @@
    "lat": 29.72044,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/29.72044/118.33971"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.huangshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "树人堂",
@@ -232,7 +502,17 @@
    "lat": 30.0067,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.0067/117.98318"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.huangshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "敬德堂",
@@ -240,7 +520,17 @@
    "lat": 30.00423,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.00423/117.98449"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.huangshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "敬修堂",
@@ -248,7 +538,17 @@
    "lat": 30.00569,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.00569/117.98419"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.huangshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "宏村印象",
@@ -256,7 +556,17 @@
    "lat": 29.99781,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/29.99781/117.98229"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.huangshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "天女练",
@@ -264,7 +574,17 @@
    "lat": 30.119,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.119/118.2102"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.huangshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "揽胜亭",
@@ -272,7 +592,17 @@
    "lat": 29.70928,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/29.70928/118.3038"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.huangshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "黄村进士第",
@@ -280,7 +610,17 @@
    "lat": 29.68007,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/29.68007/118.17147"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.huangshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "渔梁坝",
@@ -288,7 +628,17 @@
    "lat": 29.8582,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/29.8582/118.44274"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.huangshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "I love HS",
@@ -296,7 +646,17 @@
    "lat": 29.70828,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/29.70828/118.29462"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.huangshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "呈坎",
@@ -304,7 +664,17 @@
    "lat": 29.92305,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/29.92305/118.27875"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.huangshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "潜口民宅博物馆",
@@ -314,7 +684,21 @@
    "drive": "",
    "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
    "rating": "4A",
-   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)"
+   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)",
+   "sources": [
+    {
+     "n": "4A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6AAAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/29.87042/118.28921"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.huangshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "唐模古村",
@@ -322,7 +706,17 @@
    "lat": 29.87106,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/29.87106/118.32813"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.huangshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "棠樾古村",
@@ -330,7 +724,17 @@
    "lat": 29.87099,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/29.87099/118.36522"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.huangshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "棠樾牌坊群",
@@ -340,7 +744,21 @@
    "drive": "",
    "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
    "rating": "4A",
-   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)"
+   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)",
+   "sources": [
+    {
+     "n": "4A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6AAAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/29.87148/118.36614"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.huangshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "三天门",
@@ -348,7 +766,17 @@
    "lat": 29.80868,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/29.80868/118.03361"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.huangshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "永乐古道",
@@ -356,7 +784,17 @@
    "lat": 29.80952,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/29.80952/118.03522"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.huangshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "梦真桥",
@@ -364,7 +802,17 @@
    "lat": 29.8095,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/29.8095/118.03572"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.huangshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "齐云山石刻",
@@ -372,7 +820,17 @@
    "lat": 29.80887,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/29.80887/118.034"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.huangshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "猴子观海",
@@ -380,7 +838,17 @@
    "lat": 30.14766,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.14766/118.16555"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.huangshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "霞客古道",
@@ -388,7 +856,17 @@
    "lat": 29.8165,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/29.8165/118.04409"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.huangshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "二龙桥",
@@ -396,7 +874,17 @@
    "lat": 30.19929,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.19929/118.1452"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.huangshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "童子拜观音",
@@ -404,7 +892,17 @@
    "lat": 30.14341,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.14341/118.17035"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.huangshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "摩崖石刻群",
@@ -412,7 +910,17 @@
    "lat": 30.10298,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.10298/118.17044"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.huangshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "云谷寺",
@@ -420,7 +928,17 @@
    "lat": 30.12221,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.12221/118.18755"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.huangshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "蒲团石",
@@ -428,7 +946,17 @@
    "lat": 30.12346,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.12346/118.17102"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.huangshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "天桥",
@@ -436,7 +964,17 @@
    "lat": 30.12113,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.12113/118.17347"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.huangshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "慈光阁",
@@ -444,7 +982,17 @@
    "lat": 30.10779,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/30.10779/118.16746"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.huangshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "周氏宗祠",
@@ -452,7 +1000,17 @@
    "lat": 29.90734,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/29.90734/118.64249"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.huangshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "许国石坊",
@@ -460,7 +1018,17 @@
    "lat": 29.86766,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/29.86766/118.43059"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.huangshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "徽州府衙",
@@ -468,7 +1036,17 @@
    "lat": 29.86812,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/29.86812/118.42963"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.huangshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "清懿堂",
@@ -476,7 +1054,17 @@
    "lat": 29.87088,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/29.87088/118.36484"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.huangshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "双寿承恩坊",
@@ -484,7 +1072,17 @@
    "lat": 29.99855,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/29.99855/118.31875"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.huangshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "竹山书院",
@@ -492,7 +1090,17 @@
    "lat": 29.81755,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/29.81755/118.43945"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.huangshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "赛金花故居",
@@ -502,7 +1110,21 @@
    "drive": "",
    "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
    "rating": "4A",
-   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)"
+   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)",
+   "sources": [
+    {
+     "n": "4A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6AAAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/29.96052/117.95229"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.huangshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "四世一品坊",
@@ -510,7 +1132,17 @@
    "lat": 29.81819,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/29.81819/118.43513"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.huangshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "大中丞坊",
@@ -518,7 +1150,17 @@
    "lat": 29.81659,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/29.81659/118.43924"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.huangshan.gov.cn/"
+    }
+   ]
   }
  ],
  "rings": [

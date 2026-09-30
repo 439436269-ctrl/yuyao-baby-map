@@ -16,7 +16,17 @@
    "lat": 36.10392,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.10392/113.67895"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.anyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "石板沟试胆石",
@@ -24,7 +34,17 @@
    "lat": 35.9699,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/35.9699/113.66203"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.anyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "罗汉梯",
@@ -32,7 +52,17 @@
    "lat": 35.97091,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/35.97091/113.65827"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.anyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "罗汉梯入口",
@@ -40,7 +70,17 @@
    "lat": 35.9712,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/35.9712/113.65947"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.anyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "颛顼帝喾陵",
@@ -48,7 +88,17 @@
    "lat": 35.73458,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/35.73458/114.75434"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.anyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "羑里城遗址",
@@ -56,7 +106,17 @@
    "lat": 35.95534,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/35.95534/114.34934"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.anyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "袁林",
@@ -64,7 +124,17 @@
    "lat": 36.12583,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.12583/114.34826"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.anyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "鹤鸣湖景区",
@@ -72,7 +142,17 @@
    "lat": 35.90722,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/35.90722/114.27072"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.anyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "殷墟博物馆",
@@ -80,7 +160,17 @@
    "lat": 36.12019,
    "tag": "室内",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/36.12019/114.32424"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.anyang.gov.cn/"
+    }
+   ]
   }
  ],
  "rings": [

@@ -16,7 +16,17 @@
    "lat": 25.02571,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.02571/102.13115"
+    },
+    {
+     "n": "市官网",
+     "u": "http://chuxiong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "炼象关",
@@ -24,7 +34,17 @@
    "lat": 25.02494,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.02494/102.13248"
+    },
+    {
+     "n": "市官网",
+     "u": "http://chuxiong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "青石板路",
@@ -32,7 +52,17 @@
    "lat": 25.02313,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.02313/102.13381"
+    },
+    {
+     "n": "市官网",
+     "u": "http://chuxiong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "回音亭",
@@ -40,7 +70,17 @@
    "lat": 24.70406,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/24.70406/101.64626"
+    },
+    {
+     "n": "市官网",
+     "u": "http://chuxiong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "龙泉",
@@ -48,7 +88,17 @@
    "lat": 24.70361,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/24.70361/101.64593"
+    },
+    {
+     "n": "市官网",
+     "u": "http://chuxiong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "夫妻树",
@@ -56,7 +106,17 @@
    "lat": 24.71861,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/24.71861/101.645"
+    },
+    {
+     "n": "市官网",
+     "u": "http://chuxiong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "古盐坊",
@@ -64,7 +124,17 @@
    "lat": 25.3902,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.3902/101.75528"
+    },
+    {
+     "n": "市官网",
+     "u": "http://chuxiong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "古桥",
@@ -72,7 +142,17 @@
    "lat": 24.9714,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/24.9714/102.21014"
+    },
+    {
+     "n": "市官网",
+     "u": "http://chuxiong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "古建筑",
@@ -80,7 +160,17 @@
    "lat": 24.99129,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/24.99129/102.17568"
+    },
+    {
+     "n": "市官网",
+     "u": "http://chuxiong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "班果土林",
@@ -88,7 +178,17 @@
    "lat": 25.73813,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.73813/101.79118"
+    },
+    {
+     "n": "市官网",
+     "u": "http://chuxiong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "赵家村大桥",
@@ -96,7 +196,17 @@
    "lat": 25.04795,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.04795/102.15322"
+    },
+    {
+     "n": "市官网",
+     "u": "http://chuxiong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "下箐2号大桥",
@@ -104,7 +214,17 @@
    "lat": 25.04356,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.04356/102.15407"
+    },
+    {
+     "n": "市官网",
+     "u": "http://chuxiong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "下箐大桥",
@@ -112,7 +232,17 @@
    "lat": 25.04207,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.04207/102.1534"
+    },
+    {
+     "n": "市官网",
+     "u": "http://chuxiong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "大井盐井（黑牛盐井）",
@@ -120,7 +250,17 @@
    "lat": 25.37819,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.37819/101.74474"
+    },
+    {
+     "n": "市官网",
+     "u": "http://chuxiong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "仙人谷",
@@ -128,7 +268,17 @@
    "lat": 25.01132,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.01132/101.40909"
+    },
+    {
+     "n": "市官网",
+     "u": "http://chuxiong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "紫顶寺塔林",
@@ -136,7 +286,17 @@
    "lat": 25.00588,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.00588/101.41714"
+    },
+    {
+     "n": "市官网",
+     "u": "http://chuxiong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "城隍庙",
@@ -146,7 +306,21 @@
    "drive": "",
    "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
    "rating": "4A",
-   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)"
+   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)",
+   "sources": [
+    {
+     "n": "4A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6AAAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.0254/102.13192"
+    },
+    {
+     "n": "市官网",
+     "u": "http://chuxiong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "重关楼",
@@ -154,7 +328,17 @@
    "lat": 25.02545,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.02545/102.13199"
+    },
+    {
+     "n": "市官网",
+     "u": "http://chuxiong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "古道",
@@ -162,7 +346,17 @@
    "lat": 24.97543,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/24.97543/102.20059"
+    },
+    {
+     "n": "市官网",
+     "u": "http://chuxiong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "老鸦关",
@@ -170,7 +364,17 @@
    "lat": 24.95344,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/24.95344/102.2085"
+    },
+    {
+     "n": "市官网",
+     "u": "http://chuxiong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "太阳女神",
@@ -178,7 +382,17 @@
    "lat": 25.1002,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.1002/101.4227"
+    },
+    {
+     "n": "市官网",
+     "u": "http://chuxiong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "紫溪彝寨",
@@ -186,7 +400,17 @@
    "lat": 25.09957,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.09957/101.41833"
+    },
+    {
+     "n": "市官网",
+     "u": "http://chuxiong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "苗百草花寨",
@@ -194,7 +418,17 @@
    "lat": 25.06144,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.06144/101.40298"
+    },
+    {
+     "n": "市官网",
+     "u": "http://chuxiong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "三逸名胜",
@@ -202,7 +436,17 @@
    "lat": 25.05494,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.05494/101.39698"
+    },
+    {
+     "n": "市官网",
+     "u": "http://chuxiong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "山神树",
@@ -210,7 +454,17 @@
    "lat": 25.04507,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.04507/101.39869"
+    },
+    {
+     "n": "市官网",
+     "u": "http://chuxiong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "紫林苑",
@@ -218,7 +472,17 @@
    "lat": 25.00396,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.00396/101.41004"
+    },
+    {
+     "n": "市官网",
+     "u": "http://chuxiong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "紫溪山山茶物种园",
@@ -226,7 +490,17 @@
    "lat": 24.99909,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/24.99909/101.4119"
+    },
+    {
+     "n": "市官网",
+     "u": "http://chuxiong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "响水箐瀑布",
@@ -234,7 +508,17 @@
    "lat": 24.99566,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/24.99566/101.42537"
+    },
+    {
+     "n": "市官网",
+     "u": "http://chuxiong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "相国花园",
@@ -242,7 +526,17 @@
    "lat": 25.03147,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.03147/101.39621"
+    },
+    {
+     "n": "市官网",
+     "u": "http://chuxiong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "红枫林",
@@ -250,7 +544,17 @@
    "lat": 25.0324,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.0324/101.39755"
+    },
+    {
+     "n": "市官网",
+     "u": "http://chuxiong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "南藤王",
@@ -258,7 +562,17 @@
    "lat": 25.04421,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.04421/101.39978"
+    },
+    {
+     "n": "市官网",
+     "u": "http://chuxiong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "茶花园",
@@ -266,7 +580,17 @@
    "lat": 24.999,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/24.999/101.4193"
+    },
+    {
+     "n": "市官网",
+     "u": "http://chuxiong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "白马神树",
@@ -274,7 +598,17 @@
    "lat": 24.99563,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/24.99563/101.41097"
+    },
+    {
+     "n": "市官网",
+     "u": "http://chuxiong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "古戏台",
@@ -282,7 +616,17 @@
    "lat": 25.15095,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.15095/102.07672"
+    },
+    {
+     "n": "市官网",
+     "u": "http://chuxiong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "包家院",
@@ -290,7 +634,17 @@
    "lat": 25.37406,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.37406/101.74535"
+    },
+    {
+     "n": "市官网",
+     "u": "http://chuxiong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "大子井盐井",
@@ -298,7 +652,17 @@
    "lat": 25.37777,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.37777/101.74476"
+    },
+    {
+     "n": "市官网",
+     "u": "http://chuxiong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "徳洋井",
@@ -306,7 +670,17 @@
    "lat": 25.37311,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.37311/101.74284"
+    },
+    {
+     "n": "市官网",
+     "u": "http://chuxiong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "天恩井",
@@ -314,7 +688,17 @@
    "lat": 25.37242,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.37242/101.74268"
+    },
+    {
+     "n": "市官网",
+     "u": "http://chuxiong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "裕济井",
@@ -322,7 +706,17 @@
    "lat": 25.37357,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.37357/101.74289"
+    },
+    {
+     "n": "市官网",
+     "u": "http://chuxiong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "王家院",
@@ -330,7 +724,17 @@
    "lat": 25.37749,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.37749/101.7455"
+    },
+    {
+     "n": "市官网",
+     "u": "http://chuxiong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "上武家院",
@@ -338,7 +742,17 @@
    "lat": 25.37112,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.37112/101.74411"
+    },
+    {
+     "n": "市官网",
+     "u": "http://chuxiong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "狮子山风景区",
@@ -348,7 +762,21 @@
    "drive": "",
    "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
    "rating": "4A",
-   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)"
+   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)",
+   "sources": [
+    {
+     "n": "4A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6AAAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.53859/102.37101"
+    },
+    {
+     "n": "市官网",
+     "u": "http://chuxiong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "元谋土林风景区",
@@ -358,7 +786,21 @@
    "drive": "",
    "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
    "rating": "4A",
-   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)"
+   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)",
+   "sources": [
+    {
+     "n": "4A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6AAAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.84812/101.7575"
+    },
+    {
+     "n": "市官网",
+     "u": "http://chuxiong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "浪巴铺土林",
@@ -366,7 +808,17 @@
    "lat": 25.68345,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.68345/101.69503"
+    },
+    {
+     "n": "市官网",
+     "u": "http://chuxiong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "己衣大裂谷",
@@ -374,7 +826,17 @@
    "lat": 26.09796,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/26.09796/102.26434"
+    },
+    {
+     "n": "市官网",
+     "u": "http://chuxiong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "姚安路军民总管府",
@@ -382,7 +844,17 @@
    "lat": 25.59075,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.59075/101.19971"
+    },
+    {
+     "n": "市官网",
+     "u": "http://chuxiong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "世界恐龙谷",
@@ -392,7 +864,21 @@
    "drive": "",
    "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
    "rating": "4A",
-   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)"
+   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)",
+   "sources": [
+    {
+     "n": "4A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6AAAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/24.97535/102.07277"
+    },
+    {
+     "n": "市官网",
+     "u": "http://chuxiong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "中国彝族十月太阳历文化园",
@@ -400,7 +886,17 @@
    "lat": 25.05734,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.05734/101.52623"
+    },
+    {
+     "n": "市官网",
+     "u": "http://chuxiong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "黑井武家大院",
@@ -408,7 +904,17 @@
    "lat": 25.37989,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.37989/101.74518"
+    },
+    {
+     "n": "市官网",
+     "u": "http://chuxiong.gov.cn/"
+    }
+   ]
   }
  ],
  "rings": [

@@ -16,7 +16,17 @@
    "lat": 27.76879,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/27.76879/107.48403"
+    },
+    {
+     "n": "市官网",
+     "u": "https://zunyi.gov.cn/"
+    }
+   ]
   },
   {
    "n": "遵金特支旧址",
@@ -24,7 +34,17 @@
    "lat": 27.52971,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/27.52971/106.48168"
+    },
+    {
+     "n": "市官网",
+     "u": "https://zunyi.gov.cn/"
+    }
+   ]
   },
   {
    "n": "地心之门",
@@ -32,7 +52,17 @@
    "lat": 28.24,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/28.24/107.29808"
+    },
+    {
+     "n": "市官网",
+     "u": "https://zunyi.gov.cn/"
+    }
+   ]
   },
   {
    "n": "地下河谷",
@@ -40,7 +70,17 @@
    "lat": 28.24354,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/28.24354/107.27484"
+    },
+    {
+     "n": "市官网",
+     "u": "https://zunyi.gov.cn/"
+    }
+   ]
   },
   {
    "n": "中国天坑第一瀑",
@@ -48,7 +88,17 @@
    "lat": 28.23764,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/28.23764/107.2695"
+    },
+    {
+     "n": "市官网",
+     "u": "https://zunyi.gov.cn/"
+    }
+   ]
   },
   {
    "n": "七十二道拐",
@@ -56,7 +106,17 @@
    "lat": 28.2727,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/28.2727/106.8281"
+    },
+    {
+     "n": "市官网",
+     "u": "https://zunyi.gov.cn/"
+    }
+   ]
   },
   {
    "n": "红军村",
@@ -64,7 +124,17 @@
    "lat": 27.65313,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/27.65313/106.56425"
+    },
+    {
+     "n": "市官网",
+     "u": "https://zunyi.gov.cn/"
+    }
+   ]
   },
   {
    "n": "大龙井",
@@ -72,7 +142,17 @@
    "lat": 27.65192,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/27.65192/106.56501"
+    },
+    {
+     "n": "市官网",
+     "u": "https://zunyi.gov.cn/"
+    }
+   ]
   },
   {
    "n": "贵州农业博览园",
@@ -80,7 +160,17 @@
    "lat": 27.79761,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/27.79761/107.18088"
+    },
+    {
+     "n": "市官网",
+     "u": "https://zunyi.gov.cn/"
+    }
+   ]
   },
   {
    "n": "遵义樱花谷",
@@ -88,7 +178,17 @@
    "lat": 27.77996,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/27.77996/107.18374"
+    },
+    {
+     "n": "市官网",
+     "u": "https://zunyi.gov.cn/"
+    }
+   ]
   },
   {
    "n": "遵义漫花谷",
@@ -96,7 +196,17 @@
    "lat": 27.76783,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/27.76783/107.18346"
+    },
+    {
+     "n": "市官网",
+     "u": "https://zunyi.gov.cn/"
+    }
+   ]
   },
   {
    "n": "神山地缝",
@@ -104,7 +214,17 @@
    "lat": 28.12414,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/28.12414/107.16019"
+    },
+    {
+     "n": "市官网",
+     "u": "https://zunyi.gov.cn/"
+    }
+   ]
   },
   {
    "n": "战壕遗址",
@@ -112,7 +232,17 @@
    "lat": 28.02587,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/28.02587/106.85348"
+    },
+    {
+     "n": "市官网",
+     "u": "https://zunyi.gov.cn/"
+    }
+   ]
   },
   {
    "n": "海龙温泉",
@@ -120,7 +250,17 @@
    "lat": 27.73646,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/27.73646/106.82533"
+    },
+    {
+     "n": "市官网",
+     "u": "https://zunyi.gov.cn/"
+    }
+   ]
   },
   {
    "n": "丙安古镇",
@@ -128,7 +268,17 @@
    "lat": 28.47304,
    "tag": "古镇",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/28.47304/105.82031"
+    },
+    {
+     "n": "市官网",
+     "u": "https://zunyi.gov.cn/"
+    }
+   ]
   },
   {
    "n": "万盛黑山谷",
@@ -138,7 +288,21 @@
    "drive": "",
    "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
    "rating": "5A",
-   "ratingSrc": "国家5A名录(2025.3·358家)"
+   "ratingSrc": "国家5A名录(2025.3·358家)",
+   "sources": [
+    {
+     "n": "5A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B65A%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/28.8884/106.99222"
+    },
+    {
+     "n": "市官网",
+     "u": "https://zunyi.gov.cn/"
+    }
+   ]
   },
   {
    "n": "地下裂缝",
@@ -146,7 +310,17 @@
    "lat": 28.24012,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/28.24012/107.29907"
+    },
+    {
+     "n": "市官网",
+     "u": "https://zunyi.gov.cn/"
+    }
+   ]
   }
  ],
  "rings": [

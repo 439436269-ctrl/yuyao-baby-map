@@ -16,7 +16,17 @@
    "lat": 32.09825,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.09825/118.71628"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "梁始兴忠武帝萧儋墓石刻",
@@ -24,7 +34,17 @@
    "lat": 32.14078,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.14078/118.91175"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "梁吴平忠侯萧景墓石刻",
@@ -32,7 +52,17 @@
    "lat": 32.13502,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.13502/118.90328"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "陈文帝陈蒨永宁陵石刻",
@@ -40,7 +70,17 @@
    "lat": 32.14015,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.14015/118.93107"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "梁安成康王萧秀墓石刻",
@@ -48,7 +88,17 @@
    "lat": 32.14386,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.14386/118.91609"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "林散之故居",
@@ -56,7 +106,17 @@
    "lat": 31.85928,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.85928/118.47322"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "南京眼",
@@ -64,7 +124,17 @@
    "lat": 31.99707,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.99707/118.69788"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "仁寿里古建筑",
@@ -72,7 +142,17 @@
    "lat": 32.03827,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.03827/118.79415"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "王汉洲故居",
@@ -80,7 +160,17 @@
    "lat": 32.02852,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.02852/118.717"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "综合表演馆",
@@ -88,7 +178,17 @@
    "lat": 32.09064,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.09064/118.7988"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "红山主题餐厅",
@@ -96,7 +196,17 @@
    "lat": 32.09189,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.09189/118.79882"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "儿童乐园",
@@ -104,7 +214,17 @@
    "lat": 32.09469,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.09469/118.80096"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "中国猫科馆",
@@ -112,7 +232,17 @@
    "lat": 32.09516,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.09516/118.79992"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "棂星门",
@@ -120,7 +250,17 @@
    "lat": 32.03569,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.03569/118.7694"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "大成门",
@@ -128,7 +268,17 @@
    "lat": 32.03614,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.03614/118.76974"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "万仞宫墙",
@@ -136,7 +286,17 @@
    "lat": 32.03523,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.03523/118.76911"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "九宝斋",
@@ -144,7 +304,17 @@
    "lat": 32.03512,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.03512/118.76971"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "售票中心",
@@ -152,7 +322,17 @@
    "lat": 32.0355,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.0355/118.76973"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "卞壸墓碣",
@@ -160,7 +340,17 @@
    "lat": 32.03629,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.03629/118.76899"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "有晋父子忠孝卞公之墓",
@@ -168,7 +358,17 @@
    "lat": 32.03691,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.03691/118.76951"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "江宁府学",
@@ -176,7 +376,17 @@
    "lat": 32.03531,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.03531/118.77013"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "大胜关大桥",
@@ -184,7 +394,17 @@
    "lat": 31.97005,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.97005/118.6557"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "老门东牌坊",
@@ -192,7 +412,17 @@
    "lat": 32.01485,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.01485/118.78279"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "碧云亭",
@@ -200,7 +430,17 @@
    "lat": 32.159,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.159/118.95366"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "桃花扇亭",
@@ -208,7 +448,17 @@
    "lat": 32.15666,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.15666/118.95592"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "千佛岩",
@@ -216,7 +466,17 @@
    "lat": 32.15385,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.15385/118.95503"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "待月亭",
@@ -224,7 +484,17 @@
    "lat": 32.15404,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.15404/118.95601"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "了凡问道",
@@ -232,7 +502,17 @@
    "lat": 32.15688,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.15688/118.95929"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "话山亭",
@@ -240,7 +520,17 @@
    "lat": 32.15713,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.15713/118.95897"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "幽居庵",
@@ -248,7 +538,17 @@
    "lat": 32.15796,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.15796/118.95849"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "珍珠泉",
@@ -256,7 +556,17 @@
    "lat": 32.15768,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.15768/118.95725"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "世纪之塔",
@@ -264,7 +574,17 @@
    "lat": 31.99659,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.99659/118.78949"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "中山书院",
@@ -272,7 +592,17 @@
    "lat": 32.06092,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.06092/118.85316"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "阵亡将士公墓",
@@ -280,7 +610,17 @@
    "lat": 32.05616,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.05616/118.86146"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "灵谷寺公园南门（红山门）",
@@ -288,7 +628,17 @@
    "lat": 32.05456,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.05456/118.86115"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "第五军淞沪抗战阵亡将士纪念碑",
@@ -296,7 +646,17 @@
    "lat": 32.0585,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.0585/118.86177"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "邓演达墓",
@@ -304,7 +664,17 @@
    "lat": 32.05688,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.05688/118.86487"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "永慕庐",
@@ -312,7 +682,17 @@
    "lat": 32.06813,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.06813/118.8518"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "万福寺遗址（名僧塔林）",
@@ -320,7 +700,17 @@
    "lat": 32.0687,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.0687/118.85109"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "议政亭",
@@ -328,7 +718,17 @@
    "lat": 32.06802,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.06802/118.85252"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "井亭",
@@ -336,7 +736,17 @@
    "lat": 32.06821,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.06821/118.85467"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "范鸿仙墓",
@@ -344,7 +754,17 @@
    "lat": 32.05658,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.05658/118.87765"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "江汉会馆",
@@ -352,7 +772,17 @@
    "lat": 32.02189,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.02189/118.70992"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "浡泥国王墓",
@@ -360,7 +790,17 @@
    "lat": 31.97821,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.97821/118.75287"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "蒲塘桥",
@@ -368,7 +808,17 @@
    "lat": 31.5609,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.5609/118.99004"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "佘村名清代古建筑群",
@@ -376,7 +826,17 @@
    "lat": 31.98508,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.98508/118.92364"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "1865创意园区",
@@ -384,7 +844,17 @@
    "lat": 32.0092,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.0092/118.78303"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "华严庵",
@@ -392,7 +862,17 @@
    "lat": 32.03502,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.03502/118.75813"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "浮圈Ⅲ点",
@@ -400,7 +880,17 @@
    "lat": 32.16653,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.16653/118.99583"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "彩虹赛道",
@@ -408,7 +898,17 @@
    "lat": 32.16639,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.16639/118.99537"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "VIP休息区",
@@ -416,7 +916,17 @@
    "lat": 32.16621,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.16621/118.99555"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "加勒比海滩演艺秀",
@@ -424,7 +934,17 @@
    "lat": 32.16548,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.16548/118.99628"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "加勒比海滩",
@@ -432,7 +952,17 @@
    "lat": 32.16598,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.16598/118.99615"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "浮圈Ⅰ点",
@@ -440,7 +970,17 @@
    "lat": 32.16708,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.16708/118.99648"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "浮圈Ⅱ点",
@@ -448,7 +988,17 @@
    "lat": 32.16635,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.16635/118.99763"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "SPA池",
@@ -456,7 +1006,17 @@
    "lat": 32.16602,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.16602/118.99683"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "双龙过山车",
@@ -464,7 +1024,17 @@
    "lat": 32.16581,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.16581/118.99708"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "眼镜王蛇",
@@ -472,7 +1042,17 @@
    "lat": 32.16589,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.16589/118.99777"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "霹雳旋风",
@@ -480,7 +1060,17 @@
    "lat": 32.16649,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.16649/118.99794"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "雨林游蛇",
@@ -488,7 +1078,17 @@
    "lat": 32.16648,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.16648/118.99818"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "时光秘境",
@@ -496,7 +1096,17 @@
    "lat": 32.16711,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.16711/118.99797"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "碟影重重",
@@ -504,7 +1114,17 @@
    "lat": 32.16747,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.16747/118.99792"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "狂蟒之灾",
@@ -512,7 +1132,17 @@
    "lat": 32.16765,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.16765/118.99792"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "亚马逊漂流",
@@ -520,7 +1150,17 @@
    "lat": 32.16703,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.16703/118.99662"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "极速坠落",
@@ -528,7 +1168,17 @@
    "lat": 32.16769,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.16769/118.99702"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "尖叫大水环",
@@ -536,7 +1186,17 @@
    "lat": 32.16775,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.16775/118.9965"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "童话水世界",
@@ -544,7 +1204,17 @@
    "lat": 32.16721,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.16721/118.99712"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "疯狂水寨",
@@ -552,7 +1222,17 @@
    "lat": 32.16657,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.16657/118.99717"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "旱喷广场",
@@ -560,7 +1240,17 @@
    "lat": 32.16689,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.16689/118.99589"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "飓风舞台",
@@ -568,7 +1258,17 @@
    "lat": 32.16735,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.16735/118.99598"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "警长训练营",
@@ -576,7 +1276,17 @@
    "lat": 32.16638,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.16638/118.98979"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "甜甜杯",
@@ -584,7 +1294,17 @@
    "lat": 32.16643,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.16643/118.99005"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "跳跳曲奇",
@@ -592,7 +1312,17 @@
    "lat": 32.16674,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.16674/118.99032"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "饼干城大营救",
@@ -600,7 +1330,17 @@
    "lat": 32.16668,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.16668/118.99006"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "坏蛋小飞车",
@@ -608,7 +1348,17 @@
    "lat": 32.16637,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.16637/118.99045"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "激光战车",
@@ -616,7 +1366,17 @@
    "lat": 32.16612,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.16612/118.98872"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "精灵舞台",
@@ -624,7 +1384,17 @@
    "lat": 32.16445,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.16445/118.99057"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "天地双雄",
@@ -632,7 +1402,17 @@
    "lat": 32.1647,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.1647/118.99018"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "情侣飞车",
@@ -640,7 +1420,17 @@
    "lat": 32.16499,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.16499/118.99154"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "雨林广场",
@@ -648,7 +1438,17 @@
    "lat": 32.16534,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.16534/118.99108"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "复仇之光",
@@ -656,7 +1456,17 @@
    "lat": 32.16461,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.16461/118.98948"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "飞行机甲",
@@ -664,7 +1474,17 @@
    "lat": 32.16533,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.16533/118.98961"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "飞影战队",
@@ -672,7 +1492,17 @@
    "lat": 32.16591,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.16591/118.98957"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "集散广场",
@@ -680,7 +1510,17 @@
    "lat": 32.16595,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.16595/118.98886"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "星际战舰",
@@ -688,7 +1528,17 @@
    "lat": 32.16435,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.16435/118.98976"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "超纪元战警",
@@ -696,7 +1546,17 @@
    "lat": 32.16472,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.16472/118.98868"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "森林空降兵",
@@ -704,7 +1564,17 @@
    "lat": 32.16532,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.16532/118.99172"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "完美风景",
@@ -712,7 +1582,17 @@
    "lat": 32.16526,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.16526/118.99199"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "极速咔叮",
@@ -720,7 +1600,17 @@
    "lat": 32.16544,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.16544/118.99074"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "掠食者",
@@ -728,7 +1618,17 @@
    "lat": 32.16444,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.16444/118.99197"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "实景剧场《金陵宝藏》",
@@ -736,7 +1636,17 @@
    "lat": 32.16521,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.16521/118.99268"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "魔术单车",
@@ -744,7 +1654,17 @@
    "lat": 32.16582,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.16582/118.99331"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "逍遥水母",
@@ -752,7 +1672,17 @@
    "lat": 32.16599,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.16599/118.99322"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "戏水广场",
@@ -760,7 +1690,17 @@
    "lat": 32.16593,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.16593/118.99346"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "疯狂骑士",
@@ -768,7 +1708,17 @@
    "lat": 32.16471,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.16471/118.99348"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "掘金者",
@@ -776,7 +1726,17 @@
    "lat": 32.16498,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.16498/118.99361"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "荒野历险",
@@ -784,7 +1744,17 @@
    "lat": 32.16453,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.16453/118.99428"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "鲸鱼广场",
@@ -792,7 +1762,17 @@
    "lat": 32.16662,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.16662/118.99429"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "矿山广场",
@@ -800,7 +1780,17 @@
    "lat": 32.16517,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.16517/118.9942"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "浪花跳跳",
@@ -808,7 +1798,17 @@
    "lat": 32.16643,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.16643/118.99379"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "激流勇进",
@@ -816,7 +1816,17 @@
    "lat": 32.16599,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.16599/118.99392"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "航海家",
@@ -824,7 +1834,17 @@
    "lat": 32.16576,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.16576/118.99458"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "飞飞鱼",
@@ -832,7 +1852,17 @@
    "lat": 32.16649,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.16649/118.99412"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "朋克舞台",
@@ -840,7 +1870,17 @@
    "lat": 32.16488,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.16488/118.99452"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "矿井逃生",
@@ -848,7 +1888,17 @@
    "lat": 32.16547,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.16547/118.99521"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "飞跃海洋",
@@ -856,7 +1906,17 @@
    "lat": 32.16639,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.16639/118.99475"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "萌萌哒之家",
@@ -864,7 +1924,17 @@
    "lat": 32.16684,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.16684/118.99378"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "深海探秘",
@@ -872,7 +1942,17 @@
    "lat": 32.16697,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.16697/118.99338"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "光海纪",
@@ -880,7 +1960,17 @@
    "lat": 32.16662,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.16662/118.99315"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "欢乐冰雪营地",
@@ -888,7 +1978,17 @@
    "lat": 32.1666,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.1666/118.99269"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "摩天轮舞台",
@@ -896,7 +1996,17 @@
    "lat": 32.16649,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.16649/118.99172"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "时光飞车",
@@ -904,7 +2014,17 @@
    "lat": 32.16607,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.16607/118.99214"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "大摆锤",
@@ -912,7 +2032,17 @@
    "lat": 32.16623,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.16623/118.99259"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "U-SHIP",
@@ -920,7 +2050,17 @@
    "lat": 32.16642,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.16642/118.99215"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "浪漫恋椅",
@@ -928,7 +2068,17 @@
    "lat": 32.16675,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.16675/118.99119"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "旋转木马",
@@ -936,7 +2086,17 @@
    "lat": 32.16702,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.16702/118.99159"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "江苏六合国家地质公园",
@@ -944,7 +2104,17 @@
    "lat": 32.46411,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.46411/118.93012"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "如來堂",
@@ -952,7 +2122,17 @@
    "lat": 32.15378,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.15378/118.95445"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "牛首烟岚",
@@ -960,7 +2140,17 @@
    "lat": 31.9094,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.9094/118.71913"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "花钟",
@@ -968,7 +2158,17 @@
    "lat": 31.80585,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.80585/118.70983"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "水幕电影",
@@ -976,7 +2176,17 @@
    "lat": 31.80527,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.80527/118.70651"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "圆梦之桥",
@@ -984,7 +2194,17 @@
    "lat": 31.7984,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.7984/118.70893"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "媒妁之言",
@@ -992,7 +2212,17 @@
    "lat": 31.79734,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.79734/118.70087"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "爱情传声屋",
@@ -1000,7 +2230,17 @@
    "lat": 31.79767,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.79767/118.70131"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "樱花隧道",
@@ -1008,7 +2248,17 @@
    "lat": 31.7957,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.7957/118.70287"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "雨花石砾石层",
@@ -1016,7 +2266,17 @@
    "lat": 32.25066,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.25066/118.89122"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "石柱景观区",
@@ -1024,7 +2284,17 @@
    "lat": 32.25187,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.25187/118.89141"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "孔雀开屏",
@@ -1032,7 +2302,17 @@
    "lat": 32.25406,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.25406/118.89255"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "雄狮之塔",
@@ -1040,7 +2320,17 @@
    "lat": 32.25361,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.25361/118.89263"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "童男桥",
@@ -1048,7 +2338,17 @@
    "lat": 31.81151,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.81151/118.7614"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "爱情海",
@@ -1056,7 +2356,17 @@
    "lat": 31.64544,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.64544/118.98381"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "美成草庐",
@@ -1064,7 +2374,17 @@
    "lat": 31.60302,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.60302/119.02013"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "溧水阡陌花开综合景区",
@@ -1072,7 +2392,17 @@
    "lat": 31.62814,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.62814/119.15859"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "雪浪石",
@@ -1080,7 +2410,17 @@
    "lat": 32.02344,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.02344/118.78068"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "籁爽清风堂",
@@ -1088,7 +2428,17 @@
    "lat": 32.02248,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.02248/118.77982"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "致爽轩",
@@ -1096,7 +2446,17 @@
    "lat": 32.02245,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.02245/118.77965"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "仙人峰",
@@ -1104,7 +2464,17 @@
    "lat": 32.0225,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.0225/118.77964"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "翼然亭",
@@ -1112,7 +2482,17 @@
    "lat": 32.02281,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.02281/118.77994"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "延晖亭",
@@ -1120,7 +2500,17 @@
    "lat": 32.02293,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.02293/118.78009"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "老树斋",
@@ -1128,7 +2518,17 @@
    "lat": 32.02305,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.02305/118.78012"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "船舫",
@@ -1136,7 +2536,17 @@
    "lat": 32.02355,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.02355/118.78009"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "扇亭",
@@ -1144,7 +2554,17 @@
    "lat": 32.02293,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.02293/118.77954"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "岁寒亭",
@@ -1152,7 +2572,17 @@
    "lat": 32.02324,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.02324/118.77958"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "观鱼亭",
@@ -1160,7 +2590,17 @@
    "lat": 32.02323,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.02323/118.7798"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "移山草堂",
@@ -1168,7 +2608,17 @@
    "lat": 32.02375,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.02375/118.77989"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "逐月楼",
@@ -1176,7 +2626,17 @@
    "lat": 32.02369,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.02369/118.78017"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "北假山",
@@ -1184,7 +2644,17 @@
    "lat": 32.02347,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.02347/118.77976"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "薇亭",
@@ -1192,7 +2662,17 @@
    "lat": 32.0235,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.0235/118.77985"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "燕子矶公园",
@@ -1200,7 +2680,17 @@
    "lat": 32.14897,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.14897/118.81231"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "鼓楼",
@@ -1208,7 +2698,17 @@
    "lat": 32.06073,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.06073/118.77683"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "中山陵音乐台",
@@ -1216,7 +2716,17 @@
    "lat": 32.05732,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.05732/118.85025"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "南京新百",
@@ -1224,7 +2734,17 @@
    "lat": 32.04286,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.04286/118.77963"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "中央商场",
@@ -1232,7 +2752,17 @@
    "lat": 32.04089,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.04089/118.78006"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "曾公祠",
@@ -1240,7 +2770,17 @@
    "lat": 32.034,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.034/118.78009"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "阅江楼",
@@ -1248,7 +2788,17 @@
    "lat": 32.09614,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.09614/118.74132"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "孙中山观江亭",
@@ -1256,7 +2806,17 @@
    "lat": 32.09686,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.09686/118.74315"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "碑廊",
@@ -1264,7 +2824,17 @@
    "lat": 32.09665,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.09665/118.74241"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "阅江楼南门",
@@ -1272,7 +2842,17 @@
    "lat": 32.09408,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.09408/118.7427"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "寓思亭",
@@ -1280,7 +2860,17 @@
    "lat": 32.0951,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.0951/118.74213"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "夫子庙",
@@ -1290,7 +2880,21 @@
    "drive": "",
    "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
    "rating": "5A",
-   "ratingSrc": "国家5A名录(2025.3·358家)"
+   "ratingSrc": "国家5A名录(2025.3·358家)",
+   "sources": [
+    {
+     "n": "5A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B65A%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.02037/118.78358"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "熙南里文化街区",
@@ -1298,7 +2902,17 @@
    "lat": 32.027,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.027/118.77616"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "松风阁",
@@ -1306,7 +2920,17 @@
    "lat": 32.05902,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.05902/118.86186"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "六合文庙",
@@ -1314,7 +2938,17 @@
    "lat": 32.34647,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.34647/118.82844"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "无想禅寺",
@@ -1322,7 +2956,17 @@
    "lat": 31.60236,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.60236/119.01429"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "乐泉广场",
@@ -1330,7 +2974,17 @@
    "lat": 32.1667,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.1667/118.99193"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "摩天轮",
@@ -1340,7 +2994,21 @@
    "drive": "",
    "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
    "rating": "4A",
-   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)"
+   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)",
+   "sources": [
+    {
+     "n": "4A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6AAAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.16638/118.99159"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "金陵小镇",
@@ -1348,7 +3016,17 @@
    "lat": 31.90097,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.90097/118.71699"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "无想水镇",
@@ -1356,7 +3034,17 @@
    "lat": 31.62452,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.62452/119.03199"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "高淳老街历史文化景区",
@@ -1364,7 +3052,17 @@
    "lat": 31.3219,
    "tag": "古镇",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.3219/118.86437"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "南京杨柳湖风景区",
@@ -1372,7 +3070,17 @@
    "lat": 31.85485,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.85485/118.92605"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "溧水周园",
@@ -1380,7 +3088,17 @@
    "lat": 31.63081,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.63081/119.1872"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "苏南反顽战役纪念馆",
@@ -1388,7 +3106,17 @@
    "lat": 31.54742,
    "tag": "室内",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.54742/119.16873"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "马歇尔公馆旧址",
@@ -1396,7 +3124,17 @@
    "lat": 32.06642,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.06642/118.76419"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "张笃伦旧居",
@@ -1404,7 +3142,17 @@
    "lat": 32.06644,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.06644/118.7648"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "大华大戏院",
@@ -1412,7 +3160,17 @@
    "lat": 32.04101,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.04101/118.77947"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "明志楼",
@@ -1420,7 +3178,17 @@
    "lat": 32.02359,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.02359/118.78049"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   },
   {
    "n": "南京夫子庙",
@@ -1428,7 +3196,17 @@
    "lat": 32.02274,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/32.02274/118.7836"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.nanjing.gov.cn/"
+    }
+   ]
   }
  ],
  "rings": [

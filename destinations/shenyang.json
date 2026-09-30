@@ -16,7 +16,17 @@
    "lat": 41.85089,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/41.85089/123.42129"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.shenyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "Botanical garden",
@@ -24,7 +34,17 @@
    "lat": 41.86632,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/41.86632/123.64361"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.shenyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "怀远门",
@@ -32,7 +52,17 @@
    "lat": 41.79529,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/41.79529/123.4429"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.shenyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "抚近门",
@@ -40,7 +70,17 @@
    "lat": 41.79498,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/41.79498/123.4583"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.shenyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "东关模范学校（周恩来就读的小学）",
@@ -48,7 +88,17 @@
    "lat": 41.7921,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/41.7921/123.4596"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.shenyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "Treffpunkt zwi Wanda Vista",
@@ -56,7 +106,17 @@
    "lat": 41.75807,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/41.75807/123.3845"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.shenyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "Eingang See",
@@ -64,7 +124,17 @@
    "lat": 41.94024,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/41.94024/123.63567"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.shenyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "太原街",
@@ -72,7 +142,17 @@
    "lat": 41.79174,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/41.79174/123.39642"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.shenyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "中街",
@@ -80,7 +160,17 @@
    "lat": 41.79906,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/41.79906/123.45157"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.shenyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "兴顺夜市",
@@ -88,7 +178,17 @@
    "lat": 41.79152,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/41.79152/123.35321"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.shenyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "棋盘山恐龙欢乐谷",
@@ -96,7 +196,17 @@
    "lat": 41.93843,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/41.93843/123.68164"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.shenyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "孔子圣像",
@@ -104,7 +214,17 @@
    "lat": 41.90341,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/41.90341/123.40928"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.shenyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "天马石",
@@ -112,7 +232,17 @@
    "lat": 41.49553,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/41.49553/123.57679"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.shenyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "将军石",
@@ -120,7 +250,17 @@
    "lat": 41.4953,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/41.4953/123.57679"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.shenyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "沈南第一峰",
@@ -128,7 +268,17 @@
    "lat": 41.49496,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/41.49496/123.57841"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.shenyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "猫园",
@@ -136,7 +286,17 @@
    "lat": 41.83295,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/41.83295/123.41616"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.shenyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "稻梦空间-办公室",
@@ -144,7 +304,17 @@
    "lat": 42.07434,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/42.07434/123.29576"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.shenyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "西塔",
@@ -152,7 +322,17 @@
    "lat": 41.80204,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/41.80204/123.40391"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.shenyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "Shenyang Rice Dream Space",
@@ -160,7 +340,17 @@
    "lat": 42.06926,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/42.06926/123.30091"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.shenyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "西跨院",
@@ -168,7 +358,17 @@
    "lat": 41.84755,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/41.84755/123.42103"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.shenyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "东跨院",
@@ -176,7 +376,17 @@
    "lat": 41.84759,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/41.84759/123.42205"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.shenyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "桃仙机场艺术墙",
@@ -184,7 +394,17 @@
    "lat": 41.65209,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/41.65209/123.50594"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.shenyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "桃仙机场看飞机处",
@@ -192,7 +412,17 @@
    "lat": 41.6517,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/41.6517/123.4972"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.shenyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "哎呦TV",
@@ -200,7 +430,17 @@
    "lat": 41.70264,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/41.70264/123.349"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.shenyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "石牌坊",
@@ -208,7 +448,17 @@
    "lat": 41.84729,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/41.84729/123.42159"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.shenyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "铁西1905文创园",
@@ -216,7 +466,17 @@
    "lat": 41.80989,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/41.80989/123.37625"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.shenyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "太平寺",
@@ -224,7 +484,17 @@
    "lat": 41.80553,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/41.80553/123.42035"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.shenyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "沈阳怪坡风景区",
@@ -234,7 +504,21 @@
    "drive": "",
    "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
    "rating": "4A",
-   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)"
+   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)",
+   "sources": [
+    {
+     "n": "4A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6AAAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/42.05843/123.6311"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.shenyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "奉天记忆铁西印象文化创意产业园",
@@ -242,7 +526,17 @@
    "lat": 41.80054,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/41.80054/123.35756"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.shenyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "Z广场国际文化产业园",
@@ -250,7 +544,17 @@
    "lat": 41.80442,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/41.80442/123.36275"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.shenyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "鹿苑",
@@ -258,7 +562,17 @@
    "lat": 41.7422,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/41.7422/123.51153"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.shenyang.gov.cn/"
+    }
+   ]
   },
   {
    "n": "猫舍",
@@ -266,7 +580,17 @@
    "lat": 41.74202,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/41.74202/123.5118"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.shenyang.gov.cn/"
+    }
+   ]
   }
  ],
  "rings": [

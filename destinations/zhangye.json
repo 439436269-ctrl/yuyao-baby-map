@@ -16,7 +16,17 @@
    "lat": 38.48415,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/38.48415/100.41735"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhangye.gov.cn/"
+    }
+   ]
   },
   {
    "n": "千佛洞",
@@ -24,7 +34,17 @@
    "lat": 38.50121,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/38.50121/100.42483"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhangye.gov.cn/"
+    }
+   ]
   },
   {
    "n": "July 1st Glacier",
@@ -32,7 +52,17 @@
    "lat": 39.27621,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.27621/97.71831"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhangye.gov.cn/"
+    }
+   ]
   },
   {
    "n": "马蹄北寺石窟",
@@ -40,7 +70,17 @@
    "lat": 38.4838,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/38.4838/100.41714"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhangye.gov.cn/"
+    }
+   ]
   },
   {
    "n": "祁连山滑雪场",
@@ -48,7 +88,17 @@
    "lat": 38.83316,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/38.83316/99.91421"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhangye.gov.cn/"
+    }
+   ]
   },
   {
    "n": "佛山滑雪场",
@@ -56,7 +106,17 @@
    "lat": 38.7977,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/38.7977/101.01925"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhangye.gov.cn/"
+    }
+   ]
   },
   {
    "n": "Qi Lian Xue Bao (camel) rock formation",
@@ -64,7 +124,17 @@
    "lat": 39.0774,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.0774/100.7188"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhangye.gov.cn/"
+    }
+   ]
   },
   {
    "n": "Rock arch heart",
@@ -72,7 +142,17 @@
    "lat": 39.08202,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.08202/100.71081"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhangye.gov.cn/"
+    }
+   ]
   },
   {
    "n": "Xiong Shi (Lion dance) rock formation",
@@ -80,7 +160,17 @@
    "lat": 39.07717,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.07717/100.71918"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhangye.gov.cn/"
+    }
+   ]
   },
   {
    "n": "Gu Cheng Bao (castle) rock formation",
@@ -88,7 +178,17 @@
    "lat": 39.07807,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.07807/100.72002"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhangye.gov.cn/"
+    }
+   ]
   },
   {
    "n": "Camel riding mine area",
@@ -96,7 +196,17 @@
    "lat": 39.08205,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.08205/100.71189"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhangye.gov.cn/"
+    }
+   ]
   },
   {
    "n": "Tian Jie Zhi Men",
@@ -104,7 +214,17 @@
    "lat": 39.07634,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.07634/100.71817"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhangye.gov.cn/"
+    }
+   ]
   },
   {
    "n": "Old Temple",
@@ -112,7 +232,17 @@
    "lat": 38.96137,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/38.96137/100.05515"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhangye.gov.cn/"
+    }
+   ]
   },
   {
    "n": "万象土林谷",
@@ -120,7 +250,17 @@
    "lat": 38.92833,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/38.92833/100.09556"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhangye.gov.cn/"
+    }
+   ]
   },
   {
    "n": "七彩嫁衣",
@@ -128,7 +268,17 @@
    "lat": 38.94866,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/38.94866/100.09232"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhangye.gov.cn/"
+    }
+   ]
   },
   {
    "n": "万象琉璃",
@@ -136,7 +286,17 @@
    "lat": 38.95033,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/38.95033/100.08682"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhangye.gov.cn/"
+    }
+   ]
   },
   {
    "n": "小布达拉宫",
@@ -144,7 +304,17 @@
    "lat": 38.95307,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/38.95307/100.07455"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhangye.gov.cn/"
+    }
+   ]
   },
   {
    "n": "神龟问天",
@@ -152,7 +322,17 @@
    "lat": 38.96182,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/38.96182/100.0619"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhangye.gov.cn/"
+    }
+   ]
   },
   {
    "n": "丝绸天路",
@@ -160,7 +340,17 @@
    "lat": 38.95492,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/38.95492/100.0617"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhangye.gov.cn/"
+    }
+   ]
   },
   {
    "n": "赤壁长城",
@@ -168,7 +358,17 @@
    "lat": 38.96169,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/38.96169/100.05685"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhangye.gov.cn/"
+    }
+   ]
   },
   {
    "n": "麻子面馆",
@@ -176,7 +376,17 @@
    "lat": 38.96156,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/38.96156/100.05457"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhangye.gov.cn/"
+    }
+   ]
   },
   {
    "n": "裕固流苏",
@@ -184,7 +394,17 @@
    "lat": 38.95871,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/38.95871/100.04942"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhangye.gov.cn/"
+    }
+   ]
   },
   {
    "n": "灵猴观海",
@@ -192,7 +412,17 @@
    "lat": 38.96345,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/38.96345/100.03932"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhangye.gov.cn/"
+    }
+   ]
   },
   {
    "n": "七彩飞霞",
@@ -200,7 +430,17 @@
    "lat": 38.96715,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/38.96715/100.03545"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhangye.gov.cn/"
+    }
+   ]
   },
   {
    "n": "众僧拜佛",
@@ -208,7 +448,17 @@
    "lat": 38.96215,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/38.96215/100.03103"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhangye.gov.cn/"
+    }
+   ]
   },
   {
    "n": "大扇贝",
@@ -216,7 +466,17 @@
    "lat": 38.97085,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/38.97085/100.0246"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhangye.gov.cn/"
+    }
+   ]
   },
   {
    "n": "夕晖归帆",
@@ -224,7 +484,17 @@
    "lat": 38.97424,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/38.97424/100.04259"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhangye.gov.cn/"
+    }
+   ]
   },
   {
    "n": "睡美人",
@@ -232,7 +502,17 @@
    "lat": 38.97567,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/38.97567/100.04028"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhangye.gov.cn/"
+    }
+   ]
   },
   {
    "n": "七彩屏",
@@ -240,7 +520,17 @@
    "lat": 38.97055,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/38.97055/100.04507"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhangye.gov.cn/"
+    }
+   ]
   },
   {
    "n": "高台胡杨林景区",
@@ -248,7 +538,17 @@
    "lat": 39.52254,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.52254/99.664"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhangye.gov.cn/"
+    }
+   ]
   },
   {
    "n": "人民广场",
@@ -258,7 +558,21 @@
    "drive": "",
    "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
    "rating": "4A",
-   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)"
+   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)",
+   "sources": [
+    {
+     "n": "4A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6AAAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/38.93197/100.4511"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhangye.gov.cn/"
+    }
+   ]
   },
   {
    "n": "Nanchengzi Fortress",
@@ -266,7 +580,17 @@
    "lat": 38.3385,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/38.3385/100.80151"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhangye.gov.cn/"
+    }
+   ]
   },
   {
    "n": "八卦营城",
@@ -274,7 +598,17 @@
    "lat": 38.34731,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/38.34731/100.96319"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhangye.gov.cn/"
+    }
+   ]
   },
   {
    "n": "Daduma Fortress",
@@ -282,7 +616,17 @@
    "lat": 38.45609,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/38.45609/100.49313"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhangye.gov.cn/"
+    }
+   ]
   },
   {
    "n": "马蹄寺裕固族风情园",
@@ -290,7 +634,17 @@
    "lat": 38.47557,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/38.47557/100.41688"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhangye.gov.cn/"
+    }
+   ]
   },
   {
    "n": "Dengcaozhuang Fortress",
@@ -298,7 +652,17 @@
    "lat": 38.57998,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/38.57998/100.44269"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhangye.gov.cn/"
+    }
+   ]
   },
   {
    "n": "张掖七彩丹霞旅游景区",
@@ -306,7 +670,17 @@
    "lat": 38.95144,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/38.95144/100.0792"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhangye.gov.cn/"
+    }
+   ]
   },
   {
    "n": "张掖芦水湾生态景区",
@@ -314,7 +688,17 @@
    "lat": 38.95994,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/38.95994/100.41094"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhangye.gov.cn/"
+    }
+   ]
   },
   {
    "n": "大佛寺",
@@ -324,7 +708,21 @@
    "drive": "",
    "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
    "rating": "4A",
-   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)"
+   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)",
+   "sources": [
+    {
+     "n": "4A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6AAAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/38.92996/100.45468"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhangye.gov.cn/"
+    }
+   ]
   },
   {
    "n": "木塔寺",
@@ -332,7 +730,17 @@
    "lat": 38.93174,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/38.93174/100.44963"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhangye.gov.cn/"
+    }
+   ]
   },
   {
    "n": "张掖鼓楼",
@@ -340,7 +748,17 @@
    "lat": 38.93652,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/38.93652/100.4556"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhangye.gov.cn/"
+    }
+   ]
   },
   {
    "n": "冰沟丹霞景区",
@@ -348,7 +766,17 @@
    "lat": 38.99246,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/38.99246/99.9024"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhangye.gov.cn/"
+    }
+   ]
   },
   {
    "n": "大佛寺广场",
@@ -356,7 +784,17 @@
    "lat": 38.92977,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/38.92977/100.45229"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhangye.gov.cn/"
+    }
+   ]
   },
   {
    "n": "峡口古城",
@@ -364,7 +802,17 @@
    "lat": 38.50729,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/38.50729/101.41645"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.zhangye.gov.cn/"
+    }
+   ]
   }
  ],
  "rings": [

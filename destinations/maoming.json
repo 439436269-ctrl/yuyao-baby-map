@@ -16,7 +16,17 @@
    "lat": 22.26106,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.26106/111.22325"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.maoming.gov.cn/"
+    }
+   ]
   },
   {
    "n": "尚文水库旅游区",
@@ -24,7 +34,17 @@
    "lat": 22.37153,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.37153/110.90137"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.maoming.gov.cn/"
+    }
+   ]
   },
   {
    "n": "天马山生态旅游景区",
@@ -32,7 +52,17 @@
    "lat": 22.45887,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.45887/110.69961"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.maoming.gov.cn/"
+    }
+   ]
   },
   {
    "n": "大仁山风景区",
@@ -40,7 +70,17 @@
    "lat": 22.41938,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.41938/110.92148"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.maoming.gov.cn/"
+    }
+   ]
   },
   {
    "n": "架海灯塔",
@@ -48,7 +88,17 @@
    "lat": 21.42756,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/21.42756/111.25342"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.maoming.gov.cn/"
+    }
+   ]
   },
   {
    "n": "天花顶",
@@ -56,7 +106,17 @@
    "lat": 22.22231,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.22231/111.25051"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.maoming.gov.cn/"
+    }
+   ]
   },
   {
    "n": "镇隆古城书院群",
@@ -64,7 +124,17 @@
    "lat": 22.20588,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.20588/110.872"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.maoming.gov.cn/"
+    }
+   ]
   },
   {
    "n": "关圣帝古寺",
@@ -72,7 +142,17 @@
    "lat": 22.21216,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.21216/110.87446"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.maoming.gov.cn/"
+    }
+   ]
   },
   {
    "n": "李季濓故居",
@@ -80,7 +160,17 @@
    "lat": 22.20328,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.20328/110.87215"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.maoming.gov.cn/"
+    }
+   ]
   },
   {
    "n": "两广第一关",
@@ -88,7 +178,17 @@
    "lat": 22.46426,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.46426/110.71554"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.maoming.gov.cn/"
+    }
+   ]
   },
   {
    "n": "月牙湾",
@@ -96,7 +196,17 @@
    "lat": 22.47726,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.47726/111.08614"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.maoming.gov.cn/"
+    }
+   ]
   },
   {
    "n": "彭村荷塘",
@@ -104,7 +214,17 @@
    "lat": 21.9747,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/21.9747/110.87177"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.maoming.gov.cn/"
+    }
+   ]
   },
   {
    "n": "鳌头古衙门遗址",
@@ -112,7 +232,17 @@
    "lat": 21.55293,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/21.55293/110.86174"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.maoming.gov.cn/"
+    }
+   ]
   },
   {
    "n": "电白高圳车革命据点旧址",
@@ -120,7 +250,17 @@
    "lat": 21.63863,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/21.63863/110.99422"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.maoming.gov.cn/"
+    }
+   ]
   },
   {
    "n": "中国共产党电白县支部旧址",
@@ -128,7 +268,17 @@
    "lat": 21.51072,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/21.51072/111.28995"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.maoming.gov.cn/"
+    }
+   ]
   },
   {
    "n": "倒流湾",
@@ -136,7 +286,17 @@
    "lat": 21.74228,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/21.74228/110.56075"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.maoming.gov.cn/"
+    }
+   ]
   },
   {
    "n": "北界半月岩自然生态区",
@@ -144,7 +304,17 @@
    "lat": 22.34862,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.34862/110.83112"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.maoming.gov.cn/"
+    }
+   ]
   },
   {
    "n": "亿年冰臼",
@@ -152,7 +322,17 @@
    "lat": 22.26526,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.26526/111.22222"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.maoming.gov.cn/"
+    }
+   ]
   },
   {
    "n": "阴元潭",
@@ -160,7 +340,17 @@
    "lat": 22.2638,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.2638/111.22157"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.maoming.gov.cn/"
+    }
+   ]
   },
   {
    "n": "霞村俚街",
@@ -168,7 +358,17 @@
    "lat": 21.43725,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/21.43725/111.00391"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.maoming.gov.cn/"
+    }
+   ]
   },
   {
    "n": "柑村革命活动旧址",
@@ -176,7 +376,17 @@
    "lat": 21.53097,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/21.53097/110.49187"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.maoming.gov.cn/"
+    }
+   ]
   },
   {
    "n": "南路革命教育基地",
@@ -184,7 +394,17 @@
    "lat": 21.53003,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/21.53003/110.49171"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.maoming.gov.cn/"
+    }
+   ]
   },
   {
    "n": "丛林穿越",
@@ -192,7 +412,17 @@
    "lat": 21.63962,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/21.63962/110.50274"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.maoming.gov.cn/"
+    }
+   ]
   },
   {
    "n": "娘娘井",
@@ -200,7 +430,17 @@
    "lat": 21.56212,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/21.56212/111.29376"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.maoming.gov.cn/"
+    }
+   ]
   },
   {
    "n": "油页岩实物展示",
@@ -208,7 +448,17 @@
    "lat": 21.7323,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/21.7323/110.84776"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.maoming.gov.cn/"
+    }
+   ]
   },
   {
    "n": "油城墟",
@@ -216,7 +466,17 @@
    "lat": 21.74755,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/21.74755/110.83624"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.maoming.gov.cn/"
+    }
+   ]
   },
   {
    "n": "风铃花海",
@@ -224,7 +484,17 @@
    "lat": 21.71394,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/21.71394/110.88295"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.maoming.gov.cn/"
+    }
+   ]
   },
   {
    "n": "湿地长廊",
@@ -232,7 +502,17 @@
    "lat": 21.71428,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/21.71428/110.88031"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.maoming.gov.cn/"
+    }
+   ]
   },
   {
    "n": "马安竹海",
@@ -240,7 +520,17 @@
    "lat": 22.37151,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.37151/111.31491"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.maoming.gov.cn/"
+    }
+   ]
   },
   {
    "n": "太华山旅游区",
@@ -248,7 +538,17 @@
    "lat": 22.41651,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.41651/110.86511"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.maoming.gov.cn/"
+    }
+   ]
   },
   {
    "n": "春英祖居",
@@ -256,7 +556,17 @@
    "lat": 22.58966,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.58966/110.76996"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.maoming.gov.cn/"
+    }
+   ]
   },
   {
    "n": "信宜窦州古城景区",
@@ -264,7 +574,17 @@
    "lat": 22.20639,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.20639/110.87471"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.maoming.gov.cn/"
+    }
+   ]
   },
   {
    "n": "十里杜鹃",
@@ -272,7 +592,17 @@
    "lat": 21.71207,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/21.71207/110.89128"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.maoming.gov.cn/"
+    }
+   ]
   },
   {
    "n": "紫花风铃林",
@@ -280,7 +610,17 @@
    "lat": 21.72365,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/21.72365/110.86304"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.maoming.gov.cn/"
+    }
+   ]
   },
   {
    "n": "晏镜疍家墟",
@@ -288,7 +628,17 @@
    "lat": 21.43956,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/21.43956/111.00715"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.maoming.gov.cn/"
+    }
+   ]
   },
   {
    "n": "前岚海滩",
@@ -296,7 +646,17 @@
    "lat": 21.46898,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/21.46898/111.33593"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.maoming.gov.cn/"
+    }
+   ]
   },
   {
    "n": "电视塔",
@@ -306,7 +666,21 @@
    "drive": "",
    "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
    "rating": "5A",
-   "ratingSrc": "国家5A名录(2025.3·358家)"
+   "ratingSrc": "国家5A名录(2025.3·358家)",
+   "sources": [
+    {
+     "n": "5A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B65A%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/21.89217/110.85441"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.maoming.gov.cn/"
+    }
+   ]
   },
   {
    "n": "南山寺",
@@ -314,7 +688,17 @@
    "lat": 21.75606,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/21.75606/110.631"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.maoming.gov.cn/"
+    }
+   ]
   },
   {
    "n": "笔架山森林公园",
@@ -322,7 +706,17 @@
    "lat": 21.89116,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/21.89116/110.85748"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.maoming.gov.cn/"
+    }
+   ]
   },
   {
    "n": "宝光塔",
@@ -330,7 +724,17 @@
    "lat": 21.91502,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/21.91502/110.84032"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.maoming.gov.cn/"
+    }
+   ]
   },
   {
    "n": "迴龙庵",
@@ -338,7 +742,17 @@
    "lat": 21.93304,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/21.93304/110.8591"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.maoming.gov.cn/"
+    }
+   ]
   },
   {
    "n": "盘古大仙庙",
@@ -346,7 +760,17 @@
    "lat": 22.1594,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.1594/111.04777"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.maoming.gov.cn/"
+    }
+   ]
   },
   {
    "n": "中国第一滩",
@@ -354,7 +778,17 @@
    "lat": 21.45995,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/21.45995/111.04757"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.maoming.gov.cn/"
+    }
+   ]
   },
   {
    "n": "摩天小镇",
@@ -362,7 +796,17 @@
    "lat": 22.24265,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.24265/111.36136"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.maoming.gov.cn/"
+    }
+   ]
   },
   {
    "n": "潘茂名纪念公园",
@@ -370,7 +814,17 @@
    "lat": 21.57614,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/21.57614/110.97417"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.maoming.gov.cn/"
+    }
+   ]
   },
   {
    "n": "山水双合",
@@ -378,7 +832,17 @@
    "lat": 22.36805,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.36805/111.25564"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.maoming.gov.cn/"
+    }
+   ]
   },
   {
    "n": "冼太庙",
@@ -386,7 +850,17 @@
    "lat": 21.91985,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/21.91985/110.85306"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.maoming.gov.cn/"
+    }
+   ]
   },
   {
    "n": "植物迷宫",
@@ -394,7 +868,17 @@
    "lat": 21.62943,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/21.62943/110.81628"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.maoming.gov.cn/"
+    }
+   ]
   },
   {
    "n": "好心文化楼",
@@ -402,7 +886,17 @@
    "lat": 22.16502,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.16502/110.42759"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.maoming.gov.cn/"
+    }
+   ]
   },
   {
    "n": "化州学宫",
@@ -410,7 +904,17 @@
    "lat": 21.65093,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/21.65093/110.62638"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.maoming.gov.cn/"
+    }
+   ]
   },
   {
    "n": "空中漂流",
@@ -418,7 +922,17 @@
    "lat": 22.2615,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.2615/111.22235"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.maoming.gov.cn/"
+    }
+   ]
   },
   {
    "n": "刘紫仙姑庙",
@@ -426,7 +940,17 @@
    "lat": 21.80473,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/21.80473/111.02419"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.maoming.gov.cn/"
+    }
+   ]
   },
   {
    "n": "镇隆学宫",
@@ -434,7 +958,17 @@
    "lat": 22.20738,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.20738/110.87472"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.maoming.gov.cn/"
+    }
+   ]
   },
   {
    "n": "怀乡起义指挥部旧址",
@@ -442,7 +976,17 @@
    "lat": 22.48202,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/22.48202/111.05307"
+    },
+    {
+     "n": "市官网",
+     "u": "http://www.maoming.gov.cn/"
+    }
+   ]
   }
  ],
  "rings": [

@@ -16,7 +16,17 @@
    "lat": 39.84829,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.84829/109.70638"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.ordos.gov.cn/"
+    }
+   ]
   },
   {
    "n": "苏泊罕游牧大草原旅游景区",
@@ -24,7 +34,17 @@
    "lat": 39.66718,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.66718/109.35566"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.ordos.gov.cn/"
+    }
+   ]
   },
   {
    "n": "黄河三盛公国家水利风景区",
@@ -32,7 +52,17 @@
    "lat": 40.30951,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.30951/107.03087"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.ordos.gov.cn/"
+    }
+   ]
   },
   {
    "n": "城川古城",
@@ -40,7 +70,17 @@
    "lat": 37.71155,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/37.71155/108.32683"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.ordos.gov.cn/"
+    }
+   ]
   },
   {
    "n": "敖勒召其古城",
@@ -48,7 +88,17 @@
    "lat": 38.18867,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/38.18867/107.51426"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.ordos.gov.cn/"
+    }
+   ]
   },
   {
    "n": "巴彦呼日呼古城",
@@ -56,7 +106,17 @@
    "lat": 38.10874,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/38.10874/108.21759"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.ordos.gov.cn/"
+    }
+   ]
   },
   {
    "n": "查干巴拉嘎苏城址",
@@ -64,7 +124,17 @@
    "lat": 38.14115,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/38.14115/107.71646"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.ordos.gov.cn/"
+    }
+   ]
   },
   {
    "n": "腾格里塔拉民俗风情园",
@@ -72,7 +142,17 @@
    "lat": 38.76211,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/38.76211/108.30485"
+    },
+    {
+     "n": "市官网",
+     "u": "https://www.ordos.gov.cn/"
+    }
+   ]
   }
  ],
  "rings": [

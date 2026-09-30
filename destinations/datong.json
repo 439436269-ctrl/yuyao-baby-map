@@ -16,7 +16,17 @@
    "lat": 39.6597,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.6597/113.70799"
+    },
+    {
+     "n": "市官网",
+     "u": "https://datong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "土林",
@@ -24,7 +34,17 @@
    "lat": 39.94631,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.94631/113.47431"
+    },
+    {
+     "n": "市官网",
+     "u": "https://datong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "八台子大单巴",
@@ -32,7 +52,17 @@
    "lat": 40.16949,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.16949/112.71965"
+    },
+    {
+     "n": "市官网",
+     "u": "https://datong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "红石崖",
@@ -40,7 +70,17 @@
    "lat": 40.20191,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.20191/113.43855"
+    },
+    {
+     "n": "市官网",
+     "u": "https://datong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "第20窟",
@@ -48,7 +88,17 @@
    "lat": 40.11022,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.11022/113.12276"
+    },
+    {
+     "n": "市官网",
+     "u": "https://datong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "第1窟",
@@ -56,7 +106,17 @@
    "lat": 40.10964,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.10964/113.12989"
+    },
+    {
+     "n": "市官网",
+     "u": "https://datong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "第3窟",
@@ -64,7 +124,17 @@
    "lat": 40.11013,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.11013/113.12765"
+    },
+    {
+     "n": "市官网",
+     "u": "https://datong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "第5窟",
@@ -72,7 +142,17 @@
    "lat": 40.11022,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.11022/113.12606"
+    },
+    {
+     "n": "市官网",
+     "u": "https://datong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "第7窟",
@@ -80,7 +160,17 @@
    "lat": 40.11026,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.11026/113.12563"
+    },
+    {
+     "n": "市官网",
+     "u": "https://datong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "第9窟",
@@ -88,7 +178,17 @@
    "lat": 40.11023,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.11023/113.12537"
+    },
+    {
+     "n": "市官网",
+     "u": "https://datong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "第39窟",
@@ -96,7 +196,17 @@
    "lat": 40.11017,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.11017/113.12129"
+    },
+    {
+     "n": "市官网",
+     "u": "https://datong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "文廟五龍壁",
@@ -104,7 +214,17 @@
    "lat": 40.09754,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.09754/113.29475"
+    },
+    {
+     "n": "市官网",
+     "u": "https://datong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "第17窟",
@@ -112,7 +232,17 @@
    "lat": 40.11019,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.11019/113.12359"
+    },
+    {
+     "n": "市官网",
+     "u": "https://datong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "第11-12窟",
@@ -120,7 +250,17 @@
    "lat": 40.11022,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.11022/113.12497"
+    },
+    {
+     "n": "市官网",
+     "u": "https://datong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "第14-15窟",
@@ -128,7 +268,17 @@
    "lat": 40.11024,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.11024/113.12401"
+    },
+    {
+     "n": "市官网",
+     "u": "https://datong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "第16窟",
@@ -136,7 +286,17 @@
    "lat": 40.11023,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.11023/113.12379"
+    },
+    {
+     "n": "市官网",
+     "u": "https://datong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "第13窟",
@@ -144,7 +304,17 @@
    "lat": 40.11019,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.11019/113.12464"
+    },
+    {
+     "n": "市官网",
+     "u": "https://datong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "第8窟",
@@ -152,7 +322,17 @@
    "lat": 40.11027,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.11027/113.12552"
+    },
+    {
+     "n": "市官网",
+     "u": "https://datong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "平型关",
@@ -160,7 +340,17 @@
    "lat": 39.34342,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.34342/113.96689"
+    },
+    {
+     "n": "市官网",
+     "u": "https://datong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "第4窟",
@@ -168,7 +358,17 @@
    "lat": 40.11016,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.11016/113.1274"
+    },
+    {
+     "n": "市官网",
+     "u": "https://datong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "第2窟",
@@ -176,7 +376,17 @@
    "lat": 40.10969,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.10969/113.12966"
+    },
+    {
+     "n": "市官网",
+     "u": "https://datong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "第6窟",
@@ -184,7 +394,17 @@
    "lat": 40.11023,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.11023/113.12585"
+    },
+    {
+     "n": "市官网",
+     "u": "https://datong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "第10窟",
@@ -192,7 +412,17 @@
    "lat": 40.11023,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.11023/113.1252"
+    },
+    {
+     "n": "市官网",
+     "u": "https://datong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "第18窟",
@@ -200,7 +430,17 @@
    "lat": 40.11019,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.11019/113.12334"
+    },
+    {
+     "n": "市官网",
+     "u": "https://datong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "第19窟",
@@ -208,7 +448,17 @@
    "lat": 40.1102,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.1102/113.12304"
+    },
+    {
+     "n": "市官网",
+     "u": "https://datong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "第21窟",
@@ -216,7 +466,17 @@
    "lat": 40.11019,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.11019/113.12249"
+    },
+    {
+     "n": "市官网",
+     "u": "https://datong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "第33窟",
@@ -224,7 +484,17 @@
    "lat": 40.11014,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.11014/113.12185"
+    },
+    {
+     "n": "市官网",
+     "u": "https://datong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "鼓楼",
@@ -232,7 +502,17 @@
    "lat": 40.0903,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.0903/113.29525"
+    },
+    {
+     "n": "市官网",
+     "u": "https://datong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "代王府",
@@ -240,7 +520,17 @@
    "lat": 40.09469,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.09469/113.2974"
+    },
+    {
+     "n": "市官网",
+     "u": "https://datong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "华严寺",
@@ -248,7 +538,17 @@
    "lat": 40.09134,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.09134/113.28804"
+    },
+    {
+     "n": "市官网",
+     "u": "https://datong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "云冈石窟",
@@ -258,7 +558,21 @@
    "drive": "",
    "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
    "rating": "5A",
-   "ratingSrc": "国家5A名录(2025.3·358家)"
+   "ratingSrc": "国家5A名录(2025.3·358家)",
+   "sources": [
+    {
+     "n": "5A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B65A%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.11258/113.13014"
+    },
+    {
+     "n": "市官网",
+     "u": "https://datong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "善化寺",
@@ -268,7 +582,21 @@
    "drive": "",
    "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
    "rating": "4A",
-   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)"
+   "ratingSrc": "国家4A名录(百科词条转录·2026-09-30,1298条)",
+   "sources": [
+    {
+     "n": "4A名录·百科",
+     "u": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6AAAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA"
+    },
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.08604/113.29324"
+    },
+    {
+     "n": "市官网",
+     "u": "https://datong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "九龙壁景区",
@@ -276,7 +604,17 @@
    "lat": 40.09183,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.09183/113.29702"
+    },
+    {
+     "n": "市官网",
+     "u": "https://datong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "宁鲁堡",
@@ -284,7 +622,17 @@
    "lat": 40.15695,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.15695/112.70748"
+    },
+    {
+     "n": "市官网",
+     "u": "https://datong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "威鲁堡",
@@ -292,7 +640,17 @@
    "lat": 40.17284,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.17284/112.78438"
+    },
+    {
+     "n": "市官网",
+     "u": "https://datong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "三屯堡",
@@ -300,7 +658,17 @@
    "lat": 40.10086,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.10086/112.71677"
+    },
+    {
+     "n": "市官网",
+     "u": "https://datong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "永嘉堡",
@@ -308,7 +676,17 @@
    "lat": 40.52279,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.52279/114.25775"
+    },
+    {
+     "n": "市官网",
+     "u": "https://datong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "镇川堡",
@@ -316,7 +694,17 @@
    "lat": 40.28561,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.28561/113.38154"
+    },
+    {
+     "n": "市官网",
+     "u": "https://datong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "镇虏堡",
@@ -324,7 +712,17 @@
    "lat": 40.25114,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.25114/113.22385"
+    },
+    {
+     "n": "市官网",
+     "u": "https://datong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "新平堡",
@@ -332,7 +730,17 @@
    "lat": 40.65719,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.65719/114.07267"
+    },
+    {
+     "n": "市官网",
+     "u": "https://datong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "保平堡",
@@ -340,7 +748,17 @@
    "lat": 40.62514,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.62514/114.06454"
+    },
+    {
+     "n": "市官网",
+     "u": "https://datong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "古城",
@@ -348,7 +766,17 @@
    "lat": 40.13021,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.13021/113.97474"
+    },
+    {
+     "n": "市官网",
+     "u": "https://datong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "靳家洼古堡",
@@ -356,7 +784,17 @@
    "lat": 40.12633,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.12633/113.93687"
+    },
+    {
+     "n": "市官网",
+     "u": "https://datong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "云西堡",
@@ -364,7 +802,17 @@
    "lat": 40.06637,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.06637/112.82675"
+    },
+    {
+     "n": "市官网",
+     "u": "https://datong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "浑源古州衙",
@@ -372,7 +820,17 @@
    "lat": 39.6988,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.6988/113.68355"
+    },
+    {
+     "n": "市官网",
+     "u": "https://datong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "麻家大院",
@@ -380,7 +838,17 @@
    "lat": 39.69953,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.69953/113.6841"
+    },
+    {
+     "n": "市官网",
+     "u": "https://datong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "钟楼",
@@ -388,7 +856,17 @@
    "lat": 40.09237,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.09237/113.29236"
+    },
+    {
+     "n": "市官网",
+     "u": "https://datong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "圆通寺",
@@ -396,7 +874,17 @@
    "lat": 40.09133,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.09133/113.28583"
+    },
+    {
+     "n": "市官网",
+     "u": "https://datong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "观音堂",
@@ -404,7 +892,17 @@
    "lat": 40.10132,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.10132/113.19718"
+    },
+    {
+     "n": "市官网",
+     "u": "https://datong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "晋华宫矿",
@@ -412,7 +910,17 @@
    "lat": 40.10355,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.10355/113.12725"
+    },
+    {
+     "n": "市官网",
+     "u": "https://datong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "魁星楼",
@@ -420,7 +928,17 @@
    "lat": 40.09758,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.09758/113.29528"
+    },
+    {
+     "n": "市官网",
+     "u": "https://datong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "吴官屯石窟",
@@ -428,7 +946,17 @@
    "lat": 40.12465,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.12465/113.0976"
+    },
+    {
+     "n": "市官网",
+     "u": "https://datong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "鲁班窑石窟",
@@ -436,7 +964,17 @@
    "lat": 40.11593,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.11593/113.11421"
+    },
+    {
+     "n": "市官网",
+     "u": "https://datong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "禅房寺塔",
@@ -444,7 +982,17 @@
    "lat": 39.94467,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/39.94467/113.04874"
+    },
+    {
+     "n": "市官网",
+     "u": "https://datong.gov.cn/"
+    }
+   ]
   },
   {
    "n": "云林寺",
@@ -452,7 +1000,17 @@
    "lat": 40.35829,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/40.35829/113.74175"
+    },
+    {
+     "n": "市官网",
+     "u": "https://datong.gov.cn/"
+    }
+   ]
   }
  ],
  "rings": [

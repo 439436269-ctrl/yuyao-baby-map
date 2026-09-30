@@ -16,7 +16,17 @@
    "lat": 25.28688,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.28688/98.84875"
+    },
+    {
+     "n": "市官网",
+     "u": "https://baoshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "松山抗战纪念",
@@ -24,7 +34,17 @@
    "lat": 24.7398,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/24.7398/98.90562"
+    },
+    {
+     "n": "市官网",
+     "u": "https://baoshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "金鸡古戏台",
@@ -32,7 +52,17 @@
    "lat": 25.15562,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.15562/99.25357"
+    },
+    {
+     "n": "市官网",
+     "u": "https://baoshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "文笔塔",
@@ -40,7 +70,17 @@
    "lat": 25.01786,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.01786/98.47875"
+    },
+    {
+     "n": "市官网",
+     "u": "https://baoshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "北海湿地",
@@ -48,7 +88,17 @@
    "lat": 25.12384,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.12384/98.55746"
+    },
+    {
+     "n": "市官网",
+     "u": "https://baoshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "百花岭生态旅游区",
@@ -56,7 +106,17 @@
    "lat": 25.28518,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.28518/98.80374"
+    },
+    {
+     "n": "市官网",
+     "u": "https://baoshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "黑魚河景區",
@@ -64,7 +124,17 @@
    "lat": 25.21625,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.21625/98.5732"
+    },
+    {
+     "n": "市官网",
+     "u": "https://baoshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "霁虹桥（迁建）",
@@ -72,7 +142,17 @@
    "lat": 25.28779,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.28779/99.35426"
+    },
+    {
+     "n": "市官网",
+     "u": "https://baoshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "滇西军都督府旧址",
@@ -80,7 +160,17 @@
    "lat": 25.0253,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.0253/98.48853"
+    },
+    {
+     "n": "市官网",
+     "u": "https://baoshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "腾冲滇滩棋盘石景区",
@@ -88,7 +178,17 @@
    "lat": 25.61909,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.61909/98.44155"
+    },
+    {
+     "n": "市官网",
+     "u": "https://baoshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "天水流音",
@@ -96,7 +196,17 @@
    "lat": 25.38044,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.38044/98.41288"
+    },
+    {
+     "n": "市官网",
+     "u": "https://baoshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "石匣",
@@ -104,7 +214,17 @@
    "lat": 25.38001,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.38001/98.4116"
+    },
+    {
+     "n": "市官网",
+     "u": "https://baoshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "寿星石",
@@ -112,7 +232,17 @@
    "lat": 25.38025,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.38025/98.41198"
+    },
+    {
+     "n": "市官网",
+     "u": "https://baoshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "白鹭厅堂",
@@ -120,7 +250,17 @@
    "lat": 25.38077,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.38077/98.40976"
+    },
+    {
+     "n": "市官网",
+     "u": "https://baoshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "刀劈石",
@@ -128,7 +268,17 @@
    "lat": 25.38199,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.38199/98.41083"
+    },
+    {
+     "n": "市官网",
+     "u": "https://baoshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "彩蝶归巢",
@@ -136,7 +286,17 @@
    "lat": 25.38169,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.38169/98.41086"
+    },
+    {
+     "n": "市官网",
+     "u": "https://baoshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "飞来石",
@@ -144,7 +304,17 @@
    "lat": 25.38302,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.38302/98.4119"
+    },
+    {
+     "n": "市官网",
+     "u": "https://baoshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "鹰嘴石",
@@ -152,7 +322,17 @@
    "lat": 25.38283,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.38283/98.41266"
+    },
+    {
+     "n": "市官网",
+     "u": "https://baoshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "官上加官",
@@ -160,7 +340,17 @@
    "lat": 25.38127,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.38127/98.41278"
+    },
+    {
+     "n": "市官网",
+     "u": "https://baoshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "天生井",
@@ -168,7 +358,17 @@
    "lat": 25.37761,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.37761/98.40671"
+    },
+    {
+     "n": "市官网",
+     "u": "https://baoshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "大有佳处",
@@ -176,7 +376,17 @@
    "lat": 25.37753,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.37753/98.40642"
+    },
+    {
+     "n": "市官网",
+     "u": "https://baoshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "三折云梯",
@@ -184,7 +394,17 @@
    "lat": 25.37802,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.37802/98.40677"
+    },
+    {
+     "n": "市官网",
+     "u": "https://baoshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "小殿岔口",
@@ -192,7 +412,17 @@
    "lat": 25.376,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.376/98.40478"
+    },
+    {
+     "n": "市官网",
+     "u": "https://baoshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "万古长青",
@@ -200,7 +430,17 @@
    "lat": 25.37574,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.37574/98.40581"
+    },
+    {
+     "n": "市官网",
+     "u": "https://baoshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "舍身崖",
@@ -208,7 +448,17 @@
    "lat": 25.37639,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.37639/98.40672"
+    },
+    {
+     "n": "市官网",
+     "u": "https://baoshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "点墨成书",
@@ -216,7 +466,17 @@
    "lat": 25.37753,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.37753/98.40752"
+    },
+    {
+     "n": "市官网",
+     "u": "https://baoshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "银杏村景区",
@@ -224,7 +484,17 @@
    "lat": 25.30078,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.30078/98.51247"
+    },
+    {
+     "n": "市官网",
+     "u": "https://baoshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "深闺里景区",
@@ -232,7 +502,17 @@
    "lat": 25.35011,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.35011/98.42226"
+    },
+    {
+     "n": "市官网",
+     "u": "https://baoshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "高黎贡山孔明茶古茶园",
@@ -240,7 +520,17 @@
    "lat": 24.96596,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/24.96596/98.7444"
+    },
+    {
+     "n": "市官网",
+     "u": "https://baoshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "岗房",
@@ -248,7 +538,17 @@
    "lat": 25.29921,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.29921/98.76994"
+    },
+    {
+     "n": "市官网",
+     "u": "https://baoshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "永定桥",
@@ -256,7 +556,17 @@
    "lat": 25.29659,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.29659/98.75519"
+    },
+    {
+     "n": "市官网",
+     "u": "https://baoshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "黄心树",
@@ -264,7 +574,17 @@
    "lat": 25.29495,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.29495/98.75349"
+    },
+    {
+     "n": "市官网",
+     "u": "https://baoshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "撑腰石",
@@ -272,7 +592,17 @@
    "lat": 25.28635,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.28635/98.72069"
+    },
+    {
+     "n": "市官网",
+     "u": "https://baoshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "人头岩",
@@ -280,7 +610,17 @@
    "lat": 25.28596,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.28596/98.71258"
+    },
+    {
+     "n": "市官网",
+     "u": "https://baoshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "换米处",
@@ -288,7 +628,17 @@
    "lat": 25.29343,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.29343/98.74996"
+    },
+    {
+     "n": "市官网",
+     "u": "https://baoshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "大风包",
@@ -296,7 +646,17 @@
    "lat": 25.29532,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.29532/98.77495"
+    },
+    {
+     "n": "市官网",
+     "u": "https://baoshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "石洞桥",
@@ -304,7 +664,17 @@
    "lat": 25.29978,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.29978/98.75617"
+    },
+    {
+     "n": "市官网",
+     "u": "https://baoshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "迎客杉",
@@ -312,7 +682,17 @@
    "lat": 25.29169,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.29169/98.74305"
+    },
+    {
+     "n": "市官网",
+     "u": "https://baoshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "和尚岩",
@@ -320,7 +700,17 @@
    "lat": 25.29084,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.29084/98.73766"
+    },
+    {
+     "n": "市官网",
+     "u": "https://baoshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "强盗房",
@@ -328,7 +718,17 @@
    "lat": 25.2899,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.2899/98.72503"
+    },
+    {
+     "n": "市官网",
+     "u": "https://baoshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "花卷石",
@@ -336,7 +736,17 @@
    "lat": 25.28342,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.28342/98.70708"
+    },
+    {
+     "n": "市官网",
+     "u": "https://baoshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "玉碧泉",
@@ -344,7 +754,17 @@
    "lat": 25.01709,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.01709/99.0856"
+    },
+    {
+     "n": "市官网",
+     "u": "https://baoshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "盘蛇谷古道哑泉",
@@ -352,7 +772,17 @@
    "lat": 25.01186,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.01186/98.93742"
+    },
+    {
+     "n": "市官网",
+     "u": "https://baoshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "霁虹桥摩崖石刻",
@@ -360,7 +790,17 @@
    "lat": 25.28884,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.28884/99.35229"
+    },
+    {
+     "n": "市官网",
+     "u": "https://baoshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "东山草甸",
@@ -368,7 +808,17 @@
    "lat": 24.99741,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/24.99741/98.56898"
+    },
+    {
+     "n": "市官网",
+     "u": "https://baoshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "丙闷榕树群",
@@ -376,7 +826,17 @@
    "lat": 25.06725,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.06725/98.8328"
+    },
+    {
+     "n": "市官网",
+     "u": "https://baoshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "杨振鸿墓",
@@ -384,7 +844,17 @@
    "lat": 25.12138,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.12138/99.15412"
+    },
+    {
+     "n": "市官网",
+     "u": "https://baoshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "独树成林",
@@ -392,7 +862,17 @@
    "lat": 25.49718,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.49718/98.87489"
+    },
+    {
+     "n": "市官网",
+     "u": "https://baoshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "大横山咖啡观光园",
@@ -400,7 +880,17 @@
    "lat": 25.01603,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.01603/98.83188"
+    },
+    {
+     "n": "市官网",
+     "u": "https://baoshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "亚洲第一大榕树",
@@ -408,7 +898,17 @@
    "lat": 25.07705,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.07705/98.83641"
+    },
+    {
+     "n": "市官网",
+     "u": "https://baoshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "彭蓂墓",
@@ -416,7 +916,17 @@
    "lat": 25.12132,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.12132/99.15389"
+    },
+    {
+     "n": "市官网",
+     "u": "https://baoshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "和尚石",
@@ -424,7 +934,17 @@
    "lat": 25.39458,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.39458/98.937"
+    },
+    {
+     "n": "市官网",
+     "u": "https://baoshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "马家大院衙门",
@@ -432,7 +952,17 @@
    "lat": 25.26488,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.26488/99.33201"
+    },
+    {
+     "n": "市官网",
+     "u": "https://baoshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "望兔峡银色沙滩",
@@ -440,7 +970,17 @@
    "lat": 25.48724,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.48724/98.88851"
+    },
+    {
+     "n": "市官网",
+     "u": "https://baoshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "舞厅树",
@@ -448,7 +988,17 @@
    "lat": 25.48913,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.48913/98.8779"
+    },
+    {
+     "n": "市官网",
+     "u": "https://baoshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "仙人石",
@@ -456,7 +1006,17 @@
    "lat": 25.30427,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.30427/98.80067"
+    },
+    {
+     "n": "市官网",
+     "u": "https://baoshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "马家四合院",
@@ -464,7 +1024,17 @@
    "lat": 25.26354,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.26354/99.33292"
+    },
+    {
+     "n": "市官网",
+     "u": "https://baoshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "千佛洞",
@@ -472,7 +1042,17 @@
    "lat": 24.96544,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/24.96544/99.32132"
+    },
+    {
+     "n": "市官网",
+     "u": "https://baoshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "永昌府城城墙残垣",
@@ -480,7 +1060,17 @@
    "lat": 25.12272,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.12272/99.15286"
+    },
+    {
+     "n": "市官网",
+     "u": "https://baoshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "米格15",
@@ -488,7 +1078,17 @@
    "lat": 25.12235,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.12235/99.15304"
+    },
+    {
+     "n": "市官网",
+     "u": "https://baoshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "金鹅蛋",
@@ -496,7 +1096,17 @@
    "lat": 25.27472,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.27472/99.35672"
+    },
+    {
+     "n": "市官网",
+     "u": "https://baoshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "石房",
@@ -504,7 +1114,17 @@
    "lat": 25.27352,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.27352/99.35496"
+    },
+    {
+     "n": "市官网",
+     "u": "https://baoshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "棋盘石",
@@ -512,7 +1132,17 @@
    "lat": 25.27542,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.27542/99.35729"
+    },
+    {
+     "n": "市官网",
+     "u": "https://baoshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "尾道桥",
@@ -520,7 +1150,17 @@
    "lat": 25.27402,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.27402/99.35602"
+    },
+    {
+     "n": "市官网",
+     "u": "https://baoshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "野鸭湖",
@@ -528,7 +1168,17 @@
    "lat": 25.00936,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.00936/98.46082"
+    },
+    {
+     "n": "市官网",
+     "u": "https://baoshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "顺河通济桥",
@@ -536,7 +1186,17 @@
    "lat": 25.41096,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.41096/98.63222"
+    },
+    {
+     "n": "市官网",
+     "u": "https://baoshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "腾冲火山公园",
@@ -544,7 +1204,17 @@
    "lat": 25.21745,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.21745/98.49566"
+    },
+    {
+     "n": "市官网",
+     "u": "https://baoshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "龙江大桥停车区",
@@ -552,7 +1222,17 @@
    "lat": 24.84263,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/24.84263/98.66595"
+    },
+    {
+     "n": "市官网",
+     "u": "https://baoshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "灵台寺",
@@ -560,7 +1240,17 @@
    "lat": 25.29099,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.29099/98.47168"
+    },
+    {
+     "n": "市官网",
+     "u": "https://baoshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "腾冲文庙",
@@ -568,7 +1258,17 @@
    "lat": 25.03021,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/25.03021/98.49858"
+    },
+    {
+     "n": "市官网",
+     "u": "https://baoshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "司莫拉佤族村",
@@ -576,7 +1276,17 @@
    "lat": 24.92866,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/24.92866/98.46881"
+    },
+    {
+     "n": "市官网",
+     "u": "https://baoshan.gov.cn/"
+    }
+   ]
   },
   {
    "n": "高黎贡山茶博园",
@@ -584,7 +1294,17 @@
    "lat": 24.94532,
    "tag": "景点",
    "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核"
+   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
+   "sources": [
+    {
+     "n": "OSM·定位",
+     "u": "https://www.openstreetmap.org/#map=14/24.94532/98.475"
+    },
+    {
+     "n": "市官网",
+     "u": "https://baoshan.gov.cn/"
+    }
+   ]
   }
  ],
  "rings": [

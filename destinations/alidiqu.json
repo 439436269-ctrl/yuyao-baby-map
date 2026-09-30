@@ -16,7 +16,17 @@
    "lat": 31.0657,
    "tag": "景点",
    "drive": "约 1 小时",
-   "note": "[KNOWN·坐标photon] 冈仁波齐"
+   "note": "[KNOWN·坐标photon] 冈仁波齐",
+   "sources": [
+    {
+     "n": "坐标定位",
+     "u": "https://www.openstreetmap.org/#map=14/31.0657/81.3112"
+    },
+    {
+     "n": "Photon·查询",
+     "u": "https://photon.komoot.io/?q=%E5%86%88%E4%BB%81%E6%B3%A2%E9%BD%90"
+    }
+   ]
   }
  ],
  "rings": [
