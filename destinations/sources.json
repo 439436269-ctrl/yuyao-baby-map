@@ -1,29 +1,1366 @@
 {
  "_updated": "2026-09-28",
  "_note": "待发布城市官方网站谱系：officialSite=城市政府官网（市文旅局栏目未在搜索中直达时以政府网为入口）；景区名单=官方点名(标注于note)+A级景区评级体系；坐标=OSM/Photon 核验，锚定/待核均在 note 透明标注。",
- "huhehaote": {
-  "city": "呼和浩特",
-  "officialSite": "http://www.huhhot.gov.cn/",
-  "evidence": "市政府网首页\"武川县哈达门景区国庆活动\"",
-  "pending": []
+ "abazangzuqiangzuzizhizhou": {
+  "city": "阿坝藏族羌族自治州",
+  "officialSite": null,
+  "verified": false
+ },
+ "akesudiqu": {
+  "city": "阿克苏地区",
+  "officialSite": "https://www.aks.gov.cn/",
+  "verified": "curl-probe"
+ },
+ "alashanmeng": {
+  "city": "阿拉善盟",
+  "officialSite": "https://www.als.gov.cn/",
+  "verified": "curl-probe"
+ },
+ "aletaidiqu": {
+  "city": "阿勒泰地区",
+  "officialSite": "https://www.ay.gov.cn/",
+  "verified": "http-probe"
+ },
+ "alidiqu": {
+  "city": "阿里地区",
+  "officialSite": null,
+  "verified": false
+ },
+ "ankang": {
+  "city": "安康",
+  "officialSite": "https://www.ankang.gov.cn/",
+  "verified": "http-probe"
+ },
+ "anqing": {
+  "city": "安庆",
+  "officialSite": "https://anqing.gov.cn/",
+  "verified": "http-probe"
+ },
+ "anshan": {
+  "city": "鞍山",
+  "officialSite": "http://www.anshan.gov.cn/",
+  "verified": "curl-probe"
+ },
+ "anshun": {
+  "city": "安顺",
+  "officialSite": "https://anshun.gov.cn/",
+  "verified": "http-probe"
+ },
+ "anyang": {
+  "city": "安阳",
+  "officialSite": "https://www.anyang.gov.cn/",
+  "verified": "http-probe"
+ },
+ "baicheng": {
+  "city": "白城",
+  "officialSite": "http://www.jlbc.gov.cn/",
+  "verified": "bing-title-match",
+  "evidence": "白城市人民政府"
+ },
+ "baise": {
+  "city": "百色",
+  "officialSite": "http://www.baise.gov.cn/",
+  "verified": "curl-probe"
+ },
+ "baishan": {
+  "city": "白山",
+  "officialSite": "https://www.cbs.gov.cn/",
+  "verified": "bing-title-match",
+  "evidence": "白山市人民政府"
+ },
+ "baiyin": {
+  "city": "白银",
+  "officialSite": "https://www.baiyin.gov.cn/",
+  "verified": "http-probe"
+ },
+ "baoding": {
+  "city": "保定",
+  "officialSite": "https://baoding.gov.cn/",
+  "verified": "http-probe"
+ },
+ "baoji": {
+  "city": "宝鸡",
+  "officialSite": "https://www.baoji.gov.cn/",
+  "verified": "http-probe"
+ },
+ "baoshan": {
+  "city": "保山",
+  "officialSite": "https://baoshan.gov.cn/",
+  "verified": "http-probe"
  },
  "baotou": {
   "city": "包头",
   "officialSite": "https://www.baotou.gov.cn/",
+  "verified": "http-probe",
   "evidence": "市政府网入口",
   "pending": []
  },
- "zhuzhou": {
-  "city": "株洲",
-  "officialSite": "https://www.zhuzhou.gov.cn/",
+ "bayannaoer": {
+  "city": "巴彦淖尔",
+  "officialSite": "https://www.bynr.gov.cn/",
+  "verified": "curl-probe"
+ },
+ "bayinguolengmengguzizhizhou": {
+  "city": "巴音郭楞蒙古自治州",
+  "officialSite": null,
+  "verified": false
+ },
+ "bazhong": {
+  "city": "巴中",
+  "officialSite": null,
+  "verified": false
+ },
+ "beihai": {
+  "city": "北海",
+  "officialSite": "http://www.beihai.gov.cn/",
+  "verified": "curl-probe"
+ },
+ "beijing": {
+  "city": "北京",
+  "officialSite": "https://www.beijing.gov.cn/",
+  "verified": "http-probe"
+ },
+ "bengbu": {
+  "city": "蚌埠",
+  "officialSite": "https://www.bengbu.gov.cn/",
+  "verified": "http-probe"
+ },
+ "benxi": {
+  "city": "本溪",
+  "officialSite": "https://benxi.gov.cn/",
+  "verified": "http-probe"
+ },
+ "bijie": {
+  "city": "毕节",
+  "officialSite": "https://bijie.gov.cn/",
+  "verified": "http-probe"
+ },
+ "binzhou": {
+  "city": "滨州",
+  "officialSite": "http://www.binzhou.gov.cn/",
+  "verified": "http-probe"
+ },
+ "boertalamengguzizhizhou": {
+  "city": "博尔塔拉蒙古自治州",
+  "officialSite": null,
+  "verified": false
+ },
+ "bozhou": {
+  "city": "亳州",
+  "officialSite": "https://www.bozhou.gov.cn/",
+  "verified": "domain-exists(waf-blocked)"
+ },
+ "cangzhou": {
+  "city": "沧州",
+  "officialSite": "https://cangzhou.gov.cn/",
+  "verified": "http-probe"
+ },
+ "changchun": {
+  "city": "长春",
+  "officialSite": "http://www.changchun.gov.cn/",
+  "verified": "curl-probe"
+ },
+ "changde": {
+  "city": "常德",
+  "officialSite": "https://www.changde.gov.cn/",
+  "verified": "http-probe"
+ },
+ "changdou": {
+  "city": "昌都",
+  "officialSite": null,
+  "verified": false
+ },
+ "changjihuizuzizhizhou": {
+  "city": "昌吉回族自治州",
+  "officialSite": "http://www.changji.gov.cn/",
+  "verified": "domain-exists(waf-blocked)"
+ },
+ "changsha": {
+  "city": "长沙",
+  "officialSite": "https://www.changsha.gov.cn/",
+  "verified": "http-probe"
+ },
+ "changzhi": {
+  "city": "长治",
+  "officialSite": "https://changzhi.gov.cn/",
+  "verified": "http-probe"
+ },
+ "changzhou": {
+  "city": "常州",
+  "officialSite": "https://www.changzhou.gov.cn/",
+  "verified": "http-probe"
+ },
+ "chaoyang": {
+  "city": "朝阳",
+  "officialSite": "https://chaoyang.gov.cn/",
+  "verified": "http-probe"
+ },
+ "chaozhou": {
+  "city": "潮州",
+  "officialSite": "https://www.chaozhou.gov.cn/",
+  "verified": "http-probe"
+ },
+ "chengde": {
+  "city": "承德",
+  "officialSite": "https://www.chengde.gov.cn/",
+  "verified": "http-probe"
+ },
+ "chengdu": {
+  "city": "成都",
+  "officialSite": "https://www.chengdu.gov.cn/",
+  "verified": "domain-exists(waf-blocked)"
+ },
+ "chenzhou": {
+  "city": "郴州",
+  "officialSite": null,
+  "verified": false
+ },
+ "chifeng": {
+  "city": "赤峰",
+  "officialSite": "https://chifeng.gov.cn/",
+  "verified": "http-probe"
+ },
+ "chizhou": {
+  "city": "池州",
+  "officialSite": "https://chizhou.gov.cn/",
+  "verified": "http-probe"
+ },
+ "chongqing": {
+  "city": "重庆",
+  "officialSite": "https://www.cq.gov.cn/",
+  "verified": "bing-title-match",
+  "evidence": "重庆市人民政府网"
+ },
+ "chongzuo": {
+  "city": "崇左",
+  "officialSite": "http://www.chongzuo.gov.cn/",
+  "verified": "curl-probe"
+ },
+ "chuxiongyizuzizhizhou": {
+  "city": "楚雄彝族自治州",
+  "officialSite": "http://chuxiong.gov.cn/",
+  "verified": "http-probe"
+ },
+ "chuzhou": {
+  "city": "滁州",
+  "officialSite": "https://www.chuzhou.gov.cn/",
+  "verified": "http-probe"
+ },
+ "dalian": {
+  "city": "大连",
+  "officialSite": "https://www.dl.gov.cn/",
+  "verified": "bing-title-match",
+  "evidence": "大连市人民政府"
+ },
+ "dalibaizuzizhizhou": {
+  "city": "大理白族自治州",
+  "officialSite": null,
+  "verified": false
+ },
+ "dandong": {
+  "city": "丹东",
+  "officialSite": "https://www.dandong.gov.cn/",
+  "verified": "http-probe"
+ },
+ "danzhou": {
+  "city": "儋州",
+  "officialSite": "https://www.danzhou.gov.cn/danzhou/index.html/",
+  "verified": "http-probe"
+ },
+ "daqing": {
+  "city": "大庆",
+  "officialSite": "https://daqing.gov.cn/",
+  "verified": "http-probe"
+ },
+ "datong": {
+  "city": "大同",
+  "officialSite": "https://datong.gov.cn/",
+  "verified": "http-probe"
+ },
+ "daxinganlingdiqu": {
+  "city": "大兴安岭地区",
+  "officialSite": "https://www.dxal.gov.cn/",
+  "verified": "curl-probe"
+ },
+ "dazhou": {
+  "city": "达州",
+  "officialSite": "https://www.dazhou.gov.cn/",
+  "verified": "http-probe"
+ },
+ "dehongdaizujingpozuzizhizhou": {
+  "city": "德宏傣族景颇族自治州",
+  "officialSite": null,
+  "verified": false
+ },
+ "deyang": {
+  "city": "德阳",
+  "officialSite": "https://www.deyang.gov.cn/",
+  "verified": "http-probe"
+ },
+ "dezhou": {
+  "city": "德州",
+  "officialSite": "https://dezhou.gov.cn/",
+  "verified": "http-probe"
+ },
+ "dingxi": {
+  "city": "定西",
+  "officialSite": "https://www.dingxi.gov.cn/",
+  "verified": "http-probe"
+ },
+ "diqingzangzuzizhizhou": {
+  "city": "迪庆藏族自治州",
+  "officialSite": null,
+  "verified": false
+ },
+ "dongguan": {
+  "city": "东莞",
+  "officialSite": "https://www.dg.gov.cn/",
+  "verified": "curl-probe"
+ },
+ "dongying": {
+  "city": "东营",
+  "officialSite": "http://dongying.gov.cn/",
+  "verified": "http-probe"
+ },
+ "eerduosi": {
+  "city": "鄂尔多斯",
+  "officialSite": "https://www.ordos.gov.cn/",
+  "verified": "curl-probe"
+ },
+ "enshitujiazumiaozuzizhizhou": {
+  "city": "恩施土家族苗族自治州",
+  "officialSite": "http://www.enshi.gov.cn/",
+  "verified": "curl-probe"
+ },
+ "ezhou": {
+  "city": "鄂州",
+  "officialSite": "https://www.ezhou.gov.cn/",
+  "verified": "curl-probe"
+ },
+ "fangchenggang": {
+  "city": "防城港",
+  "officialSite": null,
+  "verified": false
+ },
+ "foshan": {
+  "city": "佛山",
+  "officialSite": "https://www.foshan.gov.cn/",
+  "verified": "http-probe"
+ },
+ "fushun": {
+  "city": "抚顺",
+  "officialSite": "https://fushun.gov.cn/",
+  "verified": "http-probe"
+ },
+ "fuxin": {
+  "city": "阜新",
+  "officialSite": "https://www.fuxin.gov.cn/",
+  "verified": "http-probe"
+ },
+ "fuyang": {
+  "city": "阜阳",
+  "officialSite": "https://www.fuyang.gov.cn/",
+  "verified": "http-probe"
+ },
+ "fuzhou": {
+  "city": "福州",
+  "officialSite": "https://fuzhou.gov.cn/",
+  "verified": "http-probe"
+ },
+ "fuzhou-3610": {
+  "city": "抚州",
+  "officialSite": "https://fuzhou.gov.cn/",
+  "verified": "http-probe"
+ },
+ "gannanzangzuzizhizhou": {
+  "city": "甘南藏族自治州",
+  "officialSite": null,
+  "verified": false
+ },
+ "ganzhou": {
+  "city": "赣州",
+  "officialSite": "https://www.ganzhou.gov.cn/",
+  "verified": "http-probe"
+ },
+ "ganzizangzuzizhizhou": {
+  "city": "甘孜藏族自治州",
+  "officialSite": "https://www.ganzi.gov.cn/",
+  "verified": "curl-probe"
+ },
+ "guangan": {
+  "city": "广安",
+  "officialSite": null,
+  "verified": false
+ },
+ "guangyuan": {
+  "city": "广元",
+  "officialSite": null,
+  "verified": false
+ },
+ "guangzhou": {
+  "city": "广州",
+  "officialSite": "http://www.guangzhou.gov.cn/",
+  "verified": "curl-probe"
+ },
+ "guigang": {
+  "city": "贵港",
+  "officialSite": null,
+  "verified": false
+ },
+ "guilin": {
+  "city": "桂林",
+  "officialSite": "https://www.guilin.gov.cn/",
+  "verified": "http-probe"
+ },
+ "guiyang": {
+  "city": "贵阳",
+  "officialSite": "https://guiyang.gov.cn/",
+  "verified": "http-probe"
+ },
+ "guoluozangzuzizhizhou": {
+  "city": "果洛藏族自治州",
+  "officialSite": null,
+  "verified": false
+ },
+ "guyuan": {
+  "city": "固原",
+  "officialSite": null,
+  "verified": false
+ },
+ "haerbin": {
+  "city": "哈尔滨",
+  "officialSite": "https://www.harbin.gov.cn/",
+  "verified": "http-probe"
+ },
+ "haibeizangzuzizhizhou": {
+  "city": "海北藏族自治州",
+  "officialSite": null,
+  "verified": false
+ },
+ "haidong": {
+  "city": "海东",
+  "officialSite": "https://www.haidong.gov.cn/",
+  "verified": "http-probe"
+ },
+ "haikou": {
+  "city": "海口",
+  "officialSite": "https://www.haikou.gov.cn/",
+  "verified": "http-probe"
+ },
+ "hainanzangzuzizhizhou": {
+  "city": "海南藏族自治州",
+  "officialSite": null,
+  "verified": false
+ },
+ "haiximengguzuzangzuzizhizhou": {
+  "city": "海西蒙古族藏族自治州",
+  "officialSite": null,
+  "verified": false
+ },
+ "hami": {
+  "city": "哈密",
+  "officialSite": "https://www.hami.gov.cn/",
+  "verified": "http-probe"
+ },
+ "handan": {
+  "city": "邯郸",
+  "officialSite": "https://www.hd.gov.cn/",
+  "verified": "bing-title-match",
+  "evidence": "邯郸市人民政府"
+ },
+ "hangzhou": {
+  "city": "杭州",
+  "officialSite": "https://www.hangzhou.gov.cn/",
+  "verified": "http-probe"
+ },
+ "hanzhong": {
+  "city": "汉中",
+  "officialSite": "https://www.hanzhong.gov.cn/",
+  "verified": "http-probe"
+ },
+ "hebi": {
+  "city": "鹤壁",
+  "officialSite": "https://hebi.gov.cn/",
+  "verified": "curl-probe"
+ },
+ "hechi": {
+  "city": "河池",
+  "officialSite": "http://www.hechi.gov.cn/",
+  "verified": "curl-probe"
+ },
+ "hefei": {
+  "city": "合肥",
+  "officialSite": "https://www.hefei.gov.cn/",
+  "verified": "domain-exists(waf-blocked)"
+ },
+ "hegang": {
+  "city": "鹤岗",
+  "officialSite": "https://www.hegang.gov.cn/",
+  "verified": "http-probe"
+ },
+ "heihe": {
+  "city": "黑河",
+  "officialSite": "https://www.heihe.gov.cn/",
+  "verified": "http-probe"
+ },
+ "hengshui": {
+  "city": "衡水",
+  "officialSite": "http://www.hengshui.gov.cn/",
+  "verified": "http-probe"
+ },
+ "hengyang": {
+  "city": "衡阳",
+  "officialSite": "https://www.hengyang.gov.cn/",
+  "verified": "domain-exists(waf-blocked)"
+ },
+ "hetiandiqu": {
+  "city": "和田地区",
+  "officialSite": null,
+  "verified": false
+ },
+ "heyuan": {
+  "city": "河源",
+  "officialSite": "https://www.heyuan.gov.cn/",
+  "verified": "http-probe"
+ },
+ "heze": {
+  "city": "菏泽",
+  "officialSite": "http://www.heze.gov.cn/",
+  "verified": "curl-probe"
+ },
+ "hezhou": {
+  "city": "贺州",
+  "officialSite": null,
+  "verified": false
+ },
+ "honghehanizuyizuzizhizhou": {
+  "city": "红河哈尼族彝族自治州",
+  "officialSite": null,
+  "verified": false
+ },
+ "huaian": {
+  "city": "淮安",
+  "officialSite": "https://www.huaian.gov.cn/",
+  "verified": "http-probe"
+ },
+ "huaibei": {
+  "city": "淮北",
+  "officialSite": "https://www.huaibei.gov.cn/",
+  "verified": "http-probe"
+ },
+ "huaihua": {
+  "city": "怀化",
+  "officialSite": "https://www.huaihua.gov.cn/",
+  "verified": "http-probe"
+ },
+ "huainan": {
+  "city": "淮南",
+  "officialSite": "https://huainan.gov.cn/",
+  "verified": "http-probe"
+ },
+ "huanggang": {
+  "city": "黄冈",
+  "officialSite": "https://www.hg.gov.cn/sjkf/index.html/",
+  "verified": "bing-title-match",
+  "evidence": "黄冈市人民政府 - hg.gov.cn"
+ },
+ "huangnanzangzuzizhizhou": {
+  "city": "黄南藏族自治州",
+  "officialSite": null,
+  "verified": false
+ },
+ "huangshan": {
+  "city": "黄山",
+  "officialSite": "https://www.huangshan.gov.cn/",
+  "verified": "domain-exists(waf-blocked)"
+ },
+ "huangshi": {
+  "city": "黄石",
+  "officialSite": "https://huangshi.gov.cn/",
+  "verified": "http-probe"
+ },
+ "huhehaote": {
+  "city": "呼和浩特",
+  "officialSite": "http://www.huhhot.gov.cn/",
+  "verified": false,
+  "evidence": "市政府网首页\"武川县哈达门景区国庆活动\"",
+  "pending": []
+ },
+ "huizhou": {
+  "city": "惠州",
+  "officialSite": "https://www.huizhou.gov.cn/",
+  "verified": "http-probe"
+ },
+ "huludao": {
+  "city": "葫芦岛",
+  "officialSite": "https://hld.gov.cn/",
+  "verified": "bing-title-match",
+  "evidence": "葫芦岛市人民政府"
+ },
+ "hulunbeier": {
+  "city": "呼伦贝尔",
+  "officialSite": "https://www.hlbe.gov.cn/",
+  "verified": "curl-probe"
+ },
+ "huzhou": {
+  "city": "湖州",
+  "officialSite": "https://www.huzhou.gov.cn/",
+  "verified": "http-probe"
+ },
+ "jiamusi": {
+  "city": "佳木斯",
+  "officialSite": "https://www.jms.gov.cn/",
+  "verified": "bing-title-match",
+  "evidence": "佳木斯市人民政府"
+ },
+ "jian": {
+  "city": "吉安",
+  "officialSite": "https://www.jian.gov.cn/",
+  "verified": "http-probe"
+ },
+ "jiangmen": {
+  "city": "江门",
+  "officialSite": "https://www.jiangmen.gov.cn/",
+  "verified": "http-probe"
+ },
+ "jiaozuo": {
+  "city": "焦作",
+  "officialSite": "https://www.jiaozuo.gov.cn/",
+  "verified": "http-probe"
+ },
+ "jiaxing": {
+  "city": "嘉兴",
+  "officialSite": "https://www.jiaxing.gov.cn/",
+  "verified": "http-probe"
+ },
+ "jiayuguan": {
+  "city": "嘉峪关",
+  "officialSite": null,
+  "verified": false
+ },
+ "jieyang": {
+  "city": "揭阳",
+  "officialSite": "http://www.jieyang.gov.cn/",
+  "verified": "curl-probe"
+ },
+ "jilin": {
+  "city": "吉林",
+  "officialSite": "https://www.jl.gov.cn/",
+  "verified": "bing-title-match",
+  "evidence": "吉林省人民政府"
+ },
+ "jinan": {
+  "city": "济南",
+  "officialSite": "https://www.jinan.gov.cn/",
+  "verified": "http-probe"
+ },
+ "jinchang": {
+  "city": "金昌",
+  "officialSite": null,
+  "verified": false
+ },
+ "jincheng": {
+  "city": "晋城",
+  "officialSite": "https://www.jcgov.gov.cn/",
+  "verified": "bing-title-match",
+  "evidence": "晋城市人民政府门户网站"
+ },
+ "jingdezhen": {
+  "city": "景德镇",
+  "officialSite": "http://jdz.gov.cn/",
+  "verified": "bing-title-match",
+  "evidence": "景德镇市人民政府"
+ },
+ "jingmen": {
+  "city": "荆门",
+  "officialSite": "https://jingmen.gov.cn/",
+  "verified": "http-probe"
+ },
+ "jingzhou": {
+  "city": "荆州",
+  "officialSite": "https://www.jingzhou.gov.cn/",
+  "verified": "http-probe"
+ },
+ "jinhua": {
+  "city": "金华",
+  "officialSite": "https://www.jinhua.gov.cn/",
+  "verified": "http-probe"
+ },
+ "jining": {
+  "city": "济宁",
+  "officialSite": "https://www.jining.gov.cn/",
+  "verified": "http-probe"
+ },
+ "jinzhong": {
+  "city": "晋中",
+  "officialSite": null,
+  "verified": false
+ },
+ "jinzhou": {
+  "city": "锦州",
+  "officialSite": "http://www.jz.gov.cn/",
+  "verified": "bing-title-match",
+  "evidence": "锦州市人民政府门户网站"
+ },
+ "jiujiang": {
+  "city": "九江",
+  "officialSite": "https://jiujiang.gov.cn/",
+  "verified": "http-probe"
+ },
+ "jiuquan": {
+  "city": "酒泉",
+  "officialSite": "https://www.jiuquan.gov.cn/",
+  "verified": "http-probe"
+ },
+ "jixi": {
+  "city": "鸡西",
+  "officialSite": "https://jixi.gov.cn/",
+  "verified": "http-probe"
+ },
+ "kaifeng": {
+  "city": "开封",
+  "officialSite": "https://www.kaifeng.gov.cn/",
+  "verified": "http-probe"
+ },
+ "kashendiqu": {
+  "city": "喀什地区",
+  "officialSite": "https://www.kashi.gov.cn/",
+  "verified": "curl-probe"
+ },
+ "kelamayi": {
+  "city": "克拉玛依",
+  "officialSite": null,
+  "verified": false
+ },
+ "kezilesukeerkezizizhizhou": {
+  "city": "克孜勒苏柯尔克孜自治州",
+  "officialSite": null,
+  "verified": false
+ },
+ "kunming": {
+  "city": "昆明",
+  "officialSite": null,
+  "verified": false
+ },
+ "laibin": {
+  "city": "来宾",
+  "officialSite": "http://www.laibin.gov.cn/",
+  "verified": "curl-probe"
+ },
+ "langfang": {
+  "city": "廊坊",
+  "officialSite": "https://www.lf.gov.cn/",
+  "verified": "bing-title-match",
+  "evidence": "lf - 廊坊市人民政府"
+ },
+ "lanzhou": {
+  "city": "兰州",
+  "officialSite": "https://www.lanzhou.gov.cn/",
+  "verified": "domain-exists(waf-blocked)"
+ },
+ "lasa": {
+  "city": "拉萨",
+  "officialSite": "https://www.lasa.gov.cn/",
+  "verified": "http-probe",
   "evidence": "市政府网入口",
   "pending": [
-   "云阳山（茶陵）坐标待核"
+   "纳木错（当雄，距市区250km，未入库）"
   ]
+ },
+ "leshan": {
+  "city": "乐山",
+  "officialSite": "https://www.leshan.gov.cn/",
+  "verified": "http-probe"
+ },
+ "liangshanyizuzizhizhou": {
+  "city": "凉山彝族自治州",
+  "officialSite": "http://www.liangshan.gov.cn/",
+  "verified": "curl-probe"
+ },
+ "lianyungang": {
+  "city": "连云港",
+  "officialSite": "https://www.lyg.gov.cn/zglygzfmhwz/zfxxgk/zfxxgk.html/",
+  "verified": "bing-title-match",
+  "evidence": "连云港市人民政府 - lyg.gov.cn"
+ },
+ "liaocheng": {
+  "city": "聊城",
+  "officialSite": "http://www.liaocheng.gov.cn/",
+  "verified": "curl-probe"
+ },
+ "liaoyang": {
+  "city": "辽阳",
+  "officialSite": "http://www.liaoyang.gov.cn/",
+  "verified": "curl-probe"
+ },
+ "liaoyuan": {
+  "city": "辽源",
+  "officialSite": "https://www.liaoyuan.gov.cn/",
+  "verified": "curl-probe"
+ },
+ "lijiang": {
+  "city": "丽江",
+  "officialSite": "https://lijiang.gov.cn/",
+  "verified": "http-probe"
+ },
+ "lincang": {
+  "city": "临沧",
+  "officialSite": "https://lincang.gov.cn/",
+  "verified": "http-probe"
+ },
+ "linfen": {
+  "city": "临汾",
+  "officialSite": "http://linfen.gov.cn/",
+  "verified": "http-probe"
+ },
+ "linxiahuizuzizhizhou": {
+  "city": "临夏回族自治州",
+  "officialSite": "https://www.linxia.gov.cn/",
+  "verified": "curl-probe"
+ },
+ "linyi": {
+  "city": "临沂",
+  "officialSite": "https://www.linyi.gov.cn/",
+  "verified": "http-probe"
+ },
+ "linzhi": {
+  "city": "林芝",
+  "officialSite": "https://linzhi.gov.cn/",
+  "verified": "http-probe"
+ },
+ "lishui": {
+  "city": "丽水",
+  "officialSite": "https://www.lishui.gov.cn/",
+  "verified": "http-probe"
+ },
+ "liupanshui": {
+  "city": "六盘水",
+  "officialSite": null,
+  "verified": false
+ },
+ "liuzhou": {
+  "city": "柳州",
+  "officialSite": "http://www.liuzhou.gov.cn/",
+  "verified": "http-probe"
+ },
+ "lliang": {
+  "city": "吕梁",
+  "officialSite": "http://www.lvliang.gov.cn/",
+  "verified": "bing-title-match",
+  "evidence": "LVLIANG - 吕梁市人民政府门户网站"
+ },
+ "longnan": {
+  "city": "陇南",
+  "officialSite": "https://www.longnan.gov.cn/",
+  "verified": "http-probe"
+ },
+ "longyan": {
+  "city": "龙岩",
+  "officialSite": "https://www.longyan.gov.cn/",
+  "verified": "http-probe"
+ },
+ "loudi": {
+  "city": "娄底",
+  "officialSite": "https://www.hnloudi.gov.cn/",
+  "verified": "bing-title-match",
+  "evidence": "娄底市人民政府"
+ },
+ "luan": {
+  "city": "六安",
+  "officialSite": "https://www.luan.gov.cn/",
+  "verified": "http-probe"
+ },
+ "luohe": {
+  "city": "漯河",
+  "officialSite": "https://www.luohe.gov.cn/",
+  "verified": "http-probe"
+ },
+ "luoyang": {
+  "city": "洛阳",
+  "officialSite": "https://www.ly.gov.cn/",
+  "verified": "bing-title-match",
+  "evidence": "洛阳市人民政府"
+ },
+ "luzhou": {
+  "city": "泸州",
+  "officialSite": "https://luzhou.gov.cn/",
+  "verified": "http-probe"
+ },
+ "maanshan": {
+  "city": "马鞍山",
+  "officialSite": "https://www.mas.gov.cn/",
+  "verified": "bing-title-match",
+  "evidence": "马鞍山市人民政府"
+ },
+ "maoming": {
+  "city": "茂名",
+  "officialSite": "http://www.maoming.gov.cn/",
+  "verified": "curl-probe"
+ },
+ "meishan": {
+  "city": "眉山",
+  "officialSite": null,
+  "verified": false
+ },
+ "meizhou": {
+  "city": "梅州",
+  "officialSite": "https://www.meizhou.gov.cn/",
+  "verified": "domain-exists(waf-blocked)"
+ },
+ "mianyang": {
+  "city": "绵阳",
+  "officialSite": null,
+  "verified": false
+ },
+ "mudanjiang": {
+  "city": "牡丹江",
+  "officialSite": "http://www.mudan.gov.cn/",
+  "verified": "bing-title-match",
+  "evidence": "牡丹区人民政府"
+ },
+ "nanchang": {
+  "city": "南昌",
+  "officialSite": "https://www.nc.gov.cn/",
+  "verified": "bing-title-match",
+  "evidence": "南昌市人民政府"
+ },
+ "nanchong": {
+  "city": "南充",
+  "officialSite": "https://nanchong.gov.cn/",
+  "verified": "http-probe"
+ },
+ "nanjing": {
+  "city": "南京",
+  "officialSite": "https://www.nanjing.gov.cn/",
+  "verified": "http-probe"
+ },
+ "nanning": {
+  "city": "南宁",
+  "officialSite": "https://www.nanning.gov.cn/",
+  "verified": "http-probe"
+ },
+ "nanping": {
+  "city": "南平",
+  "officialSite": "https://www.np.gov.cn/cms/html/npszf/index.html/",
+  "verified": "bing-title-match",
+  "evidence": "南平市人民政府 - np"
+ },
+ "nantong": {
+  "city": "南通",
+  "officialSite": "https://www.nantong.gov.cn/",
+  "verified": "http-probe"
+ },
+ "nanyang": {
+  "city": "南阳",
+  "officialSite": "https://www.nanyang.gov.cn/",
+  "verified": "http-probe"
+ },
+ "naqu": {
+  "city": "那曲",
+  "officialSite": "http://www.naqu.gov.cn/",
+  "verified": "curl-probe"
+ },
+ "neijiang": {
+  "city": "内江",
+  "officialSite": "https://www.neijiang.gov.cn/",
+  "verified": "http-probe"
+ },
+ "ningbo": {
+  "city": "宁波",
+  "officialSite": "https://www.ningbo.gov.cn/",
+  "verified": "http-probe"
+ },
+ "ningde": {
+  "city": "宁德",
+  "officialSite": "http://www.ningde.gov.cn/",
+  "verified": "http-probe"
+ },
+ "nujianglisuzuzizhizhou": {
+  "city": "怒江傈僳族自治州",
+  "officialSite": null,
+  "verified": false
+ },
+ "panjin": {
+  "city": "盘锦",
+  "officialSite": "https://panjin.gov.cn/",
+  "verified": "http-probe"
+ },
+ "panzhihua": {
+  "city": "攀枝花",
+  "officialSite": "http://panzhihua.gov.cn/",
+  "verified": "http-probe"
+ },
+ "pingdingshan": {
+  "city": "平顶山",
+  "officialSite": null,
+  "verified": false
+ },
+ "pingliang": {
+  "city": "平凉",
+  "officialSite": "https://pingliang.gov.cn/",
+  "verified": "http-probe"
+ },
+ "pingxiang": {
+  "city": "萍乡",
+  "officialSite": "https://www.pingxiang.gov.cn/",
+  "verified": "http-probe"
+ },
+ "puer": {
+  "city": "普洱",
+  "officialSite": null,
+  "verified": false
+ },
+ "putian": {
+  "city": "莆田",
+  "officialSite": "https://www.putian.gov.cn/",
+  "verified": "http-probe"
+ },
+ "puyang": {
+  "city": "濮阳",
+  "officialSite": "https://puyang.gov.cn/login/",
+  "verified": "http-probe"
+ },
+ "qiandongnanmiaozudongzuzizhizhou": {
+  "city": "黔东南苗族侗族自治州",
+  "officialSite": null,
+  "verified": false
+ },
+ "qiannanbuyizumiaozuzizhizhou": {
+  "city": "黔南布依族苗族自治州",
+  "officialSite": "https://qiannan.gov.cn/",
+  "verified": "http-probe"
+ },
+ "qianxinanbuyizumiaozuzizhizhou": {
+  "city": "黔西南布依族苗族自治州",
+  "officialSite": null,
+  "verified": false
+ },
+ "qingdao": {
+  "city": "青岛",
+  "officialSite": "http://www.qingdao.gov.cn/",
+  "verified": "curl-probe"
+ },
+ "qingyang": {
+  "city": "庆阳",
+  "officialSite": null,
+  "verified": false
+ },
+ "qingyuan": {
+  "city": "清远",
+  "officialSite": "http://qingyuan.gov.cn/",
+  "verified": "http-probe"
+ },
+ "qinhuangdao": {
+  "city": "秦皇岛",
+  "officialSite": "https://www.qinhuangdao.gov.cn/",
+  "verified": "http-probe"
+ },
+ "qinzhou": {
+  "city": "钦州",
+  "officialSite": "http://www.qinzhou.gov.cn/",
+  "verified": "curl-probe"
+ },
+ "qiqihaer": {
+  "city": "齐齐哈尔",
+  "officialSite": "https://www.qqhr.gov.cn/",
+  "verified": "bing-title-match",
+  "evidence": "齐齐哈尔市人民政府"
+ },
+ "qitaihe": {
+  "city": "七台河",
+  "officialSite": "https://www.qth.gov.cn/",
+  "verified": "bing-title-match",
+  "evidence": "七台河市人民政府"
+ },
+ "quanzhou": {
+  "city": "泉州",
+  "officialSite": "https://www.quanzhou.gov.cn/",
+  "verified": "http-probe"
+ },
+ "qujing": {
+  "city": "曲靖",
+  "officialSite": null,
+  "verified": false
+ },
+ "quzhou": {
+  "city": "衢州",
+  "officialSite": null,
+  "verified": false
+ },
+ "rikaze": {
+  "city": "日喀则",
+  "officialSite": "http://www.rikaze.gov.cn/",
+  "verified": "curl-probe"
+ },
+ "rizhao": {
+  "city": "日照",
+  "officialSite": "http://www.rizhao.gov.cn/",
+  "verified": "curl-probe"
+ },
+ "sanmenxia": {
+  "city": "三门峡",
+  "officialSite": "https://www.smx.gov.cn/",
+  "verified": "bing-title-match",
+  "evidence": "三门峡市人民政府"
+ },
+ "sanming": {
+  "city": "三明",
+  "officialSite": "http://www.sanming.gov.cn/",
+  "verified": "curl-probe"
+ },
+ "sansha": {
+  "city": "三沙",
+  "officialSite": "https://www.sansha.gov.cn/",
+  "verified": "http-probe"
+ },
+ "sanya": {
+  "city": "三亚",
+  "officialSite": "https://www.sanya.gov.cn/",
+  "verified": "http-probe"
+ },
+ "shanghai": {
+  "city": "上海",
+  "officialSite": "https://www.shanghai.gov.cn/",
+  "verified": "http-probe"
+ },
+ "shangluo": {
+  "city": "商洛",
+  "officialSite": "https://shangluo.gov.cn/",
+  "verified": "http-probe"
+ },
+ "shangqiu": {
+  "city": "商丘",
+  "officialSite": "https://shangqiu.gov.cn/",
+  "verified": "http-probe"
+ },
+ "shangrao": {
+  "city": "上饶",
+  "officialSite": null,
+  "verified": false
+ },
+ "shannan": {
+  "city": "山南",
+  "officialSite": "https://shannan.gov.cn/",
+  "verified": "http-probe"
+ },
+ "shantou": {
+  "city": "汕头",
+  "officialSite": "https://www.shantou.gov.cn/",
+  "verified": "http-probe"
+ },
+ "shanwei": {
+  "city": "汕尾",
+  "officialSite": "https://www.shanwei.gov.cn/",
+  "verified": "http-probe"
+ },
+ "shaoguan": {
+  "city": "韶关",
+  "officialSite": null,
+  "verified": false
+ },
+ "shaoxing": {
+  "city": "绍兴",
+  "officialSite": "https://www.sx.gov.cn/",
+  "verified": "bing-title-match",
+  "evidence": "绍兴市人民政府"
+ },
+ "shaoyang": {
+  "city": "邵阳",
+  "officialSite": "https://www.shaoyang.gov.cn/",
+  "verified": "http-probe"
+ },
+ "shenyang": {
+  "city": "沈阳",
+  "officialSite": "https://www.shenyang.gov.cn/",
+  "verified": "http-probe"
+ },
+ "shenzhen": {
+  "city": "深圳",
+  "officialSite": "http://shenzhen.gov.cn/",
+  "verified": "http-probe"
+ },
+ "shijiazhuang": {
+  "city": "石家庄",
+  "officialSite": "https://www.sjz.gov.cn/",
+  "verified": "curl-probe"
+ },
+ "shiyan": {
+  "city": "十堰",
+  "officialSite": "http://www.shiyan.gov.cn/",
+  "verified": "http-probe"
+ },
+ "shizuishan": {
+  "city": "石嘴山",
+  "officialSite": "https://shizuishan.gov.cn/",
+  "verified": "http-probe"
+ },
+ "shuangyashan": {
+  "city": "双鸭山",
+  "officialSite": "http://shuangyashan.gov.cn/",
+  "verified": "http-probe"
+ },
+ "shuozhou": {
+  "city": "朔州",
+  "officialSite": "http://shuozhou.gov.cn/",
+  "verified": "http-probe"
+ },
+ "siping": {
+  "city": "四平",
+  "officialSite": "http://siping.gov.cn/",
+  "verified": "http-probe"
+ },
+ "songyuan": {
+  "city": "松原",
+  "officialSite": "https://www.jlsy.gov.cn/",
+  "verified": "bing-title-match",
+  "evidence": "松原市人民政府网"
+ },
+ "suihua": {
+  "city": "绥化",
+  "officialSite": "https://www.suihua.gov.cn/",
+  "verified": "http-probe"
+ },
+ "suining": {
+  "city": "遂宁",
+  "officialSite": "https://www.suining.gov.cn/",
+  "verified": "http-probe"
+ },
+ "suizhou": {
+  "city": "随州",
+  "officialSite": "http://www.suizhou.gov.cn/",
+  "verified": "curl-probe"
+ },
+ "suqian": {
+  "city": "宿迁",
+  "officialSite": "https://suqian.gov.cn/",
+  "verified": "http-probe"
+ },
+ "suzhou": {
+  "city": "苏州",
+  "officialSite": "https://www.suzhou.gov.cn/",
+  "verified": "http-probe"
+ },
+ "suzhou-3413": {
+  "city": "宿州",
+  "officialSite": "https://www.suzhou.gov.cn/",
+  "verified": "http-probe"
+ },
+ "tachengdiqu": {
+  "city": "塔城地区",
+  "officialSite": null,
+  "verified": false
+ },
+ "taian": {
+  "city": "泰安",
+  "officialSite": "https://www.taian.gov.cn/",
+  "verified": "http-probe"
+ },
+ "taiyuan": {
+  "city": "太原",
+  "officialSite": "https://taiyuan.gov.cn/",
+  "verified": "http-probe"
+ },
+ "taizhou": {
+  "city": "泰州",
+  "officialSite": "https://www.taizhou.gov.cn/",
+  "verified": "http-probe"
+ },
+ "taizhou-3310": {
+  "city": "台州",
+  "officialSite": "https://www.taizhou.gov.cn/",
+  "verified": "http-probe"
+ },
+ "tangshan": {
+  "city": "唐山",
+  "officialSite": "https://www.tangshan.gov.cn/",
+  "verified": "domain-exists(waf-blocked)"
+ },
+ "tianjin": {
+  "city": "天津",
+  "officialSite": "https://www.tj.gov.cn/",
+  "verified": "bing-title-match",
+  "evidence": "天津政务网_天津市人民政府"
+ },
+ "tianshui": {
+  "city": "天水",
+  "officialSite": "https://www.tianshui.gov.cn/",
+  "verified": "http-probe"
+ },
+ "tieling": {
+  "city": "铁岭",
+  "officialSite": "https://tieling.gov.cn/",
+  "verified": "http-probe"
+ },
+ "tongchuan": {
+  "city": "铜川",
+  "officialSite": "https://www.tongchuan.gov.cn/",
+  "verified": "http-probe"
+ },
+ "tonghua": {
+  "city": "通化",
+  "officialSite": "https://www.tonghua.gov.cn/",
+  "verified": "http-probe"
+ },
+ "tongliao": {
+  "city": "通辽",
+  "officialSite": "https://tongliao.gov.cn/",
+  "verified": "http-probe"
+ },
+ "tongling": {
+  "city": "铜陵",
+  "officialSite": "https://www.tl.gov.cn/?id=0/",
+  "verified": "bing-title-match",
+  "evidence": "铜陵市人民政府 - tl"
+ },
+ "tongren": {
+  "city": "铜仁",
+  "officialSite": "https://www.tongren.gov.cn/",
+  "verified": "http-probe"
+ },
+ "tulufan": {
+  "city": "吐鲁番",
+  "officialSite": null,
+  "verified": false
+ },
+ "weifang": {
+  "city": "潍坊",
+  "officialSite": "https://www.weifang.gov.cn/",
+  "verified": "http-probe"
+ },
+ "weihai": {
+  "city": "威海",
+  "officialSite": "https://www.weihai.gov.cn/",
+  "verified": "http-probe"
+ },
+ "weinan": {
+  "city": "渭南",
+  "officialSite": "https://www.weinan.gov.cn/",
+  "verified": "http-probe"
+ },
+ "wenshanzhuangzumiaozuzizhizhou": {
+  "city": "文山壮族苗族自治州",
+  "officialSite": null,
+  "verified": false
+ },
+ "wenzhou": {
+  "city": "温州",
+  "officialSite": "https://www.wenzhou.gov.cn/",
+  "verified": "http-probe"
+ },
+ "wuhai": {
+  "city": "乌海",
+  "officialSite": "http://www.wuhai.gov.cn/",
+  "verified": "curl-probe"
+ },
+ "wuhan": {
+  "city": "武汉",
+  "officialSite": "https://www.wuhan.gov.cn/",
+  "verified": "http-probe"
  },
  "wuhu": {
   "city": "芜湖",
   "officialSite": "https://www.wuhu.gov.cn/",
+  "verified": "http-probe",
   "evidence": "市政府网\"松鼠小镇等旅游景区\"\"芜湖概况\"正文",
   "pending": [
    "鸠兹古镇",
@@ -31,18 +1368,378 @@
    "丫山花海石林（南陵）坐标待核"
   ]
  },
+ "wulanchabu": {
+  "city": "乌兰察布",
+  "officialSite": "https://www.wulanchabu.gov.cn/",
+  "verified": "http-probe"
+ },
  "wulumuqi": {
   "city": "乌鲁木齐",
   "officialSite": "https://www.wlmq.gov.cn/",
+  "verified": false,
   "evidence": "市政府网入口",
   "pending": []
  },
- "lasa": {
-  "city": "拉萨",
-  "officialSite": "https://www.lasa.gov.cn/",
+ "wuwei": {
+  "city": "武威",
+  "officialSite": null,
+  "verified": false
+ },
+ "wuxi": {
+  "city": "无锡",
+  "officialSite": "https://www.wuxi.gov.cn/",
+  "verified": "http-probe"
+ },
+ "wuzhong": {
+  "city": "吴忠",
+  "officialSite": "https://wuzhong.gov.cn/",
+  "verified": "http-probe"
+ },
+ "wuzhou": {
+  "city": "梧州",
+  "officialSite": "http://www.wuzhou.gov.cn/",
+  "verified": "curl-probe"
+ },
+ "xiamen": {
+  "city": "厦门",
+  "officialSite": "https://www.xm.gov.cn/",
+  "verified": "curl-probe"
+ },
+ "xian": {
+  "city": "西安",
+  "officialSite": "https://www.xa.gov.cn/",
+  "verified": "curl-probe"
+ },
+ "xiangtan": {
+  "city": "湘潭",
+  "officialSite": "https://www.xiangtan.gov.cn/",
+  "verified": "http-probe"
+ },
+ "xiangxitujiazumiaozuzizhizhou": {
+  "city": "湘西土家族苗族自治州",
+  "officialSite": null,
+  "verified": false
+ },
+ "xiangyang": {
+  "city": "襄阳",
+  "officialSite": "http://xiangyang.gov.cn/",
+  "verified": "curl-probe"
+ },
+ "xianning": {
+  "city": "咸宁",
+  "officialSite": "http://www.xianning.gov.cn/",
+  "verified": "http-probe"
+ },
+ "xianyang": {
+  "city": "咸阳",
+  "officialSite": "https://xianyang.gov.cn/",
+  "verified": "http-probe"
+ },
+ "xiaogan": {
+  "city": "孝感",
+  "officialSite": "https://www.xiaogan.gov.cn/",
+  "verified": "http-probe"
+ },
+ "xilinguolemeng": {
+  "city": "锡林郭勒盟",
+  "officialSite": "https://www.xlgl.gov.cn/",
+  "verified": "curl-probe"
+ },
+ "xinganmeng": {
+  "city": "兴安盟",
+  "officialSite": "https://www.xam.gov.cn/",
+  "verified": "curl-probe"
+ },
+ "xingtai": {
+  "city": "邢台",
+  "officialSite": "http://xingtai.gov.cn/",
+  "verified": "http-probe"
+ },
+ "xining": {
+  "city": "西宁",
+  "officialSite": "https://www.xining.gov.cn/",
+  "verified": "http-probe"
+ },
+ "xinxiang": {
+  "city": "新乡",
+  "officialSite": "https://www.xinxiang.gov.cn/",
+  "verified": "http-probe"
+ },
+ "xinyang": {
+  "city": "信阳",
+  "officialSite": "https://xinyang.gov.cn/",
+  "verified": "http-probe"
+ },
+ "xinyu": {
+  "city": "新余",
+  "officialSite": "http://xinyu.gov.cn/",
+  "verified": "http-probe"
+ },
+ "xinzhou": {
+  "city": "忻州",
+  "officialSite": "https://www.sxxz.gov.cn/",
+  "verified": "bing-title-match",
+  "evidence": "忻州市人民政府门户网站"
+ },
+ "xishuangbannadaizuzizhizhou": {
+  "city": "西双版纳傣族自治州",
+  "officialSite": null,
+  "verified": false
+ },
+ "xuancheng": {
+  "city": "宣城",
+  "officialSite": "https://www.xuancheng.gov.cn/",
+  "verified": "http-probe"
+ },
+ "xuchang": {
+  "city": "许昌",
+  "officialSite": "https://xuchang.gov.cn/",
+  "verified": "http-probe"
+ },
+ "xuzhou": {
+  "city": "徐州",
+  "officialSite": "https://www.xz.gov.cn/",
+  "verified": "bing-title-match",
+  "evidence": "徐州市人民政府"
+ },
+ "yaan": {
+  "city": "雅安",
+  "officialSite": "https://www.yaan.gov.cn/",
+  "verified": "http-probe"
+ },
+ "yanan": {
+  "city": "延安",
+  "officialSite": "https://yanan.gov.cn/",
+  "verified": "http-probe"
+ },
+ "yanbianchaoxianzuzizhizhou": {
+  "city": "延边朝鲜族自治州",
+  "officialSite": "http://www.yanbian.gov.cn/",
+  "verified": "curl-probe"
+ },
+ "yancheng": {
+  "city": "盐城",
+  "officialSite": "https://www.yancheng.gov.cn/",
+  "verified": "http-probe"
+ },
+ "yangjiang": {
+  "city": "阳江",
+  "officialSite": "https://www.yangjiang.gov.cn/",
+  "verified": "http-probe"
+ },
+ "yangquan": {
+  "city": "阳泉",
+  "officialSite": "https://www.yq.gov.cn/",
+  "verified": "bing-title-match",
+  "evidence": "yq - 阳泉市人民政府门户网站"
+ },
+ "yangzhou": {
+  "city": "扬州",
+  "officialSite": "https://yangzhou.gov.cn/",
+  "verified": "http-probe"
+ },
+ "yantai": {
+  "city": "烟台",
+  "officialSite": "https://www.yantai.gov.cn/",
+  "verified": "http-probe"
+ },
+ "yibin": {
+  "city": "宜宾",
+  "officialSite": "https://www.yibin.gov.cn/",
+  "verified": "http-probe"
+ },
+ "yichang": {
+  "city": "宜昌",
+  "officialSite": "http://www.yichang.gov.cn/",
+  "verified": "http-probe"
+ },
+ "yichun": {
+  "city": "伊春",
+  "officialSite": "https://www.yichun.gov.cn/",
+  "verified": "http-probe"
+ },
+ "yichun-3609": {
+  "city": "宜春",
+  "officialSite": "https://www.yichun.gov.cn/",
+  "verified": "http-probe"
+ },
+ "yilihasakezizhizhou": {
+  "city": "伊犁哈萨克自治州",
+  "officialSite": null,
+  "verified": false
+ },
+ "yinchuan": {
+  "city": "银川",
+  "officialSite": "https://yinchuan.gov.cn/",
+  "verified": "http-probe"
+ },
+ "yingkou": {
+  "city": "营口",
+  "officialSite": "https://www.yingkou.gov.cn/",
+  "verified": "http-probe"
+ },
+ "yingtan": {
+  "city": "鹰潭",
+  "officialSite": "http://www.yingtan.gov.cn/",
+  "verified": "curl-probe"
+ },
+ "yiyang": {
+  "city": "益阳",
+  "officialSite": "https://www.yiyang.gov.cn/",
+  "verified": "http-probe"
+ },
+ "yongzhou": {
+  "city": "永州",
+  "officialSite": "https://www.yongzhou.gov.cn/",
+  "verified": "http-probe"
+ },
+ "yueyang": {
+  "city": "岳阳",
+  "officialSite": "https://www.yueyang.gov.cn/",
+  "verified": "http-probe"
+ },
+ "yulin": {
+  "city": "玉林",
+  "officialSite": "https://yl.gov.cn/",
+  "verified": "http-probe"
+ },
+ "yulin-6108": {
+  "city": "榆林",
+  "officialSite": "https://yl.gov.cn/",
+  "verified": "http-probe"
+ },
+ "yuncheng": {
+  "city": "运城",
+  "officialSite": "https://www.yuncheng.gov.cn/",
+  "verified": "http-probe"
+ },
+ "yunfu": {
+  "city": "云浮",
+  "officialSite": "https://www.yunfu.gov.cn/",
+  "verified": "http-probe"
+ },
+ "yushuzangzuzizhizhou": {
+  "city": "玉树藏族自治州",
+  "officialSite": null,
+  "verified": false
+ },
+ "yuxi": {
+  "city": "玉溪",
+  "officialSite": "https://www.yuxi.gov.cn/",
+  "verified": "http-probe"
+ },
+ "zaozhuang": {
+  "city": "枣庄",
+  "officialSite": "http://www.zaozhuang.gov.cn/",
+  "verified": "curl-probe"
+ },
+ "zhangjiajie": {
+  "city": "张家界",
+  "officialSite": null,
+  "verified": false
+ },
+ "zhangjiakou": {
+  "city": "张家口",
+  "officialSite": "https://www.zjk.gov.cn/",
+  "verified": "curl-probe"
+ },
+ "zhangye": {
+  "city": "张掖",
+  "officialSite": "https://www.zhangye.gov.cn/",
+  "verified": "http-probe"
+ },
+ "zhangzhou": {
+  "city": "漳州",
+  "officialSite": "https://www.zhangzhou.gov.cn/cms/html/zzsrmzf/index.html/",
+  "verified": "http-probe"
+ },
+ "zhanjiang": {
+  "city": "湛江",
+  "officialSite": "https://www.zhanjiang.gov.cn/",
+  "verified": "http-probe"
+ },
+ "zhaoqing": {
+  "city": "肇庆",
+  "officialSite": "https://www.zhaoqing.gov.cn/",
+  "verified": "http-probe"
+ },
+ "zhaotong": {
+  "city": "昭通",
+  "officialSite": null,
+  "verified": false
+ },
+ "zhengzhou": {
+  "city": "郑州",
+  "officialSite": "https://www.zhengzhou.gov.cn/",
+  "verified": "http-probe"
+ },
+ "zhenjiang": {
+  "city": "镇江",
+  "officialSite": "https://www.zhenjiang.gov.cn/",
+  "verified": "http-probe"
+ },
+ "zhongshan": {
+  "city": "中山",
+  "officialSite": null,
+  "verified": false
+ },
+ "zhongwei": {
+  "city": "中卫",
+  "officialSite": null,
+  "verified": false
+ },
+ "zhoukou": {
+  "city": "周口",
+  "officialSite": "https://www.zhoukou.gov.cn/page_pc/index.html/",
+  "verified": "http-probe"
+ },
+ "zhoushan": {
+  "city": "舟山",
+  "officialSite": "https://www.zhoushan.gov.cn/",
+  "verified": "http-probe"
+ },
+ "zhuhai": {
+  "city": "珠海",
+  "officialSite": "https://www.zhuhai.gov.cn/",
+  "verified": "http-probe"
+ },
+ "zhumadian": {
+  "city": "驻马店",
+  "officialSite": "https://www.zhumadian.gov.cn/",
+  "verified": "http-probe"
+ },
+ "zhuzhou": {
+  "city": "株洲",
+  "officialSite": "https://www.zhuzhou.gov.cn/",
+  "verified": "http-probe",
   "evidence": "市政府网入口",
   "pending": [
-   "纳木错（当雄，距市区250km，未入库）"
+   "云阳山（茶陵）坐标待核"
   ]
+ },
+ "zibo": {
+  "city": "淄博",
+  "officialSite": "https://www.zibo.gov.cn/",
+  "verified": "http-probe"
+ },
+ "zigong": {
+  "city": "自贡",
+  "officialSite": null,
+  "verified": false
+ },
+ "ziyang": {
+  "city": "资阳",
+  "officialSite": "https://ziyang.gov.cn/",
+  "verified": "http-probe"
+ },
+ "zunyi": {
+  "city": "遵义",
+  "officialSite": "https://zunyi.gov.cn/",
+  "verified": "http-probe"
+ },
+ "_ratingSources": {
+  "5A": "国家AAAAA级旅游景区名录（百度百科词条转录·文化和旅游部动态名录，截至2025-03共358家）；本项目匹配得 104 处",
+  "4A/3A": "各省文旅厅/市文旅局A级名录（暂未系统接入）；当前 4A/3A 标注来自官方点名与评级体系常识，note 字段可溯源",
+  "display": "rating 字段在地图标签/弹窗/图鉴卡片显示徽章"
  }
 }
