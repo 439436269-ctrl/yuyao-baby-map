@@ -101,24 +101,6 @@
    ]
   },
   {
-   "n": "Treffpunkt zwi Wanda Vista",
-   "lon": 123.3845,
-   "lat": 41.75807,
-   "tag": "景点",
-   "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
-   "sources": [
-    {
-     "n": "OSM·定位",
-     "u": "https://www.openstreetmap.org/#map=14/41.75807/123.3845"
-    },
-    {
-     "n": "市官网",
-     "u": "https://www.shenyang.gov.cn/"
-    }
-   ]
-  },
-  {
    "n": "Eingang See",
    "lon": 123.63567,
    "lat": 41.94024,
