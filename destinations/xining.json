@@ -29,24 +29,6 @@
    ]
   },
   {
-   "n": "International Village - Guojicun",
-   "lon": 101.78848,
-   "lat": 36.61199,
-   "tag": "景点",
-   "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
-   "sources": [
-    {
-     "n": "OSM·定位",
-     "u": "https://www.openstreetmap.org/#map=14/36.61199/101.78848"
-    },
-    {
-     "n": "市官网",
-     "u": "https://www.xining.gov.cn/"
-    }
-   ]
-  },
-  {
    "n": "夜市",
    "lon": 101.78703,
    "lat": 36.62248,
