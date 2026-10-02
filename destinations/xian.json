@@ -47,24 +47,6 @@
    ]
   },
   {
-   "n": "Hehe national park entrance",
-   "lon": 108.02724,
-   "lat": 33.88605,
-   "tag": "景点",
-   "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
-   "sources": [
-    {
-     "n": "OSM·定位",
-     "u": "https://www.openstreetmap.org/#map=14/33.88605/108.02724"
-    },
-    {
-     "n": "市官网",
-     "u": "https://www.xa.gov.cn/"
-    }
-   ]
-  },
-  {
    "n": "高岳菘宅 UNESCO",
    "lon": 108.93891,
    "lat": 34.26447,
