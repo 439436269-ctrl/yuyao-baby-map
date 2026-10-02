@@ -119,24 +119,6 @@
    ]
   },
   {
-   "n": "Qi Lian Xue Bao (camel) rock formation",
-   "lon": 100.7188,
-   "lat": 39.0774,
-   "tag": "景点",
-   "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
-   "sources": [
-    {
-     "n": "OSM·定位",
-     "u": "https://www.openstreetmap.org/#map=14/39.0774/100.7188"
-    },
-    {
-     "n": "市官网",
-     "u": "https://www.zhangye.gov.cn/"
-    }
-   ]
-  },
-  {
    "n": "Rock arch heart",
    "lon": 100.71081,
    "lat": 39.08202,
@@ -147,42 +129,6 @@
     {
      "n": "OSM·定位",
      "u": "https://www.openstreetmap.org/#map=14/39.08202/100.71081"
-    },
-    {
-     "n": "市官网",
-     "u": "https://www.zhangye.gov.cn/"
-    }
-   ]
-  },
-  {
-   "n": "Xiong Shi (Lion dance) rock formation",
-   "lon": 100.71918,
-   "lat": 39.07717,
-   "tag": "景点",
-   "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
-   "sources": [
-    {
-     "n": "OSM·定位",
-     "u": "https://www.openstreetmap.org/#map=14/39.07717/100.71918"
-    },
-    {
-     "n": "市官网",
-     "u": "https://www.zhangye.gov.cn/"
-    }
-   ]
-  },
-  {
-   "n": "Gu Cheng Bao (castle) rock formation",
-   "lon": 100.72002,
-   "lat": 39.07807,
-   "tag": "景点",
-   "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
-   "sources": [
-    {
-     "n": "OSM·定位",
-     "u": "https://www.openstreetmap.org/#map=14/39.07807/100.72002"
     },
     {
      "n": "市官网",
@@ -567,24 +513,6 @@
     {
      "n": "OSM·定位",
      "u": "https://www.openstreetmap.org/#map=14/38.93197/100.4511"
-    },
-    {
-     "n": "市官网",
-     "u": "https://www.zhangye.gov.cn/"
-    }
-   ]
-  },
-  {
-   "n": "Nanchengzi Fortress",
-   "lon": 100.80151,
-   "lat": 38.3385,
-   "tag": "景点",
-   "drive": "",
-   "note": "[草稿·OSM] 行政边界内景点，待对照官方名录复核",
-   "sources": [
-    {
-     "n": "OSM·定位",
-     "u": "https://www.openstreetmap.org/#map=14/38.3385/100.80151"
     },
     {
      "n": "市官网",
